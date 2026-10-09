@@ -16,7 +16,7 @@ NOW = datetime.datetime.now(datetime.timezone.utc)
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124", "Accept": "application/json"}
 PH = dict(UA, **{"X-API-Key": "CmX2KcMrXuFmNg6YFbmTxE0y9CIrOi0R"})          # Pinnacle's public guest key (same as their web app)
 PP_LEAGUES = {8: "NHL", 7: "NBA", 3: "WNBA", 9: "NFL", 15: "CFB", 82: "SOCCER", 265: "CS2", 159: "VAL", 121: "LoL", 174: "Dota2",
-              135: "KBO", 298: "NPB"}
+              135: "KBO", 298: "NPB", 2: "MLB", 131: "GOLF"}
 PIN_LEAGUES = {"NHL": 1456, "NFL": 889, "WNBA": 578, "NBA": 487, "CFB": 880}
 STAT = {"shotsongoal": "shots on goal", "points": "points", "assists": "assists", "goals": "goals", "goaliesaves": "saves",
         "passyards": "passing yards", "rushyards": "rushing yards", "receivingyards": "receiving yards", "receptions": "receptions",
@@ -65,17 +65,22 @@ def get(url, h=UA):
 # ---------------------------------------------------------------- PrizePicks board
 # 10/9 user: every 10 min, not hourly. QUICK runs (every 10 min) = the busiest boards; a FULL run (minute 0-9 of each half hour)
 # = every league + the Pinnacle value check. Keeps PrizePicks' rate limit (429s) away while promos/moves land within ~10 min.
-FULL = NOW.minute % 30 < 10 or os.environ.get("FULL") == "1"
-# 10/9 user: "10 min for the important legs you know of, 30 min for the other leagues" -> quick runs fetch ONLY the leagues that hold
-# a watched leg (state/watch.json, written by the card builder: [{"player":..., "league":"NHL"}, ...]); everything else waits for FULL.
+# 10/9 user: check leagues by HOW FAST THEIR LINES CHANGE (measured on lines.db: line changes per 100 posted lines,
+# CFB 145, NFL 122, WNBA 29, VAL 27, LoL 25, NBA 22 | Dota 16, soccer 12.5, NHL 12, CS2 9, MLB 6 | golf 1, KBO 0, NPB 0),
+# plus any league holding one of his legs (state/watch.json) -> every 10 min.
+TIER10 = {15, 9, 3, 159, 121, 7}             # CFB NFL WNBA VAL LoL NBA
+TIER30 = {174, 82, 8, 265, 2}                # Dota soccer NHL CS2 MLB
+TIER60 = {135, 298, 131}                     # KBO NPB golf
+RUN30 = NOW.minute % 30 < 10 or os.environ.get("FULL") == "1"
+RUN60 = NOW.minute < 10 or os.environ.get("FULL") == "1"
+FULL = RUN30                                  # Pinnacle value check rides the 30-minute runs
 _W = load("watch.json", [])
 _LID = {v: k for k, v in PP_LEAGUES.items()}
-QUICK = {_LID[w["league"]] for w in _W if isinstance(w, dict) and w.get("league") in _LID}
-lines, promos = {}, []
-if not FULL and not QUICK:
-    print("quick run: no watched legs -> nothing to check until the next full run")
+WATCHED = {_LID[w["league"]] for w in _W if isinstance(w, dict) and w.get("league") in _LID}
+QUICK = TIER10 | WATCHED | (TIER30 if RUN30 else set()) | (TIER60 if RUN60 else set())
+print("this run checks:", sorted(PP_LEAGUES[l] for l in QUICK if l in PP_LEAGUES))
 for lid, lg in PP_LEAGUES.items():
-    if not FULL and lid not in QUICK:
+    if lid not in QUICK:
         continue
     d = get("https://partner-api.prizepicks.com/projections?per_page=1000&league_id=%d" % lid)
     time.sleep(4)
