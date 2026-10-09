@@ -1,9 +1,10 @@
 name: propdesk
 # Always-on PropDesk jobs: promos, line moves on watched players, sharp value -> Discord / ntfy.
-# Runs hourly at :07 (GitHub may delay scheduled runs a few minutes). Free on a private repo: ~1-2 min x 24/day < 2,000 min/month.
+# Every 10 minutes (public repo = unlimited free minutes). Quick runs: busiest boards; full run each half hour: all leagues + value.
+# GitHub can delay scheduled runs by a few minutes under load.
 on:
   schedule:
-    - cron: "7 * * * *"
+    - cron: "*/10 * * * *"
   workflow_dispatch: {}
 permissions:
   contents: write

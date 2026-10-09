@@ -63,8 +63,14 @@ def get(url, h=UA):
     return None
 
 # ---------------------------------------------------------------- PrizePicks board
+# 10/9 user: every 10 min, not hourly. QUICK runs (every 10 min) = the busiest boards; a FULL run (minute 0-9 of each half hour)
+# = every league + the Pinnacle value check. Keeps PrizePicks' rate limit (429s) away while promos/moves land within ~10 min.
+FULL = NOW.minute % 30 < 10 or os.environ.get("FULL") == "1"
+QUICK = {8, 7, 3, 9, 15, 265}
 lines, promos = {}, []
 for lid, lg in PP_LEAGUES.items():
+    if not FULL and lid not in QUICK:
+        continue
     d = get("https://partner-api.prizepicks.com/projections?per_page=1000&league_id=%d" % lid)
     time.sleep(4)
     if not d:
@@ -97,12 +103,15 @@ for p in promos:
     alert("PROMO", "%s %s %s: %s -> %s (%s) %s CT" % (p["lg"], p["player"], p["stat"], p["line"], p["promo"], p["kind"], st))
 save("promos_seen.json", sorted(seen)[-3000:])
 
-# 2) LINE MOVES on watched players
+# 2) LINE MOVES on watched players (quick runs only compare the leagues they fetched)
 if lines:
     last = load("last_lines.json", {})
+    fetched = {lg for (_, lg, *_r) in lines.values()}
     watch = {norm(w) for w in load("watch.json", [])}
     other = 0
     for pid, old in last.items():
+        if old[1] not in fetched:
+            continue
         new = lines.get(pid)
         if new and new[0] == old[0]:
             continue
@@ -119,10 +128,12 @@ if lines:
         else:
             other += 1
     print("moves/pulls on unwatched players: %d" % other)
-    save("last_lines.json", lines)
+    merged = {k: v for k, v in last.items() if v[1] not in fetched}
+    merged.update(lines)
+    save("last_lines.json", merged)
 
-# 3) SHARP VALUE at PP's exact number (Pinnacle props)
-if lines:
+# 3) SHARP VALUE at PP's exact number (Pinnacle props) -- full runs only
+if lines and FULL:
     done = set(load("value_seen.json", []))
     by = {}
     for pid, (ln, lg, pl, stt, tm, st_) in lines.items():
