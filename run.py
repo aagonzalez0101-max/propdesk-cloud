@@ -152,11 +152,12 @@ if lines:
             d["up" if up else "down"].append((abs(new[0] - old[0]), "%s **%s** %s: %s ➜ **%s**" % ("🔺" if up else "🔻", old[2], old[3], old[0], new[0])))
     for lg, d in dig.items():
         n = len(d["up"]) + len(d["down"])
-        rows = [x for _, x in sorted(d["up"], reverse=True)[:10]] + [x for _, x in sorted(d["down"], reverse=True)[:10]] + d["pulled"][:8]
-        more = n + len(d["pulled"]) - len(rows)
+        # every change, no "+N more" (user 10/9): raised, then lowered, then pulled; split into cards of 25 rows
+        rows = [x for _, x in sorted(d["up"], reverse=True)] + [x for _, x in sorted(d["down"], reverse=True)] + d["pulled"]
         title = "🔁 %s · %d Line Change%s" % (lg, n, "" if n == 1 else "s") + (" · %d pulled" % len(d["pulled"]) if d["pulled"] else "")
-        alert("MOVE", "%s -- %d moved, %d pulled" % (lg, n, len(d["pulled"])),
-              {"title": title, "description": "\n".join(rows) + ("\n*+%d more*" % more if more > 0 else "")})
+        for i in range(0, len(rows), 25):
+            alert("MOVE", "%s -- %d moved, %d pulled" % (lg, n, len(d["pulled"])),
+                  {"title": title + (" (%d/%d)" % (i // 25 + 1, (len(rows) + 24) // 25) if len(rows) > 25 else ""), "description": "\n".join(rows[i:i + 25])})
     merged = {k: v for k, v in last.items() if v[1] not in fetched}
     merged.update(lines)
     save("last_lines.json", merged)
