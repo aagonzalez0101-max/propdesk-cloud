@@ -154,6 +154,21 @@ if lines:
         else:
             up = new[0] > old[0]
             d["up" if up else "down"].append((abs(new[0] - old[0]), "%s **%s** %s: %s ➜ **%s**" % ("🔺" if up else "🔻", old[2], old[3], old[0], new[0])))
+    # 10/10 user: "alerts only for legs we are considering, not everything -- it logs it anyways". Every move is still saved in
+    # state/last_lines.json; only players on the watch list (open bets + card legs, published by propdesk-brain) get pinged.
+    try:
+        WATCH = {norm(p) for p in requests.get("https://github.com/aagonzalez0101-max/propdesk-brain/releases/download/data/watch.json",
+                                              timeout=20).json()["players"]}
+    except Exception as e:
+        print("watch list unavailable (%s) -- logging moves, sending none" % e); WATCH = set()
+    keep = lambda row: any(norm(n) in WATCH for n in re.findall(r"\*\*(.+?)\*\*", row)[:1])
+    for lg in list(dig):
+        d = dig[lg]
+        d["up"] = [x for x in d["up"] if keep(x[1])]; d["down"] = [x for x in d["down"] if keep(x[1])]
+        d["pulled"] = [x for x in d["pulled"] if keep(x)]
+        if not (d["up"] or d["down"] or d["pulled"]):
+            del dig[lg]
+    print("watched players:", len(WATCH))
     for lg, d in dig.items():
         n = len(d["up"]) + len(d["down"])
         # every change, no "+N more" (user 10/9): raised, then lowered, then pulled; split into cards of 25 rows
