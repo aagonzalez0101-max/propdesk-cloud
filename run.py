@@ -37,7 +37,7 @@ def save(name, obj):
     json.dump(obj, open(os.path.join(S, name), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 
 sent = []
-COLOR = {"PROMO": 0x22C55E, "MOVE": 0x3B82F6, "PULLED": 0xEF4444, "VALUE": 0xF59E0B}
+COLOR = {"PROMO": 0x1ED760, "MOVE": 0x539DF5, "PULLED": 0xF3727F, "VALUE": 0xFFA42B}
 ICON = {"PROMO": "🟢", "MOVE": "🔁", "PULLED": "⛔", "VALUE": "💰"}
 def alert(kind, text, embed=None):
     """text = the plain one-liner (log + ntfy). embed = Discord card fields: title, description, fields [(name, value, inline)],
@@ -48,7 +48,7 @@ def alert(kind, text, embed=None):
     if hook:
         e = embed or {}
         card = {"title": e.get("title", "%s %s" % (ICON.get(kind, ""), kind))[:256], "description": e.get("description", text)[:4000],
-                "color": COLOR.get(kind, 0x64748B), "footer": {"text": "PropDesk · PrizePicks · %s" % stamp},
+                "color": COLOR.get(kind, 0x7C7C7C), "footer": {"text": "PropDesk · PrizePicks · %s" % stamp},
                 "timestamp": NOW.isoformat()}
         if e.get("fields"):
             card["fields"] = [{"name": n[:256], "value": (v or "-")[:1024], "inline": il} for n, v, il in e["fields"][:25]]
