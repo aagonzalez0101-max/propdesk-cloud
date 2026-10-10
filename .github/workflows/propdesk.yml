@@ -1,10 +1,11 @@
 name: propdesk
-# Always-on PropDesk jobs: promos, league line-move digests (everyone's lines), sharp value -> Discord / ntfy.
-# Every 10 minutes (public repo = unlimited free minutes). Fast leagues every run, medium every 30 min, slow every hour.
-# GitHub can delay scheduled runs by a few minutes under load.
+# Always-on PropDesk alerts: promos, league line-change digests (everyone's lines), sharp value -> Discord.
+# 10/10: GitHub fired the */10 schedule ONCE in 5 hours overnight (it drops frequent schedules under load). So each run now LOOPS:
+# it checks every 10 minutes for ~5h40m, then dispatches its own next run (workflow_dispatch from GITHUB_TOKEN is allowed to chain).
+# The schedule below is only a backup in case a chain breaks. Public repo = unlimited minutes.
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "17 */3 * * *"
   workflow_dispatch:
     inputs:
       preview:
@@ -13,30 +14,43 @@ on:
         default: false
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: propdesk
   cancel-in-progress: false
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install requests
-      - name: run
+      - name: loop every 10 minutes
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           PREVIEW: ${{ inputs.preview }}
-        run: python run.py
-      - name: save state
         run: |
           git config user.name "propdesk-bot"
           git config user.email "propdesk-bot@users.noreply.github.com"
-          git add state/
-          git diff --cached --quiet || git commit -m "state $(date -u +%Y-%m-%dT%H:%M)"
-          git pull --rebase --quiet || true
-          git push || true
+          end=$(( $(date +%s) + 340*60 ))
+          while [ $(date +%s) -lt $end ]; do
+            python run.py || echo "run.py failed -- keep looping"
+            export PREVIEW=false
+            git add state/
+            git diff --cached --quiet || git commit -q -m "state $(date -u +%Y-%m-%dT%H:%M)"
+            git pull --rebase -q || true
+            git push -q || true
+            # sleep to the next 10-minute mark (run.py tiers leagues by the clock minute)
+            now=$(date +%s); next=$(( (now / 600 + 1) * 600 + 15 ))
+            if [ $next -ge $end ]; then break; fi
+            sleep $(( next - now ))
+          done
+      - name: start the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run propdesk.yml --ref main -R ${{ github.repository }} || echo "chain dispatch failed -- the 3-hourly schedule restarts it"
