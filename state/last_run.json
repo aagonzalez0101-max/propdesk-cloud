@@ -1,12 +1,14 @@
 {
-"utc": "2026-10-10T15:50:16.021787+00:00",
-"lines": 1213,
+"utc": "2026-10-10T16:00:15.702881+00:00",
+"lines": 3022,
 "promos": 2,
 "alerts": [
-"🔁 MOVE -- CFB -- 104 moved, 11 pulled (10:52 AM TX)",
-"🔁 MOVE -- CFB -- 104 moved, 11 pulled (10:52 AM TX)",
-"🔁 MOVE -- CFB -- 104 moved, 11 pulled (10:52 AM TX)",
-"🔁 MOVE -- CFB -- 104 moved, 11 pulled (10:52 AM TX)",
-"🔁 MOVE -- CFB -- 104 moved, 11 pulled (10:52 AM TX)"
+"🔁 MOVE -- NHL -- 1 moved, 4 pulled (11:07 AM TX)",
+"🔁 MOVE -- NFL -- 46 moved, 7 pulled (11:07 AM TX)",
+"🔁 MOVE -- NFL -- 46 moved, 7 pulled (11:07 AM TX)",
+"🔁 MOVE -- NFL -- 46 moved, 7 pulled (11:07 AM TX)",
+"🔁 MOVE -- SOCCER -- 0 moved, 1 pulled (11:07 AM TX)",
+"🔁 MOVE -- CFB -- 33 moved, 2 pulled (11:07 AM TX)",
+"🔁 MOVE -- CFB -- 33 moved, 2 pulled (11:07 AM TX)"
 ]
 }
