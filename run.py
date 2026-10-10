@@ -1,10 +1,10 @@
 """PropDesk CLOUD runner -- the always-on jobs, so alerts keep coming when the laptop is off (2026-10-09).
-Runs on GitHub Actions every hour (see .github/workflows/propdesk.yml). Needs only `requests`. Posts to Discord (DISCORD_WEBHOOK
+Runs on GitHub Actions every 10 min, leagues tiered 10/30/60 min by how fast their lines move (see .github/workflows/propdesk.yml). Needs only `requests`. Posts to Discord (DISCORD_WEBHOOK
 secret) and/or ntfy (NTFY_TOPIC secret).
 
   1. PROMOS      -- PrizePicks marks them (is_promo / discount_name / flash_sale_line_score). New ones -> alert.
-  2. LINE MOVES  -- PP standard lines vs the last run; moves/pulls on players in state/watch.json (pushed by the laptop each
-                    morning: open bets + card legs) -> alert. Everything else is counted, not pinged.
+  2. LINE MOVES  -- PP standard lines vs the last run, EVERY player in the league (league-based, not leg-based) -> one digest
+                    per league per run: raised / lowered / pulled, biggest moves first (8 each, plus the counts).
   3. SHARP VALUE -- a PP standard line where Pinnacle's de-vigged price AT THE SAME NUMBER gives one side >= 60% (PP 2-pick
                     break-even 57.7%) -> alert, once per line.
 State lives in state/*.json and is committed back by the workflow (small: line numbers only).
@@ -67,17 +67,14 @@ def get(url, h=UA):
 # = every league + the Pinnacle value check. Keeps PrizePicks' rate limit (429s) away while promos/moves land within ~10 min.
 # 10/9 user: check leagues by HOW FAST THEIR LINES CHANGE (measured on lines.db: line changes per 100 posted lines,
 # CFB 145, NFL 122, WNBA 29, VAL 27, LoL 25, NBA 22 | Dota 16, soccer 12.5, NHL 12, CS2 9, MLB 6 | golf 1, KBO 0, NPB 0),
-# plus any league holding one of his legs (state/watch.json) -> every 10 min.
+# League-based only (user 10/9): every line in a league, for everyone -- no per-leg promotion.
 TIER10 = {15, 9, 3, 159, 121, 7}             # CFB NFL WNBA VAL LoL NBA
 TIER30 = {174, 82, 8, 265, 2}                # Dota soccer NHL CS2 MLB
 TIER60 = {135, 298, 131}                     # KBO NPB golf
 RUN30 = NOW.minute % 30 < 10 or os.environ.get("FULL") == "1"
 RUN60 = NOW.minute < 10 or os.environ.get("FULL") == "1"
 FULL = RUN30                                  # Pinnacle value check rides the 30-minute runs
-_W = load("watch.json", [])
-_LID = {v: k for k, v in PP_LEAGUES.items()}
-WATCHED = {_LID[w["league"]] for w in _W if isinstance(w, dict) and w.get("league") in _LID}
-QUICK = TIER10 | WATCHED | (TIER30 if RUN30 else set()) | (TIER60 if RUN60 else set())
+QUICK = TIER10 | (TIER30 if RUN30 else set()) | (TIER60 if RUN60 else set())
 print("this run checks:", sorted(PP_LEAGUES[l] for l in QUICK if l in PP_LEAGUES))
 for lid, lg in PP_LEAGUES.items():
     if lid not in QUICK:
@@ -114,12 +111,12 @@ for p in promos:
     alert("PROMO", "%s %s %s: %s -> %s (%s) %s CT" % (p["lg"], p["player"], p["stat"], p["line"], p["promo"], p["kind"], st))
 save("promos_seen.json", sorted(seen)[-3000:])
 
-# 2) LINE MOVES on watched players (quick runs only compare the leagues they fetched)
+# 2) LINE MOVES -- everyone's lines, league-based. One DIGEST message per league per run (NFL/CFB move ~460-480 lines a day:
+#    one ping per move would be hundreds of buzzes). Raised / lowered / pulled, biggest moves first.
 if lines:
     last = load("last_lines.json", {})
-    fetched = {lg for (_, lg, *_r) in lines.values()}
-    watch = {norm(w["player"] if isinstance(w, dict) else w) for w in _W}
-    other = 0
+    fetched = {v[1] for v in lines.values()}
+    dig = {}
     for pid, old in last.items():
         if old[1] not in fetched:
             continue
@@ -131,14 +128,21 @@ if lines:
                 continue                                         # game started -> not a pull
         except Exception:
             continue
-        if norm(old[2]) in watch:
-            if new:
-                alert("MOVE", "%s %s %s: %s -> %s" % (old[1], old[2], old[3], old[0], new[0]))
-            else:
-                alert("PULLED", "%s %s %s %s pulled from the board" % (old[1], old[2], old[3], old[0]))
+        d = dig.setdefault(old[1], {"up": [], "down": [], "pulled": []})
+        if not new:
+            d["pulled"].append("%s %s %s" % (old[2], old[3], old[0]))
         else:
-            other += 1
-    print("moves/pulls on unwatched players: %d" % other)
+            d["up" if new[0] > old[0] else "down"].append((abs(new[0] - old[0]), "%s %s %s->%s" % (old[2], old[3], old[0], new[0])))
+    for lg, d in dig.items():
+        n = len(d["up"]) + len(d["down"])
+        parts = ["%d moved, %d pulled" % (n, len(d["pulled"]))]
+        if d["up"]:
+            parts.append("UP: " + "; ".join(x for _, x in sorted(d["up"], reverse=True)[:8]))
+        if d["down"]:
+            parts.append("DOWN: " + "; ".join(x for _, x in sorted(d["down"], reverse=True)[:8]))
+        if d["pulled"]:
+            parts.append("PULLED: " + "; ".join(d["pulled"][:8]))
+        alert("MOVE", "%s -- %s" % (lg, " | ".join(parts)))
     merged = {k: v for k, v in last.items() if v[1] not in fetched}
     merged.update(lines)
     save("last_lines.json", merged)

@@ -1,6 +1,6 @@
 name: propdesk
-# Always-on PropDesk jobs: promos, line moves on watched players, sharp value -> Discord / ntfy.
-# Every 10 minutes (public repo = unlimited free minutes). Quick runs: busiest boards; full run each half hour: all leagues + value.
+# Always-on PropDesk jobs: promos, league line-move digests (everyone's lines), sharp value -> Discord / ntfy.
+# Every 10 minutes (public repo = unlimited free minutes). Fast leagues every run, medium every 30 min, slow every hour.
 # GitHub can delay scheduled runs by a few minutes under load.
 on:
   schedule:
