@@ -75,6 +75,7 @@ RUN30 = NOW.minute % 30 < 10 or os.environ.get("FULL") == "1"
 RUN60 = NOW.minute < 10 or os.environ.get("FULL") == "1"
 FULL = RUN30                                  # Pinnacle value check rides the 30-minute runs
 QUICK = TIER10 | (TIER30 if RUN30 else set()) | (TIER60 if RUN60 else set())
+lines, promos = {}, []                        # pid -> [line, league, player, stat, team, start]
 print("this run checks:", sorted(PP_LEAGUES[l] for l in QUICK if l in PP_LEAGUES))
 for lid, lg in PP_LEAGUES.items():
     if lid not in QUICK:
