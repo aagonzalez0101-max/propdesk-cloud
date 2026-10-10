@@ -33,22 +33,32 @@ def save(name, obj):
     json.dump(obj, open(os.path.join(S, name), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 
 sent = []
-def alert(kind, text):
-    icon = {"PROMO": "🟢", "MOVE": "📈", "PULLED": "⛔", "VALUE": "💰"}.get(kind, "•")
+COLOR = {"PROMO": 0x22C55E, "MOVE": 0x3B82F6, "PULLED": 0xEF4444, "VALUE": 0xF59E0B}
+ICON = {"PROMO": "🟢", "MOVE": "🔁", "PULLED": "⛔", "VALUE": "💰"}
+def alert(kind, text, embed=None):
+    """text = the plain one-liner (log + ntfy). embed = Discord card fields: title, description, fields [(name, value, inline)],
+    thumb (image url). 10/9 user: 'it didn't look cool' -> every Discord post is an embed card, PickFinder-style."""
     stamp = datetime.datetime.now(CT).strftime("%I:%M %p CT")
-    msg = "%s **%s** -- %s  (%s)" % (icon, kind, text, stamp)
-    sent.append(msg)
+    sent.append("%s %s -- %s (%s)" % (ICON.get(kind, "•"), kind, text, stamp))
     hook, topic = os.environ.get("DISCORD_WEBHOOK"), os.environ.get("NTFY_TOPIC")
     if hook:
+        e = embed or {}
+        card = {"title": e.get("title", "%s %s" % (ICON.get(kind, ""), kind))[:256], "description": e.get("description", text)[:4000],
+                "color": COLOR.get(kind, 0x64748B), "footer": {"text": "PropDesk · PrizePicks · %s" % stamp},
+                "timestamp": NOW.isoformat()}
+        if e.get("fields"):
+            card["fields"] = [{"name": n[:256], "value": (v or "-")[:1024], "inline": il} for n, v, il in e["fields"][:25]]
+        if e.get("thumb"):
+            card["thumbnail"] = {"url": e["thumb"]}
         try:
-            requests.post(hook, json={"content": msg[:1900]}, timeout=20); time.sleep(0.6)
-        except Exception as e:
-            print("discord:", e)
+            requests.post(hook, json={"username": "PropDesk", "embeds": [card]}, timeout=20); time.sleep(0.6)
+        except Exception as ex:
+            print("discord:", ex)
     if topic:
         try:
-            requests.post("https://ntfy.sh/%s" % topic, data=("%s %s" % (text, stamp)).encode(), headers={"Title": "%s %s" % (icon, kind)}, timeout=20)
-        except Exception as e:
-            print("ntfy:", e)
+            requests.post("https://ntfy.sh/%s" % topic, data=("%s %s" % (text, stamp)).encode(), headers={"Title": "%s %s" % (ICON.get(kind, ""), kind)}, timeout=20)
+        except Exception as ex:
+            print("ntfy:", ex)
 
 def get(url, h=UA):
     for i in range(3):
@@ -95,7 +105,8 @@ for lid, lg in PP_LEAGUES.items():
         pl = inc.get(("new_player", ((x.get("relationships") or {}).get("new_player") or {}).get("data", {}).get("id")), {})
         if a.get("is_promo") or a.get("discount_name"):
             promos.append(dict(id=x["id"], lg=lg, player=pl.get("name"), stat=a.get("stat_type"), line=a.get("line_score"),
-                               promo=a.get("flash_sale_line_score"), kind=a.get("discount_name"), start=a.get("start_time")))
+                               promo=a.get("flash_sale_line_score"), kind=a.get("discount_name"), start=a.get("start_time"),
+                               img=pl.get("image_url"), team=pl.get("team"), opp=a.get("description"), pct=a.get("discount_percentage")))
         if a.get("odds_type") == "standard" and "+" not in (pl.get("name") or ""):
             lines[x["id"]] = [float(a["line_score"]), lg, pl.get("name"), a.get("stat_type"), pl.get("team"), a.get("start_time")]
 print("PP: %d live standard lines, %d promos" % (len(lines), len(promos)))
@@ -103,13 +114,17 @@ if not lines:
     print("PrizePicks returned nothing (blocked from this server?) -- skipping moves/value, keeping old state")
 
 # 1) PROMOS
-seen = set(load("promos_seen.json", []))
+seen = set() if os.environ.get("PREVIEW") == "true" else set(load("promos_seen.json", []))   # PREVIEW: resend live promos to show the look
 for p in promos:
     if p["id"] in seen:
         continue
     seen.add(p["id"])
-    st = datetime.datetime.fromisoformat(p["start"]).astimezone(CT).strftime("%a %I:%M %p")
-    alert("PROMO", "%s %s %s: %s -> %s (%s) %s CT" % (p["lg"], p["player"], p["stat"], p["line"], p["promo"], p["kind"], st))
+    st = datetime.datetime.fromisoformat(p["start"]).astimezone(CT).strftime("%a %m/%d %I:%M %p")
+    kind = (p["kind"] or "promo").replace("_", " ").title() + (" (%s%% off)" % p["pct"] if p.get("pct") else "")
+    alert("PROMO", "%s %s %s: %s -> %s (%s) %s CT" % (p["lg"], p["player"], p["stat"], p["line"], p["promo"], p["kind"], st),
+          {"title": "🟢 %s · PROMO" % p["lg"], "description": "**%s** · %s\n## ~~%s~~ ➜ %s" % (p["player"], p["stat"], p["line"], p["promo"]),
+           "fields": [("Type", kind, True), ("Game", "%s vs %s" % (p.get("team") or "", p.get("opp") or "?"), True), ("Start", st + " CT", True)],
+           "thumb": p.get("img")})
 save("promos_seen.json", sorted(seen)[-3000:])
 
 # 2) LINE MOVES -- everyone's lines, league-based. One DIGEST message per league per run (NFL/CFB move ~460-480 lines a day:
@@ -131,19 +146,17 @@ if lines:
             continue
         d = dig.setdefault(old[1], {"up": [], "down": [], "pulled": []})
         if not new:
-            d["pulled"].append("%s %s %s" % (old[2], old[3], old[0]))
+            d["pulled"].append("⛔ **%s** %s ~~%s~~" % (old[2], old[3], old[0]))
         else:
-            d["up" if new[0] > old[0] else "down"].append((abs(new[0] - old[0]), "%s %s %s->%s" % (old[2], old[3], old[0], new[0])))
+            up = new[0] > old[0]
+            d["up" if up else "down"].append((abs(new[0] - old[0]), "%s **%s** %s: %s ➜ **%s**" % ("🔺" if up else "🔻", old[2], old[3], old[0], new[0])))
     for lg, d in dig.items():
         n = len(d["up"]) + len(d["down"])
-        parts = ["%d moved, %d pulled" % (n, len(d["pulled"]))]
-        if d["up"]:
-            parts.append("UP: " + "; ".join(x for _, x in sorted(d["up"], reverse=True)[:8]))
-        if d["down"]:
-            parts.append("DOWN: " + "; ".join(x for _, x in sorted(d["down"], reverse=True)[:8]))
-        if d["pulled"]:
-            parts.append("PULLED: " + "; ".join(d["pulled"][:8]))
-        alert("MOVE", "%s -- %s" % (lg, " | ".join(parts)))
+        rows = [x for _, x in sorted(d["up"], reverse=True)[:10]] + [x for _, x in sorted(d["down"], reverse=True)[:10]] + d["pulled"][:8]
+        more = n + len(d["pulled"]) - len(rows)
+        title = "🔁 %s · %d Line Change%s" % (lg, n, "" if n == 1 else "s") + (" · %d pulled" % len(d["pulled"]) if d["pulled"] else "")
+        alert("MOVE", "%s -- %d moved, %d pulled" % (lg, n, len(d["pulled"])),
+              {"title": title, "description": "\n".join(rows) + ("\n*+%d more*" % more if more > 0 else "")})
     merged = {k: v for k, v in last.items() if v[1] not in fetched}
     merged.update(lines)
     save("last_lines.json", merged)
@@ -180,7 +193,9 @@ if lines and FULL:
             side, p = ("MORE", po) if po >= 0.5 else ("LESS", 1 - po)
             if p >= 0.60 and pid not in done:
                 done.add(pid)
-                alert("VALUE", "%s %s %s %s %s -- Pinnacle %.0f%% at PP's number (b/e 57.7%%)" % (lg, pl, stt, side, ln, 100 * p))
+                alert("VALUE", "%s %s %s %s %s -- Pinnacle %.0f%% at PP's number (b/e 57.7%%)" % (lg, pl, stt, side, ln, 100 * p),
+                      {"title": "💰 %s · VALUE" % lg, "description": "**%s** · %s\n## %s %s" % (pl, stt, "HIGHER" if side == "MORE" else "LOWER", ln),
+                       "fields": [("Sharp", "%.0f%%" % (100 * p), True), ("Break-even", "57.7%", True), ("Edge", "%+.1f pts" % (100 * p - 57.7), True)]})
         time.sleep(1)
     save("value_seen.json", sorted(done)[-5000:])
 

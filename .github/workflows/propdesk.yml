@@ -5,7 +5,12 @@ name: propdesk
 on:
   schedule:
     - cron: "*/10 * * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      preview:
+        description: "Resend the live promos (to preview the cards)"
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -25,6 +30,7 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          PREVIEW: ${{ inputs.preview }}
         run: python run.py
       - name: save state
         run: |
