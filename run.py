@@ -11,7 +11,11 @@ State lives in state/*.json and is committed back by the workflow (small: line n
 """
 import os, json, re, time, datetime, requests
 
-CT = datetime.timezone(datetime.timedelta(hours=-5))
+try:                                                    # 10/10 user: everything in Texas time (Central, DST-aware)
+    from zoneinfo import ZoneInfo
+    CT = ZoneInfo("America/Chicago")
+except Exception:
+    CT = datetime.timezone(datetime.timedelta(hours=-5))
 NOW = datetime.datetime.now(datetime.timezone.utc)
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124", "Accept": "application/json"}
 PH = dict(UA, **{"X-API-Key": "CmX2KcMrXuFmNg6YFbmTxE0y9CIrOi0R"})          # Pinnacle's public guest key (same as their web app)
@@ -38,7 +42,7 @@ ICON = {"PROMO": "🟢", "MOVE": "🔁", "PULLED": "⛔", "VALUE": "💰"}
 def alert(kind, text, embed=None):
     """text = the plain one-liner (log + ntfy). embed = Discord card fields: title, description, fields [(name, value, inline)],
     thumb (image url). 10/9 user: 'it didn't look cool' -> every Discord post is an embed card, PickFinder-style."""
-    stamp = datetime.datetime.now(CT).strftime("%I:%M %p CT")
+    stamp = datetime.datetime.now(CT).strftime("%I:%M %p TX")
     sent.append("%s %s -- %s (%s)" % (ICON.get(kind, "•"), kind, text, stamp))
     hook, topic = os.environ.get("DISCORD_WEBHOOK"), os.environ.get("NTFY_TOPIC")
     if hook:
@@ -121,9 +125,9 @@ for p in promos:
     seen.add(p["id"])
     st = datetime.datetime.fromisoformat(p["start"]).astimezone(CT).strftime("%a %m/%d %I:%M %p")
     kind = (p["kind"] or "promo").replace("_", " ").title() + (" (%s%% off)" % p["pct"] if p.get("pct") else "")
-    alert("PROMO", "%s %s %s: %s -> %s (%s) %s CT" % (p["lg"], p["player"], p["stat"], p["line"], p["promo"], p["kind"], st),
+    alert("PROMO", "%s %s %s: %s -> %s (%s) %s TX" % (p["lg"], p["player"], p["stat"], p["line"], p["promo"], p["kind"], st),
           {"title": "🟢 %s · PROMO" % p["lg"], "description": "**%s** · %s\n## ~~%s~~ ➜ %s" % (p["player"], p["stat"], p["line"], p["promo"]),
-           "fields": [("Type", kind, True), ("Game", "%s vs %s" % (p.get("team") or "", p.get("opp") or "?"), True), ("Start", st + " CT", True)],
+           "fields": [("Type", kind, True), ("Game", "%s vs %s" % (p.get("team") or "", p.get("opp") or "?"), True), ("Start", st + " TX", True)],
            "thumb": p.get("img")})
 save("promos_seen.json", sorted(seen)[-3000:])
 
