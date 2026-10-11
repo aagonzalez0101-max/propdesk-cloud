@@ -1143,301 +1143,997 @@
 "Aurora",
 "2026-10-10T12:00:00.000-04:00"
 ],
-"15597456": [
-7.0,
-"MLB",
-"Jacob Misiorowski",
+"15616226": [
+6.0,
+"KBO",
+"Ko Young-Pyo",
 "Pitcher Strikeouts",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
+"KTW",
+"2026-10-11T01:00:00.000-04:00"
 ],
-"15603532": [
+"15616227": [
+4.5,
+"KBO",
+"Ariel Jurado",
+"Pitcher Strikeouts",
+"SAM",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616235": [
+2.5,
+"KBO",
+"Choi Won-jun",
+"Hits+Runs+RBIs",
+"KTW",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616237": [
+2.5,
+"KBO",
+"Sam Hilliard",
+"Hits+Runs+RBIs",
+"KTW",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616234": [
+2.0,
+"KBO",
+"Lewin Diaz",
+"Hits+Runs+RBIs",
+"SAM",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616233": [
+1.5,
+"KBO",
+"Park Seung-kyu",
+"Hits+Runs+RBIs",
+"SAM",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616236": [
+1.5,
+"KBO",
+"Ahn Hyun-min",
+"Hits+Runs+RBIs",
+"KTW",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616228": [
 5.5,
-"MLB",
-"Jackson Chourio",
-"Hitter Fantasy Score",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
+"KBO",
+"Adam Oller",
+"Pitcher Strikeouts",
+"KIA",
+"2026-10-11T01:00:00.000-04:00"
 ],
-"15603556": [
+"15616252": [
+2.5,
+"KBO",
+"Kim Do-yeong",
+"Hits+Runs+RBIs",
+"KIA",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616249": [
+2.0,
+"KBO",
+"Victor Reyes",
+"Hits+Runs+RBIs",
+"LOT",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616253": [
+2.0,
+"KBO",
+"Harold Castro",
+"Hits+Runs+RBIs",
+"KIA",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616254": [
+2.0,
+"KBO",
+"Na Sung-bum",
+"Hits+Runs+RBIs",
+"KIA",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616250": [
+1.5,
+"KBO",
+"Na Seung-Yeup",
+"Hits+Runs+RBIs",
+"LOT",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616251": [
+1.5,
+"KBO",
+"Go Seung-min",
+"Hits+Runs+RBIs",
+"LOT",
+"2026-10-11T01:00:00.000-04:00"
+],
+"15616645": [
 5.0,
-"MLB",
-"Brice Turang",
-"Hitter Fantasy Score",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
+"NPB",
+"Kona Takahashi",
+"Hits Allowed",
+"SAI",
+"2026-10-11T01:00:00.000-04:00"
 ],
-"15603559": [
+"15616646": [
 5.0,
-"MLB",
-"Shohei Ohtani",
-"Hitter Fantasy Score",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
+"NPB",
+"Kota Tatsu",
+"Hits Allowed",
+"HOK",
+"2026-10-11T01:00:00.000-04:00"
 ],
-"15603562": [
-5.0,
-"MLB",
-"Will Smith",
-"Hitter Fantasy Score",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
+"15620658": [
+69.0,
+"GOLF",
+"Alex Noren",
+"Strokes",
+"Alex Noren",
+"2026-10-11T02:53:00.000-04:00"
 ],
-"15603571": [
-5.0,
-"MLB",
-"Mookie Betts",
-"Hitter Fantasy Score",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
+"15620664": [
+69.5,
+"GOLF",
+"Matthew Jordan",
+"Strokes",
+"M. Jordan",
+"2026-10-11T04:38:00.000-04:00"
 ],
-"15603535": [
-4.5,
-"MLB",
-"Garrett Mitchell",
-"Hitter Fantasy Score",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15603544": [
-4.5,
-"MLB",
-"Teoscar Hernández",
-"Hitter Fantasy Score",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15603553": [
-4.5,
-"MLB",
-"Kyle Tucker",
-"Hitter Fantasy Score",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15603577": [
-4.5,
-"MLB",
-"Freddie Freeman",
-"Hitter Fantasy Score",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15603580": [
-4.5,
-"MLB",
-"Christian Yelich",
-"Hitter Fantasy Score",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15603583": [
-4.5,
-"MLB",
-"William Contreras",
-"Hitter Fantasy Score",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15603541": [
+"15620648": [
 4.0,
-"MLB",
-"Jake Bauers",
-"Hitter Fantasy Score",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
+"GOLF",
+"Matthew Jordan",
+"Birdies Or Better",
+"M. Jordan",
+"2026-10-11T04:38:00.000-04:00"
 ],
-"15603547": [
-3.5,
-"MLB",
-"Max Muncy",
-"Hitter Fantasy Score",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
+"15620667": [
+69.5,
+"GOLF",
+"Sergio Garcia",
+"Strokes",
+"Sergio Garcia",
+"2026-10-11T05:16:00.000-04:00"
 ],
-"15603550": [
-3.5,
-"MLB",
-"Luis Lara",
-"Hitter Fantasy Score",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
+"15620645": [
+4.0,
+"GOLF",
+"Jeff Winther",
+"Birdies Or Better",
+"J. Winther",
+"2026-10-11T05:16:00.000-04:00"
 ],
-"15603565": [
-3.5,
-"MLB",
-"Cooper Pratt",
-"Hitter Fantasy Score",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
+"15620671": [
+70.0,
+"GOLF",
+"Jeff Winther",
+"Strokes",
+"J. Winther",
+"2026-10-11T05:16:00.000-04:00"
 ],
-"15603568": [
-3.5,
-"MLB",
-"Joey Ortiz",
-"Hitter Fantasy Score",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15603574": [
-3.5,
-"MLB",
-"Andy Pages",
-"Hitter Fantasy Score",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15603538": [
-3.0,
-"MLB",
-"Enrique Hernández",
-"Hitter Fantasy Score",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15616182": [
-16.5,
-"MLB",
-"Jacob Misiorowski",
-"Pitching Outs",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15607525": [
+"15620654": [
 4.5,
-"MLB",
-"Tarik Skubal",
-"Hits Allowed",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
+"GOLF",
+"Marco Penge",
+"Birdies Or Better",
+"M. Penge",
+"2026-10-11T05:27:00.000-04:00"
 ],
-"15616174": [
+"15620663": [
+69.5,
+"GOLF",
+"Marco Penge",
+"Strokes",
+"M. Penge",
+"2026-10-11T05:27:00.000-04:00"
+],
+"15620639": [
 3.5,
-"MLB",
-"Jacob Misiorowski",
-"Hits Allowed",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
+"GOLF",
+"Niklas Lemke",
+"Birdies Or Better",
+"N. Lemke",
+"2026-10-11T05:27:00.000-04:00"
 ],
-"15592764": [
+"15620683": [
+71.0,
+"GOLF",
+"Niklas Lemke",
+"Strokes",
+"N. Lemke",
+"2026-10-11T05:27:00.000-04:00"
+],
+"15620642": [
+4.0,
+"GOLF",
+"Daniel Brown",
+"Birdies Or Better",
+"D. Brown",
+"2026-10-11T05:38:00.000-04:00"
+],
+"15620666": [
+69.5,
+"GOLF",
+"Sami Valimaki",
+"Strokes",
+"Sami Valimaki",
+"2026-10-11T05:38:00.000-04:00"
+],
+"15620670": [
+69.5,
+"GOLF",
+"Daniel Brown",
+"Strokes",
+"D. Brown",
+"2026-10-11T05:38:00.000-04:00"
+],
+"15620650": [
+4.0,
+"GOLF",
+"Sami Valimaki",
+"Birdies Or Better",
+"Sami Valimaki",
+"2026-10-11T05:38:00.000-04:00"
+],
+"15620681": [
+70.5,
+"GOLF",
+"Niklas Nørgaard Møller",
+"Strokes",
+"N. Nørgaard Møller",
+"2026-10-11T05:38:00.000-04:00"
+],
+"15620657": [
+68.5,
+"GOLF",
+"Ludvig Aberg",
+"Strokes",
+"Ludvig Aberg",
+"2026-10-11T05:49:00.000-04:00"
+],
+"15620656": [
+5.0,
+"GOLF",
+"Ludvig Aberg",
+"Birdies Or Better",
+"Ludvig Aberg",
+"2026-10-11T05:49:00.000-04:00"
+],
+"15620644": [
+4.0,
+"GOLF",
+"JC Ritchie",
+"Birdies Or Better",
+"JC Ritchie",
+"2026-10-11T05:49:00.000-04:00"
+],
+"15620674": [
+70.0,
+"GOLF",
+"Joost Luiten",
+"Strokes",
+"Joost Luiten",
+"2026-10-11T05:49:00.000-04:00"
+],
+"15620677": [
+70.5,
+"GOLF",
+"JC Ritchie",
+"Strokes",
+"JC Ritchie",
+"2026-10-11T05:49:00.000-04:00"
+],
+"15620659": [
+69.0,
+"GOLF",
+"Shane Lowry",
+"Strokes",
+"Shane Lowry",
+"2026-10-11T06:05:00.000-04:00"
+],
+"15620655": [
+4.5,
+"GOLF",
+"Shane Lowry",
+"Birdies Or Better",
+"Shane Lowry",
+"2026-10-11T06:05:00.000-04:00"
+],
+"15620641": [
+4.0,
+"GOLF",
+"Antoine Rozner",
+"Birdies Or Better",
+"Antoine Rozner",
+"2026-10-11T06:05:00.000-04:00"
+],
+"15620669": [
+69.5,
+"GOLF",
+"Antoine Rozner",
+"Strokes",
+"Antoine Rozner",
+"2026-10-11T06:05:00.000-04:00"
+],
+"15620638": [
+3.5,
+"GOLF",
+"Adrián Otaegui ",
+"Birdies Or Better",
+"Adrián Otaegui ",
+"2026-10-11T06:05:00.000-04:00"
+],
+"15620682": [
+70.5,
+"GOLF",
+"Adrián Otaegui ",
+"Strokes",
+"Adrián Otaegui ",
+"2026-10-11T06:05:00.000-04:00"
+],
+"15620651": [
+4.0,
+"GOLF",
+"Tom Vaillant",
+"Birdies Or Better",
+"T. Vaillant",
+"2026-10-11T06:16:00.000-04:00"
+],
+"15620675": [
+70.0,
+"GOLF",
+"Tom Vaillant",
+"Strokes",
+"T. Vaillant",
+"2026-10-11T06:16:00.000-04:00"
+],
+"15620680": [
+70.5,
+"GOLF",
+"Nathan Kimsey",
+"Strokes",
+"N. Kimsey",
+"2026-10-11T06:16:00.000-04:00"
+],
+"15620684": [
+71.0,
+"GOLF",
+"Sean Crocker",
+"Strokes",
+"S. Crocker",
+"2026-10-11T06:16:00.000-04:00"
+],
+"15620665": [
+69.5,
+"GOLF",
+"Oliver Lindell",
+"Strokes",
+"O. Lindell",
+"2026-10-11T06:27:00.000-04:00"
+],
+"15620643": [
+4.0,
+"GOLF",
+"Hennie du Plessis",
+"Birdies Or Better",
+"Hennie du Plessis",
+"2026-10-11T06:27:00.000-04:00"
+],
+"15620649": [
+4.0,
+"GOLF",
+"Oliver Lindell",
+"Birdies Or Better",
+"O. Lindell",
+"2026-10-11T06:27:00.000-04:00"
+],
+"15620676": [
+70.5,
+"GOLF",
+"Hennie du Plessis",
+"Strokes",
+"Hennie du Plessis",
+"2026-10-11T06:27:00.000-04:00"
+],
+"15620653": [
+4.5,
+"GOLF",
+"Daniel Hillier",
+"Birdies Or Better",
+"D. Hillier",
+"2026-10-11T06:38:00.000-04:00"
+],
+"15620661": [
+69.5,
+"GOLF",
+"Daniel Hillier",
+"Strokes",
+"D. Hillier",
+"2026-10-11T06:38:00.000-04:00"
+],
+"15620647": [
+4.0,
+"GOLF",
+"Martin Couvra",
+"Birdies Or Better",
+"M. Couvra",
+"2026-10-11T06:38:00.000-04:00"
+],
+"15620672": [
+70.0,
+"GOLF",
+"Joakim Lagergren",
+"Strokes",
+"J. Lagergren",
+"2026-10-11T06:38:00.000-04:00"
+],
+"15620679": [
+70.5,
+"GOLF",
+"Martin Couvra",
+"Strokes",
+"M. Couvra",
+"2026-10-11T06:38:00.000-04:00"
+],
+"15620652": [
+4.5,
+"GOLF",
+"Angel Ayora",
+"Birdies Or Better",
+"A. Ayora",
+"2026-10-11T06:49:00.000-04:00"
+],
+"15620660": [
+69.5,
+"GOLF",
+"Angel Ayora",
+"Strokes",
+"A. Ayora",
+"2026-10-11T06:49:00.000-04:00"
+],
+"15620662": [
+69.5,
+"GOLF",
+"Jacob Skov Olesen",
+"Strokes",
+"J. Skov Olesen",
+"2026-10-11T06:49:00.000-04:00"
+],
+"15620678": [
+70.5,
+"GOLF",
+"Joel Girrbach",
+"Strokes",
+"J. Girrbach",
+"2026-10-11T06:49:00.000-04:00"
+],
+"15620668": [
+69.5,
+"GOLF",
+"Victor Perez",
+"Strokes",
+"Victor Perez",
+"2026-10-11T07:00:00.000-04:00"
+],
+"15620646": [
+4.0,
+"GOLF",
+"Joe Dean",
+"Birdies Or Better",
+"J. Dean",
+"2026-10-11T07:00:00.000-04:00"
+],
+"15620673": [
+70.0,
+"GOLF",
+"Joe Dean",
+"Strokes",
+"J. Dean",
+"2026-10-11T07:00:00.000-04:00"
+],
+"15620685": [
+71.0,
+"GOLF",
+"Grant Forrest",
+"Strokes",
+"Grant Forrest",
+"2026-10-11T07:00:00.000-04:00"
+],
+"15614204": [
+27.5,
+"WNBA",
+"Angel Reese",
+"Pts+Rebs+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614209": [
+25.5,
+"WNBA",
+"Gabby Williams",
+"Pts+Rebs+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614214": [
+25.0,
+"WNBA",
+"Angel Reese",
+"Pts+Rebs",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614207": [
+23.5,
+"WNBA",
+"Rhyne Howard",
+"Pts+Rebs+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614205": [
+22.5,
+"WNBA",
+"Jordin Canada",
+"Pts+Rebs+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614219": [
+22.5,
+"WNBA",
+"Gabby Williams",
+"Pts+Rebs",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614229": [
+21.5,
+"WNBA",
+"Gabby Williams",
+"Pts+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614203": [
+21.0,
+"WNBA",
+"Allisha Gray",
+"Pts+Rebs+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614217": [
+20.5,
+"WNBA",
+"Rhyne Howard",
+"Pts+Rebs",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614227": [
+20.0,
+"WNBA",
+"Rhyne Howard",
+"Pts+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614225": [
+19.5,
+"WNBA",
+"Jordin Canada",
+"Pts+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614213": [
+19.0,
+"WNBA",
+"Allisha Gray",
+"Pts+Rebs",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614212": [
+18.5,
+"WNBA",
+"Veronica Burton",
+"Pts+Rebs+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614190": [
+18.0,
+"WNBA",
+"Gabby Williams",
+"Points",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614223": [
+18.0,
+"WNBA",
+"Allisha Gray",
+"Pts+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614188": [
+16.5,
+"WNBA",
+"Rhyne Howard",
+"Points",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614224": [
+16.5,
+"WNBA",
+"Angel Reese",
+"Pts+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614184": [
+16.0,
+"WNBA",
+"Allisha Gray",
+"Points",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614232": [
+15.0,
+"WNBA",
+"Veronica Burton",
+"Pts+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614215": [
+14.5,
+"WNBA",
+"Jordin Canada",
+"Pts+Rebs",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614185": [
+14.0,
+"WNBA",
+"Angel Reese",
+"Points",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614222": [
+13.5,
+"WNBA",
+"Veronica Burton",
+"Pts+Rebs",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614234": [
+13.0,
+"WNBA",
+"Angel Reese",
+"Rebs+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614210": [
+12.5,
+"WNBA",
+"Kayla Thornton",
+"Pts+Rebs+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614211": [
+12.5,
+"WNBA",
+"Kiah Stokes",
+"Pts+Rebs+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614206": [
+12.0,
+"WNBA",
+"Naz Hillmon",
+"Pts+Rebs+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614186": [
+11.5,
+"WNBA",
+"Jordin Canada",
+"Points",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614220": [
+11.5,
+"WNBA",
+"Kayla Thornton",
+"Pts+Rebs",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614196": [
+11.0,
+"WNBA",
+"Angel Reese",
+"Rebounds",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614221": [
+11.0,
+"WNBA",
+"Kiah Stokes",
+"Pts+Rebs",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614208": [
+10.5,
+"WNBA",
+"Cecilia Zandalasini",
+"Pts+Rebs+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614216": [
+10.5,
+"WNBA",
+"Naz Hillmon",
+"Pts+Rebs",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614235": [
+10.5,
+"WNBA",
+"Jordin Canada",
+"Rebs+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614193": [
+10.0,
+"WNBA",
+"Veronica Burton",
+"Points",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614241": [
+9.0,
+"WNBA",
+"Kiah Stokes",
+"Rebs+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614218": [
+8.5,
+"WNBA",
+"Cecilia Zandalasini",
+"Pts+Rebs",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614228": [
+8.5,
+"WNBA",
+"Cecilia Zandalasini",
+"Pts+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15621642": [
+8.5,
+"WNBA",
+"Tiffany Hayes",
+"Points",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614201": [
+8.0,
+"WNBA",
+"Kiah Stokes",
+"Rebounds",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614242": [
+8.0,
+"WNBA",
+"Veronica Burton",
+"Rebs+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614226": [
+7.5,
+"WNBA",
+"Naz Hillmon",
+"Pts+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614230": [
+7.5,
+"WNBA",
+"Kayla Thornton",
+"Pts+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614237": [
+7.5,
+"WNBA",
+"Rhyne Howard",
+"Rebs+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614191": [
+7.0,
+"WNBA",
+"Kayla Thornton",
+"Points",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614194": [
+7.0,
+"WNBA",
+"Jordin Canada",
+"Assists",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614239": [
+7.0,
+"WNBA",
+"Gabby Williams",
+"Rebs+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614187": [
+6.5,
+"WNBA",
+"Naz Hillmon",
+"Points",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614189": [
+6.5,
+"WNBA",
+"Cecilia Zandalasini",
+"Points",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614195": [
+5.0,
+"WNBA",
+"Veronica Burton",
+"Assists",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614233": [
+5.0,
+"WNBA",
+"Allisha Gray",
+"Rebs+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614236": [
+5.0,
+"WNBA",
+"Naz Hillmon",
+"Rebs+Asts",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614240": [
+5.0,
+"WNBA",
+"Kayla Thornton",
+"Rebs+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614200": [
+4.5,
+"WNBA",
+"Kayla Thornton",
+"Rebounds",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614231": [
+4.5,
+"WNBA",
+"Kiah Stokes",
+"Pts+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614197": [
+4.0,
+"WNBA",
+"Naz Hillmon",
+"Rebounds",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614198": [
+4.0,
+"WNBA",
+"Rhyne Howard",
+"Rebounds",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614199": [
+4.0,
+"WNBA",
+"Gabby Williams",
+"Rebounds",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614238": [
+3.5,
+"WNBA",
+"Cecilia Zandalasini",
+"Rebs+Asts",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15621588": [
+3.5,
+"WNBA",
+"Rhyne Howard",
+"Assists",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614192": [
+3.0,
+"WNBA",
+"Kiah Stokes",
+"Points",
+"GSV",
+"2026-10-17T15:30:00.000-04:00"
+],
+"15614202": [
 1.5,
-"MLB",
-"Jackson Chourio",
-"Hits+Runs+RBIs",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15607522": [
-1.5,
-"MLB",
-"Tarik Skubal",
-"Earned Runs Allowed",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15616173": [
-1.5,
-"MLB",
-"Jacob Misiorowski",
-"Walks Allowed",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15590036": [
-0.5,
-"MLB",
-"Shohei Ohtani",
-"Hits",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15592372": [
-0.5,
-"MLB",
-"Joey Ortiz",
-"Hits",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15592538": [
-0.5,
-"MLB",
-"Joey Ortiz",
-"Total Bases",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15592693": [
-0.5,
-"MLB",
-"Mookie Betts",
-"Singles",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15592748": [
-0.5,
-"MLB",
-"Kyle Tucker",
-"Total Bases",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15592753": [
-0.5,
-"MLB",
-"Kyle Tucker",
-"Hits",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15592757": [
-0.5,
-"MLB",
-"Garrett Mitchell",
-"Hits",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15592767": [
-0.5,
-"MLB",
-"Teoscar Hernández",
-"Hits",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15592771": [
-0.5,
-"MLB",
-"Garrett Mitchell",
-"Total Bases",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15592773": [
-0.5,
-"MLB",
-"Max Muncy",
-"Hits+Runs+RBIs",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15592922": [
-0.5,
-"MLB",
-"Shohei Ohtani",
-"Total Bases",
-"LAD",
-"2026-10-11T20:00:00.000-04:00"
-],
-"15593858": [
-0.5,
-"MLB",
-"Jackson Chourio",
-"Singles",
-"MIL",
-"2026-10-11T20:00:00.000-04:00"
+"WNBA",
+"Allisha Gray",
+"3-PT Made",
+"ATL",
+"2026-10-17T15:30:00.000-04:00"
 ],
 "15607436": [
 21.5,
@@ -1951,6 +2647,286 @@
 "PHI",
 "2026-10-11T19:00:00.000-04:00"
 ],
+"15575749": [
+27.5,
+"NBA",
+"Anthony Edwards",
+"Points",
+"MIN",
+"2026-10-21T19:40:00.000-04:00"
+],
+"13975931": [
+42.5,
+"NBA",
+"Jayson Tatum",
+"Pts+Rebs+Asts",
+"BOS",
+"2026-10-20T15:10:00.000-04:00"
+],
+"13975900": [
+40.0,
+"NBA",
+"Cade Cunningham",
+"Pts+Rebs+Asts",
+"DET",
+"2026-10-20T15:10:00.000-04:00"
+],
+"13975925": [
+35.5,
+"NBA",
+"Jayson Tatum",
+"Pts+Rebs",
+"BOS",
+"2026-10-20T15:10:00.000-04:00"
+],
+"13975891": [
+33.5,
+"NBA",
+"Cade Cunningham",
+"Pts+Asts",
+"DET",
+"2026-10-20T15:10:00.000-04:00"
+],
+"13975919": [
+32.5,
+"NBA",
+"Jayson Tatum",
+"Pts+Asts",
+"BOS",
+"2026-10-20T15:10:00.000-04:00"
+],
+"13975896": [
+29.5,
+"NBA",
+"Cade Cunningham",
+"Pts+Rebs",
+"DET",
+"2026-10-20T15:10:00.000-04:00"
+],
+"13952665": [
+26.5,
+"NBA",
+"Jayson Tatum",
+"Points",
+"BOS",
+"2026-10-20T15:10:00.000-04:00"
+],
+"13952666": [
+24.5,
+"NBA",
+"Cade Cunningham",
+"Points",
+"DET",
+"2026-10-20T15:10:00.000-04:00"
+],
+"13975904": [
+14.5,
+"NBA",
+"Cade Cunningham",
+"Rebs+Asts",
+"DET",
+"2026-10-20T15:10:00.000-04:00"
+],
+"13975964": [
+35.5,
+"NBA",
+"Jalen Brunson",
+"Pts+Rebs+Asts",
+"NYK",
+"2026-10-20T19:10:00.000-04:00"
+],
+"13975955": [
+32.5,
+"NBA",
+"Jalen Brunson",
+"Pts+Asts",
+"NYK",
+"2026-10-20T19:10:00.000-04:00"
+],
+"13975992": [
+30.5,
+"NBA",
+"LeBron James",
+"Pts+Rebs+Asts",
+"PHI",
+"2026-10-20T19:10:00.000-04:00"
+],
+"13975959": [
+29.5,
+"NBA",
+"Jalen Brunson",
+"Pts+Rebs",
+"NYK",
+"2026-10-20T19:10:00.000-04:00"
+],
+"13952667": [
+25.5,
+"NBA",
+"Jalen Brunson",
+"Points",
+"NYK",
+"2026-10-20T19:10:00.000-04:00"
+],
+"13975984": [
+24.5,
+"NBA",
+"LeBron James",
+"Pts+Asts",
+"PHI",
+"2026-10-20T19:10:00.000-04:00"
+],
+"13975988": [
+23.5,
+"NBA",
+"LeBron James",
+"Pts+Rebs",
+"PHI",
+"2026-10-20T19:10:00.000-04:00"
+],
+"13952668": [
+17.0,
+"NBA",
+"LeBron James",
+"Points",
+"PHI",
+"2026-10-20T19:10:00.000-04:00"
+],
+"13975967": [
+9.5,
+"NBA",
+"Jalen Brunson",
+"Rebs+Asts",
+"NYK",
+"2026-10-20T19:10:00.000-04:00"
+],
+"13975945": [
+6.5,
+"NBA",
+"Jalen Brunson",
+"Assists",
+"NYK",
+"2026-10-20T19:10:00.000-04:00"
+],
+"13976094": [
+3.0,
+"NBA",
+"Victor Wembanyama",
+"Assists",
+"SAS",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976018": [
+40.5,
+"NBA",
+"Shai Gilgeous-Alexander",
+"Pts+Rebs+Asts",
+"OKC",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976051": [
+40.5,
+"NBA",
+"Victor Wembanyama",
+"Pts+Rebs+Asts",
+"SAS",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976046": [
+37.5,
+"NBA",
+"Victor Wembanyama",
+"Pts+Rebs",
+"SAS",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976010": [
+36.5,
+"NBA",
+"Shai Gilgeous-Alexander",
+"Pts+Asts",
+"OKC",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976014": [
+34.5,
+"NBA",
+"Shai Gilgeous-Alexander",
+"Pts+Rebs",
+"OKC",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13952669": [
+29.5,
+"NBA",
+"Shai Gilgeous-Alexander",
+"Points",
+"OKC",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976040": [
+28.5,
+"NBA",
+"Victor Wembanyama",
+"Pts+Asts",
+"SAS",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13952671": [
+26.0,
+"NBA",
+"Victor Wembanyama",
+"Points",
+"SAS",
+"2026-10-20T21:40:00.000-04:00"
+],
+"15618118": [
+25.5,
+"NBA",
+"Victor Wembanyama",
+"Points",
+"SAS",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976056": [
+14.5,
+"NBA",
+"Victor Wembanyama",
+"Rebs+Asts",
+"SAS",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976083": [
+11.0,
+"NBA",
+"Victor Wembanyama",
+"Rebounds",
+"SAS",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976000": [
+5.5,
+"NBA",
+"Shai Gilgeous-Alexander",
+"Assists",
+"OKC",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976096": [
+2.0,
+"NBA",
+"Victor Wembanyama",
+"3-PT Made",
+"SAS",
+"2026-10-20T21:40:00.000-04:00"
+],
+"15575410": [
+27.5,
+"NBA",
+"Anthony Edwards",
+"Points",
+"MIN",
+"2026-10-21T19:40:00.000-04:00"
+],
 "15471891": [
 244.5,
 "NFL",
@@ -2079,14 +3055,6 @@
 "JAC",
 "2026-10-11T09:30:00.000-04:00"
 ],
-"15558250": [
-34.5,
-"NFL",
-"Makai Lemon",
-"Receiving Yards",
-"PHI",
-"2026-10-11T09:30:00.000-04:00"
-],
 "15467202": [
 33.5,
 "NFL",
@@ -2100,6 +3068,14 @@
 "NFL",
 "Will Shipley",
 "Rush Yards",
+"PHI",
+"2026-10-11T09:30:00.000-04:00"
+],
+"15558250": [
+33.5,
+"NFL",
+"Makai Lemon",
+"Receiving Yards",
 "PHI",
 "2026-10-11T09:30:00.000-04:00"
 ],
@@ -2429,14 +3405,6 @@
 "Trevor Lawrence",
 "Longest Rush",
 "JAC",
-"2026-10-11T09:30:00.000-04:00"
-],
-"15601101": [
-8.5,
-"NFL",
-"Dameon Pierce",
-"Longest Rush",
-"PHI",
 "2026-10-11T09:30:00.000-04:00"
 ],
 "15605470": [
@@ -3000,7 +3968,7 @@
 "2026-10-11T13:00:00.000-04:00"
 ],
 "15591497": [
-25.5,
+23.5,
 "NFL",
 "Efton Chism III",
 "Receiving Yards",
@@ -3071,14 +4039,6 @@
 "NE",
 "2026-10-11T13:00:00.000-04:00"
 ],
-"15492201": [
-17.5,
-"NFL",
-"Hunter Henry",
-"Longest Reception",
-"NE",
-"2026-10-11T13:00:00.000-04:00"
-],
 "15600665": [
 17.5,
 "NFL",
@@ -3092,6 +4052,14 @@
 "NFL",
 "Rhamondre Stevenson",
 "Receiving Yards",
+"NE",
+"2026-10-11T13:00:00.000-04:00"
+],
+"15492201": [
+16.5,
+"NFL",
+"Hunter Henry",
+"Longest Reception",
 "NE",
 "2026-10-11T13:00:00.000-04:00"
 ],
@@ -3232,7 +4200,7 @@
 "2026-10-11T13:00:00.000-04:00"
 ],
 "15591524": [
-10.5,
+9.5,
 "NFL",
 "Eli Raridon",
 "Receiving Yards",
@@ -3303,6 +4271,14 @@
 "LV",
 "2026-10-11T13:00:00.000-04:00"
 ],
+"15492204": [
+7.5,
+"NFL",
+"TreVeyon Henderson",
+"Receiving Yards",
+"NE",
+"2026-10-11T13:00:00.000-04:00"
+],
 "15492812": [
 7.5,
 "NFL",
@@ -3332,14 +4308,6 @@
 "NFL",
 "TreVeyon Henderson",
 "Longest Reception",
-"NE",
-"2026-10-11T13:00:00.000-04:00"
-],
-"15492204": [
-6.5,
-"NFL",
-"TreVeyon Henderson",
-"Receiving Yards",
 "NE",
 "2026-10-11T13:00:00.000-04:00"
 ],
@@ -3519,14 +4487,6 @@
 "NE",
 "2026-10-11T13:00:00.000-04:00"
 ],
-"15626078": [
-2.5,
-"NFL",
-"Rhamondre Stevenson",
-"Receptions",
-"NE",
-"2026-10-11T13:00:00.000-04:00"
-],
 "15469768": [
 1.5,
 "NFL",
@@ -3616,7 +4576,7 @@
 "2026-10-11T13:00:00.000-04:00"
 ],
 "15489087": [
-247.5,
+244.5,
 "NFL",
 "Tyler Shough",
 "Pass+Rush Yds",
@@ -4551,6 +5511,14 @@
 "CIN",
 "2026-10-11T13:00:00.000-04:00"
 ],
+"15449880": [
+20.5,
+"NFL",
+"Chase Brown",
+"Receiving Yards",
+"CIN",
+"2026-10-11T13:00:00.000-04:00"
+],
 "15486946": [
 20.5,
 "NFL",
@@ -4565,14 +5533,6 @@
 "Ollie Gordon II",
 "Rush Yards in First 5 Attempts",
 "MIA",
-"2026-10-11T13:00:00.000-04:00"
-],
-"15449880": [
-19.5,
-"NFL",
-"Chase Brown",
-"Receiving Yards",
-"CIN",
 "2026-10-11T13:00:00.000-04:00"
 ],
 "15486593": [
@@ -4868,6 +5828,14 @@
 "NFL",
 "Malik Willis",
 "Rush Attempts",
+"MIA",
+"2026-10-11T13:00:00.000-04:00"
+],
+"15592683": [
+5.5,
+"NFL",
+"Riley Patterson",
+"Kicking Points",
 "MIA",
 "2026-10-11T13:00:00.000-04:00"
 ],
@@ -5399,18 +6367,18 @@
 "CHI",
 "2026-10-11T13:00:00.000-04:00"
 ],
-"15491305": [
-13.5,
+"15529563": [
+14.5,
 "NFL",
-"Colston Loveland",
+"Kalif Raymond",
 "Longest Reception",
 "CHI",
 "2026-10-11T13:00:00.000-04:00"
 ],
-"15529563": [
+"15491305": [
 13.5,
 "NFL",
-"Kalif Raymond",
+"Colston Loveland",
 "Longest Reception",
 "CHI",
 "2026-10-11T13:00:00.000-04:00"
@@ -5928,7 +6896,7 @@
 "2026-10-11T13:00:00.000-04:00"
 ],
 "15488661": [
-208.5,
+205.5,
 "NFL",
 "Jameis Winston",
 "Pass+Rush Yds",
@@ -6024,7 +6992,7 @@
 "2026-10-11T13:00:00.000-04:00"
 ],
 "15600209": [
-51.5,
+52.5,
 "NFL",
 "Terry McLaurin",
 "Receiving Yards",
@@ -6055,6 +7023,14 @@
 "NYG",
 "2026-10-11T13:00:00.000-04:00"
 ],
+"15600363": [
+33.5,
+"NFL",
+"Antonio Williams",
+"Receiving Yards",
+"WAS",
+"2026-10-11T13:00:00.000-04:00"
+],
 "15529680": [
 32.5,
 "NFL",
@@ -6076,14 +7052,6 @@
 "NFL",
 "Jayden Daniels",
 "Rush Yards",
-"WAS",
-"2026-10-11T13:00:00.000-04:00"
-],
-"15600363": [
-30.5,
-"NFL",
-"Antonio Williams",
-"Receiving Yards",
 "WAS",
 "2026-10-11T13:00:00.000-04:00"
 ],
@@ -6159,6 +7127,14 @@
 "NYG",
 "2026-10-11T13:00:00.000-04:00"
 ],
+"15494226": [
+18.5,
+"NFL",
+"Cam Skattebo",
+"Rush Yards in First 5 Attempts",
+"NYG",
+"2026-10-11T13:00:00.000-04:00"
+],
 "15626791": [
 18.5,
 "NFL",
@@ -6188,14 +7164,6 @@
 "NFL",
 "Isaiah Likely",
 "Longest Reception",
-"NYG",
-"2026-10-11T13:00:00.000-04:00"
-],
-"15494226": [
-17.5,
-"NFL",
-"Cam Skattebo",
-"Rush Yards in First 5 Attempts",
 "NYG",
 "2026-10-11T13:00:00.000-04:00"
 ],
@@ -6343,6 +7311,14 @@
 "WAS",
 "2026-10-11T13:00:00.000-04:00"
 ],
+"15626376": [
+9.5,
+"NFL",
+"Rachaad White",
+"Longest Rush",
+"WAS",
+"2026-10-11T13:00:00.000-04:00"
+],
 "15488679": [
 8.5,
 "NFL",
@@ -6399,14 +7375,6 @@
 "NYG",
 "2026-10-11T13:00:00.000-04:00"
 ],
-"15529528": [
-6.5,
-"NFL",
-"Jacory Croskey-Merritt",
-"Longest Reception",
-"WAS",
-"2026-10-11T13:00:00.000-04:00"
-],
 "15529898": [
 6.5,
 "NFL",
@@ -6460,6 +7428,14 @@
 "NFL",
 "Jacory Croskey-Merritt",
 "Receiving Yards",
+"WAS",
+"2026-10-11T13:00:00.000-04:00"
+],
+"15529528": [
+5.5,
+"NFL",
+"Jacory Croskey-Merritt",
+"Longest Reception",
 "WAS",
 "2026-10-11T13:00:00.000-04:00"
 ],
@@ -6519,19 +7495,19 @@
 "WAS",
 "2026-10-11T13:00:00.000-04:00"
 ],
+"15494225": [
+3.6,
+"NFL",
+"Cam Skattebo",
+"Rush Yards Per Carry",
+"NYG",
+"2026-10-11T13:00:00.000-04:00"
+],
 "15488663": [
 3.5,
 "NFL",
 "Jameis Winston",
 "Longest Rush",
-"NYG",
-"2026-10-11T13:00:00.000-04:00"
-],
-"15494225": [
-3.5,
-"NFL",
-"Cam Skattebo",
-"Rush Yards Per Carry",
 "NYG",
 "2026-10-11T13:00:00.000-04:00"
 ],
@@ -6567,14 +7543,6 @@
 "NYG",
 "2026-10-11T13:00:00.000-04:00"
 ],
-"15488769": [
-2.5,
-"NFL",
-"Najee Harris",
-"Longest Reception",
-"NYG",
-"2026-10-11T13:00:00.000-04:00"
-],
 "15533339": [
 2.5,
 "NFL",
@@ -6607,10 +7575,34 @@
 "WAS",
 "2026-10-11T13:00:00.000-04:00"
 ],
+"15488656": [
+1.5,
+"NFL",
+"Jameis Winston",
+"Rush Attempts",
+"NYG",
+"2026-10-11T13:00:00.000-04:00"
+],
+"15488769": [
+1.5,
+"NFL",
+"Najee Harris",
+"Longest Reception",
+"NYG",
+"2026-10-11T13:00:00.000-04:00"
+],
 "15488778": [
 1.5,
 "NFL",
 "Najee Harris",
+"Receiving Yards",
+"NYG",
+"2026-10-11T13:00:00.000-04:00"
+],
+"15488878": [
+1.5,
+"NFL",
+"Theo Johnson",
 "Receiving Yards",
 "NYG",
 "2026-10-11T13:00:00.000-04:00"
@@ -6647,14 +7639,6 @@
 "WAS",
 "2026-10-11T13:00:00.000-04:00"
 ],
-"15488878": [
-0.5,
-"NFL",
-"Theo Johnson",
-"Receiving Yards",
-"NYG",
-"2026-10-11T13:00:00.000-04:00"
-],
 "15526692": [
 0.5,
 "NFL",
@@ -6672,7 +7656,7 @@
 "2026-10-11T13:00:00.000-04:00"
 ],
 "15478674": [
-216.5,
+219.5,
 "NFL",
 "Geno Smith",
 "Pass+Rush Yds",
@@ -6824,7 +7808,7 @@
 "2026-10-11T13:00:00.000-04:00"
 ],
 "15533690": [
-28.5,
+29.5,
 "NFL",
 "Kenyon Sadiq",
 "Receiving Yards",
@@ -8319,6 +9303,14 @@
 "TEN",
 "2026-10-11T13:00:00.000-04:00"
 ],
+"15627152": [
+1.5,
+"NFL",
+"Jacob Martin",
+"Tackles+Ast",
+"TEN",
+"2026-10-11T13:00:00.000-04:00"
+],
 "15605357": [
 0.75,
 "NFL",
@@ -8344,7 +9336,7 @@
 "2026-10-11T13:00:00.000-04:00"
 ],
 "15528097": [
-236.5,
+234.5,
 "NFL",
 "Aaron Rodgers",
 "Pass+Rush Yds",
@@ -8504,7 +9496,7 @@
 "2026-10-11T13:00:00.000-04:00"
 ],
 "15530566": [
-29.5,
+30.5,
 "NFL",
 "Keenan Allen",
 "Receiving Yards",
@@ -9136,7 +10128,7 @@
 "2026-10-11T16:05:00.000-04:00"
 ],
 "15526038": [
-238.5,
+237.5,
 "NFL",
 "Bo Nix",
 "Pass+Rush Yds",
@@ -9287,19 +10279,19 @@
 "DEN",
 "2026-10-11T16:05:00.000-04:00"
 ],
+"15605411": [
+33.5,
+"NFL",
+"Oronde Gadsden II",
+"Receiving Yards",
+"LAC",
+"2026-10-11T16:05:00.000-04:00"
+],
 "15509477": [
 32.5,
 "NFL",
 "Keaton Mitchell",
 "Rush Yards",
-"LAC",
-"2026-10-11T16:05:00.000-04:00"
-],
-"15605411": [
-32.5,
-"NFL",
-"Oronde Gadsden II",
-"Receiving Yards",
 "LAC",
 "2026-10-11T16:05:00.000-04:00"
 ],
@@ -9711,14 +10703,6 @@
 "LAC",
 "2026-10-11T16:05:00.000-04:00"
 ],
-"15620784": [
-5.5,
-"NFL",
-"Talanoa Hufanga",
-"Tackles+Ast",
-"DEN",
-"2026-10-11T16:05:00.000-04:00"
-],
 "15622908": [
 5.5,
 "NFL",
@@ -9815,14 +10799,6 @@
 "LAC",
 "2026-10-11T16:05:00.000-04:00"
 ],
-"15605403": [
-3.5,
-"NFL",
-"Oronde Gadsden II",
-"Receptions",
-"LAC",
-"2026-10-11T16:05:00.000-04:00"
-],
 "15533060": [
 3.0,
 "NFL",
@@ -9887,19 +10863,19 @@
 "DEN",
 "2026-10-11T16:05:00.000-04:00"
 ],
-"15494688": [
-284.5,
-"NFL",
-"Jared Goff",
-"Pass+Rush Yds",
-"DET",
-"2026-10-11T16:25:00.000-04:00"
-],
 "15449672": [
 280.5,
 "NFL",
 "Jared Goff",
 "Pass Yards",
+"DET",
+"2026-10-11T16:25:00.000-04:00"
+],
+"15494688": [
+280.5,
+"NFL",
+"Jared Goff",
+"Pass+Rush Yds",
 "DET",
 "2026-10-11T16:25:00.000-04:00"
 ],
@@ -9960,7 +10936,7 @@
 "2026-10-11T16:25:00.000-04:00"
 ],
 "15449905": [
-79.5,
+81.5,
 "NFL",
 "Amon-Ra St. Brown",
 "Receiving Yards",
@@ -9976,7 +10952,7 @@
 "2026-10-11T16:25:00.000-04:00"
 ],
 "15494703": [
-69.0,
+71.0,
 "NFL",
 "Jared Goff",
 "Completion Percentage",
@@ -10079,6 +11055,14 @@
 "ARI",
 "2026-10-11T16:25:00.000-04:00"
 ],
+"15494571": [
+25.5,
+"NFL",
+"Michael Wilson",
+"Longest Reception",
+"ARI",
+"2026-10-11T16:25:00.000-04:00"
+],
 "15494739": [
 25.5,
 "NFL",
@@ -10093,14 +11077,6 @@
 "Jahmyr Gibbs",
 "Fantasy Score",
 "DET",
-"2026-10-11T16:25:00.000-04:00"
-],
-"15494571": [
-24.5,
-"NFL",
-"Michael Wilson",
-"Longest Reception",
-"ARI",
 "2026-10-11T16:25:00.000-04:00"
 ],
 "15494585": [
@@ -10335,14 +11311,6 @@
 "DET",
 "2026-10-11T16:25:00.000-04:00"
 ],
-"15527031": [
-8.5,
-"NFL",
-"Jeremiyah Love",
-"Longest Reception",
-"ARI",
-"2026-10-11T16:25:00.000-04:00"
-],
 "15533859": [
 8.5,
 "NFL",
@@ -10380,6 +11348,14 @@
 "NFL",
 "Jacoby Brissett",
 "Rush Yards",
+"ARI",
+"2026-10-11T16:25:00.000-04:00"
+],
+"15539757": [
+7.5,
+"NFL",
+"Jeremiyah Love",
+"Longest Reception",
 "ARI",
 "2026-10-11T16:25:00.000-04:00"
 ],
@@ -10551,14 +11527,6 @@
 "ARI",
 "2026-10-11T16:25:00.000-04:00"
 ],
-"15494478": [
-2.5,
-"NFL",
-"Jared Goff",
-"Longest Rush",
-"DET",
-"2026-10-11T16:25:00.000-04:00"
-],
 "15599423": [
 2.5,
 "NFL",
@@ -10575,11 +11543,27 @@
 "DET",
 "2026-10-11T16:25:00.000-04:00"
 ],
+"15607093": [
+2.5,
+"NFL",
+"Sione Vaki",
+"Longest Reception",
+"DET",
+"2026-10-11T16:25:00.000-04:00"
+],
 "15576399": [
 2.0,
 "NFL",
 "Jared Goff",
 "Pass TDs",
+"DET",
+"2026-10-11T16:25:00.000-04:00"
+],
+"15494478": [
+1.5,
+"NFL",
+"Jared Goff",
+"Longest Rush",
 "DET",
 "2026-10-11T16:25:00.000-04:00"
 ],
@@ -10604,14 +11588,6 @@
 "NFL",
 "Amon-Ra St. Brown",
 "Halves with 25+ Receiving Yards",
-"DET",
-"2026-10-11T16:25:00.000-04:00"
-],
-"15607093": [
-1.5,
-"NFL",
-"Sione Vaki",
-"Longest Reception",
 "DET",
 "2026-10-11T16:25:00.000-04:00"
 ],
@@ -10967,20 +11943,20 @@
 "SEA",
 "2026-10-11T16:25:00.000-04:00"
 ],
+"15452379": [
+15.5,
+"NFL",
+"Kaelon Black",
+"Rush Yards",
+"SF",
+"2026-10-11T16:25:00.000-04:00"
+],
 "15466423": [
 15.5,
 "NFL",
 "Sam Darnold",
 "Fantasy Score",
 "SEA",
-"2026-10-11T16:25:00.000-04:00"
-],
-"15452379": [
-14.5,
-"NFL",
-"Kaelon Black",
-"Rush Yards",
-"SF",
 "2026-10-11T16:25:00.000-04:00"
 ],
 "15471736": [
@@ -11999,6 +12975,14 @@
 "BAL",
 "2026-10-11T20:20:00.000-04:00"
 ],
+"15627144": [
+7.5,
+"NFL",
+"Austin Hooper",
+"Receiving Yards",
+"ATL",
+"2026-10-11T20:20:00.000-04:00"
+],
 "15479674": [
 6.5,
 "NFL",
@@ -12344,7 +13328,7 @@
 "2026-10-12T20:15:00.000-04:00"
 ],
 "15451084": [
-93.5,
+91.5,
 "NFL",
 "Kyren Williams",
 "Rush+Rec Yds",
@@ -12456,7 +13440,7 @@
 "2026-10-12T20:15:00.000-04:00"
 ],
 "15451088": [
-32.5,
+33.5,
 "NFL",
 "Blake Corum",
 "Rush Yards",
@@ -12896,7 +13880,7 @@
 "2026-10-12T20:15:00.000-04:00"
 ],
 "15479040": [
-4.7,
+4.8,
 "NFL",
 "Kyren Williams",
 "Rush Yards Per Carry",
@@ -13215,205 +14199,277 @@
 "BUF",
 "2026-10-12T20:15:00.000-04:00"
 ],
-"15598463": [
-3.0,
-"SOCCER",
-"Morgan Whittaker",
-"Shots",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15623106": [
+276.5,
+"CFB",
+"Cutter Boley",
+"Pass+Rush Yds",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598400": [
-2.0,
-"SOCCER",
-"Paxten Aaronson",
-"Shots",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15572657": [
+249.5,
+"CFB",
+"Cutter Boley",
+"Pass Yards",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598662": [
-2.0,
-"SOCCER",
-"Timo Werner",
-"Shots",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"15577204": [
+211.5,
+"CFB",
+"Micah Alejado",
+"Pass Yards",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598655": [
-1.5,
-"SOCCER",
-"Beau Leroux",
-"Shots",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"15595305": [
+90.5,
+"CFB",
+"Reed Harris",
+"Receiving Yards",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598401": [
-0.5,
-"SOCCER",
-"Paxten Aaronson",
-"Shots On Target",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15595280": [
+78.5,
+"CFB",
+"Kyson Brown",
+"Rush Yards",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598464": [
-0.5,
-"SOCCER",
-"Morgan Whittaker",
-"Shots On Target",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15595293": [
+64.5,
+"CFB",
+"Omarion Miller",
+"Receiving Yards",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598650": [
-0.5,
-"SOCCER",
-"Daniel Munie",
-"Shots",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"15577286": [
+47.5,
+"CFB",
+"DeVon Rice",
+"Rush+Rec Yds",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598665": [
-0.5,
-"SOCCER",
-"Beau Leroux",
-"Shots On Target",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"15623107": [
+43.5,
+"CFB",
+"Cutter Boley",
+"Longest Completion",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15582561": [
-73.5,
-"SOCCER",
-"Rob Holding",
-"Passes Attempted",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15595306": [
+39.5,
+"CFB",
+"Tama Uiliata",
+"Receiving Yards",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15579529": [
-68.5,
-"SOCCER",
-"Loïc Williams",
-"Passes Attempted",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15579804": [
+34.5,
+"CFB",
+"Kainoa Carvalho",
+"Receiving Yards",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15583576": [
-50.5,
-"SOCCER",
-"Daniel Munie",
-"Passes Attempted",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"15577289": [
+32.5,
+"CFB",
+"DeVon Rice",
+"Rush Yards",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15582638": [
-35.5,
-"SOCCER",
-"Morgan Whittaker",
-"Passes Attempted",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15623034": [
+32.5,
+"CFB",
+"Reed Harris",
+"Longest Reception",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598737": [
-35.5,
-"SOCCER",
-"Nicolas Hansen",
-"Passes Attempted",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
-],
-"15579449": [
-33.5,
-"SOCCER",
-"Beau Leroux",
-"Passes Attempted",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
-],
-"15579475": [
+"15577290": [
 31.5,
-"SOCCER",
-"Paxten Aaronson",
-"Passes Attempted",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"CFB",
+"Micah Alejado",
+"Longest Completion",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15579677": [
-28.5,
-"SOCCER",
-"Timo Werner",
-"Passes Attempted",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"15623033": [
+24.5,
+"CFB",
+"Omarion Miller",
+"Longest Reception",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598738": [
-18.5,
-"SOCCER",
-"Earl Edwards Jr.",
-"Passes Attempted",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"15623102": [
+21.5,
+"CFB",
+"Kyson Brown",
+"Longest Rush",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15582645": [
-14.0,
-"SOCCER",
-"Morgan Whittaker",
-"Outfield Fantasy Score",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15623111": [
+19.5,
+"CFB",
+"Cutter Boley",
+"Rush Yards",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15579482": [
-13.5,
-"SOCCER",
-"Paxten Aaronson",
-"Outfield Fantasy Score",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15579803": [
+15.5,
+"CFB",
+"Kainoa Carvalho",
+"Longest Reception",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15579682": [
+"15623108": [
+12.5,
+"CFB",
+"Cutter Boley",
+"Longest Rush",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15577285": [
 11.5,
-"SOCCER",
-"Timo Werner",
-"Outfield Fantasy Score",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"CFB",
+"DeVon Rice",
+"Receiving Yards",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15579463": [
-10.5,
-"SOCCER",
-"Beau Leroux",
-"Outfield Fantasy Score",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"15577287": [
+11.5,
+"CFB",
+"DeVon Rice",
+"Longest Rush",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598739": [
-9.5,
-"SOCCER",
-"Nicolas Hansen",
-"Goalie Fantasy Score",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15577288": [
+8.5,
+"CFB",
+"DeVon Rice",
+"Longest Reception",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598740": [
-7.5,
-"SOCCER",
-"Earl Edwards Jr.",
-"Goalie Fantasy Score",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"15623018": [
+5.5,
+"CFB",
+"Omarion Miller",
+"Receptions",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598736": [
-3.0,
-"SOCCER",
-"Earl Edwards Jr.",
-"Goalie Saves",
-"Earthquakes",
-"2026-10-10T21:30:00.000-04:00"
+"15623056": [
+5.5,
+"CFB",
+"Reed Harris",
+"Receptions",
+"ASU",
+"2026-10-10T22:30:00.000-04:00"
 ],
-"15598735": [
-2.5,
-"SOCCER",
-"Nicolas Hansen",
-"Goalie Saves",
-"Colorado",
-"2026-10-10T21:30:00.000-04:00"
+"15579806": [
+4.0,
+"CFB",
+"Kainoa Carvalho",
+"Receptions",
+"HAW",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15563379": [
+213.5,
+"CFB",
+"Maddux Madsen",
+"Pass Yards",
+"BSU",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15563259": [
+198.5,
+"CFB",
+"Jayden Mandal",
+"Pass Yards",
+"FRES",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15563405": [
+88.5,
+"CFB",
+"Dylan Riley",
+"Rush Yards",
+"BSU",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15563261": [
+57.5,
+"CFB",
+"Josiah Freeman",
+"Receiving Yards",
+"FRES",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15563413": [
+40.5,
+"CFB",
+"Matt Wagner",
+"Receiving Yards",
+"BSU",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15563248": [
+37.5,
+"CFB",
+"Bryson Donelson",
+"Rush Yards",
+"FRES",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15563268": [
+34.5,
+"CFB",
+"Ezekiel Avit",
+"Receiving Yards",
+"FRES",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15563416": [
+30.5,
+"CFB",
+"Akeem Wright",
+"Receiving Yards",
+"BSU",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15563275": [
+17.5,
+"CFB",
+"Jayden Mandal",
+"Rush Yards",
+"FRES",
+"2026-10-10T22:30:00.000-04:00"
+],
+"15614371": [
+4.5,
+"CFB",
+"Josiah Freeman",
+"Receptions",
+"FRES",
+"2026-10-10T22:30:00.000-04:00"
 ],
 "15608185": [
 11.5,
@@ -13648,7 +14704,7 @@
 "2026-10-10T23:10:00.000-04:00"
 ],
 "15581206": [
-50.5,
+46.5,
 "SOCCER",
 "Víctor Guzmán",
 "Passes Attempted",
@@ -14207,1550 +15263,6 @@
 "Pumas",
 "2026-10-11T21:15:00.000-04:00"
 ],
-"15616226": [
-6.0,
-"KBO",
-"Ko Young-Pyo",
-"Pitcher Strikeouts",
-"KTW",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616227": [
-4.5,
-"KBO",
-"Ariel Jurado",
-"Pitcher Strikeouts",
-"SAM",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616235": [
-2.5,
-"KBO",
-"Choi Won-jun",
-"Hits+Runs+RBIs",
-"KTW",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616237": [
-2.5,
-"KBO",
-"Sam Hilliard",
-"Hits+Runs+RBIs",
-"KTW",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616234": [
-2.0,
-"KBO",
-"Lewin Diaz",
-"Hits+Runs+RBIs",
-"SAM",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616233": [
-1.5,
-"KBO",
-"Park Seung-kyu",
-"Hits+Runs+RBIs",
-"SAM",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616236": [
-1.5,
-"KBO",
-"Ahn Hyun-min",
-"Hits+Runs+RBIs",
-"KTW",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616228": [
-5.5,
-"KBO",
-"Adam Oller",
-"Pitcher Strikeouts",
-"KIA",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616252": [
-2.5,
-"KBO",
-"Kim Do-yeong",
-"Hits+Runs+RBIs",
-"KIA",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616249": [
-2.0,
-"KBO",
-"Victor Reyes",
-"Hits+Runs+RBIs",
-"LOT",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616253": [
-2.0,
-"KBO",
-"Harold Castro",
-"Hits+Runs+RBIs",
-"KIA",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616254": [
-2.0,
-"KBO",
-"Na Sung-bum",
-"Hits+Runs+RBIs",
-"KIA",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616250": [
-1.5,
-"KBO",
-"Na Seung-Yeup",
-"Hits+Runs+RBIs",
-"LOT",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616251": [
-1.5,
-"KBO",
-"Go Seung-min",
-"Hits+Runs+RBIs",
-"LOT",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616645": [
-5.0,
-"NPB",
-"Kona Takahashi",
-"Hits Allowed",
-"SAI",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15616646": [
-5.0,
-"NPB",
-"Kota Tatsu",
-"Hits Allowed",
-"HOK",
-"2026-10-11T01:00:00.000-04:00"
-],
-"15620658": [
-69.0,
-"GOLF",
-"Alex Noren",
-"Strokes",
-"Alex Noren",
-"2026-10-11T02:53:00.000-04:00"
-],
-"15620664": [
-69.5,
-"GOLF",
-"Matthew Jordan",
-"Strokes",
-"M. Jordan",
-"2026-10-11T04:38:00.000-04:00"
-],
-"15620648": [
-4.0,
-"GOLF",
-"Matthew Jordan",
-"Birdies Or Better",
-"M. Jordan",
-"2026-10-11T04:38:00.000-04:00"
-],
-"15620667": [
-69.5,
-"GOLF",
-"Sergio Garcia",
-"Strokes",
-"Sergio Garcia",
-"2026-10-11T05:16:00.000-04:00"
-],
-"15620645": [
-4.0,
-"GOLF",
-"Jeff Winther",
-"Birdies Or Better",
-"J. Winther",
-"2026-10-11T05:16:00.000-04:00"
-],
-"15620671": [
-70.0,
-"GOLF",
-"Jeff Winther",
-"Strokes",
-"J. Winther",
-"2026-10-11T05:16:00.000-04:00"
-],
-"15620654": [
-4.5,
-"GOLF",
-"Marco Penge",
-"Birdies Or Better",
-"M. Penge",
-"2026-10-11T05:27:00.000-04:00"
-],
-"15620663": [
-69.5,
-"GOLF",
-"Marco Penge",
-"Strokes",
-"M. Penge",
-"2026-10-11T05:27:00.000-04:00"
-],
-"15620639": [
-3.5,
-"GOLF",
-"Niklas Lemke",
-"Birdies Or Better",
-"N. Lemke",
-"2026-10-11T05:27:00.000-04:00"
-],
-"15620683": [
-71.0,
-"GOLF",
-"Niklas Lemke",
-"Strokes",
-"N. Lemke",
-"2026-10-11T05:27:00.000-04:00"
-],
-"15620642": [
-4.0,
-"GOLF",
-"Daniel Brown",
-"Birdies Or Better",
-"D. Brown",
-"2026-10-11T05:38:00.000-04:00"
-],
-"15620666": [
-69.5,
-"GOLF",
-"Sami Valimaki",
-"Strokes",
-"Sami Valimaki",
-"2026-10-11T05:38:00.000-04:00"
-],
-"15620670": [
-69.5,
-"GOLF",
-"Daniel Brown",
-"Strokes",
-"D. Brown",
-"2026-10-11T05:38:00.000-04:00"
-],
-"15620650": [
-4.0,
-"GOLF",
-"Sami Valimaki",
-"Birdies Or Better",
-"Sami Valimaki",
-"2026-10-11T05:38:00.000-04:00"
-],
-"15620681": [
-70.5,
-"GOLF",
-"Niklas Nørgaard Møller",
-"Strokes",
-"N. Nørgaard Møller",
-"2026-10-11T05:38:00.000-04:00"
-],
-"15620657": [
-68.5,
-"GOLF",
-"Ludvig Aberg",
-"Strokes",
-"Ludvig Aberg",
-"2026-10-11T05:49:00.000-04:00"
-],
-"15620656": [
-5.0,
-"GOLF",
-"Ludvig Aberg",
-"Birdies Or Better",
-"Ludvig Aberg",
-"2026-10-11T05:49:00.000-04:00"
-],
-"15620644": [
-4.0,
-"GOLF",
-"JC Ritchie",
-"Birdies Or Better",
-"JC Ritchie",
-"2026-10-11T05:49:00.000-04:00"
-],
-"15620674": [
-70.0,
-"GOLF",
-"Joost Luiten",
-"Strokes",
-"Joost Luiten",
-"2026-10-11T05:49:00.000-04:00"
-],
-"15620677": [
-70.5,
-"GOLF",
-"JC Ritchie",
-"Strokes",
-"JC Ritchie",
-"2026-10-11T05:49:00.000-04:00"
-],
-"15620659": [
-69.0,
-"GOLF",
-"Shane Lowry",
-"Strokes",
-"Shane Lowry",
-"2026-10-11T06:05:00.000-04:00"
-],
-"15620655": [
-4.5,
-"GOLF",
-"Shane Lowry",
-"Birdies Or Better",
-"Shane Lowry",
-"2026-10-11T06:05:00.000-04:00"
-],
-"15620641": [
-4.0,
-"GOLF",
-"Antoine Rozner",
-"Birdies Or Better",
-"Antoine Rozner",
-"2026-10-11T06:05:00.000-04:00"
-],
-"15620669": [
-69.5,
-"GOLF",
-"Antoine Rozner",
-"Strokes",
-"Antoine Rozner",
-"2026-10-11T06:05:00.000-04:00"
-],
-"15620638": [
-3.5,
-"GOLF",
-"Adrián Otaegui ",
-"Birdies Or Better",
-"Adrián Otaegui ",
-"2026-10-11T06:05:00.000-04:00"
-],
-"15620682": [
-70.5,
-"GOLF",
-"Adrián Otaegui ",
-"Strokes",
-"Adrián Otaegui ",
-"2026-10-11T06:05:00.000-04:00"
-],
-"15620651": [
-4.0,
-"GOLF",
-"Tom Vaillant",
-"Birdies Or Better",
-"T. Vaillant",
-"2026-10-11T06:16:00.000-04:00"
-],
-"15620675": [
-70.0,
-"GOLF",
-"Tom Vaillant",
-"Strokes",
-"T. Vaillant",
-"2026-10-11T06:16:00.000-04:00"
-],
-"15620680": [
-70.5,
-"GOLF",
-"Nathan Kimsey",
-"Strokes",
-"N. Kimsey",
-"2026-10-11T06:16:00.000-04:00"
-],
-"15620684": [
-71.0,
-"GOLF",
-"Sean Crocker",
-"Strokes",
-"S. Crocker",
-"2026-10-11T06:16:00.000-04:00"
-],
-"15620665": [
-69.5,
-"GOLF",
-"Oliver Lindell",
-"Strokes",
-"O. Lindell",
-"2026-10-11T06:27:00.000-04:00"
-],
-"15620643": [
-4.0,
-"GOLF",
-"Hennie du Plessis",
-"Birdies Or Better",
-"Hennie du Plessis",
-"2026-10-11T06:27:00.000-04:00"
-],
-"15620649": [
-4.0,
-"GOLF",
-"Oliver Lindell",
-"Birdies Or Better",
-"O. Lindell",
-"2026-10-11T06:27:00.000-04:00"
-],
-"15620676": [
-70.5,
-"GOLF",
-"Hennie du Plessis",
-"Strokes",
-"Hennie du Plessis",
-"2026-10-11T06:27:00.000-04:00"
-],
-"15620653": [
-4.5,
-"GOLF",
-"Daniel Hillier",
-"Birdies Or Better",
-"D. Hillier",
-"2026-10-11T06:38:00.000-04:00"
-],
-"15620661": [
-69.5,
-"GOLF",
-"Daniel Hillier",
-"Strokes",
-"D. Hillier",
-"2026-10-11T06:38:00.000-04:00"
-],
-"15620647": [
-4.0,
-"GOLF",
-"Martin Couvra",
-"Birdies Or Better",
-"M. Couvra",
-"2026-10-11T06:38:00.000-04:00"
-],
-"15620672": [
-70.0,
-"GOLF",
-"Joakim Lagergren",
-"Strokes",
-"J. Lagergren",
-"2026-10-11T06:38:00.000-04:00"
-],
-"15620679": [
-70.5,
-"GOLF",
-"Martin Couvra",
-"Strokes",
-"M. Couvra",
-"2026-10-11T06:38:00.000-04:00"
-],
-"15620652": [
-4.5,
-"GOLF",
-"Angel Ayora",
-"Birdies Or Better",
-"A. Ayora",
-"2026-10-11T06:49:00.000-04:00"
-],
-"15620660": [
-69.5,
-"GOLF",
-"Angel Ayora",
-"Strokes",
-"A. Ayora",
-"2026-10-11T06:49:00.000-04:00"
-],
-"15620662": [
-69.5,
-"GOLF",
-"Jacob Skov Olesen",
-"Strokes",
-"J. Skov Olesen",
-"2026-10-11T06:49:00.000-04:00"
-],
-"15620678": [
-70.5,
-"GOLF",
-"Joel Girrbach",
-"Strokes",
-"J. Girrbach",
-"2026-10-11T06:49:00.000-04:00"
-],
-"15620668": [
-69.5,
-"GOLF",
-"Victor Perez",
-"Strokes",
-"Victor Perez",
-"2026-10-11T07:00:00.000-04:00"
-],
-"15620646": [
-4.0,
-"GOLF",
-"Joe Dean",
-"Birdies Or Better",
-"J. Dean",
-"2026-10-11T07:00:00.000-04:00"
-],
-"15620673": [
-70.0,
-"GOLF",
-"Joe Dean",
-"Strokes",
-"J. Dean",
-"2026-10-11T07:00:00.000-04:00"
-],
-"15620685": [
-71.0,
-"GOLF",
-"Grant Forrest",
-"Strokes",
-"Grant Forrest",
-"2026-10-11T07:00:00.000-04:00"
-],
-"15575749": [
-27.5,
-"NBA",
-"Anthony Edwards",
-"Points",
-"MIN",
-"2026-10-21T19:40:00.000-04:00"
-],
-"13975931": [
-42.5,
-"NBA",
-"Jayson Tatum",
-"Pts+Rebs+Asts",
-"BOS",
-"2026-10-20T15:10:00.000-04:00"
-],
-"13975900": [
-40.0,
-"NBA",
-"Cade Cunningham",
-"Pts+Rebs+Asts",
-"DET",
-"2026-10-20T15:10:00.000-04:00"
-],
-"13975925": [
-35.5,
-"NBA",
-"Jayson Tatum",
-"Pts+Rebs",
-"BOS",
-"2026-10-20T15:10:00.000-04:00"
-],
-"13975891": [
-33.5,
-"NBA",
-"Cade Cunningham",
-"Pts+Asts",
-"DET",
-"2026-10-20T15:10:00.000-04:00"
-],
-"13975919": [
-32.5,
-"NBA",
-"Jayson Tatum",
-"Pts+Asts",
-"BOS",
-"2026-10-20T15:10:00.000-04:00"
-],
-"13975896": [
-29.5,
-"NBA",
-"Cade Cunningham",
-"Pts+Rebs",
-"DET",
-"2026-10-20T15:10:00.000-04:00"
-],
-"13952665": [
-26.5,
-"NBA",
-"Jayson Tatum",
-"Points",
-"BOS",
-"2026-10-20T15:10:00.000-04:00"
-],
-"13952666": [
-24.5,
-"NBA",
-"Cade Cunningham",
-"Points",
-"DET",
-"2026-10-20T15:10:00.000-04:00"
-],
-"13975904": [
-14.5,
-"NBA",
-"Cade Cunningham",
-"Rebs+Asts",
-"DET",
-"2026-10-20T15:10:00.000-04:00"
-],
-"13975964": [
-35.5,
-"NBA",
-"Jalen Brunson",
-"Pts+Rebs+Asts",
-"NYK",
-"2026-10-20T19:10:00.000-04:00"
-],
-"13975955": [
-32.5,
-"NBA",
-"Jalen Brunson",
-"Pts+Asts",
-"NYK",
-"2026-10-20T19:10:00.000-04:00"
-],
-"13975992": [
-30.5,
-"NBA",
-"LeBron James",
-"Pts+Rebs+Asts",
-"PHI",
-"2026-10-20T19:10:00.000-04:00"
-],
-"13975959": [
-29.5,
-"NBA",
-"Jalen Brunson",
-"Pts+Rebs",
-"NYK",
-"2026-10-20T19:10:00.000-04:00"
-],
-"13952667": [
-25.5,
-"NBA",
-"Jalen Brunson",
-"Points",
-"NYK",
-"2026-10-20T19:10:00.000-04:00"
-],
-"13975984": [
-24.5,
-"NBA",
-"LeBron James",
-"Pts+Asts",
-"PHI",
-"2026-10-20T19:10:00.000-04:00"
-],
-"13975988": [
-23.5,
-"NBA",
-"LeBron James",
-"Pts+Rebs",
-"PHI",
-"2026-10-20T19:10:00.000-04:00"
-],
-"13952668": [
-17.0,
-"NBA",
-"LeBron James",
-"Points",
-"PHI",
-"2026-10-20T19:10:00.000-04:00"
-],
-"13975967": [
-9.5,
-"NBA",
-"Jalen Brunson",
-"Rebs+Asts",
-"NYK",
-"2026-10-20T19:10:00.000-04:00"
-],
-"13975945": [
-6.5,
-"NBA",
-"Jalen Brunson",
-"Assists",
-"NYK",
-"2026-10-20T19:10:00.000-04:00"
-],
-"13976094": [
-3.0,
-"NBA",
-"Victor Wembanyama",
-"Assists",
-"SAS",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13976018": [
-40.5,
-"NBA",
-"Shai Gilgeous-Alexander",
-"Pts+Rebs+Asts",
-"OKC",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13976051": [
-40.5,
-"NBA",
-"Victor Wembanyama",
-"Pts+Rebs+Asts",
-"SAS",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13976046": [
-37.5,
-"NBA",
-"Victor Wembanyama",
-"Pts+Rebs",
-"SAS",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13976010": [
-36.5,
-"NBA",
-"Shai Gilgeous-Alexander",
-"Pts+Asts",
-"OKC",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13976014": [
-34.5,
-"NBA",
-"Shai Gilgeous-Alexander",
-"Pts+Rebs",
-"OKC",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13952669": [
-29.5,
-"NBA",
-"Shai Gilgeous-Alexander",
-"Points",
-"OKC",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13976040": [
-28.5,
-"NBA",
-"Victor Wembanyama",
-"Pts+Asts",
-"SAS",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13952671": [
-26.0,
-"NBA",
-"Victor Wembanyama",
-"Points",
-"SAS",
-"2026-10-20T21:40:00.000-04:00"
-],
-"15618118": [
-25.5,
-"NBA",
-"Victor Wembanyama",
-"Points",
-"SAS",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13976056": [
-14.5,
-"NBA",
-"Victor Wembanyama",
-"Rebs+Asts",
-"SAS",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13976083": [
-11.0,
-"NBA",
-"Victor Wembanyama",
-"Rebounds",
-"SAS",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13976000": [
-5.5,
-"NBA",
-"Shai Gilgeous-Alexander",
-"Assists",
-"OKC",
-"2026-10-20T21:40:00.000-04:00"
-],
-"13976096": [
-2.0,
-"NBA",
-"Victor Wembanyama",
-"3-PT Made",
-"SAS",
-"2026-10-20T21:40:00.000-04:00"
-],
-"15575410": [
-27.5,
-"NBA",
-"Anthony Edwards",
-"Points",
-"MIN",
-"2026-10-21T19:40:00.000-04:00"
-],
-"15614204": [
-27.5,
-"WNBA",
-"Angel Reese",
-"Pts+Rebs+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614209": [
-25.5,
-"WNBA",
-"Gabby Williams",
-"Pts+Rebs+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614214": [
-25.0,
-"WNBA",
-"Angel Reese",
-"Pts+Rebs",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614207": [
-23.5,
-"WNBA",
-"Rhyne Howard",
-"Pts+Rebs+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614205": [
-22.5,
-"WNBA",
-"Jordin Canada",
-"Pts+Rebs+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614219": [
-22.5,
-"WNBA",
-"Gabby Williams",
-"Pts+Rebs",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614229": [
-21.5,
-"WNBA",
-"Gabby Williams",
-"Pts+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614203": [
-21.0,
-"WNBA",
-"Allisha Gray",
-"Pts+Rebs+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614217": [
-20.5,
-"WNBA",
-"Rhyne Howard",
-"Pts+Rebs",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614227": [
-20.0,
-"WNBA",
-"Rhyne Howard",
-"Pts+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614225": [
-19.5,
-"WNBA",
-"Jordin Canada",
-"Pts+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614213": [
-19.0,
-"WNBA",
-"Allisha Gray",
-"Pts+Rebs",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614212": [
-18.5,
-"WNBA",
-"Veronica Burton",
-"Pts+Rebs+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614190": [
-18.0,
-"WNBA",
-"Gabby Williams",
-"Points",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614223": [
-18.0,
-"WNBA",
-"Allisha Gray",
-"Pts+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614188": [
-16.5,
-"WNBA",
-"Rhyne Howard",
-"Points",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614224": [
-16.5,
-"WNBA",
-"Angel Reese",
-"Pts+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614184": [
-16.0,
-"WNBA",
-"Allisha Gray",
-"Points",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614232": [
-15.0,
-"WNBA",
-"Veronica Burton",
-"Pts+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614215": [
-14.5,
-"WNBA",
-"Jordin Canada",
-"Pts+Rebs",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614185": [
-14.0,
-"WNBA",
-"Angel Reese",
-"Points",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614222": [
-13.5,
-"WNBA",
-"Veronica Burton",
-"Pts+Rebs",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614234": [
-13.0,
-"WNBA",
-"Angel Reese",
-"Rebs+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614210": [
-12.5,
-"WNBA",
-"Kayla Thornton",
-"Pts+Rebs+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614211": [
-12.5,
-"WNBA",
-"Kiah Stokes",
-"Pts+Rebs+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614206": [
-12.0,
-"WNBA",
-"Naz Hillmon",
-"Pts+Rebs+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614186": [
-11.5,
-"WNBA",
-"Jordin Canada",
-"Points",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614220": [
-11.5,
-"WNBA",
-"Kayla Thornton",
-"Pts+Rebs",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614196": [
-11.0,
-"WNBA",
-"Angel Reese",
-"Rebounds",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614221": [
-11.0,
-"WNBA",
-"Kiah Stokes",
-"Pts+Rebs",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614208": [
-10.5,
-"WNBA",
-"Cecilia Zandalasini",
-"Pts+Rebs+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614216": [
-10.5,
-"WNBA",
-"Naz Hillmon",
-"Pts+Rebs",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614235": [
-10.5,
-"WNBA",
-"Jordin Canada",
-"Rebs+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614193": [
-10.0,
-"WNBA",
-"Veronica Burton",
-"Points",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614241": [
-9.0,
-"WNBA",
-"Kiah Stokes",
-"Rebs+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614218": [
-8.5,
-"WNBA",
-"Cecilia Zandalasini",
-"Pts+Rebs",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614228": [
-8.5,
-"WNBA",
-"Cecilia Zandalasini",
-"Pts+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15621642": [
-8.5,
-"WNBA",
-"Tiffany Hayes",
-"Points",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614201": [
-8.0,
-"WNBA",
-"Kiah Stokes",
-"Rebounds",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614242": [
-8.0,
-"WNBA",
-"Veronica Burton",
-"Rebs+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614226": [
-7.5,
-"WNBA",
-"Naz Hillmon",
-"Pts+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614230": [
-7.5,
-"WNBA",
-"Kayla Thornton",
-"Pts+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614237": [
-7.5,
-"WNBA",
-"Rhyne Howard",
-"Rebs+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614191": [
-7.0,
-"WNBA",
-"Kayla Thornton",
-"Points",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614194": [
-7.0,
-"WNBA",
-"Jordin Canada",
-"Assists",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614239": [
-7.0,
-"WNBA",
-"Gabby Williams",
-"Rebs+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614187": [
-6.5,
-"WNBA",
-"Naz Hillmon",
-"Points",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614189": [
-6.5,
-"WNBA",
-"Cecilia Zandalasini",
-"Points",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614195": [
-5.0,
-"WNBA",
-"Veronica Burton",
-"Assists",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614233": [
-5.0,
-"WNBA",
-"Allisha Gray",
-"Rebs+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614236": [
-5.0,
-"WNBA",
-"Naz Hillmon",
-"Rebs+Asts",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614240": [
-5.0,
-"WNBA",
-"Kayla Thornton",
-"Rebs+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614200": [
-4.5,
-"WNBA",
-"Kayla Thornton",
-"Rebounds",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614231": [
-4.5,
-"WNBA",
-"Kiah Stokes",
-"Pts+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614197": [
-4.0,
-"WNBA",
-"Naz Hillmon",
-"Rebounds",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614198": [
-4.0,
-"WNBA",
-"Rhyne Howard",
-"Rebounds",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614199": [
-4.0,
-"WNBA",
-"Gabby Williams",
-"Rebounds",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614238": [
-3.5,
-"WNBA",
-"Cecilia Zandalasini",
-"Rebs+Asts",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15621588": [
-3.5,
-"WNBA",
-"Rhyne Howard",
-"Assists",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614192": [
-3.0,
-"WNBA",
-"Kiah Stokes",
-"Points",
-"GSV",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15614202": [
-1.5,
-"WNBA",
-"Allisha Gray",
-"3-PT Made",
-"ATL",
-"2026-10-17T15:30:00.000-04:00"
-],
-"15623106": [
-276.5,
-"CFB",
-"Cutter Boley",
-"Pass+Rush Yds",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15572657": [
-249.5,
-"CFB",
-"Cutter Boley",
-"Pass Yards",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15577204": [
-211.5,
-"CFB",
-"Micah Alejado",
-"Pass Yards",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15595305": [
-90.5,
-"CFB",
-"Reed Harris",
-"Receiving Yards",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15595280": [
-80.5,
-"CFB",
-"Kyson Brown",
-"Rush Yards",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15595293": [
-62.5,
-"CFB",
-"Omarion Miller",
-"Receiving Yards",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15577286": [
-47.5,
-"CFB",
-"DeVon Rice",
-"Rush+Rec Yds",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15623107": [
-43.5,
-"CFB",
-"Cutter Boley",
-"Longest Completion",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15595306": [
-39.5,
-"CFB",
-"Tama Uiliata",
-"Receiving Yards",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15579804": [
-34.5,
-"CFB",
-"Kainoa Carvalho",
-"Receiving Yards",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15577289": [
-33.5,
-"CFB",
-"DeVon Rice",
-"Rush Yards",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15623034": [
-32.5,
-"CFB",
-"Reed Harris",
-"Longest Reception",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15577290": [
-31.5,
-"CFB",
-"Micah Alejado",
-"Longest Completion",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15623033": [
-24.5,
-"CFB",
-"Omarion Miller",
-"Longest Reception",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15623102": [
-21.5,
-"CFB",
-"Kyson Brown",
-"Longest Rush",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15623111": [
-19.5,
-"CFB",
-"Cutter Boley",
-"Rush Yards",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15579803": [
-15.5,
-"CFB",
-"Kainoa Carvalho",
-"Longest Reception",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15623108": [
-12.5,
-"CFB",
-"Cutter Boley",
-"Longest Rush",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15577285": [
-11.5,
-"CFB",
-"DeVon Rice",
-"Receiving Yards",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15577287": [
-11.5,
-"CFB",
-"DeVon Rice",
-"Longest Rush",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15577288": [
-8.5,
-"CFB",
-"DeVon Rice",
-"Longest Reception",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15623018": [
-5.5,
-"CFB",
-"Omarion Miller",
-"Receptions",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15623056": [
-5.5,
-"CFB",
-"Reed Harris",
-"Receptions",
-"ASU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15579806": [
-4.0,
-"CFB",
-"Kainoa Carvalho",
-"Receptions",
-"HAW",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15563379": [
-213.5,
-"CFB",
-"Maddux Madsen",
-"Pass Yards",
-"BSU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15563259": [
-198.5,
-"CFB",
-"Jayden Mandal",
-"Pass Yards",
-"FRES",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15563405": [
-88.5,
-"CFB",
-"Dylan Riley",
-"Rush Yards",
-"BSU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15563261": [
-57.5,
-"CFB",
-"Josiah Freeman",
-"Receiving Yards",
-"FRES",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15563413": [
-40.5,
-"CFB",
-"Matt Wagner",
-"Receiving Yards",
-"BSU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15563248": [
-37.5,
-"CFB",
-"Bryson Donelson",
-"Rush Yards",
-"FRES",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15563268": [
-34.5,
-"CFB",
-"Ezekiel Avit",
-"Receiving Yards",
-"FRES",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15563416": [
-29.5,
-"CFB",
-"Akeem Wright",
-"Receiving Yards",
-"BSU",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15563275": [
-17.5,
-"CFB",
-"Jayden Mandal",
-"Rush Yards",
-"FRES",
-"2026-10-10T22:30:00.000-04:00"
-],
-"15614371": [
-4.5,
-"CFB",
-"Josiah Freeman",
-"Receptions",
-"FRES",
-"2026-10-10T22:30:00.000-04:00"
-],
 "15620945": [
 28.5,
 "VAL",
@@ -16286,5 +15798,301 @@
 "MAPS 1-3 Kills",
 "LGD",
 "2026-10-13T05:00:00.000-04:00"
+],
+"15597456": [
+7.0,
+"MLB",
+"Jacob Misiorowski",
+"Pitcher Strikeouts",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603532": [
+5.5,
+"MLB",
+"Jackson Chourio",
+"Hitter Fantasy Score",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603556": [
+5.0,
+"MLB",
+"Brice Turang",
+"Hitter Fantasy Score",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603559": [
+5.0,
+"MLB",
+"Shohei Ohtani",
+"Hitter Fantasy Score",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603562": [
+5.0,
+"MLB",
+"Will Smith",
+"Hitter Fantasy Score",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603571": [
+5.0,
+"MLB",
+"Mookie Betts",
+"Hitter Fantasy Score",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603535": [
+4.5,
+"MLB",
+"Garrett Mitchell",
+"Hitter Fantasy Score",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603544": [
+4.5,
+"MLB",
+"Teoscar Hernández",
+"Hitter Fantasy Score",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603553": [
+4.5,
+"MLB",
+"Kyle Tucker",
+"Hitter Fantasy Score",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603577": [
+4.5,
+"MLB",
+"Freddie Freeman",
+"Hitter Fantasy Score",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603580": [
+4.5,
+"MLB",
+"Christian Yelich",
+"Hitter Fantasy Score",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603583": [
+4.5,
+"MLB",
+"William Contreras",
+"Hitter Fantasy Score",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603541": [
+4.0,
+"MLB",
+"Jake Bauers",
+"Hitter Fantasy Score",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603547": [
+3.5,
+"MLB",
+"Max Muncy",
+"Hitter Fantasy Score",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603550": [
+3.5,
+"MLB",
+"Luis Lara",
+"Hitter Fantasy Score",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603565": [
+3.5,
+"MLB",
+"Cooper Pratt",
+"Hitter Fantasy Score",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603568": [
+3.5,
+"MLB",
+"Joey Ortiz",
+"Hitter Fantasy Score",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603574": [
+3.5,
+"MLB",
+"Andy Pages",
+"Hitter Fantasy Score",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15603538": [
+3.0,
+"MLB",
+"Enrique Hernández",
+"Hitter Fantasy Score",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15616182": [
+16.5,
+"MLB",
+"Jacob Misiorowski",
+"Pitching Outs",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15607525": [
+4.5,
+"MLB",
+"Tarik Skubal",
+"Hits Allowed",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15616174": [
+3.5,
+"MLB",
+"Jacob Misiorowski",
+"Hits Allowed",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592764": [
+1.5,
+"MLB",
+"Jackson Chourio",
+"Hits+Runs+RBIs",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15607522": [
+1.5,
+"MLB",
+"Tarik Skubal",
+"Earned Runs Allowed",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15616173": [
+1.5,
+"MLB",
+"Jacob Misiorowski",
+"Walks Allowed",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15590036": [
+0.5,
+"MLB",
+"Shohei Ohtani",
+"Hits",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592372": [
+0.5,
+"MLB",
+"Joey Ortiz",
+"Hits",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592538": [
+0.5,
+"MLB",
+"Joey Ortiz",
+"Total Bases",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592693": [
+0.5,
+"MLB",
+"Mookie Betts",
+"Singles",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592748": [
+0.5,
+"MLB",
+"Kyle Tucker",
+"Total Bases",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592753": [
+0.5,
+"MLB",
+"Kyle Tucker",
+"Hits",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592757": [
+0.5,
+"MLB",
+"Garrett Mitchell",
+"Hits",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592767": [
+0.5,
+"MLB",
+"Teoscar Hernández",
+"Hits",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592771": [
+0.5,
+"MLB",
+"Garrett Mitchell",
+"Total Bases",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592773": [
+0.5,
+"MLB",
+"Max Muncy",
+"Hits+Runs+RBIs",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15592922": [
+0.5,
+"MLB",
+"Shohei Ohtani",
+"Total Bases",
+"LAD",
+"2026-10-11T20:00:00.000-04:00"
+],
+"15593858": [
+0.5,
+"MLB",
+"Jackson Chourio",
+"Singles",
+"MIL",
+"2026-10-11T20:00:00.000-04:00"
 ]
 }
