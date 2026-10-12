@@ -5199,20 +5199,20 @@
 "SAS",
 "2026-10-20T21:40:00.000-04:00"
 ],
-"13976018": [
-40.5,
-"NBA",
-"Shai Gilgeous-Alexander",
-"Pts+Rebs+Asts",
-"OKC",
-"2026-10-20T21:40:00.000-04:00"
-],
 "13976051": [
 40.5,
 "NBA",
 "Victor Wembanyama",
 "Pts+Rebs+Asts",
 "SAS",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976018": [
+40.0,
+"NBA",
+"Shai Gilgeous-Alexander",
+"Pts+Rebs+Asts",
+"OKC",
 "2026-10-20T21:40:00.000-04:00"
 ],
 "13976046": [
@@ -5224,7 +5224,7 @@
 "2026-10-20T21:40:00.000-04:00"
 ],
 "13976010": [
-36.5,
+36.0,
 "NBA",
 "Shai Gilgeous-Alexander",
 "Pts+Asts",
@@ -5292,6 +5292,14 @@
 "NBA",
 "Shai Gilgeous-Alexander",
 "Assists",
+"OKC",
+"2026-10-20T21:40:00.000-04:00"
+],
+"13976082": [
+4.0,
+"NBA",
+"Shai Gilgeous-Alexander",
+"Rebounds",
 "OKC",
 "2026-10-20T21:40:00.000-04:00"
 ],
