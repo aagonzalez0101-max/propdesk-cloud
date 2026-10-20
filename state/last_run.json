@@ -1,8 +1,10 @@
 {
-"utc": "2026-10-20T18:20:15.382481+00:00",
-"lines": 1891,
-"promos": 2,
+"utc": "2026-10-20T18:30:15.290506+00:00",
+"lines": 2812,
+"promos": 3,
 "alerts": [
-"🔁 MOVE -- NBA -- 1 moved, 0 pulled (01:22 PM TX)"
+"🟢 PROMO -- NBA Shai Gilgeous-Alexander Points: 29.5 -> 22.5 (taco) Tue 10/20 08:40 PM TX (01:35 PM TX)",
+"🔁 MOVE -- NHL -- 0 moved, 1 pulled (01:35 PM TX)",
+"🔁 MOVE -- NFL -- 2 moved, 0 pulled (01:35 PM TX)"
 ]
 }
