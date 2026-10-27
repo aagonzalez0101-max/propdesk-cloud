@@ -11319,6 +11319,14 @@
 "DET",
 "2026-10-27T20:00:00.000-04:00"
 ],
+"16271011": [
+1.5,
+"NBA",
+"Josh Hart",
+"Blks+Stls",
+"NYK",
+"2026-10-27T20:00:00.000-04:00"
+],
 "16257136": [
 0.5,
 "NBA",
@@ -12383,14 +12391,6 @@
 "LAL",
 "2026-10-27T23:00:00.000-04:00"
 ],
-"16257831": [
-13.5,
-"NBA",
-"Sandro Mamukelashvili",
-"Pts+Rebs+Asts",
-"LAL",
-"2026-10-27T23:00:00.000-04:00"
-],
 "16262155": [
 13.5,
 "NBA",
@@ -12423,20 +12423,20 @@
 "POR",
 "2026-10-27T23:00:00.000-04:00"
 ],
-"16257748": [
-12.5,
-"NBA",
-"Collin Sexton",
-"Pts+Rebs+Asts",
-"LAL",
-"2026-10-27T23:00:00.000-04:00"
-],
 "16257815": [
 12.5,
 "NBA",
 "Donovan Clingan",
 "Rebs+Asts",
 "POR",
+"2026-10-27T23:00:00.000-04:00"
+],
+"16257831": [
+12.5,
+"NBA",
+"Sandro Mamukelashvili",
+"Pts+Rebs+Asts",
+"LAL",
 "2026-10-27T23:00:00.000-04:00"
 ],
 "16260226": [
@@ -15005,6 +15005,294 @@
 "Elija Lofton",
 "Receptions",
 "MIA",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16270992": [
+259.5,
+"CFB",
+"Jayden Maiava",
+"Pass Yards",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271075": [
+249.5,
+"CFB",
+"Jayden Maiava",
+"Pass+Rush Yds",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271061": [
+102.5,
+"CFB",
+"Bo Jackson",
+"Rush+Rec Yds",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271063": [
+90.5,
+"CFB",
+"Bo Jackson",
+"Rush Yards",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271076": [
+88.5,
+"CFB",
+"Jeremiah Smith",
+"Receiving Yards",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271048": [
+68.5,
+"CFB",
+"King Miller",
+"Rush+Rec Yds",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271085": [
+62.5,
+"CFB",
+"Trent Mosley",
+"Receiving Yards",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271033": [
+54.5,
+"CFB",
+"King Miller",
+"Rush Yards",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271086": [
+42.5,
+"CFB",
+"Kayden Dixon-Wyatt",
+"Receiving Yards",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271023": [
+40.5,
+"CFB",
+"Jayden Maiava",
+"Longest Completion",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271068": [
+37.5,
+"CFB",
+"Tanook Hines",
+"Receiving Yards",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271053": [
+31.5,
+"CFB",
+"Jeremiah Smith",
+"Longest Reception",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271054": [
+31.5,
+"CFB",
+"Mark Bowman",
+"Receiving Yards",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271066": [
+29.5,
+"CFB",
+"Devin McCuin",
+"Receiving Yards",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271073": [
+26.5,
+"CFB",
+"Zacharyus Williams",
+"Receiving Yards",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271046": [
+24.5,
+"CFB",
+"Trent Mosley",
+"Longest Reception",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271026": [
+19.5,
+"CFB",
+"Kayden Dixon-Wyatt",
+"Longest Reception",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271067": [
+19.5,
+"CFB",
+"Bo Jackson",
+"Longest Rush",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271074": [
+18.5,
+"CFB",
+"Tanook Hines",
+"Longest Reception",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271047": [
+17.5,
+"CFB",
+"Devin McCuin",
+"Longest Reception",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271049": [
+16.5,
+"CFB",
+"Zacharyus Williams",
+"Longest Reception",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271056": [
+15.5,
+"CFB",
+"Brandon Inniss",
+"Receiving Yards",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271065": [
+15.5,
+"CFB",
+"King Miller",
+"Longest Rush",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271091": [
+15.5,
+"CFB",
+"Mark Bowman",
+"Longest Reception",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271081": [
+13.5,
+"CFB",
+"Nate Roberts",
+"Receiving Yards",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271037": [
+10.5,
+"CFB",
+"Brandon Inniss",
+"Longest Reception",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271057": [
+9.5,
+"CFB",
+"Nate Roberts",
+"Longest Reception",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271082": [
+9.5,
+"CFB",
+"King Miller",
+"Receiving Yards",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271062": [
+7.5,
+"CFB",
+"King Miller",
+"Longest Reception",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271089": [
+6.5,
+"CFB",
+"Bo Jackson",
+"Receiving Yards",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271028": [
+5.5,
+"CFB",
+"Bo Jackson",
+"Longest Reception",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271064": [
+3.5,
+"CFB",
+"Kayden Dixon-Wyatt",
+"Receptions",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271051": [
+2.5,
+"CFB",
+"Devin McCuin",
+"Receptions",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16270962": [
+1.5,
+"CFB",
+"Jayden Maiava",
+"Pass TDs",
+"USC",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271040": [
+1.5,
+"CFB",
+"Brandon Inniss",
+"Receptions",
+"OSU",
+"2026-10-31T19:30:00.000-04:00"
+],
+"16271078": [
+1.5,
+"CFB",
+"Nate Roberts",
+"Receptions",
+"OSU",
 "2026-10-31T19:30:00.000-04:00"
 ],
 "16248745": [
