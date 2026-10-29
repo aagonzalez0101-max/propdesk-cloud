@@ -1,8 +1,10 @@
 {
-"utc": "2026-10-29T14:20:15.492762+00:00",
-"lines": 1413,
-"promos": 0,
+"utc": "2026-10-29T14:30:15.731892+00:00",
+"lines": 2702,
+"promos": 1,
 "alerts": [
-"🔁 MOVE -- WNBA -- 1 moved, 0 pulled (09:22 AM TX)"
+"🔁 MOVE -- NHL -- 0 moved, 1 pulled (09:35 AM TX)",
+"🔁 MOVE -- NFL -- 2 moved, 0 pulled (09:35 AM TX)",
+"🔁 MOVE -- NBA -- 1 moved, 0 pulled (09:35 AM TX)"
 ]
 }
