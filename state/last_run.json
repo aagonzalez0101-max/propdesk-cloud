@@ -1,8 +1,11 @@
 {
-"utc": "2026-10-30T18:50:15.673501+00:00",
-"lines": 2829,
-"promos": 0,
+"utc": "2026-10-30T19:00:15.356386+00:00",
+"lines": 4154,
+"promos": 2,
 "alerts": [
-"🔁 MOVE -- NBA -- 1 moved, 0 pulled (01:52 PM TX)"
+"🟢 PROMO -- CFB Darian Mensah Pass Yards: 261.5 -> 200.5 (flash_sale) Sat 10/31 06:30 PM TX (02:07 PM TX)",
+"🟢 PROMO -- CFB Darian Mensah Pass Yards: 259.5 -> 199.5 (flash_sale) Sat 10/31 06:30 PM TX (02:07 PM TX)",
+"🔁 MOVE -- NFL -- 4 moved, 0 pulled (02:07 PM TX)",
+"🔁 MOVE -- NBA -- 0 moved, 1 pulled (02:07 PM TX)"
 ]
 }
