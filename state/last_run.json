@@ -1,8 +1,10 @@
 {
-"utc": "2026-10-31T14:20:15.952589+00:00",
-"lines": 2535,
+"utc": "2026-10-31T14:30:15.274944+00:00",
+"lines": 3931,
 "promos": 2,
 "alerts": [
-"🔁 MOVE -- CFB -- 1 moved, 0 pulled (09:22 AM TX)"
+"🔁 MOVE -- NHL -- 0 moved, 1 pulled (09:35 AM TX)",
+"🔁 MOVE -- NFL -- 0 moved, 1 pulled (09:35 AM TX)",
+"🔁 MOVE -- CFB -- 1 moved, 0 pulled (09:35 AM TX)"
 ]
 }
