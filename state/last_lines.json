@@ -16711,6 +16711,1262 @@
 "ANA",
 "2026-11-01T20:00:00.000-05:00"
 ],
+"16475598": [
+3.0,
+"SOCCER",
+"Paul Nardi",
+"Goalie Saves",
+"Auxerre",
+"2026-11-01T09:00:00.000-05:00"
+],
+"16475430": [
+2.5,
+"SOCCER",
+"Filip Jörgensen",
+"Goalie Saves",
+"Strasbourg",
+"2026-11-01T09:00:00.000-05:00"
+],
+"16255296": [
+38.5,
+"SOCCER",
+"Filip Jörgensen",
+"Passes Attempted",
+"Strasbourg",
+"2026-11-01T09:00:00.000-05:00"
+],
+"16255291": [
+30.5,
+"SOCCER",
+"Paul Nardi",
+"Passes Attempted",
+"Auxerre",
+"2026-11-01T09:00:00.000-05:00"
+],
+"16255298": [
+9.5,
+"SOCCER",
+"Filip Jörgensen",
+"Goalie Fantasy Score",
+"Strasbourg",
+"2026-11-01T09:00:00.000-05:00"
+],
+"16435005": [
+9.5,
+"SOCCER",
+"Paul Nardi",
+"Goalie Fantasy Score",
+"Auxerre",
+"2026-11-01T09:00:00.000-05:00"
+],
+"16493171": [
+42.5,
+"SOCCER",
+"Anthony Lopes",
+"Passes Attempted",
+"Angers",
+"2026-11-01T11:15:00.000-05:00"
+],
+"16492782": [
+34.5,
+"SOCCER",
+"Dominik Greif",
+"Passes Attempted",
+"Lyon",
+"2026-11-01T11:15:00.000-05:00"
+],
+"16492857": [
+74.5,
+"SOCCER",
+"Moussa Niakhaté",
+"Passes Attempted",
+"Lyon",
+"2026-11-01T11:15:00.000-05:00"
+],
+"16416000": [
+4.0,
+"SOCCER",
+"Anthony Lopes",
+"Goalie Saves",
+"Angers",
+"2026-11-01T11:15:00.000-05:00"
+],
+"16415999": [
+2.5,
+"SOCCER",
+"Dominik Greif",
+"Goalie Saves",
+"Lyon",
+"2026-11-01T11:15:00.000-05:00"
+],
+"16494210": [
+3.0,
+"SOCCER",
+"Lukás Hrádecky",
+"Goalie Saves",
+"Monaco",
+"2026-11-01T11:15:00.000-05:00"
+],
+"16494211": [
+2.5,
+"SOCCER",
+"Kevin Trapp",
+"Goalie Saves",
+"Paris FC",
+"2026-11-01T11:15:00.000-05:00"
+],
+"16474448": [
+3.5,
+"SOCCER",
+"Daniel Heuer Fernandes",
+"Goalie Saves",
+"Hamburg",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16474382": [
+2.5,
+"SOCCER",
+"Noah Atubolu",
+"Goalie Saves",
+"Frankfurt",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16490857": [
+1.5,
+"SOCCER",
+"Younes Ebnoutalib",
+"Shots On Target",
+"Frankfurt",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16490918": [
+0.5,
+"SOCCER",
+"Ansgar Knauff",
+"Shots On Target",
+"Frankfurt",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16490919": [
+0.5,
+"SOCCER",
+"Martin Adeline",
+"Shots On Target",
+"Hamburg",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16225947": [
+65.5,
+"SOCCER",
+"Robin Koch",
+"Passes Attempted",
+"Frankfurt",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16276862": [
+39.5,
+"SOCCER",
+"Daniel Heuer Fernandes",
+"Passes Attempted",
+"Hamburg",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16276856": [
+33.5,
+"SOCCER",
+"Noah Atubolu",
+"Passes Attempted",
+"Frankfurt",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16225960": [
+13.5,
+"SOCCER",
+"Robin Koch",
+"Outfield Fantasy Score",
+"Frankfurt",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16225933": [
+12.5,
+"SOCCER",
+"Younes Ebnoutalib",
+"Passes Attempted",
+"Frankfurt",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16225931": [
+10.5,
+"SOCCER",
+"Younes Ebnoutalib",
+"Outfield Fantasy Score",
+"Frankfurt",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16225950": [
+9.5,
+"SOCCER",
+"Robin Koch",
+"Clearances",
+"Frankfurt",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16276857": [
+9.5,
+"SOCCER",
+"Noah Atubolu",
+"Goalie Fantasy Score",
+"Frankfurt",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16276863": [
+9.0,
+"SOCCER",
+"Daniel Heuer Fernandes",
+"Goalie Fantasy Score",
+"Hamburg",
+"2026-11-01T11:30:00.000-05:00"
+],
+"16478331": [
+8.5,
+"SOCCER",
+"Mark McKenzie",
+"Outfield Fantasy Score",
+"Toulouse",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16442107": [
+3.0,
+"SOCCER",
+"Jeffrey de Lange",
+"Goalie Saves",
+"Marseille",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16442403": [
+3.0,
+"SOCCER",
+"Guillaume Restes",
+"Goalie Saves",
+"Toulouse",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16478809": [
+3.0,
+"SOCCER",
+"Casper Tengstedt",
+"Shots",
+"Toulouse",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255556": [
+78.5,
+"SOCCER",
+"Pierre-Emile Højbjerg",
+"Passes Attempted",
+"Marseille",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255593": [
+54.5,
+"SOCCER",
+"Mark McKenzie",
+"Passes Attempted",
+"Toulouse",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255636": [
+40.5,
+"SOCCER",
+"Jeffrey de Lange",
+"Passes Attempted",
+"Marseille",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255639": [
+35.5,
+"SOCCER",
+"Guillaume Restes",
+"Passes Attempted",
+"Toulouse",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255527": [
+30.5,
+"SOCCER",
+"Thomas Jørgensen",
+"Passes Attempted",
+"Toulouse",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255542": [
+24.5,
+"SOCCER",
+"Amine Gouiri",
+"Passes Attempted",
+"Marseille",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255538": [
+13.5,
+"SOCCER",
+"Amine Gouiri",
+"Outfield Fantasy Score",
+"Marseille",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255634": [
+9.5,
+"SOCCER",
+"Guillaume Restes",
+"Goalie Fantasy Score",
+"Toulouse",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255635": [
+9.5,
+"SOCCER",
+"Jeffrey de Lange",
+"Goalie Fantasy Score",
+"Marseille",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255554": [
+9.0,
+"SOCCER",
+"Pierre-Emile Højbjerg",
+"Outfield Fantasy Score",
+"Marseille",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255859": [
+2.5,
+"SOCCER",
+"Igor Paixão",
+"Shots",
+"Marseille",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16255876": [
+2.5,
+"SOCCER",
+"Amine Gouiri",
+"Shots",
+"Marseille",
+"2026-11-01T14:45:00.000-05:00"
+],
+"16483697": [
+9.5,
+"SOCCER",
+"Sandra Paños",
+"Goalie Fantasy Score",
+"San Diego Wave",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491580": [
+1.5,
+"SOCCER",
+"Kennedy Fuller",
+"Shots",
+"Bay",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491581": [
+1.5,
+"SOCCER",
+"Karlie Lema",
+"Shots",
+"Bay",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16489351": [
+9.5,
+"SOCCER",
+"Casey Murphy",
+"Goalie Fantasy Score",
+"Boston Legacy",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490664": [
+3.0,
+"SOCCER",
+"Ally Sentnor",
+"Shots",
+"Angel City",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16489352": [
+9.5,
+"SOCCER",
+"Jane Campbell",
+"Goalie Fantasy Score",
+"Dash",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490599": [
+4.5,
+"SOCCER",
+"Sophia Wilson",
+"Shots",
+"Thorns",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490600": [
+2.0,
+"SOCCER",
+"Kat Rader",
+"Shots",
+"Dash",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490643": [
+2.0,
+"SOCCER",
+"Pietra Tordin",
+"Shots",
+"Thorns",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490650": [
+2.0,
+"SOCCER",
+"Sophia Wilson",
+"Shots On Target",
+"Thorns",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490642": [
+1.5,
+"SOCCER",
+"Kiki Van Zanten",
+"Shots",
+"Dash",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490644": [
+1.5,
+"SOCCER",
+"Reilyn Turner",
+"Shots",
+"Thorns",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16489357": [
+9.5,
+"SOCCER",
+"Cosette Morché",
+"Goalie Fantasy Score",
+"Pride",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16492402": [
+2.5,
+"SOCCER",
+"Temwa Chawinga",
+"Shots",
+"KC Current",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16492403": [
+2.0,
+"SOCCER",
+"Croix Bethune",
+"Shots",
+"KC Current",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16492396": [
+1.5,
+"SOCCER",
+"Kayla Fischer",
+"Shots",
+"Racing Lou",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16492397": [
+1.5,
+"SOCCER",
+"Emma Sears",
+"Shots",
+"Racing Lou",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491570": [
+4.0,
+"SOCCER",
+"Trinity Rodman",
+"Shots",
+"Spirit",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16492411": [
+4.0,
+"SOCCER",
+"Ashley Sanchez",
+"Shots",
+"Courage",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16492422": [
+2.5,
+"SOCCER",
+"Yazmeen Ryan",
+"Shots",
+"Denver",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16492412": [
+2.0,
+"SOCCER",
+"Evelyn Ijeh",
+"Shots",
+"Courage",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16492653": [
+1.5,
+"SOCCER",
+"Ashley Sanchez",
+"Shots On Target",
+"Courage",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16483757": [
+62.5,
+"SOCCER",
+"Kennedy Wesley",
+"Passes Attempted",
+"San Diego Wave",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475269": [
+58.5,
+"SOCCER",
+"Kenza Dali",
+"Passes Attempted",
+"San Diego Wave",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475101": [
+47.5,
+"SOCCER",
+"Perle Morroni",
+"Passes Attempted",
+"San Diego Wave",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475090": [
+45.5,
+"SOCCER",
+"Hannah Bebar",
+"Passes Attempted",
+"Bay",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443649": [
+35.5,
+"SOCCER",
+"Jordan Silkowitz",
+"Passes Attempted",
+"Bay",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475322": [
+35.5,
+"SOCCER",
+"Jenna Nighswonger",
+"Passes Attempted",
+"Bay",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443641": [
+34.5,
+"SOCCER",
+"Sandra Paños",
+"Passes Attempted",
+"San Diego Wave",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443643": [
+9.5,
+"SOCCER",
+"Jordan Silkowitz",
+"Goalie Fantasy Score",
+"Bay",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475033": [
+8.5,
+"SOCCER",
+"Perle Morroni",
+"Outfield Fantasy Score",
+"San Diego Wave",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475098": [
+8.5,
+"SOCCER",
+"Hannah Bebar",
+"Outfield Fantasy Score",
+"Bay",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443634": [
+3.5,
+"SOCCER",
+"Jordan Silkowitz",
+"Goalie Saves",
+"Bay",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443633": [
+2.5,
+"SOCCER",
+"Sandra Paños",
+"Goalie Saves",
+"San Diego Wave",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441692": [
+73.5,
+"SOCCER",
+"Tierna Davidson",
+"Passes Attempted",
+"Gotham FC",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441691": [
+49.5,
+"SOCCER",
+"Jaelin Howell",
+"Passes Attempted",
+"Gotham FC",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441695": [
+43.5,
+"SOCCER",
+"Kate Del Fava",
+"Passes Attempted",
+"Royals",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441689": [
+42.5,
+"SOCCER",
+"Ann-Katrin Berger",
+"Passes Attempted",
+"Gotham FC",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441694": [
+30.5,
+"SOCCER",
+"Narumi Miura",
+"Passes Attempted",
+"Royals",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441690": [
+20.5,
+"SOCCER",
+"Sam Kerr",
+"Passes Attempted",
+"Gotham FC",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441707": [
+10.5,
+"SOCCER",
+"Sam Kerr",
+"Outfield Fantasy Score",
+"Gotham FC",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441699": [
+9.0,
+"SOCCER",
+"Ann-Katrin Berger",
+"Goalie Fantasy Score",
+"Gotham FC",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441705": [
+9.0,
+"SOCCER",
+"Mandy McGlynn",
+"Goalie Fantasy Score",
+"Royals",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441686": [
+3.0,
+"SOCCER",
+"Mandy McGlynn",
+"Goalie Saves",
+"Royals",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441687": [
+3.0,
+"SOCCER",
+"Sam Kerr",
+"Shots",
+"Gotham FC",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441685": [
+2.5,
+"SOCCER",
+"Ann-Katrin Berger",
+"Goalie Saves",
+"Gotham FC",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16441688": [
+0.5,
+"SOCCER",
+"Kate Del Fava",
+"Shots",
+"Royals",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475349": [
+49.5,
+"SOCCER",
+"Sarah Gorden",
+"Passes Attempted",
+"Angel City",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475126": [
+38.5,
+"SOCCER",
+"Alba Caño",
+"Passes Attempted",
+"Boston Legacy",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443640": [
+33.5,
+"SOCCER",
+"Casey Murphy",
+"Passes Attempted",
+"Boston Legacy",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443631": [
+29.5,
+"SOCCER",
+"Angelina Anderson",
+"Passes Attempted",
+"Angel City",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475080": [
+27.5,
+"SOCCER",
+"Ally Sentnor",
+"Passes Attempted",
+"Angel City",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475193": [
+14.5,
+"SOCCER",
+"Aïssata Traoré",
+"Passes Attempted",
+"Boston Legacy",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443630": [
+9.5,
+"SOCCER",
+"Angelina Anderson",
+"Goalie Fantasy Score",
+"Angel City",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443627": [
+3.5,
+"SOCCER",
+"Casey Murphy",
+"Goalie Saves",
+"Boston Legacy",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443626": [
+2.5,
+"SOCCER",
+"Angelina Anderson",
+"Goalie Saves",
+"Angel City",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491543": [
+2.5,
+"SOCCER",
+"Sveindís Jónsdóttir",
+"Shots",
+"Angel City",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491544": [
+2.0,
+"SOCCER",
+"Maiara Niehues",
+"Shots",
+"Angel City",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491545": [
+2.0,
+"SOCCER",
+"Aïssata Traoré",
+"Shots",
+"Boston Legacy",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491546": [
+1.5,
+"SOCCER",
+"Alba Caño",
+"Shots",
+"Boston Legacy",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490214": [
+53.5,
+"SOCCER",
+"Leah Klenke",
+"Passes Attempted",
+"Dash",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443655": [
+40.5,
+"SOCCER",
+"Jane Campbell",
+"Passes Attempted",
+"Dash",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443660": [
+35.5,
+"SOCCER",
+"Mackenzie Arnold",
+"Passes Attempted",
+"Thorns",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475355": [
+23.5,
+"SOCCER",
+"Kat Rader",
+"Passes Attempted",
+"Dash",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475238": [
+20.5,
+"SOCCER",
+"Pietra Tordin",
+"Passes Attempted",
+"Thorns",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475174": [
+19.5,
+"SOCCER",
+"Linda Ullmark",
+"Passes Attempted",
+"Dash",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490232": [
+18.5,
+"SOCCER",
+"Sophia Wilson",
+"Passes Attempted",
+"Thorns",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443651": [
+9.5,
+"SOCCER",
+"Mackenzie Arnold",
+"Goalie Fantasy Score",
+"Thorns",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443637": [
+3.5,
+"SOCCER",
+"Mackenzie Arnold",
+"Goalie Saves",
+"Thorns",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443638": [
+3.5,
+"SOCCER",
+"Jane Campbell",
+"Goalie Saves",
+"Dash",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490294": [
+60.5,
+"SOCCER",
+"Phoebe McClernon",
+"Passes Attempted",
+"Reign",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443671": [
+41.5,
+"SOCCER",
+"Claudia Dickey",
+"Passes Attempted",
+"Reign",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16468955": [
+39.5,
+"SOCCER",
+"Ally Lemos",
+"Passes Attempted",
+"Pride",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443669": [
+29.5,
+"SOCCER",
+"Cosette Morché",
+"Passes Attempted",
+"Pride",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16468987": [
+19.5,
+"SOCCER",
+"Maddie Mercado",
+"Passes Attempted",
+"Reign",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16468959": [
+13.5,
+"SOCCER",
+"Barbra Banda",
+"Passes Attempted",
+"Pride",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443673": [
+10.5,
+"SOCCER",
+"Claudia Dickey",
+"Goalie Fantasy Score",
+"Reign",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443662": [
+4.5,
+"SOCCER",
+"Cosette Morché",
+"Goalie Saves",
+"Pride",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491553": [
+4.0,
+"SOCCER",
+"Barbra Banda",
+"Shots",
+"Pride",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443661": [
+2.5,
+"SOCCER",
+"Claudia Dickey",
+"Goalie Saves",
+"Reign",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491555": [
+2.5,
+"SOCCER",
+"Maddie Mercado",
+"Shots",
+"Reign",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491554": [
+1.5,
+"SOCCER",
+"Solai Washington",
+"Shots",
+"Pride",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491556": [
+1.5,
+"SOCCER",
+"Maddie Dahlien",
+"Shots",
+"Reign",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16492274": [
+36.5,
+"SOCCER",
+"Arin Wright",
+"Passes Attempted",
+"Racing Lou",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16474890": [
+34.5,
+"SOCCER",
+"Croix Bethune",
+"Passes Attempted",
+"KC Current",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16474966": [
+34.5,
+"SOCCER",
+"Izzy Rodriguez",
+"Passes Attempted",
+"KC Current",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443667": [
+32.5,
+"SOCCER",
+"Jordyn Bloomer",
+"Passes Attempted",
+"Racing Lou",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475071": [
+23.5,
+"SOCCER",
+"Katie O'Kane",
+"Passes Attempted",
+"Racing Lou",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443656": [
+21.5,
+"SOCCER",
+"Lorena",
+"Passes Attempted",
+"KC Current",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443665": [
+10.5,
+"SOCCER",
+"Lorena",
+"Goalie Fantasy Score",
+"KC Current",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475106": [
+10.5,
+"SOCCER",
+"Emma Sears",
+"Passes Attempted",
+"Racing Lou",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443666": [
+9.5,
+"SOCCER",
+"Jordyn Bloomer",
+"Goalie Fantasy Score",
+"Racing Lou",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443642": [
+4.0,
+"SOCCER",
+"Jordyn Bloomer",
+"Goalie Saves",
+"Racing Lou",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443639": [
+2.5,
+"SOCCER",
+"Lorena",
+"Goalie Saves",
+"KC Current",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475276": [
+74.5,
+"SOCCER",
+"Tara Rudd",
+"Passes Attempted",
+"Spirit",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16490593": [
+46.5,
+"SOCCER",
+"Sam Staab",
+"Passes Attempted",
+"Chicago Stars",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443674": [
+37.5,
+"SOCCER",
+"Sandy MacIver",
+"Passes Attempted",
+"Spirit",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443679": [
+27.5,
+"SOCCER",
+"Alyssa Naeher",
+"Passes Attempted",
+"Chicago Stars",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16474827": [
+25.5,
+"SOCCER",
+"Trinity Rodman",
+"Passes Attempted",
+"Spirit",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443675": [
+10.5,
+"SOCCER",
+"Sandy MacIver",
+"Goalie Fantasy Score",
+"Spirit",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443678": [
+9.5,
+"SOCCER",
+"Alyssa Naeher",
+"Goalie Fantasy Score",
+"Chicago Stars",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443664": [
+4.5,
+"SOCCER",
+"Alyssa Naeher",
+"Goalie Saves",
+"Chicago Stars",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16491766": [
+64.5,
+"SOCCER",
+"Kaleigh Kurtz",
+"Passes Attempted",
+"Denver",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443652": [
+42.5,
+"SOCCER",
+"Abby Smith",
+"Passes Attempted",
+"Denver",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475132": [
+42.5,
+"SOCCER",
+"Shinomi Koyama",
+"Passes Attempted",
+"Courage",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16475066": [
+38.5,
+"SOCCER",
+"Delanie Sheehan",
+"Passes Attempted",
+"Denver",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443650": [
+37.5,
+"SOCCER",
+"Kailen Sheridan",
+"Passes Attempted",
+"Courage",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16474901": [
+21.5,
+"SOCCER",
+"Ashley Sanchez",
+"Passes Attempted",
+"Courage",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443646": [
+9.5,
+"SOCCER",
+"Kailen Sheridan",
+"Goalie Fantasy Score",
+"Courage",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443658": [
+9.5,
+"SOCCER",
+"Abby Smith",
+"Goalie Fantasy Score",
+"Denver",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443636": [
+3.0,
+"SOCCER",
+"Abby Smith",
+"Goalie Saves",
+"Denver",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443635": [
+2.5,
+"SOCCER",
+"Kailen Sheridan",
+"Goalie Saves",
+"Courage",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16443796": [
+3.5,
+"SOCCER",
+"Óscar García",
+"Goalie Saves",
+"León",
+"2026-11-01T20:10:00.000-05:00"
+],
+"16443795": [
+2.5,
+"SOCCER",
+"Andrés Gudiño",
+"Goalie Saves",
+"Cruz Azul",
+"2026-11-01T20:10:00.000-05:00"
+],
 "16488416": [
 42.5,
 "NBA",
@@ -17407,6 +18663,14 @@
 "ORL",
 "2026-11-01T15:30:00.000-05:00"
 ],
+"16489552": [
+5.5,
+"NBA",
+"Jayson Tatum",
+"Free Throws Made",
+"BOS",
+"2026-11-01T15:30:00.000-05:00"
+],
 "16489561": [
 5.5,
 "NBA",
@@ -17583,6 +18847,14 @@
 "ORL",
 "2026-11-01T15:30:00.000-05:00"
 ],
+"16491106": [
+2.5,
+"NBA",
+"Derrick White",
+"Two Pointers Made",
+"BOS",
+"2026-11-01T15:30:00.000-05:00"
+],
 "16488432": [
 1.5,
 "NBA",
@@ -17603,6 +18875,14 @@
 1.5,
 "NBA",
 "Mitchell Robinson",
+"Blks+Stls",
+"BOS",
+"2026-11-01T15:30:00.000-05:00"
+],
+"16489532": [
+1.5,
+"NBA",
+"Jayson Tatum",
 "Blks+Stls",
 "BOS",
 "2026-11-01T15:30:00.000-05:00"
@@ -17636,6 +18916,14 @@
 "NBA",
 "Derrick White",
 "Turnovers",
+"BOS",
+"2026-11-01T15:30:00.000-05:00"
+],
+"16489635": [
+1.5,
+"NBA",
+"Jordan Walsh",
+"FG Made",
 "BOS",
 "2026-11-01T15:30:00.000-05:00"
 ],
@@ -17932,6 +19220,14 @@
 "NBA",
 "Nolan Traore",
 "Pts+Asts",
+"BKN",
+"2026-11-01T17:00:00.000-05:00"
+],
+"16509898": [
+16.5,
+"NBA",
+"Moritz Wagner",
+"Pts+Rebs+Asts",
 "BKN",
 "2026-11-01T17:00:00.000-05:00"
 ],
@@ -18679,14 +19975,6 @@
 "IND",
 "2026-11-01T17:00:00.000-05:00"
 ],
-"16489901": [
-1.5,
-"NBA",
-"Nolan Traore",
-"Blks+Stls",
-"BKN",
-"2026-11-01T17:00:00.000-05:00"
-],
 "16490532": [
 1.5,
 "NBA",
@@ -18700,14 +19988,6 @@
 "NBA",
 "Obi Toppin",
 "Free Throws Made",
-"IND",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16493784": [
-1.5,
-"NBA",
-"Jarace Walker",
-"3-PT Made",
 "IND",
 "2026-11-01T17:00:00.000-05:00"
 ],
@@ -18727,12 +20007,12 @@
 "IND",
 "2026-11-01T17:00:00.000-05:00"
 ],
-"16505970": [
+"16509886": [
 1.5,
 "NBA",
-"Obi Toppin",
+"Moritz Wagner",
 "Assists",
-"IND",
+"BKN",
 "2026-11-01T17:00:00.000-05:00"
 ],
 "16489895": [
@@ -20710,1262 +21990,6 @@
 "Dunks",
 "LAL",
 "2026-11-01T21:10:00.000-05:00"
-],
-"16475598": [
-3.0,
-"SOCCER",
-"Paul Nardi",
-"Goalie Saves",
-"Auxerre",
-"2026-11-01T09:00:00.000-05:00"
-],
-"16475430": [
-2.5,
-"SOCCER",
-"Filip Jörgensen",
-"Goalie Saves",
-"Strasbourg",
-"2026-11-01T09:00:00.000-05:00"
-],
-"16255296": [
-38.5,
-"SOCCER",
-"Filip Jörgensen",
-"Passes Attempted",
-"Strasbourg",
-"2026-11-01T09:00:00.000-05:00"
-],
-"16255291": [
-30.5,
-"SOCCER",
-"Paul Nardi",
-"Passes Attempted",
-"Auxerre",
-"2026-11-01T09:00:00.000-05:00"
-],
-"16255298": [
-9.5,
-"SOCCER",
-"Filip Jörgensen",
-"Goalie Fantasy Score",
-"Strasbourg",
-"2026-11-01T09:00:00.000-05:00"
-],
-"16435005": [
-9.5,
-"SOCCER",
-"Paul Nardi",
-"Goalie Fantasy Score",
-"Auxerre",
-"2026-11-01T09:00:00.000-05:00"
-],
-"16493171": [
-42.5,
-"SOCCER",
-"Anthony Lopes",
-"Passes Attempted",
-"Angers",
-"2026-11-01T11:15:00.000-05:00"
-],
-"16492782": [
-34.5,
-"SOCCER",
-"Dominik Greif",
-"Passes Attempted",
-"Lyon",
-"2026-11-01T11:15:00.000-05:00"
-],
-"16492857": [
-74.5,
-"SOCCER",
-"Moussa Niakhaté",
-"Passes Attempted",
-"Lyon",
-"2026-11-01T11:15:00.000-05:00"
-],
-"16416000": [
-4.0,
-"SOCCER",
-"Anthony Lopes",
-"Goalie Saves",
-"Angers",
-"2026-11-01T11:15:00.000-05:00"
-],
-"16415999": [
-2.5,
-"SOCCER",
-"Dominik Greif",
-"Goalie Saves",
-"Lyon",
-"2026-11-01T11:15:00.000-05:00"
-],
-"16494210": [
-3.0,
-"SOCCER",
-"Lukás Hrádecky",
-"Goalie Saves",
-"Monaco",
-"2026-11-01T11:15:00.000-05:00"
-],
-"16494211": [
-2.5,
-"SOCCER",
-"Kevin Trapp",
-"Goalie Saves",
-"Paris FC",
-"2026-11-01T11:15:00.000-05:00"
-],
-"16474448": [
-3.5,
-"SOCCER",
-"Daniel Heuer Fernandes",
-"Goalie Saves",
-"Hamburg",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16474382": [
-2.5,
-"SOCCER",
-"Noah Atubolu",
-"Goalie Saves",
-"Frankfurt",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16490857": [
-1.5,
-"SOCCER",
-"Younes Ebnoutalib",
-"Shots On Target",
-"Frankfurt",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16490918": [
-0.5,
-"SOCCER",
-"Ansgar Knauff",
-"Shots On Target",
-"Frankfurt",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16490919": [
-0.5,
-"SOCCER",
-"Martin Adeline",
-"Shots On Target",
-"Hamburg",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16225947": [
-65.5,
-"SOCCER",
-"Robin Koch",
-"Passes Attempted",
-"Frankfurt",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16276862": [
-39.5,
-"SOCCER",
-"Daniel Heuer Fernandes",
-"Passes Attempted",
-"Hamburg",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16276856": [
-33.5,
-"SOCCER",
-"Noah Atubolu",
-"Passes Attempted",
-"Frankfurt",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16225960": [
-13.5,
-"SOCCER",
-"Robin Koch",
-"Outfield Fantasy Score",
-"Frankfurt",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16225933": [
-12.5,
-"SOCCER",
-"Younes Ebnoutalib",
-"Passes Attempted",
-"Frankfurt",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16225931": [
-10.5,
-"SOCCER",
-"Younes Ebnoutalib",
-"Outfield Fantasy Score",
-"Frankfurt",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16225950": [
-9.5,
-"SOCCER",
-"Robin Koch",
-"Clearances",
-"Frankfurt",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16276857": [
-9.5,
-"SOCCER",
-"Noah Atubolu",
-"Goalie Fantasy Score",
-"Frankfurt",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16276863": [
-9.0,
-"SOCCER",
-"Daniel Heuer Fernandes",
-"Goalie Fantasy Score",
-"Hamburg",
-"2026-11-01T11:30:00.000-05:00"
-],
-"16478331": [
-8.5,
-"SOCCER",
-"Mark McKenzie",
-"Outfield Fantasy Score",
-"Toulouse",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16442107": [
-3.0,
-"SOCCER",
-"Jeffrey de Lange",
-"Goalie Saves",
-"Marseille",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16442403": [
-3.0,
-"SOCCER",
-"Guillaume Restes",
-"Goalie Saves",
-"Toulouse",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16478809": [
-3.0,
-"SOCCER",
-"Casper Tengstedt",
-"Shots",
-"Toulouse",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255556": [
-78.5,
-"SOCCER",
-"Pierre-Emile Højbjerg",
-"Passes Attempted",
-"Marseille",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255593": [
-54.5,
-"SOCCER",
-"Mark McKenzie",
-"Passes Attempted",
-"Toulouse",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255636": [
-40.5,
-"SOCCER",
-"Jeffrey de Lange",
-"Passes Attempted",
-"Marseille",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255639": [
-35.5,
-"SOCCER",
-"Guillaume Restes",
-"Passes Attempted",
-"Toulouse",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255527": [
-30.5,
-"SOCCER",
-"Thomas Jørgensen",
-"Passes Attempted",
-"Toulouse",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255542": [
-24.5,
-"SOCCER",
-"Amine Gouiri",
-"Passes Attempted",
-"Marseille",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255538": [
-13.5,
-"SOCCER",
-"Amine Gouiri",
-"Outfield Fantasy Score",
-"Marseille",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255634": [
-9.5,
-"SOCCER",
-"Guillaume Restes",
-"Goalie Fantasy Score",
-"Toulouse",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255635": [
-9.5,
-"SOCCER",
-"Jeffrey de Lange",
-"Goalie Fantasy Score",
-"Marseille",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255554": [
-9.0,
-"SOCCER",
-"Pierre-Emile Højbjerg",
-"Outfield Fantasy Score",
-"Marseille",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255859": [
-2.5,
-"SOCCER",
-"Igor Paixão",
-"Shots",
-"Marseille",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16255876": [
-2.5,
-"SOCCER",
-"Amine Gouiri",
-"Shots",
-"Marseille",
-"2026-11-01T14:45:00.000-05:00"
-],
-"16483697": [
-9.5,
-"SOCCER",
-"Sandra Paños",
-"Goalie Fantasy Score",
-"San Diego Wave",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491580": [
-1.5,
-"SOCCER",
-"Kennedy Fuller",
-"Shots",
-"Bay",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491581": [
-1.5,
-"SOCCER",
-"Karlie Lema",
-"Shots",
-"Bay",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16489351": [
-9.5,
-"SOCCER",
-"Casey Murphy",
-"Goalie Fantasy Score",
-"Boston Legacy",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490664": [
-3.0,
-"SOCCER",
-"Ally Sentnor",
-"Shots",
-"Angel City",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16489352": [
-9.5,
-"SOCCER",
-"Jane Campbell",
-"Goalie Fantasy Score",
-"Dash",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490599": [
-4.5,
-"SOCCER",
-"Sophia Wilson",
-"Shots",
-"Thorns",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490600": [
-2.0,
-"SOCCER",
-"Kat Rader",
-"Shots",
-"Dash",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490643": [
-2.0,
-"SOCCER",
-"Pietra Tordin",
-"Shots",
-"Thorns",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490650": [
-2.0,
-"SOCCER",
-"Sophia Wilson",
-"Shots On Target",
-"Thorns",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490642": [
-1.5,
-"SOCCER",
-"Kiki Van Zanten",
-"Shots",
-"Dash",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490644": [
-1.5,
-"SOCCER",
-"Reilyn Turner",
-"Shots",
-"Thorns",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16489357": [
-9.5,
-"SOCCER",
-"Cosette Morché",
-"Goalie Fantasy Score",
-"Pride",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16492402": [
-2.5,
-"SOCCER",
-"Temwa Chawinga",
-"Shots",
-"KC Current",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16492403": [
-2.0,
-"SOCCER",
-"Croix Bethune",
-"Shots",
-"KC Current",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16492396": [
-1.5,
-"SOCCER",
-"Kayla Fischer",
-"Shots",
-"Racing Lou",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16492397": [
-1.5,
-"SOCCER",
-"Emma Sears",
-"Shots",
-"Racing Lou",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491570": [
-4.0,
-"SOCCER",
-"Trinity Rodman",
-"Shots",
-"Spirit",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16492411": [
-4.0,
-"SOCCER",
-"Ashley Sanchez",
-"Shots",
-"Courage",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16492422": [
-2.5,
-"SOCCER",
-"Yazmeen Ryan",
-"Shots",
-"Denver",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16492412": [
-2.0,
-"SOCCER",
-"Evelyn Ijeh",
-"Shots",
-"Courage",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16492653": [
-1.5,
-"SOCCER",
-"Ashley Sanchez",
-"Shots On Target",
-"Courage",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16483757": [
-62.5,
-"SOCCER",
-"Kennedy Wesley",
-"Passes Attempted",
-"San Diego Wave",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475269": [
-58.5,
-"SOCCER",
-"Kenza Dali",
-"Passes Attempted",
-"San Diego Wave",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475101": [
-47.5,
-"SOCCER",
-"Perle Morroni",
-"Passes Attempted",
-"San Diego Wave",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475090": [
-45.5,
-"SOCCER",
-"Hannah Bebar",
-"Passes Attempted",
-"Bay",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443649": [
-35.5,
-"SOCCER",
-"Jordan Silkowitz",
-"Passes Attempted",
-"Bay",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475322": [
-35.5,
-"SOCCER",
-"Jenna Nighswonger",
-"Passes Attempted",
-"Bay",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443641": [
-34.5,
-"SOCCER",
-"Sandra Paños",
-"Passes Attempted",
-"San Diego Wave",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443643": [
-9.5,
-"SOCCER",
-"Jordan Silkowitz",
-"Goalie Fantasy Score",
-"Bay",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475033": [
-8.5,
-"SOCCER",
-"Perle Morroni",
-"Outfield Fantasy Score",
-"San Diego Wave",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475098": [
-8.5,
-"SOCCER",
-"Hannah Bebar",
-"Outfield Fantasy Score",
-"Bay",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443634": [
-3.5,
-"SOCCER",
-"Jordan Silkowitz",
-"Goalie Saves",
-"Bay",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443633": [
-2.5,
-"SOCCER",
-"Sandra Paños",
-"Goalie Saves",
-"San Diego Wave",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441692": [
-73.5,
-"SOCCER",
-"Tierna Davidson",
-"Passes Attempted",
-"Gotham FC",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441691": [
-49.5,
-"SOCCER",
-"Jaelin Howell",
-"Passes Attempted",
-"Gotham FC",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441695": [
-43.5,
-"SOCCER",
-"Kate Del Fava",
-"Passes Attempted",
-"Royals",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441689": [
-42.5,
-"SOCCER",
-"Ann-Katrin Berger",
-"Passes Attempted",
-"Gotham FC",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441694": [
-30.5,
-"SOCCER",
-"Narumi Miura",
-"Passes Attempted",
-"Royals",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441690": [
-20.5,
-"SOCCER",
-"Sam Kerr",
-"Passes Attempted",
-"Gotham FC",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441707": [
-10.5,
-"SOCCER",
-"Sam Kerr",
-"Outfield Fantasy Score",
-"Gotham FC",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441699": [
-9.0,
-"SOCCER",
-"Ann-Katrin Berger",
-"Goalie Fantasy Score",
-"Gotham FC",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441705": [
-9.0,
-"SOCCER",
-"Mandy McGlynn",
-"Goalie Fantasy Score",
-"Royals",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441686": [
-3.0,
-"SOCCER",
-"Mandy McGlynn",
-"Goalie Saves",
-"Royals",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441687": [
-3.0,
-"SOCCER",
-"Sam Kerr",
-"Shots",
-"Gotham FC",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441685": [
-2.5,
-"SOCCER",
-"Ann-Katrin Berger",
-"Goalie Saves",
-"Gotham FC",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16441688": [
-0.5,
-"SOCCER",
-"Kate Del Fava",
-"Shots",
-"Royals",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475349": [
-49.5,
-"SOCCER",
-"Sarah Gorden",
-"Passes Attempted",
-"Angel City",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475126": [
-38.5,
-"SOCCER",
-"Alba Caño",
-"Passes Attempted",
-"Boston Legacy",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443640": [
-33.5,
-"SOCCER",
-"Casey Murphy",
-"Passes Attempted",
-"Boston Legacy",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443631": [
-29.5,
-"SOCCER",
-"Angelina Anderson",
-"Passes Attempted",
-"Angel City",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475080": [
-27.5,
-"SOCCER",
-"Ally Sentnor",
-"Passes Attempted",
-"Angel City",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475193": [
-14.5,
-"SOCCER",
-"Aïssata Traoré",
-"Passes Attempted",
-"Boston Legacy",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443630": [
-9.5,
-"SOCCER",
-"Angelina Anderson",
-"Goalie Fantasy Score",
-"Angel City",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443627": [
-3.5,
-"SOCCER",
-"Casey Murphy",
-"Goalie Saves",
-"Boston Legacy",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443626": [
-2.5,
-"SOCCER",
-"Angelina Anderson",
-"Goalie Saves",
-"Angel City",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491543": [
-2.5,
-"SOCCER",
-"Sveindís Jónsdóttir",
-"Shots",
-"Angel City",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491544": [
-2.0,
-"SOCCER",
-"Maiara Niehues",
-"Shots",
-"Angel City",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491545": [
-2.0,
-"SOCCER",
-"Aïssata Traoré",
-"Shots",
-"Boston Legacy",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491546": [
-1.5,
-"SOCCER",
-"Alba Caño",
-"Shots",
-"Boston Legacy",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490214": [
-53.5,
-"SOCCER",
-"Leah Klenke",
-"Passes Attempted",
-"Dash",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443655": [
-40.5,
-"SOCCER",
-"Jane Campbell",
-"Passes Attempted",
-"Dash",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443660": [
-35.5,
-"SOCCER",
-"Mackenzie Arnold",
-"Passes Attempted",
-"Thorns",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475355": [
-23.5,
-"SOCCER",
-"Kat Rader",
-"Passes Attempted",
-"Dash",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475238": [
-20.5,
-"SOCCER",
-"Pietra Tordin",
-"Passes Attempted",
-"Thorns",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475174": [
-19.5,
-"SOCCER",
-"Linda Ullmark",
-"Passes Attempted",
-"Dash",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490232": [
-18.5,
-"SOCCER",
-"Sophia Wilson",
-"Passes Attempted",
-"Thorns",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443651": [
-9.5,
-"SOCCER",
-"Mackenzie Arnold",
-"Goalie Fantasy Score",
-"Thorns",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443637": [
-3.5,
-"SOCCER",
-"Mackenzie Arnold",
-"Goalie Saves",
-"Thorns",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443638": [
-3.5,
-"SOCCER",
-"Jane Campbell",
-"Goalie Saves",
-"Dash",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490294": [
-60.5,
-"SOCCER",
-"Phoebe McClernon",
-"Passes Attempted",
-"Reign",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443671": [
-41.5,
-"SOCCER",
-"Claudia Dickey",
-"Passes Attempted",
-"Reign",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16468955": [
-39.5,
-"SOCCER",
-"Ally Lemos",
-"Passes Attempted",
-"Pride",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443669": [
-29.5,
-"SOCCER",
-"Cosette Morché",
-"Passes Attempted",
-"Pride",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16468987": [
-19.5,
-"SOCCER",
-"Maddie Mercado",
-"Passes Attempted",
-"Reign",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16468959": [
-13.5,
-"SOCCER",
-"Barbra Banda",
-"Passes Attempted",
-"Pride",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443673": [
-10.5,
-"SOCCER",
-"Claudia Dickey",
-"Goalie Fantasy Score",
-"Reign",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443662": [
-4.5,
-"SOCCER",
-"Cosette Morché",
-"Goalie Saves",
-"Pride",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491553": [
-4.0,
-"SOCCER",
-"Barbra Banda",
-"Shots",
-"Pride",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443661": [
-2.5,
-"SOCCER",
-"Claudia Dickey",
-"Goalie Saves",
-"Reign",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491555": [
-2.5,
-"SOCCER",
-"Maddie Mercado",
-"Shots",
-"Reign",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491554": [
-1.5,
-"SOCCER",
-"Solai Washington",
-"Shots",
-"Pride",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491556": [
-1.5,
-"SOCCER",
-"Maddie Dahlien",
-"Shots",
-"Reign",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16492274": [
-36.5,
-"SOCCER",
-"Arin Wright",
-"Passes Attempted",
-"Racing Lou",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16474890": [
-34.5,
-"SOCCER",
-"Croix Bethune",
-"Passes Attempted",
-"KC Current",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16474966": [
-34.5,
-"SOCCER",
-"Izzy Rodriguez",
-"Passes Attempted",
-"KC Current",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443667": [
-32.5,
-"SOCCER",
-"Jordyn Bloomer",
-"Passes Attempted",
-"Racing Lou",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475071": [
-23.5,
-"SOCCER",
-"Katie O'Kane",
-"Passes Attempted",
-"Racing Lou",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443656": [
-21.5,
-"SOCCER",
-"Lorena",
-"Passes Attempted",
-"KC Current",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443665": [
-10.5,
-"SOCCER",
-"Lorena",
-"Goalie Fantasy Score",
-"KC Current",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475106": [
-10.5,
-"SOCCER",
-"Emma Sears",
-"Passes Attempted",
-"Racing Lou",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443666": [
-9.5,
-"SOCCER",
-"Jordyn Bloomer",
-"Goalie Fantasy Score",
-"Racing Lou",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443642": [
-4.0,
-"SOCCER",
-"Jordyn Bloomer",
-"Goalie Saves",
-"Racing Lou",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443639": [
-2.5,
-"SOCCER",
-"Lorena",
-"Goalie Saves",
-"KC Current",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475276": [
-74.5,
-"SOCCER",
-"Tara Rudd",
-"Passes Attempted",
-"Spirit",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16490593": [
-46.5,
-"SOCCER",
-"Sam Staab",
-"Passes Attempted",
-"Chicago Stars",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443674": [
-37.5,
-"SOCCER",
-"Sandy MacIver",
-"Passes Attempted",
-"Spirit",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443679": [
-27.5,
-"SOCCER",
-"Alyssa Naeher",
-"Passes Attempted",
-"Chicago Stars",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16474827": [
-25.5,
-"SOCCER",
-"Trinity Rodman",
-"Passes Attempted",
-"Spirit",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443675": [
-10.5,
-"SOCCER",
-"Sandy MacIver",
-"Goalie Fantasy Score",
-"Spirit",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443678": [
-9.5,
-"SOCCER",
-"Alyssa Naeher",
-"Goalie Fantasy Score",
-"Chicago Stars",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443664": [
-4.5,
-"SOCCER",
-"Alyssa Naeher",
-"Goalie Saves",
-"Chicago Stars",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16491766": [
-64.5,
-"SOCCER",
-"Kaleigh Kurtz",
-"Passes Attempted",
-"Denver",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443652": [
-42.5,
-"SOCCER",
-"Abby Smith",
-"Passes Attempted",
-"Denver",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475132": [
-42.5,
-"SOCCER",
-"Shinomi Koyama",
-"Passes Attempted",
-"Courage",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16475066": [
-38.5,
-"SOCCER",
-"Delanie Sheehan",
-"Passes Attempted",
-"Denver",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443650": [
-37.5,
-"SOCCER",
-"Kailen Sheridan",
-"Passes Attempted",
-"Courage",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16474901": [
-21.5,
-"SOCCER",
-"Ashley Sanchez",
-"Passes Attempted",
-"Courage",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443646": [
-9.5,
-"SOCCER",
-"Kailen Sheridan",
-"Goalie Fantasy Score",
-"Courage",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443658": [
-9.5,
-"SOCCER",
-"Abby Smith",
-"Goalie Fantasy Score",
-"Denver",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443636": [
-3.0,
-"SOCCER",
-"Abby Smith",
-"Goalie Saves",
-"Denver",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443635": [
-2.5,
-"SOCCER",
-"Kailen Sheridan",
-"Goalie Saves",
-"Courage",
-"2026-11-01T17:00:00.000-05:00"
-],
-"16443796": [
-3.5,
-"SOCCER",
-"Óscar García",
-"Goalie Saves",
-"León",
-"2026-11-01T20:10:00.000-05:00"
-],
-"16443795": [
-2.5,
-"SOCCER",
-"Andrés Gudiño",
-"Goalie Saves",
-"Cruz Azul",
-"2026-11-01T20:10:00.000-05:00"
 ],
 "16489443": [
 44.5,
