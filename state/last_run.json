@@ -1,9 +1,10 @@
 {
-"utc": "2026-11-11T16:50:15.981121+00:00",
-"lines": 2232,
-"promos": 0,
+"utc": "2026-11-11T17:00:15.629237+00:00",
+"lines": 3430,
+"promos": 1,
 "alerts": [
-"🔁 MOVE -- NBA -- 0 moved, 2 pulled (10:52 AM TX)",
-"🔁 MOVE -- CFB -- 2 moved, 0 pulled (10:52 AM TX)"
+"🔁 MOVE -- NFL -- 1 moved, 0 pulled (11:07 AM TX)",
+"🔁 MOVE -- NBA -- 2 moved, 1 pulled (11:07 AM TX)",
+"💰 VALUE -- NBA Nolan Traore Points MORE 10.5 -- Pinnacle 64% at PP's number (b/e 57.7%) (11:07 AM TX)"
 ]
 }
