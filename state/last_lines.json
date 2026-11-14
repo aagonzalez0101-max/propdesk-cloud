@@ -16592,7 +16592,7 @@
 "2026-11-14T20:00:00.000-05:00"
 ],
 "16974963": [
-20.5,
+21.5,
 "NBA",
 "Michael Porter Jr.",
 "Points",
@@ -16751,14 +16751,6 @@
 "MEM",
 "2026-11-14T20:00:00.000-05:00"
 ],
-"16974993": [
-8.5,
-"NBA",
-"Michael Porter Jr.",
-"Rebs+Asts",
-"BKN",
-"2026-11-14T20:00:00.000-05:00"
-],
 "16975033": [
 8.5,
 "NBA",
@@ -16902,6 +16894,30 @@
 "Steals",
 "BKN",
 "2026-11-14T20:00:00.000-05:00"
+],
+"16973129": [
+0.5,
+"NBA",
+"Julius Randle",
+"Dunks",
+"BKN",
+"2026-11-14T20:10:00.000-05:00"
+],
+"16973221": [
+0.5,
+"NBA",
+"Jaylen Wells",
+"Offensive Rebounds",
+"MEM",
+"2026-11-14T20:10:00.000-05:00"
+],
+"16973223": [
+0.5,
+"NBA",
+"Ty Jerome",
+"Offensive Rebounds",
+"MEM",
+"2026-11-14T20:10:00.000-05:00"
 ],
 "16968135": [
 302.5,
@@ -18760,7 +18776,7 @@
 "2026-11-14T12:30:00.000-05:00"
 ],
 "16954156": [
-42.5,
+40.5,
 "CFB",
 "Jordan Allen",
 "Receiving Yards",
@@ -21511,414 +21527,6 @@
 "BC",
 "2026-11-14T15:30:00.000-05:00"
 ],
-"16938520": [
-234.5,
-"CFB",
-"Demond Williams Jr.",
-"Pass+Rush Yds",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16938507": [
-200.5,
-"CFB",
-"Demond Williams Jr.",
-"Pass Yards",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921209": [
-189.5,
-"CFB",
-"Alessio Milivojevic",
-"Pass+Rush Yds",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921140": [
-188.5,
-"CFB",
-"Alessio Milivojevic",
-"Pass Yards",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921186": [
-70.5,
-"CFB",
-"Brandon Tullis",
-"Rush+Rec Yds",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921177": [
-68.5,
-"CFB",
-"Jayden Limar",
-"Rush+Rec Yds",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921184": [
-64.5,
-"CFB",
-"Kenneth Williams",
-"Rush+Rec Yds",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921170": [
-59.5,
-"CFB",
-"Chris Lawson",
-"Receiving Yards",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921205": [
-55.5,
-"CFB",
-"Brandon Tullis",
-"Rush Yards",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921214": [
-54.5,
-"CFB",
-"Jayden Limar",
-"Rush Yards",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921206": [
-49.5,
-"CFB",
-"Dezmen Roebuck",
-"Receiving Yards",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921167": [
-46.5,
-"CFB",
-"Chrishon McCray",
-"Receiving Yards",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921195": [
-44.5,
-"CFB",
-"Kenneth Williams",
-"Rush Yards",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921163": [
-36.5,
-"CFB",
-"Alessio Milivojevic",
-"Longest Completion",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16938521": [
-36.5,
-"CFB",
-"Demond Williams Jr.",
-"Longest Completion",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921194": [
-30.5,
-"CFB",
-"Fredrick Moore",
-"Receiving Yards",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921210": [
-29.5,
-"CFB",
-"Rashid Williams",
-"Receiving Yards",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16938490": [
-29.0,
-"CFB",
-"Demond Williams Jr.",
-"Pass Attempts",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921125": [
-28.0,
-"CFB",
-"Alessio Milivojevic",
-"Pass Attempts",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16938509": [
-27.5,
-"CFB",
-"Demond Williams Jr.",
-"Rush Yards",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921207": [
-22.5,
-"CFB",
-"Chris Lawson",
-"Longest Reception",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921157": [
-21.5,
-"CFB",
-"Chrishon McCray",
-"Longest Reception",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921182": [
-19.5,
-"CFB",
-"Dezmen Roebuck",
-"Longest Reception",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921164": [
-18.5,
-"CFB",
-"Brennan Parachek",
-"Receiving Yards",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16938519": [
-18.5,
-"CFB",
-"Demond Williams Jr.",
-"Pass Completions",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921193": [
-17.5,
-"CFB",
-"Fredrick Moore",
-"Longest Reception",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921180": [
-16.5,
-"CFB",
-"Rashid Williams",
-"Longest Reception",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921185": [
-16.5,
-"CFB",
-"Jayden Limar",
-"Longest Rush",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921198": [
-16.5,
-"CFB",
-"Bryson Williams",
-"Receiving Yards",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16925732": [
-16.0,
-"CFB",
-"Alessio Milivojevic",
-"Pass Completions",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921175": [
-15.5,
-"CFB",
-"Brandon Tullis",
-"Longest Rush",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921191": [
-14.5,
-"CFB",
-"Kenneth Williams",
-"Receiving Yards",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16938523": [
-14.5,
-"CFB",
-"Demond Williams Jr.",
-"Longest Rush",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921178": [
-13.5,
-"CFB",
-"Kenneth Williams",
-"Longest Rush",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921156": [
-13.0,
-"CFB",
-"Brandon Tullis",
-"Rush Attempts",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921152": [
-12.5,
-"CFB",
-"Jayden Limar",
-"Rush Attempts",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921160": [
-12.5,
-"CFB",
-"Bryson Williams",
-"Longest Reception",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921188": [
-11.5,
-"CFB",
-"Brennan Parachek",
-"Longest Reception",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921165": [
-10.5,
-"CFB",
-"Brandon Tullis",
-"Receiving Yards",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16925731": [
-10.5,
-"CFB",
-"Kenneth Williams",
-"Rush Attempts",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16954973": [
-10.5,
-"CFB",
-"Demond Williams Jr.",
-"Rush Attempts",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921159": [
-9.5,
-"CFB",
-"Kenneth Williams",
-"Longest Reception",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921166": [
-8.5,
-"CFB",
-"Alessio Milivojevic",
-"Longest Rush",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921183": [
-7.5,
-"CFB",
-"Brandon Tullis",
-"Longest Reception",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921161": [
-6.5,
-"CFB",
-"Alessio Milivojevic",
-"Rush Attempts",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921173": [
-6.5,
-"CFB",
-"Jayden Limar",
-"Receiving Yards",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16928343": [
-6.0,
-"CFB",
-"Tyler Robles",
-"Kicking Points",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921172": [
-5.5,
-"CFB",
-"Jayden Limar",
-"Longest Reception",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921208": [
-4.5,
-"CFB",
-"Dezmen Roebuck",
-"Rush Yards",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921119": [
-2.5,
-"CFB",
-"Tyler Robles",
-"PAT Made",
-"WASH",
-"2026-11-14T16:15:00.000-05:00"
-],
-"16921212": [
-2.5,
-"CFB",
-"Fredrick Moore",
-"Receptions",
-"MSU",
-"2026-11-14T16:15:00.000-05:00"
-],
 "16887716": [
 285.5,
 "CFB",
@@ -22390,6 +21998,414 @@
 "Pass TDs",
 "OKLA",
 "2026-11-14T16:15:00.000-05:00"
+],
+"16938520": [
+234.5,
+"CFB",
+"Demond Williams Jr.",
+"Pass+Rush Yds",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16938507": [
+200.5,
+"CFB",
+"Demond Williams Jr.",
+"Pass Yards",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921209": [
+189.5,
+"CFB",
+"Alessio Milivojevic",
+"Pass+Rush Yds",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921140": [
+188.5,
+"CFB",
+"Alessio Milivojevic",
+"Pass Yards",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921186": [
+70.5,
+"CFB",
+"Brandon Tullis",
+"Rush+Rec Yds",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921177": [
+68.5,
+"CFB",
+"Jayden Limar",
+"Rush+Rec Yds",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921184": [
+64.5,
+"CFB",
+"Kenneth Williams",
+"Rush+Rec Yds",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921170": [
+59.5,
+"CFB",
+"Chris Lawson",
+"Receiving Yards",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921205": [
+55.5,
+"CFB",
+"Brandon Tullis",
+"Rush Yards",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921214": [
+54.5,
+"CFB",
+"Jayden Limar",
+"Rush Yards",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921206": [
+49.5,
+"CFB",
+"Dezmen Roebuck",
+"Receiving Yards",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921167": [
+46.5,
+"CFB",
+"Chrishon McCray",
+"Receiving Yards",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921195": [
+44.5,
+"CFB",
+"Kenneth Williams",
+"Rush Yards",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921163": [
+36.5,
+"CFB",
+"Alessio Milivojevic",
+"Longest Completion",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16938521": [
+36.5,
+"CFB",
+"Demond Williams Jr.",
+"Longest Completion",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921194": [
+30.5,
+"CFB",
+"Fredrick Moore",
+"Receiving Yards",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921210": [
+30.5,
+"CFB",
+"Rashid Williams",
+"Receiving Yards",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16938490": [
+29.0,
+"CFB",
+"Demond Williams Jr.",
+"Pass Attempts",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921125": [
+28.0,
+"CFB",
+"Alessio Milivojevic",
+"Pass Attempts",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16938509": [
+27.5,
+"CFB",
+"Demond Williams Jr.",
+"Rush Yards",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921207": [
+22.5,
+"CFB",
+"Chris Lawson",
+"Longest Reception",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921157": [
+21.5,
+"CFB",
+"Chrishon McCray",
+"Longest Reception",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921182": [
+19.5,
+"CFB",
+"Dezmen Roebuck",
+"Longest Reception",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921164": [
+18.5,
+"CFB",
+"Brennan Parachek",
+"Receiving Yards",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16938519": [
+18.5,
+"CFB",
+"Demond Williams Jr.",
+"Pass Completions",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921193": [
+17.5,
+"CFB",
+"Fredrick Moore",
+"Longest Reception",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921180": [
+16.5,
+"CFB",
+"Rashid Williams",
+"Longest Reception",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921185": [
+16.5,
+"CFB",
+"Jayden Limar",
+"Longest Rush",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921198": [
+16.5,
+"CFB",
+"Bryson Williams",
+"Receiving Yards",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16925732": [
+16.0,
+"CFB",
+"Alessio Milivojevic",
+"Pass Completions",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921175": [
+15.5,
+"CFB",
+"Brandon Tullis",
+"Longest Rush",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921191": [
+14.5,
+"CFB",
+"Kenneth Williams",
+"Receiving Yards",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16938523": [
+14.5,
+"CFB",
+"Demond Williams Jr.",
+"Longest Rush",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921178": [
+13.5,
+"CFB",
+"Kenneth Williams",
+"Longest Rush",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921156": [
+13.0,
+"CFB",
+"Brandon Tullis",
+"Rush Attempts",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921152": [
+12.5,
+"CFB",
+"Jayden Limar",
+"Rush Attempts",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921160": [
+12.5,
+"CFB",
+"Bryson Williams",
+"Longest Reception",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921188": [
+11.5,
+"CFB",
+"Brennan Parachek",
+"Longest Reception",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921165": [
+10.5,
+"CFB",
+"Brandon Tullis",
+"Receiving Yards",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16925731": [
+10.5,
+"CFB",
+"Kenneth Williams",
+"Rush Attempts",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16954973": [
+10.5,
+"CFB",
+"Demond Williams Jr.",
+"Rush Attempts",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921159": [
+9.5,
+"CFB",
+"Kenneth Williams",
+"Longest Reception",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921166": [
+8.5,
+"CFB",
+"Alessio Milivojevic",
+"Longest Rush",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921183": [
+7.5,
+"CFB",
+"Brandon Tullis",
+"Longest Reception",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921161": [
+6.5,
+"CFB",
+"Alessio Milivojevic",
+"Rush Attempts",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921173": [
+6.5,
+"CFB",
+"Jayden Limar",
+"Receiving Yards",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16928343": [
+6.0,
+"CFB",
+"Tyler Robles",
+"Kicking Points",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921172": [
+5.5,
+"CFB",
+"Jayden Limar",
+"Longest Reception",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921208": [
+4.5,
+"CFB",
+"Dezmen Roebuck",
+"Rush Yards",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921119": [
+2.5,
+"CFB",
+"Tyler Robles",
+"PAT Made",
+"WASH",
+"2026-11-14T17:30:00.000-05:00"
+],
+"16921212": [
+2.5,
+"CFB",
+"Fredrick Moore",
+"Receptions",
+"MSU",
+"2026-11-14T17:30:00.000-05:00"
 ],
 "16908980": [
 253.5,
@@ -24768,7 +24784,7 @@
 "2026-11-14T19:30:00.000-05:00"
 ],
 "16904508": [
-54.5,
+55.5,
 "CFB",
 "Nico Brown",
 "Receiving Yards",
@@ -25407,6 +25423,14 @@
 "TTU",
 "2026-11-14T21:30:00.000-05:00"
 ],
+"16917365": [
+28.0,
+"CFB",
+"Drew Mestemaker",
+"Fantasy Score",
+"OKST",
+"2026-11-14T21:30:00.000-05:00"
+],
 "16936372": [
 28.0,
 "CFB",
@@ -25429,14 +25453,6 @@
 "Thomas Castellanos",
 "Fantasy Score",
 "TTU",
-"2026-11-14T21:30:00.000-05:00"
-],
-"16917365": [
-27.5,
-"CFB",
-"Drew Mestemaker",
-"Fantasy Score",
-"OKST",
 "2026-11-14T21:30:00.000-05:00"
 ],
 "16917505": [
