@@ -15031,20 +15031,2196 @@
 "BAL",
 "2026-11-16T20:15:00.000-05:00"
 ],
-"16846800": [
-300.5,
-"CFB",
-"Kevin Jennings",
-"Pass+Rush Yds",
-"SMU",
+"16961484": [
+42.5,
+"SOCCER",
+"Oscar Gloukh",
+"Passes Attempted",
+"Israel",
+"2026-11-14T09:00:00.000-05:00"
+],
+"16961422": [
+29.5,
+"SOCCER",
+"Assaf Tzur",
+"Passes Attempted",
+"Israel",
+"2026-11-14T09:00:00.000-05:00"
+],
+"16939395": [
+18.5,
+"SOCCER",
+"Vedat Muriqi",
+"Passes Attempted",
+"Kosovo",
+"2026-11-14T09:00:00.000-05:00"
+],
+"16914392": [
+9.5,
+"SOCCER",
+"Arijanet Muric",
+"Goalie Fantasy Score",
+"Kosovo",
+"2026-11-14T09:00:00.000-05:00"
+],
+"16914394": [
+9.5,
+"SOCCER",
+"Assaf Tzur",
+"Goalie Fantasy Score",
+"Israel",
+"2026-11-14T09:00:00.000-05:00"
+],
+"16914043": [
+3.0,
+"SOCCER",
+"Assaf Tzur",
+"Goalie Saves",
+"Israel",
+"2026-11-14T09:00:00.000-05:00"
+],
+"16914041": [
+2.5,
+"SOCCER",
+"Amir Saipi",
+"Goalie Saves",
+"Kosovo",
+"2026-11-14T09:00:00.000-05:00"
+],
+"16914042": [
+2.5,
+"SOCCER",
+"Arijanet Muric",
+"Goalie Saves",
+"Kosovo",
+"2026-11-14T09:00:00.000-05:00"
+],
+"16966410": [
+92.5,
+"SOCCER",
+"Martin Ødegaard",
+"Passes Attempted",
+"Norway",
 "2026-11-14T12:00:00.000-05:00"
 ],
+"16972960": [
+88.5,
+"SOCCER",
+"Sander Berge",
+"Passes Attempted",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972913": [
+61.5,
+"SOCCER",
+"Kristoffer Ajer",
+"Passes Attempted",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972965": [
+55.5,
+"SOCCER",
+"Ben Davies",
+"Passes Attempted",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972868": [
+43.5,
+"SOCCER",
+"Danny Ward",
+"Passes Attempted",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972950": [
+40.5,
+"SOCCER",
+"Neco Williams",
+"Passes Attempted",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972864": [
+30.5,
+"SOCCER",
+"Ørjan Nyland",
+"Passes Attempted",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966460": [
+22.5,
+"SOCCER",
+"Antonio Nusa",
+"Passes Attempted",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966372": [
+19.5,
+"SOCCER",
+"Erling Haaland",
+"Outfield Fantasy Score",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966411": [
+17.5,
+"SOCCER",
+"Martin Ødegaard",
+"Outfield Fantasy Score",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966370": [
+14.5,
+"SOCCER",
+"Erling Haaland",
+"Passes Attempted",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972967": [
+10.5,
+"SOCCER",
+"Ben Davies",
+"Outfield Fantasy Score",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972865": [
+10.0,
+"SOCCER",
+"Ørjan Nyland",
+"Goalie Fantasy Score",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972869": [
+9.0,
+"SOCCER",
+"Danny Ward",
+"Goalie Fantasy Score",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972915": [
+8.5,
+"SOCCER",
+"Kristoffer Ajer",
+"Outfield Fantasy Score",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972962": [
+8.5,
+"SOCCER",
+"Sander Berge",
+"Outfield Fantasy Score",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972952": [
+8.0,
+"SOCCER",
+"Neco Williams",
+"Outfield Fantasy Score",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966459": [
+7.5,
+"SOCCER",
+"Antonio Nusa",
+"Attempted Dribbles",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966369": [
+6.0,
+"SOCCER",
+"Erling Haaland",
+"Shots",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966413": [
+5.0,
+"SOCCER",
+"Martin Ødegaard",
+"Crosses",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972966": [
+5.0,
+"SOCCER",
+"Ben Davies",
+"Clearances",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972914": [
+4.5,
+"SOCCER",
+"Kristoffer Ajer",
+"Clearances",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966412": [
+3.0,
+"SOCCER",
+"Martin Ødegaard",
+"Shots Assisted",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972951": [
+3.0,
+"SOCCER",
+"Neco Williams",
+"Tackles",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966368": [
+2.5,
+"SOCCER",
+"Erling Haaland",
+"Shots On Target",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966417": [
+2.5,
+"SOCCER",
+"Oscar Bobb",
+"Shots",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966458": [
+2.5,
+"SOCCER",
+"Antonio Nusa",
+"Shots",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966409": [
+2.0,
+"SOCCER",
+"Martin Ødegaard",
+"Shots",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966494": [
+2.0,
+"SOCCER",
+"Andreas Schjelderup",
+"Shots",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966414": [
+1.5,
+"SOCCER",
+"Martin Ødegaard",
+"Attempted Dribbles",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972877": [
+1.5,
+"SOCCER",
+"Harry Wilson",
+"Shots",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972961": [
+1.5,
+"SOCCER",
+"Sander Berge",
+"Tackles",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966377": [
+0.5,
+"SOCCER",
+"Harry Wilson",
+"Shots On Target",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972953": [
+0.5,
+"SOCCER",
+"Neco Williams",
+"Shots Assisted",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16969599": [
+67.5,
+"SOCCER",
+"Willi Orbán",
+"Passes Attempted",
+"Hungary",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16969406": [
+63.5,
+"SOCCER",
+"Luka Lochoshvili",
+"Passes Attempted",
+"Georgia",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16969448": [
+53.5,
+"SOCCER",
+"Dominik Szoboszlai",
+"Passes Attempted",
+"Hungary",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16969372": [
+31.5,
+"SOCCER",
+"Giorgi Mamardashvili",
+"Passes Attempted",
+"Georgia",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16969521": [
+30.5,
+"SOCCER",
+"Balázs Tóth",
+"Passes Attempted",
+"Hungary",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16969640": [
+15.5,
+"SOCCER",
+"Dominik Szoboszlai",
+"Outfield Fantasy Score",
+"Hungary",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16914397": [
+9.5,
+"SOCCER",
+"Balázs Tóth",
+"Goalie Fantasy Score",
+"Hungary",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16914398": [
+9.5,
+"SOCCER",
+"Giorgi Mamardashvili",
+"Goalie Fantasy Score",
+"Georgia",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16969626": [
+6.5,
+"SOCCER",
+"Willi Orbán",
+"Clearances",
+"Hungary",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16969633": [
+6.5,
+"SOCCER",
+"Lasha Dvali",
+"Clearances",
+"Georgia",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16969618": [
+3.0,
+"SOCCER",
+"Dominik Szoboszlai",
+"Shots Assisted",
+"Hungary",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973199": [
+18.5,
+"SOCCER",
+"Trinity Rodman",
+"Outfield Fantasy Score",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973206": [
+12.5,
+"SOCCER",
+"Esme Morgan",
+"Outfield Fantasy Score",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973204": [
+11.5,
+"SOCCER",
+"Tara Rudd",
+"Outfield Fantasy Score",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16970355": [
+9.5,
+"SOCCER",
+"Sandy MacIver",
+"Goalie Fantasy Score",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16970356": [
+9.5,
+"SOCCER",
+"Mandy McGlynn",
+"Goalie Fantasy Score",
+"Royals",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973175": [
+3.5,
+"SOCCER",
+"Trinity Rodman",
+"Attempted Dribbles",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973172": [
+1.5,
+"SOCCER",
+"Trinity Rodman",
+"Shots On Target",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973173": [
+1.5,
+"SOCCER",
+"Leicy Santos",
+"Shots Assisted",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973182": [
+1.5,
+"SOCCER",
+"Leicy Santos",
+"Tackles",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973197": [
+1.5,
+"SOCCER",
+"Cloé Lacasse",
+"Attempted Dribbles",
+"Royals",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973198": [
+1.5,
+"SOCCER",
+"Cloé Lacasse",
+"Shots Assisted",
+"Royals",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966261": [
+4.5,
+"SOCCER",
+"Danny Ward",
+"Goalie Saves",
+"Wales",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16966260": [
+2.0,
+"SOCCER",
+"Ørjan Nyland",
+"Goalie Saves",
+"Norway",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16914082": [
+3.0,
+"SOCCER",
+"Giorgi Mamardashvili",
+"Goalie Saves",
+"Georgia",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16914081": [
+2.5,
+"SOCCER",
+"Balázs Tóth",
+"Goalie Saves",
+"Hungary",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972969": [
+60.5,
+"SOCCER",
+"Esme Morgan",
+"Passes Attempted",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972972": [
+45.5,
+"SOCCER",
+"Mandy McGlynn",
+"Passes Attempted",
+"Royals",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972973": [
+42.5,
+"SOCCER",
+"Kaleigh Riehl",
+"Passes Attempted",
+"Royals",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972970": [
+36.5,
+"SOCCER",
+"Sandy MacIver",
+"Passes Attempted",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972971": [
+25.5,
+"SOCCER",
+"Trinity Rodman",
+"Passes Attempted",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972974": [
+19.5,
+"SOCCER",
+"Cloé Lacasse",
+"Passes Attempted",
+"Royals",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973194": [
+5.5,
+"SOCCER",
+"Tara Rudd",
+"Clearances",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972844": [
+4.0,
+"SOCCER",
+"Trinity Rodman",
+"Shots",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16973195": [
+3.0,
+"SOCCER",
+"Nuria Rábano",
+"Tackles",
+"Royals",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16913774": [
+2.5,
+"SOCCER",
+"Mandy McGlynn",
+"Goalie Saves",
+"Royals",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16913773": [
+2.0,
+"SOCCER",
+"Sandy MacIver",
+"Goalie Saves",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972845": [
+1.5,
+"SOCCER",
+"Sofia Cantore",
+"Shots",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972846": [
+1.5,
+"SOCCER",
+"Leicy Santos",
+"Shots",
+"Spirit",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16972847": [
+1.5,
+"SOCCER",
+"Cloé Lacasse",
+"Shots",
+"Royals",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16970520": [
+73.5,
+"SOCCER",
+"Victor Lindelöf",
+"Passes Attempted",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970645": [
+62.5,
+"SOCCER",
+"Ivan Basic",
+"Passes Attempted",
+"Bosnia",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970530": [
+39.5,
+"SOCCER",
+"Martin Zlomislic",
+"Passes Attempted",
+"Bosnia",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970463": [
+33.5,
+"SOCCER",
+"Viktor Johansson",
+"Passes Attempted",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970609": [
+27.5,
+"SOCCER",
+"Kerim Alajbegovic",
+"Passes Attempted",
+"Bosnia",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970487": [
+21.5,
+"SOCCER",
+"Viktor Gyökeres",
+"Passes Attempted",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970490": [
+16.5,
+"SOCCER",
+"Viktor Gyökeres",
+"Outfield Fantasy Score",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970362": [
+9.5,
+"SOCCER",
+"Viktor Johansson",
+"Goalie Fantasy Score",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970365": [
+9.5,
+"SOCCER",
+"Martin Zlomislic",
+"Goalie Fantasy Score",
+"Bosnia",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970647": [
+9.5,
+"SOCCER",
+"Ivan Basic",
+"Outfield Fantasy Score",
+"Bosnia",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970674": [
+6.5,
+"SOCCER",
+"Nikola Katic",
+"Clearances",
+"Bosnia",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970660": [
+4.5,
+"SOCCER",
+"Victor Lindelöf",
+"Clearances",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970307": [
+4.0,
+"SOCCER",
+"Viktor Gyökeres",
+"Shots",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970669": [
+4.0,
+"SOCCER",
+"Kerim Alajbegovic",
+"Attempted Dribbles",
+"Bosnia",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970311": [
+3.5,
+"SOCCER",
+"Alexander Isak",
+"Shots",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970320": [
+2.0,
+"SOCCER",
+"Anthony Elanga",
+"Shots",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970330": [
+1.5,
+"SOCCER",
+"Viktor Gyökeres",
+"Shots On Target",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970338": [
+1.5,
+"SOCCER",
+"Alexander Isak",
+"Shots On Target",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970658": [
+1.5,
+"SOCCER",
+"Yasin Ayari",
+"Shots Assisted",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970326": [
+0.5,
+"SOCCER",
+"Viktor Gyökeres",
+"Goals",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970817": [
+72.5,
+"SOCCER",
+"Kevin Danso",
+"Passes Attempted",
+"Austria",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970840": [
+39.5,
+"SOCCER",
+"Caoimhín Kelleher",
+"Passes Attempted",
+"Rep. Ireland",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970716": [
+30.5,
+"SOCCER",
+"Alexander Schlager",
+"Passes Attempted",
+"Austria",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16972601": [
+20.5,
+"SOCCER",
+"Troy Parrott",
+"Passes Attempted",
+"Rep. Ireland",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970386": [
+9.5,
+"SOCCER",
+"Alexander Schlager",
+"Goalie Fantasy Score",
+"Austria",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970391": [
+9.5,
+"SOCCER",
+"Caoimhín Kelleher",
+"Goalie Fantasy Score",
+"Rep. Ireland",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16972762": [
+5.5,
+"SOCCER",
+"Liam Scales",
+"Clearances",
+"Rep. Ireland",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16972751": [
+5.0,
+"SOCCER",
+"Kevin Danso",
+"Clearances",
+"Austria",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16972747": [
+2.5,
+"SOCCER",
+"Nicolas Seiwald",
+"Tackles",
+"Austria",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16972755": [
+2.5,
+"SOCCER",
+"Troy Parrott",
+"Attempted Dribbles",
+"Rep. Ireland",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16972705": [
+2.0,
+"SOCCER",
+"Romano Schmid",
+"Shots Assisted",
+"Austria",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16972735": [
+1.5,
+"SOCCER",
+"Xaver Schlager",
+"Shots Assisted",
+"Austria",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16972754": [
+1.5,
+"SOCCER",
+"Jack Moylan",
+"Shots Assisted",
+"Rep. Ireland",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973523": [
+60.5,
+"SOCCER",
+"Rúben Dias",
+"Passes Attempted",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973764": [
+54.5,
+"SOCCER",
+"Pierre-Emile Højbjerg",
+"Passes Attempted",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973714": [
+50.5,
+"SOCCER",
+"Joachim Andersen",
+"Passes Attempted",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973501": [
+44.5,
+"SOCCER",
+"Bruno Fernandes",
+"Passes Attempted",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973012": [
+34.5,
+"SOCCER",
+"Mads Hermansen",
+"Passes Attempted",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973184": [
+31.5,
+"SOCCER",
+"João Félix",
+"Passes Attempted",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973472": [
+25.5,
+"SOCCER",
+"Gustav Isaksen",
+"Passes Attempted",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973007": [
+24.5,
+"SOCCER",
+"Diogo Costa",
+"Passes Attempted",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973201": [
+19.5,
+"SOCCER",
+"Rasmus Højlund",
+"Passes Attempted",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973502": [
+17.5,
+"SOCCER",
+"Bruno Fernandes",
+"Outfield Fantasy Score",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973185": [
+14.5,
+"SOCCER",
+"João Félix",
+"Outfield Fantasy Score",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973525": [
+10.5,
+"SOCCER",
+"Rúben Dias",
+"Outfield Fantasy Score",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16972997": [
+9.0,
+"SOCCER",
+"Mads Hermansen",
+"Goalie Fantasy Score",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973006": [
+9.0,
+"SOCCER",
+"Diogo Costa",
+"Goalie Fantasy Score",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973203": [
+8.5,
+"SOCCER",
+"Rasmus Højlund",
+"Outfield Fantasy Score",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973715": [
+7.5,
+"SOCCER",
+"Joachim Andersen",
+"Outfield Fantasy Score",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973765": [
+7.5,
+"SOCCER",
+"Pierre-Emile Højbjerg",
+"Outfield Fantasy Score",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973503": [
+4.0,
+"SOCCER",
+"Bruno Fernandes",
+"Shots Assisted",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973529": [
+4.0,
+"SOCCER",
+"Rúben Dias",
+"Clearances",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973124": [
+3.5,
+"SOCCER",
+"Gonçalo Ramos",
+"Shots",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973183": [
+3.5,
+"SOCCER",
+"João Félix",
+"Shots",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973200": [
+2.5,
+"SOCCER",
+"Rasmus Højlund",
+"Shots",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973500": [
+2.5,
+"SOCCER",
+"Bruno Fernandes",
+"Shots",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973186": [
+2.0,
+"SOCCER",
+"João Félix",
+"Shots Assisted",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973471": [
+2.0,
+"SOCCER",
+"Gustav Isaksen",
+"Shots",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973202": [
+1.5,
+"SOCCER",
+"Rasmus Højlund",
+"Shots Assisted",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973768": [
+1.5,
+"SOCCER",
+"Morten Hjulmand",
+"Tackles",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16973113": [
+0.5,
+"SOCCER",
+"Gustav Isaksen",
+"Shots On Target",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16914123": [
+3.0,
+"SOCCER",
+"Martin Zlomislic",
+"Goalie Saves",
+"Bosnia",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16914122": [
+2.0,
+"SOCCER",
+"Viktor Johansson",
+"Goalie Saves",
+"Sweden",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16914199": [
+3.0,
+"SOCCER",
+"Caoimhín Kelleher",
+"Goalie Saves",
+"Rep. Ireland",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16857137": [
+2.5,
+"SOCCER",
+"Konrad Laimer",
+"Tackles",
+"Austria",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16914198": [
+2.0,
+"SOCCER",
+"Alexander Schlager",
+"Goalie Saves",
+"Austria",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16966315": [
+4.0,
+"SOCCER",
+"Mads Hermansen",
+"Goalie Saves",
+"Denmark",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16966314": [
+2.0,
+"SOCCER",
+"Diogo Costa",
+"Goalie Saves",
+"Portugal",
+"2026-11-14T14:45:00.000-05:00"
+],
+"16970394": [
+9.5,
+"SOCCER",
+"Walter",
+"Goalie Fantasy Score",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16973649": [
+1.5,
+"SOCCER",
+"Natanael",
+"Tackles",
+"Atlético MG",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16850844": [
+57.5,
+"SOCCER",
+"João Victor",
+"Passes Attempted",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16838606": [
+40.5,
+"SOCCER",
+"Natanael",
+"Passes Attempted",
+"Atlético MG",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16831581": [
+38.5,
+"SOCCER",
+"Igor Formiga",
+"Passes Attempted",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16914257": [
+35.5,
+"SOCCER",
+"Everson",
+"Passes Attempted",
+"Atlético MG",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16914254": [
+28.5,
+"SOCCER",
+"Walter",
+"Passes Attempted",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16831765": [
+26.5,
+"SOCCER",
+"Tomás Cuello",
+"Passes Attempted",
+"Atlético MG",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16831566": [
+14.5,
+"SOCCER",
+"Reinaldo",
+"Outfield Fantasy Score",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16850845": [
+10.5,
+"SOCCER",
+"João Victor",
+"Outfield Fantasy Score",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16914256": [
+9.5,
+"SOCCER",
+"Everson",
+"Goalie Fantasy Score",
+"Atlético MG",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16831577": [
+8.5,
+"SOCCER",
+"Reinaldo",
+"Crosses",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16850843": [
+6.5,
+"SOCCER",
+"João Victor",
+"Clearances",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16831764": [
+3.5,
+"SOCCER",
+"Tomás Cuello",
+"Attempted Dribbles",
+"Atlético MG",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16914251": [
+3.0,
+"SOCCER",
+"Walter",
+"Goalie Saves",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16914252": [
+3.0,
+"SOCCER",
+"Everson",
+"Goalie Saves",
+"Atlético MG",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16831562": [
+2.5,
+"SOCCER",
+"Igor Formiga",
+"Attempted Dribbles",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16831571": [
+2.5,
+"SOCCER",
+"Reinaldo",
+"Shots Assisted",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16831761": [
+2.5,
+"SOCCER",
+"Tomás Cuello",
+"Crosses",
+"Atlético MG",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16923434": [
+2.5,
+"SOCCER",
+"Igor Formiga",
+"Tackles",
+"Mirassol",
+"2026-11-14T16:30:00.000-05:00"
+],
+"16973862": [
+9.5,
+"SOCCER",
+"Anderson",
+"Goalie Fantasy Score",
+"Chapecoense",
+"2026-11-14T18:30:00.000-05:00"
+],
+"16973870": [
+1.5,
+"SOCCER",
+"Yannick Bolasie",
+"Shots",
+"Chapecoense",
+"2026-11-14T18:30:00.000-05:00"
+],
+"16973871": [
+0.5,
+"SOCCER",
+"Yannick Bolasie",
+"Shots On Target",
+"Chapecoense",
+"2026-11-14T18:30:00.000-05:00"
+],
+"16832399": [
+29.5,
+"SOCCER",
+"Giovanni Augusto",
+"Passes Attempted",
+"Chapecoense",
+"2026-11-14T18:30:00.000-05:00"
+],
+"16973832": [
+28.5,
+"SOCCER",
+"Anderson",
+"Passes Attempted",
+"Chapecoense",
+"2026-11-14T18:30:00.000-05:00"
+],
+"16973835": [
+23.5,
+"SOCCER",
+"Léo Jardim",
+"Passes Attempted",
+"Vasco",
+"2026-11-14T18:30:00.000-05:00"
+],
+"16832415": [
+9.5,
+"SOCCER",
+"Giovanni Augusto",
+"Outfield Fantasy Score",
+"Chapecoense",
+"2026-11-14T18:30:00.000-05:00"
+],
+"16973836": [
+9.5,
+"SOCCER",
+"Léo Jardim",
+"Goalie Fantasy Score",
+"Vasco",
+"2026-11-14T18:30:00.000-05:00"
+],
+"16973831": [
+4.0,
+"SOCCER",
+"Anderson",
+"Goalie Saves",
+"Chapecoense",
+"2026-11-14T18:30:00.000-05:00"
+],
+"16973830": [
+2.0,
+"SOCCER",
+"Léo Jardim",
+"Goalie Saves",
+"Vasco",
+"2026-11-14T18:30:00.000-05:00"
+],
+"16973927": [
+79.5,
+"SOCCER",
+"Jérémy Jacquet",
+"Passes Attempted",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973932": [
+59.5,
+"SOCCER",
+"Michael Olise",
+"Passes Attempted",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973963": [
+45.5,
+"SOCCER",
+"Arda Güler",
+"Passes Attempted",
+"Türkiye",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973943": [
+39.5,
+"SOCCER",
+"Uğurcan Çakır",
+"Passes Attempted",
+"Türkiye",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973961": [
+38.5,
+"SOCCER",
+"Ferdi Kadioglu",
+"Passes Attempted",
+"Türkiye",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973938": [
+33.5,
+"SOCCER",
+"Kylian Mbappé",
+"Passes Attempted",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973922": [
+32.5,
+"SOCCER",
+"Mike Maignan",
+"Passes Attempted",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973939": [
+25.5,
+"SOCCER",
+"Kylian Mbappé",
+"Outfield Fantasy Score",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973933": [
+20.5,
+"SOCCER",
+"Michael Olise",
+"Outfield Fantasy Score",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973986": [
+18.5,
+"SOCCER",
+"Arda Güler",
+"Outfield Fantasy Score",
+"Türkiye",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973968": [
+12.5,
+"SOCCER",
+"Baris Alper Yilmaz",
+"Passes Attempted",
+"Türkiye",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973828": [
+10.5,
+"SOCCER",
+"Mike Maignan",
+"Goalie Fantasy Score",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973826": [
+9.5,
+"SOCCER",
+"Uğurcan Çakır",
+"Goalie Fantasy Score",
+"Türkiye",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973976": [
+5.5,
+"SOCCER",
+"Merih Demiral",
+"Clearances",
+"Türkiye",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973771": [
+4.0,
+"SOCCER",
+"Michael Olise",
+"Shots",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973972": [
+3.5,
+"SOCCER",
+"Désiré Doué",
+"Attempted Dribbles",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973974": [
+3.5,
+"SOCCER",
+"Michael Olise",
+"Attempted Dribbles",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973975": [
+3.5,
+"SOCCER",
+"Arda Güler",
+"Attempted Dribbles",
+"Türkiye",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973773": [
+3.0,
+"SOCCER",
+"Bradley Barcola",
+"Shots",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973971": [
+2.5,
+"SOCCER",
+"Michael Olise",
+"Shots Assisted",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973774": [
+2.0,
+"SOCCER",
+"Arda Güler",
+"Shots",
+"Türkiye",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973878": [
+75.5,
+"SOCCER",
+"Pau Cubarsí",
+"Passes Attempted",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973869": [
+59.5,
+"SOCCER",
+"Elliot Anderson",
+"Passes Attempted",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973841": [
+42.5,
+"SOCCER",
+"Jordan Pickford",
+"Passes Attempted",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973883": [
+42.5,
+"SOCCER",
+"Lamine Yamal",
+"Passes Attempted",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973873": [
+40.5,
+"SOCCER",
+"Jude Bellingham",
+"Passes Attempted",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973843": [
+30.5,
+"SOCCER",
+"Unai Simón",
+"Passes Attempted",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973885": [
+25.5,
+"SOCCER",
+"Lamine Yamal",
+"Outfield Fantasy Score",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973867": [
+20.5,
+"SOCCER",
+"Harry Kane",
+"Passes Attempted",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973868": [
+17.5,
+"SOCCER",
+"Harry Kane",
+"Outfield Fantasy Score",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973874": [
+15.5,
+"SOCCER",
+"Jude Bellingham",
+"Outfield Fantasy Score",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973837": [
+9.5,
+"SOCCER",
+"Unai Simón",
+"Goalie Fantasy Score",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973838": [
+9.5,
+"SOCCER",
+"Jordan Pickford",
+"Goalie Fantasy Score",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973898": [
+6.5,
+"SOCCER",
+"Lamine Yamal",
+"Attempted Dribbles",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973902": [
+4.5,
+"SOCCER",
+"Pau Cubarsí",
+"Clearances",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973781": [
+4.0,
+"SOCCER",
+"Lamine Yamal",
+"Shots",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973910": [
+3.5,
+"SOCCER",
+"Anthony Gordon",
+"Attempted Dribbles",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973786": [
+3.0,
+"SOCCER",
+"Harry Kane",
+"Shots",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973802": [
+3.0,
+"SOCCER",
+"Mikel Oyarzabal",
+"Shots",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973815": [
+3.0,
+"SOCCER",
+"Ferran Torres",
+"Shots",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973916": [
+3.0,
+"SOCCER",
+"Jude Bellingham",
+"Attempted Dribbles",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973891": [
+2.5,
+"SOCCER",
+"Lamine Yamal",
+"Shots Assisted",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973818": [
+2.0,
+"SOCCER",
+"Anthony Gordon",
+"Shots",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973819": [
+2.0,
+"SOCCER",
+"Jude Bellingham",
+"Shots",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973896": [
+1.5,
+"SOCCER",
+"Álex Baena",
+"Shots Assisted",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973903": [
+1.5,
+"SOCCER",
+"Morgan Rogers",
+"Shots Assisted",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16950123": [
+5.5,
+"SOCCER",
+"Kylian Mbappé",
+"Shots",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973733": [
+4.0,
+"SOCCER",
+"Uğurcan Çakır",
+"Goalie Saves",
+"Türkiye",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16950022": [
+3.5,
+"SOCCER",
+"Désiré Doué",
+"Shots",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16952171": [
+2.5,
+"SOCCER",
+"Kylian Mbappé",
+"Shots On Target",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973732": [
+2.0,
+"SOCCER",
+"Mike Maignan",
+"Goalie Saves",
+"France",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973731": [
+3.5,
+"SOCCER",
+"Jordan Pickford",
+"Goalie Saves",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16897556": [
+2.5,
+"SOCCER",
+"Fermín López",
+"Shots",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16897569": [
+2.5,
+"SOCCER",
+"Álex Baena",
+"Shots",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16973730": [
+2.5,
+"SOCCER",
+"Unai Simón",
+"Goalie Saves",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16948687": [
+1.5,
+"SOCCER",
+"Lamine Yamal",
+"Shots On Target",
+"Spain",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16948739": [
+1.5,
+"SOCCER",
+"Morgan Rogers",
+"Shots",
+"England",
+"2026-11-15T14:45:00.000-05:00"
+],
+"16972990": [
+16.5,
+"SOCCER",
+"Croix Bethune",
+"Outfield Fantasy Score",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973001": [
+14.5,
+"SOCCER",
+"Jaedyn Shaw",
+"Outfield Fantasy Score",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972988": [
+13.5,
+"SOCCER",
+"Temwa Chawinga",
+"Outfield Fantasy Score",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972998": [
+10.5,
+"SOCCER",
+"Tierna Davidson",
+"Outfield Fantasy Score",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972989": [
+9.5,
+"SOCCER",
+"Kayla Sharples",
+"Outfield Fantasy Score",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973161": [
+4.0,
+"SOCCER",
+"Croix Bethune",
+"Attempted Dribbles",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973041": [
+3.5,
+"SOCCER",
+"Jordynn Dudley",
+"Attempted Dribbles",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973069": [
+2.5,
+"SOCCER",
+"Jaedyn Shaw",
+"Attempted Dribbles",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973163": [
+2.5,
+"SOCCER",
+"Temwa Chawinga",
+"Attempted Dribbles",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973164": [
+2.0,
+"SOCCER",
+"Michelle Cooper",
+"Attempted Dribbles",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973017": [
+1.5,
+"SOCCER",
+"Rose Lavelle",
+"Shots Assisted",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973030": [
+1.5,
+"SOCCER",
+"Jordynn Dudley",
+"Shots Assisted",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973031": [
+1.5,
+"SOCCER",
+"Jaedyn Shaw",
+"Shots Assisted",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973166": [
+1.5,
+"SOCCER",
+"Croix Bethune",
+"Shots Assisted",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972975": [
+72.5,
+"SOCCER",
+"Tierna Davidson",
+"Passes Attempted",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972976": [
+43.5,
+"SOCCER",
+"Ann-Katrin Berger",
+"Passes Attempted",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972978": [
+38.5,
+"SOCCER",
+"Kayla Sharples",
+"Passes Attempted",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972979": [
+32.5,
+"SOCCER",
+"Croix Bethune",
+"Passes Attempted",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972977": [
+20.5,
+"SOCCER",
+"Sam Kerr",
+"Passes Attempted",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972980": [
+17.5,
+"SOCCER",
+"Temwa Chawinga",
+"Passes Attempted",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973127": [
+5.5,
+"SOCCER",
+"Gabrielle Robinson",
+"Clearances",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973126": [
+4.5,
+"SOCCER",
+"Jess Carter",
+"Clearances",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16913775": [
+3.0,
+"SOCCER",
+"Ann-Katrin Berger",
+"Goalie Saves",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16913776": [
+3.0,
+"SOCCER",
+"Lorena",
+"Goalie Saves",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973111": [
+3.0,
+"SOCCER",
+"Jaelin Howell",
+"Tackles",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972848": [
+2.5,
+"SOCCER",
+"Sam Kerr",
+"Shots",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972852": [
+2.5,
+"SOCCER",
+"Temwa Chawinga",
+"Shots",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973077": [
+2.5,
+"SOCCER",
+"Midge Purce",
+"Attempted Dribbles",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972849": [
+2.0,
+"SOCCER",
+"Jaedyn Shaw",
+"Shots",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972850": [
+2.0,
+"SOCCER",
+"Jordynn Dudley",
+"Shots",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972851": [
+2.0,
+"SOCCER",
+"Rose Lavelle",
+"Shots",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972853": [
+2.0,
+"SOCCER",
+"Croix Bethune",
+"Shots",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16972854": [
+2.0,
+"SOCCER",
+"Michelle Cooper",
+"Shots",
+"KC Current",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973024": [
+1.5,
+"SOCCER",
+"Guro Reiten",
+"Shots Assisted",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
+"16973112": [
+1.5,
+"SOCCER",
+"Guro Reiten",
+"Tackles",
+"Gotham FC",
+"2026-11-15T15:00:00.000-05:00"
+],
 "16968135": [
-299.5,
+301.5,
 "CFB",
 "Gio Lopez",
 "Pass+Rush Yds",
 "WAKE",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16846800": [
+297.5,
+"CFB",
+"Kevin Jennings",
+"Pass+Rush Yds",
+"SMU",
 "2026-11-14T12:00:00.000-05:00"
 ],
 "16846819": [
@@ -15120,7 +17296,7 @@
 "2026-11-14T12:00:00.000-05:00"
 ],
 "16968133": [
-43.5,
+44.5,
 "CFB",
 "Gio Lopez",
 "Longest Completion",
@@ -15165,6 +17341,14 @@
 "Gio Lopez",
 "Rush Yards",
 "WAKE",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16968137": [
+24.5,
+"CFB",
+"Kevin Jennings",
+"Pass Completions",
+"SMU",
 "2026-11-14T12:00:00.000-05:00"
 ],
 "16846812": [
@@ -15223,20 +17407,20 @@
 "SMU",
 "2026-11-14T12:00:00.000-05:00"
 ],
-"16846830": [
-20.5,
-"CFB",
-"Jalen Cooper",
-"Longest Reception",
-"SMU",
-"2026-11-14T12:00:00.000-05:00"
-],
 "16968676": [
 20.5,
 "CFB",
 "Gio Lopez",
 "Pass Completions",
 "WAKE",
+"2026-11-14T12:00:00.000-05:00"
+],
+"16846830": [
+19.5,
+"CFB",
+"Jalen Cooper",
+"Longest Reception",
+"SMU",
 "2026-11-14T12:00:00.000-05:00"
 ],
 "16961887": [
@@ -15263,6 +17447,14 @@
 "SMU",
 "2026-11-14T12:00:00.000-05:00"
 ],
+"16846816": [
+14.5,
+"CFB",
+"Randy Pittman Jr.",
+"Longest Reception",
+"SMU",
+"2026-11-14T12:00:00.000-05:00"
+],
 "16968134": [
 14.5,
 "CFB",
@@ -15275,14 +17467,6 @@
 13.5,
 "CFB",
 "Theo Melin Ohrstrom",
-"Longest Reception",
-"SMU",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16846816": [
-13.5,
-"CFB",
-"Randy Pittman Jr.",
 "Longest Reception",
 "SMU",
 "2026-11-14T12:00:00.000-05:00"
@@ -22671,14 +24855,6 @@
 "PUR",
 "2026-11-14T19:30:00.000-05:00"
 ],
-"16863169": [
-3.5,
-"CFB",
-"Asaad Waseem",
-"Receptions",
-"PUR",
-"2026-11-14T19:30:00.000-05:00"
-],
 "16867022": [
 3.5,
 "CFB",
@@ -24334,2182 +26510,6 @@
 "Receptions",
 "NDSU",
 "2026-11-14T23:00:00.000-05:00"
-],
-"16961484": [
-42.5,
-"SOCCER",
-"Oscar Gloukh",
-"Passes Attempted",
-"Israel",
-"2026-11-14T09:00:00.000-05:00"
-],
-"16961422": [
-29.5,
-"SOCCER",
-"Assaf Tzur",
-"Passes Attempted",
-"Israel",
-"2026-11-14T09:00:00.000-05:00"
-],
-"16939395": [
-18.5,
-"SOCCER",
-"Vedat Muriqi",
-"Passes Attempted",
-"Kosovo",
-"2026-11-14T09:00:00.000-05:00"
-],
-"16914392": [
-9.5,
-"SOCCER",
-"Arijanet Muric",
-"Goalie Fantasy Score",
-"Kosovo",
-"2026-11-14T09:00:00.000-05:00"
-],
-"16914394": [
-9.5,
-"SOCCER",
-"Assaf Tzur",
-"Goalie Fantasy Score",
-"Israel",
-"2026-11-14T09:00:00.000-05:00"
-],
-"16914043": [
-3.0,
-"SOCCER",
-"Assaf Tzur",
-"Goalie Saves",
-"Israel",
-"2026-11-14T09:00:00.000-05:00"
-],
-"16914041": [
-2.5,
-"SOCCER",
-"Amir Saipi",
-"Goalie Saves",
-"Kosovo",
-"2026-11-14T09:00:00.000-05:00"
-],
-"16914042": [
-2.5,
-"SOCCER",
-"Arijanet Muric",
-"Goalie Saves",
-"Kosovo",
-"2026-11-14T09:00:00.000-05:00"
-],
-"16966410": [
-92.5,
-"SOCCER",
-"Martin Ødegaard",
-"Passes Attempted",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972960": [
-88.5,
-"SOCCER",
-"Sander Berge",
-"Passes Attempted",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972913": [
-61.5,
-"SOCCER",
-"Kristoffer Ajer",
-"Passes Attempted",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972965": [
-55.5,
-"SOCCER",
-"Ben Davies",
-"Passes Attempted",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972868": [
-43.5,
-"SOCCER",
-"Danny Ward",
-"Passes Attempted",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972950": [
-40.5,
-"SOCCER",
-"Neco Williams",
-"Passes Attempted",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972864": [
-30.5,
-"SOCCER",
-"Ørjan Nyland",
-"Passes Attempted",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966460": [
-22.5,
-"SOCCER",
-"Antonio Nusa",
-"Passes Attempted",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966372": [
-19.5,
-"SOCCER",
-"Erling Haaland",
-"Outfield Fantasy Score",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966411": [
-17.5,
-"SOCCER",
-"Martin Ødegaard",
-"Outfield Fantasy Score",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966370": [
-14.5,
-"SOCCER",
-"Erling Haaland",
-"Passes Attempted",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972967": [
-10.5,
-"SOCCER",
-"Ben Davies",
-"Outfield Fantasy Score",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972865": [
-10.0,
-"SOCCER",
-"Ørjan Nyland",
-"Goalie Fantasy Score",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972869": [
-9.0,
-"SOCCER",
-"Danny Ward",
-"Goalie Fantasy Score",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972915": [
-8.5,
-"SOCCER",
-"Kristoffer Ajer",
-"Outfield Fantasy Score",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972962": [
-8.5,
-"SOCCER",
-"Sander Berge",
-"Outfield Fantasy Score",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972952": [
-8.0,
-"SOCCER",
-"Neco Williams",
-"Outfield Fantasy Score",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966459": [
-7.5,
-"SOCCER",
-"Antonio Nusa",
-"Attempted Dribbles",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966369": [
-6.0,
-"SOCCER",
-"Erling Haaland",
-"Shots",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966413": [
-5.0,
-"SOCCER",
-"Martin Ødegaard",
-"Crosses",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972966": [
-5.0,
-"SOCCER",
-"Ben Davies",
-"Clearances",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972914": [
-4.5,
-"SOCCER",
-"Kristoffer Ajer",
-"Clearances",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966412": [
-3.0,
-"SOCCER",
-"Martin Ødegaard",
-"Shots Assisted",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972951": [
-3.0,
-"SOCCER",
-"Neco Williams",
-"Tackles",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966368": [
-2.5,
-"SOCCER",
-"Erling Haaland",
-"Shots On Target",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966417": [
-2.5,
-"SOCCER",
-"Oscar Bobb",
-"Shots",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966458": [
-2.5,
-"SOCCER",
-"Antonio Nusa",
-"Shots",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966409": [
-2.0,
-"SOCCER",
-"Martin Ødegaard",
-"Shots",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966494": [
-2.0,
-"SOCCER",
-"Andreas Schjelderup",
-"Shots",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966414": [
-1.5,
-"SOCCER",
-"Martin Ødegaard",
-"Attempted Dribbles",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972877": [
-1.5,
-"SOCCER",
-"Harry Wilson",
-"Shots",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972961": [
-1.5,
-"SOCCER",
-"Sander Berge",
-"Tackles",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966377": [
-0.5,
-"SOCCER",
-"Harry Wilson",
-"Shots On Target",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972953": [
-0.5,
-"SOCCER",
-"Neco Williams",
-"Shots Assisted",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16969599": [
-67.5,
-"SOCCER",
-"Willi Orbán",
-"Passes Attempted",
-"Hungary",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16969406": [
-63.5,
-"SOCCER",
-"Luka Lochoshvili",
-"Passes Attempted",
-"Georgia",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16969448": [
-53.5,
-"SOCCER",
-"Dominik Szoboszlai",
-"Passes Attempted",
-"Hungary",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16969372": [
-31.5,
-"SOCCER",
-"Giorgi Mamardashvili",
-"Passes Attempted",
-"Georgia",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16969521": [
-30.5,
-"SOCCER",
-"Balázs Tóth",
-"Passes Attempted",
-"Hungary",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16969640": [
-15.5,
-"SOCCER",
-"Dominik Szoboszlai",
-"Outfield Fantasy Score",
-"Hungary",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16914397": [
-9.5,
-"SOCCER",
-"Balázs Tóth",
-"Goalie Fantasy Score",
-"Hungary",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16914398": [
-9.5,
-"SOCCER",
-"Giorgi Mamardashvili",
-"Goalie Fantasy Score",
-"Georgia",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16969626": [
-6.5,
-"SOCCER",
-"Willi Orbán",
-"Clearances",
-"Hungary",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16969633": [
-6.5,
-"SOCCER",
-"Lasha Dvali",
-"Clearances",
-"Georgia",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16969618": [
-3.0,
-"SOCCER",
-"Dominik Szoboszlai",
-"Shots Assisted",
-"Hungary",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973199": [
-18.5,
-"SOCCER",
-"Trinity Rodman",
-"Outfield Fantasy Score",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973206": [
-12.5,
-"SOCCER",
-"Esme Morgan",
-"Outfield Fantasy Score",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973204": [
-11.5,
-"SOCCER",
-"Tara Rudd",
-"Outfield Fantasy Score",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16970355": [
-9.5,
-"SOCCER",
-"Sandy MacIver",
-"Goalie Fantasy Score",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16970356": [
-9.5,
-"SOCCER",
-"Mandy McGlynn",
-"Goalie Fantasy Score",
-"Royals",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973175": [
-3.5,
-"SOCCER",
-"Trinity Rodman",
-"Attempted Dribbles",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973172": [
-1.5,
-"SOCCER",
-"Trinity Rodman",
-"Shots On Target",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973173": [
-1.5,
-"SOCCER",
-"Leicy Santos",
-"Shots Assisted",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973182": [
-1.5,
-"SOCCER",
-"Leicy Santos",
-"Tackles",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973197": [
-1.5,
-"SOCCER",
-"Cloé Lacasse",
-"Attempted Dribbles",
-"Royals",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973198": [
-1.5,
-"SOCCER",
-"Cloé Lacasse",
-"Shots Assisted",
-"Royals",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966261": [
-4.5,
-"SOCCER",
-"Danny Ward",
-"Goalie Saves",
-"Wales",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16966260": [
-2.0,
-"SOCCER",
-"Ørjan Nyland",
-"Goalie Saves",
-"Norway",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16914082": [
-3.0,
-"SOCCER",
-"Giorgi Mamardashvili",
-"Goalie Saves",
-"Georgia",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16914081": [
-2.5,
-"SOCCER",
-"Balázs Tóth",
-"Goalie Saves",
-"Hungary",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972969": [
-60.5,
-"SOCCER",
-"Esme Morgan",
-"Passes Attempted",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972972": [
-45.5,
-"SOCCER",
-"Mandy McGlynn",
-"Passes Attempted",
-"Royals",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972973": [
-42.5,
-"SOCCER",
-"Kaleigh Riehl",
-"Passes Attempted",
-"Royals",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972970": [
-36.5,
-"SOCCER",
-"Sandy MacIver",
-"Passes Attempted",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972971": [
-25.5,
-"SOCCER",
-"Trinity Rodman",
-"Passes Attempted",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972974": [
-19.5,
-"SOCCER",
-"Cloé Lacasse",
-"Passes Attempted",
-"Royals",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973194": [
-5.5,
-"SOCCER",
-"Tara Rudd",
-"Clearances",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972844": [
-4.0,
-"SOCCER",
-"Trinity Rodman",
-"Shots",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16973195": [
-3.0,
-"SOCCER",
-"Nuria Rábano",
-"Tackles",
-"Royals",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16913774": [
-2.5,
-"SOCCER",
-"Mandy McGlynn",
-"Goalie Saves",
-"Royals",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16913773": [
-2.0,
-"SOCCER",
-"Sandy MacIver",
-"Goalie Saves",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972845": [
-1.5,
-"SOCCER",
-"Sofia Cantore",
-"Shots",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972846": [
-1.5,
-"SOCCER",
-"Leicy Santos",
-"Shots",
-"Spirit",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16972847": [
-1.5,
-"SOCCER",
-"Cloé Lacasse",
-"Shots",
-"Royals",
-"2026-11-14T12:00:00.000-05:00"
-],
-"16970520": [
-73.5,
-"SOCCER",
-"Victor Lindelöf",
-"Passes Attempted",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970645": [
-62.5,
-"SOCCER",
-"Ivan Basic",
-"Passes Attempted",
-"Bosnia",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970530": [
-39.5,
-"SOCCER",
-"Martin Zlomislic",
-"Passes Attempted",
-"Bosnia",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970463": [
-33.5,
-"SOCCER",
-"Viktor Johansson",
-"Passes Attempted",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970609": [
-27.5,
-"SOCCER",
-"Kerim Alajbegovic",
-"Passes Attempted",
-"Bosnia",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970487": [
-21.5,
-"SOCCER",
-"Viktor Gyökeres",
-"Passes Attempted",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970490": [
-16.5,
-"SOCCER",
-"Viktor Gyökeres",
-"Outfield Fantasy Score",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970362": [
-9.5,
-"SOCCER",
-"Viktor Johansson",
-"Goalie Fantasy Score",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970365": [
-9.5,
-"SOCCER",
-"Martin Zlomislic",
-"Goalie Fantasy Score",
-"Bosnia",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970647": [
-9.5,
-"SOCCER",
-"Ivan Basic",
-"Outfield Fantasy Score",
-"Bosnia",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970674": [
-6.5,
-"SOCCER",
-"Nikola Katic",
-"Clearances",
-"Bosnia",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970660": [
-4.5,
-"SOCCER",
-"Victor Lindelöf",
-"Clearances",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970307": [
-4.0,
-"SOCCER",
-"Viktor Gyökeres",
-"Shots",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970669": [
-4.0,
-"SOCCER",
-"Kerim Alajbegovic",
-"Attempted Dribbles",
-"Bosnia",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970311": [
-3.5,
-"SOCCER",
-"Alexander Isak",
-"Shots",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970320": [
-2.0,
-"SOCCER",
-"Anthony Elanga",
-"Shots",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970330": [
-1.5,
-"SOCCER",
-"Viktor Gyökeres",
-"Shots On Target",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970338": [
-1.5,
-"SOCCER",
-"Alexander Isak",
-"Shots On Target",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970658": [
-1.5,
-"SOCCER",
-"Yasin Ayari",
-"Shots Assisted",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970326": [
-0.5,
-"SOCCER",
-"Viktor Gyökeres",
-"Goals",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970817": [
-72.5,
-"SOCCER",
-"Kevin Danso",
-"Passes Attempted",
-"Austria",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970840": [
-39.5,
-"SOCCER",
-"Caoimhín Kelleher",
-"Passes Attempted",
-"Rep. Ireland",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970716": [
-30.5,
-"SOCCER",
-"Alexander Schlager",
-"Passes Attempted",
-"Austria",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16972601": [
-20.5,
-"SOCCER",
-"Troy Parrott",
-"Passes Attempted",
-"Rep. Ireland",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970386": [
-9.5,
-"SOCCER",
-"Alexander Schlager",
-"Goalie Fantasy Score",
-"Austria",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970391": [
-9.5,
-"SOCCER",
-"Caoimhín Kelleher",
-"Goalie Fantasy Score",
-"Rep. Ireland",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16972762": [
-5.5,
-"SOCCER",
-"Liam Scales",
-"Clearances",
-"Rep. Ireland",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16972751": [
-5.0,
-"SOCCER",
-"Kevin Danso",
-"Clearances",
-"Austria",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16972747": [
-2.5,
-"SOCCER",
-"Nicolas Seiwald",
-"Tackles",
-"Austria",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16972755": [
-2.5,
-"SOCCER",
-"Troy Parrott",
-"Attempted Dribbles",
-"Rep. Ireland",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16972705": [
-2.0,
-"SOCCER",
-"Romano Schmid",
-"Shots Assisted",
-"Austria",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16972735": [
-1.5,
-"SOCCER",
-"Xaver Schlager",
-"Shots Assisted",
-"Austria",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16972754": [
-1.5,
-"SOCCER",
-"Jack Moylan",
-"Shots Assisted",
-"Rep. Ireland",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973523": [
-60.5,
-"SOCCER",
-"Rúben Dias",
-"Passes Attempted",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973764": [
-54.5,
-"SOCCER",
-"Pierre-Emile Højbjerg",
-"Passes Attempted",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973714": [
-50.5,
-"SOCCER",
-"Joachim Andersen",
-"Passes Attempted",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973501": [
-44.5,
-"SOCCER",
-"Bruno Fernandes",
-"Passes Attempted",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973012": [
-34.5,
-"SOCCER",
-"Mads Hermansen",
-"Passes Attempted",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973184": [
-31.5,
-"SOCCER",
-"João Félix",
-"Passes Attempted",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973472": [
-25.5,
-"SOCCER",
-"Gustav Isaksen",
-"Passes Attempted",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973007": [
-24.5,
-"SOCCER",
-"Diogo Costa",
-"Passes Attempted",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973201": [
-19.5,
-"SOCCER",
-"Rasmus Højlund",
-"Passes Attempted",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973502": [
-17.5,
-"SOCCER",
-"Bruno Fernandes",
-"Outfield Fantasy Score",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973185": [
-14.5,
-"SOCCER",
-"João Félix",
-"Outfield Fantasy Score",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973525": [
-10.5,
-"SOCCER",
-"Rúben Dias",
-"Outfield Fantasy Score",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16972997": [
-9.0,
-"SOCCER",
-"Mads Hermansen",
-"Goalie Fantasy Score",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973006": [
-9.0,
-"SOCCER",
-"Diogo Costa",
-"Goalie Fantasy Score",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973203": [
-8.5,
-"SOCCER",
-"Rasmus Højlund",
-"Outfield Fantasy Score",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973715": [
-7.5,
-"SOCCER",
-"Joachim Andersen",
-"Outfield Fantasy Score",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973765": [
-7.5,
-"SOCCER",
-"Pierre-Emile Højbjerg",
-"Outfield Fantasy Score",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973503": [
-4.0,
-"SOCCER",
-"Bruno Fernandes",
-"Shots Assisted",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973529": [
-4.0,
-"SOCCER",
-"Rúben Dias",
-"Clearances",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973124": [
-3.5,
-"SOCCER",
-"Gonçalo Ramos",
-"Shots",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973183": [
-3.5,
-"SOCCER",
-"João Félix",
-"Shots",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973200": [
-2.5,
-"SOCCER",
-"Rasmus Højlund",
-"Shots",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973500": [
-2.5,
-"SOCCER",
-"Bruno Fernandes",
-"Shots",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973186": [
-2.0,
-"SOCCER",
-"João Félix",
-"Shots Assisted",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973471": [
-2.0,
-"SOCCER",
-"Gustav Isaksen",
-"Shots",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973202": [
-1.5,
-"SOCCER",
-"Rasmus Højlund",
-"Shots Assisted",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973768": [
-1.5,
-"SOCCER",
-"Morten Hjulmand",
-"Tackles",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16973113": [
-0.5,
-"SOCCER",
-"Gustav Isaksen",
-"Shots On Target",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16914123": [
-3.0,
-"SOCCER",
-"Martin Zlomislic",
-"Goalie Saves",
-"Bosnia",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16914122": [
-2.0,
-"SOCCER",
-"Viktor Johansson",
-"Goalie Saves",
-"Sweden",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16914199": [
-3.0,
-"SOCCER",
-"Caoimhín Kelleher",
-"Goalie Saves",
-"Rep. Ireland",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16857137": [
-2.5,
-"SOCCER",
-"Konrad Laimer",
-"Tackles",
-"Austria",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16914198": [
-2.0,
-"SOCCER",
-"Alexander Schlager",
-"Goalie Saves",
-"Austria",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16966315": [
-4.0,
-"SOCCER",
-"Mads Hermansen",
-"Goalie Saves",
-"Denmark",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16966314": [
-2.0,
-"SOCCER",
-"Diogo Costa",
-"Goalie Saves",
-"Portugal",
-"2026-11-14T14:45:00.000-05:00"
-],
-"16970394": [
-9.5,
-"SOCCER",
-"Walter",
-"Goalie Fantasy Score",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16973649": [
-1.5,
-"SOCCER",
-"Natanael",
-"Tackles",
-"Atlético MG",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16850844": [
-57.5,
-"SOCCER",
-"João Victor",
-"Passes Attempted",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16838606": [
-40.5,
-"SOCCER",
-"Natanael",
-"Passes Attempted",
-"Atlético MG",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16831581": [
-38.5,
-"SOCCER",
-"Igor Formiga",
-"Passes Attempted",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16914257": [
-35.5,
-"SOCCER",
-"Everson",
-"Passes Attempted",
-"Atlético MG",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16914254": [
-28.5,
-"SOCCER",
-"Walter",
-"Passes Attempted",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16831765": [
-26.5,
-"SOCCER",
-"Tomás Cuello",
-"Passes Attempted",
-"Atlético MG",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16831566": [
-14.5,
-"SOCCER",
-"Reinaldo",
-"Outfield Fantasy Score",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16850845": [
-10.5,
-"SOCCER",
-"João Victor",
-"Outfield Fantasy Score",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16914256": [
-9.5,
-"SOCCER",
-"Everson",
-"Goalie Fantasy Score",
-"Atlético MG",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16831577": [
-8.5,
-"SOCCER",
-"Reinaldo",
-"Crosses",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16850843": [
-6.5,
-"SOCCER",
-"João Victor",
-"Clearances",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16831764": [
-3.5,
-"SOCCER",
-"Tomás Cuello",
-"Attempted Dribbles",
-"Atlético MG",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16914251": [
-3.0,
-"SOCCER",
-"Walter",
-"Goalie Saves",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16914252": [
-3.0,
-"SOCCER",
-"Everson",
-"Goalie Saves",
-"Atlético MG",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16831562": [
-2.5,
-"SOCCER",
-"Igor Formiga",
-"Attempted Dribbles",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16831571": [
-2.5,
-"SOCCER",
-"Reinaldo",
-"Shots Assisted",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16831761": [
-2.5,
-"SOCCER",
-"Tomás Cuello",
-"Crosses",
-"Atlético MG",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16923434": [
-2.5,
-"SOCCER",
-"Igor Formiga",
-"Tackles",
-"Mirassol",
-"2026-11-14T16:30:00.000-05:00"
-],
-"16973862": [
-9.5,
-"SOCCER",
-"Anderson",
-"Goalie Fantasy Score",
-"Chapecoense",
-"2026-11-14T18:30:00.000-05:00"
-],
-"16973870": [
-1.5,
-"SOCCER",
-"Yannick Bolasie",
-"Shots",
-"Chapecoense",
-"2026-11-14T18:30:00.000-05:00"
-],
-"16973871": [
-0.5,
-"SOCCER",
-"Yannick Bolasie",
-"Shots On Target",
-"Chapecoense",
-"2026-11-14T18:30:00.000-05:00"
-],
-"16832399": [
-29.5,
-"SOCCER",
-"Giovanni Augusto",
-"Passes Attempted",
-"Chapecoense",
-"2026-11-14T18:30:00.000-05:00"
-],
-"16973832": [
-28.5,
-"SOCCER",
-"Anderson",
-"Passes Attempted",
-"Chapecoense",
-"2026-11-14T18:30:00.000-05:00"
-],
-"16973835": [
-23.5,
-"SOCCER",
-"Léo Jardim",
-"Passes Attempted",
-"Vasco",
-"2026-11-14T18:30:00.000-05:00"
-],
-"16832415": [
-9.5,
-"SOCCER",
-"Giovanni Augusto",
-"Outfield Fantasy Score",
-"Chapecoense",
-"2026-11-14T18:30:00.000-05:00"
-],
-"16973836": [
-9.5,
-"SOCCER",
-"Léo Jardim",
-"Goalie Fantasy Score",
-"Vasco",
-"2026-11-14T18:30:00.000-05:00"
-],
-"16973831": [
-4.0,
-"SOCCER",
-"Anderson",
-"Goalie Saves",
-"Chapecoense",
-"2026-11-14T18:30:00.000-05:00"
-],
-"16973830": [
-2.0,
-"SOCCER",
-"Léo Jardim",
-"Goalie Saves",
-"Vasco",
-"2026-11-14T18:30:00.000-05:00"
-],
-"16973927": [
-79.5,
-"SOCCER",
-"Jérémy Jacquet",
-"Passes Attempted",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973932": [
-59.5,
-"SOCCER",
-"Michael Olise",
-"Passes Attempted",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973963": [
-45.5,
-"SOCCER",
-"Arda Güler",
-"Passes Attempted",
-"Türkiye",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973943": [
-39.5,
-"SOCCER",
-"Uğurcan Çakır",
-"Passes Attempted",
-"Türkiye",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973961": [
-38.5,
-"SOCCER",
-"Ferdi Kadioglu",
-"Passes Attempted",
-"Türkiye",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973938": [
-33.5,
-"SOCCER",
-"Kylian Mbappé",
-"Passes Attempted",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973922": [
-32.5,
-"SOCCER",
-"Mike Maignan",
-"Passes Attempted",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973939": [
-25.5,
-"SOCCER",
-"Kylian Mbappé",
-"Outfield Fantasy Score",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973933": [
-20.5,
-"SOCCER",
-"Michael Olise",
-"Outfield Fantasy Score",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973986": [
-18.5,
-"SOCCER",
-"Arda Güler",
-"Outfield Fantasy Score",
-"Türkiye",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973968": [
-12.5,
-"SOCCER",
-"Baris Alper Yilmaz",
-"Passes Attempted",
-"Türkiye",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973828": [
-10.5,
-"SOCCER",
-"Mike Maignan",
-"Goalie Fantasy Score",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973826": [
-9.5,
-"SOCCER",
-"Uğurcan Çakır",
-"Goalie Fantasy Score",
-"Türkiye",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973976": [
-5.5,
-"SOCCER",
-"Merih Demiral",
-"Clearances",
-"Türkiye",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973771": [
-4.0,
-"SOCCER",
-"Michael Olise",
-"Shots",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973972": [
-3.5,
-"SOCCER",
-"Désiré Doué",
-"Attempted Dribbles",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973974": [
-3.5,
-"SOCCER",
-"Michael Olise",
-"Attempted Dribbles",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973975": [
-3.5,
-"SOCCER",
-"Arda Güler",
-"Attempted Dribbles",
-"Türkiye",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973773": [
-3.0,
-"SOCCER",
-"Bradley Barcola",
-"Shots",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973971": [
-2.5,
-"SOCCER",
-"Michael Olise",
-"Shots Assisted",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973774": [
-2.0,
-"SOCCER",
-"Arda Güler",
-"Shots",
-"Türkiye",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973878": [
-75.5,
-"SOCCER",
-"Pau Cubarsí",
-"Passes Attempted",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973869": [
-59.5,
-"SOCCER",
-"Elliot Anderson",
-"Passes Attempted",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973841": [
-42.5,
-"SOCCER",
-"Jordan Pickford",
-"Passes Attempted",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973883": [
-42.5,
-"SOCCER",
-"Lamine Yamal",
-"Passes Attempted",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973873": [
-40.5,
-"SOCCER",
-"Jude Bellingham",
-"Passes Attempted",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973843": [
-30.5,
-"SOCCER",
-"Unai Simón",
-"Passes Attempted",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973885": [
-25.5,
-"SOCCER",
-"Lamine Yamal",
-"Outfield Fantasy Score",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973867": [
-20.5,
-"SOCCER",
-"Harry Kane",
-"Passes Attempted",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973868": [
-17.5,
-"SOCCER",
-"Harry Kane",
-"Outfield Fantasy Score",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973874": [
-15.5,
-"SOCCER",
-"Jude Bellingham",
-"Outfield Fantasy Score",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973837": [
-9.5,
-"SOCCER",
-"Unai Simón",
-"Goalie Fantasy Score",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973838": [
-9.5,
-"SOCCER",
-"Jordan Pickford",
-"Goalie Fantasy Score",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973898": [
-6.5,
-"SOCCER",
-"Lamine Yamal",
-"Attempted Dribbles",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973902": [
-4.5,
-"SOCCER",
-"Pau Cubarsí",
-"Clearances",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973781": [
-4.0,
-"SOCCER",
-"Lamine Yamal",
-"Shots",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973910": [
-3.5,
-"SOCCER",
-"Anthony Gordon",
-"Attempted Dribbles",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973786": [
-3.0,
-"SOCCER",
-"Harry Kane",
-"Shots",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973802": [
-3.0,
-"SOCCER",
-"Mikel Oyarzabal",
-"Shots",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973815": [
-3.0,
-"SOCCER",
-"Ferran Torres",
-"Shots",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973916": [
-3.0,
-"SOCCER",
-"Jude Bellingham",
-"Attempted Dribbles",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973891": [
-2.5,
-"SOCCER",
-"Lamine Yamal",
-"Shots Assisted",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973818": [
-2.0,
-"SOCCER",
-"Anthony Gordon",
-"Shots",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973819": [
-2.0,
-"SOCCER",
-"Jude Bellingham",
-"Shots",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973896": [
-1.5,
-"SOCCER",
-"Álex Baena",
-"Shots Assisted",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973903": [
-1.5,
-"SOCCER",
-"Morgan Rogers",
-"Shots Assisted",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16950123": [
-5.5,
-"SOCCER",
-"Kylian Mbappé",
-"Shots",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973733": [
-4.0,
-"SOCCER",
-"Uğurcan Çakır",
-"Goalie Saves",
-"Türkiye",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16950022": [
-3.5,
-"SOCCER",
-"Désiré Doué",
-"Shots",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16952171": [
-2.5,
-"SOCCER",
-"Kylian Mbappé",
-"Shots On Target",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973732": [
-2.0,
-"SOCCER",
-"Mike Maignan",
-"Goalie Saves",
-"France",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973731": [
-3.5,
-"SOCCER",
-"Jordan Pickford",
-"Goalie Saves",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16897556": [
-2.5,
-"SOCCER",
-"Fermín López",
-"Shots",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16897569": [
-2.5,
-"SOCCER",
-"Álex Baena",
-"Shots",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16973730": [
-2.5,
-"SOCCER",
-"Unai Simón",
-"Goalie Saves",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16948687": [
-1.5,
-"SOCCER",
-"Lamine Yamal",
-"Shots On Target",
-"Spain",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16948739": [
-1.5,
-"SOCCER",
-"Morgan Rogers",
-"Shots",
-"England",
-"2026-11-15T14:45:00.000-05:00"
-],
-"16972990": [
-16.5,
-"SOCCER",
-"Croix Bethune",
-"Outfield Fantasy Score",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973001": [
-14.5,
-"SOCCER",
-"Jaedyn Shaw",
-"Outfield Fantasy Score",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972988": [
-13.5,
-"SOCCER",
-"Temwa Chawinga",
-"Outfield Fantasy Score",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972998": [
-10.5,
-"SOCCER",
-"Tierna Davidson",
-"Outfield Fantasy Score",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972989": [
-9.5,
-"SOCCER",
-"Kayla Sharples",
-"Outfield Fantasy Score",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973161": [
-4.0,
-"SOCCER",
-"Croix Bethune",
-"Attempted Dribbles",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973041": [
-3.5,
-"SOCCER",
-"Jordynn Dudley",
-"Attempted Dribbles",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973069": [
-2.5,
-"SOCCER",
-"Jaedyn Shaw",
-"Attempted Dribbles",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973163": [
-2.5,
-"SOCCER",
-"Temwa Chawinga",
-"Attempted Dribbles",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973164": [
-2.0,
-"SOCCER",
-"Michelle Cooper",
-"Attempted Dribbles",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973017": [
-1.5,
-"SOCCER",
-"Rose Lavelle",
-"Shots Assisted",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973030": [
-1.5,
-"SOCCER",
-"Jordynn Dudley",
-"Shots Assisted",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973031": [
-1.5,
-"SOCCER",
-"Jaedyn Shaw",
-"Shots Assisted",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973166": [
-1.5,
-"SOCCER",
-"Croix Bethune",
-"Shots Assisted",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972975": [
-72.5,
-"SOCCER",
-"Tierna Davidson",
-"Passes Attempted",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972976": [
-43.5,
-"SOCCER",
-"Ann-Katrin Berger",
-"Passes Attempted",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972978": [
-38.5,
-"SOCCER",
-"Kayla Sharples",
-"Passes Attempted",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972979": [
-32.5,
-"SOCCER",
-"Croix Bethune",
-"Passes Attempted",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972977": [
-20.5,
-"SOCCER",
-"Sam Kerr",
-"Passes Attempted",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972980": [
-17.5,
-"SOCCER",
-"Temwa Chawinga",
-"Passes Attempted",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973127": [
-5.5,
-"SOCCER",
-"Gabrielle Robinson",
-"Clearances",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973126": [
-4.5,
-"SOCCER",
-"Jess Carter",
-"Clearances",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16913775": [
-3.0,
-"SOCCER",
-"Ann-Katrin Berger",
-"Goalie Saves",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16913776": [
-3.0,
-"SOCCER",
-"Lorena",
-"Goalie Saves",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973111": [
-3.0,
-"SOCCER",
-"Jaelin Howell",
-"Tackles",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972848": [
-2.5,
-"SOCCER",
-"Sam Kerr",
-"Shots",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972852": [
-2.5,
-"SOCCER",
-"Temwa Chawinga",
-"Shots",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973077": [
-2.5,
-"SOCCER",
-"Midge Purce",
-"Attempted Dribbles",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972849": [
-2.0,
-"SOCCER",
-"Jaedyn Shaw",
-"Shots",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972850": [
-2.0,
-"SOCCER",
-"Jordynn Dudley",
-"Shots",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972851": [
-2.0,
-"SOCCER",
-"Rose Lavelle",
-"Shots",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972853": [
-2.0,
-"SOCCER",
-"Croix Bethune",
-"Shots",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16972854": [
-2.0,
-"SOCCER",
-"Michelle Cooper",
-"Shots",
-"KC Current",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973024": [
-1.5,
-"SOCCER",
-"Guro Reiten",
-"Shots Assisted",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
-],
-"16973112": [
-1.5,
-"SOCCER",
-"Guro Reiten",
-"Tackles",
-"Gotham FC",
-"2026-11-15T15:00:00.000-05:00"
 ],
 "16812906": [
 7.0,
