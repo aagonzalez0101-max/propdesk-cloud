@@ -3159,6 +3159,558 @@
 "WSH",
 "2026-11-17T19:30:00.000-05:00"
 ],
+"17056316": [
+0.5,
+"SOCCER",
+"Erling Haaland",
+"Goals",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053605": [
+9.0,
+"SOCCER",
+"Anatoliy Trubin",
+"Goalie Fantasy Score",
+"Ukraine",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053606": [
+9.0,
+"SOCCER",
+"Giorgi Mamardashvili",
+"Goalie Fantasy Score",
+"Georgia",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053595": [
+3.0,
+"SOCCER",
+"Anatoliy Trubin",
+"Goalie Saves",
+"Ukraine",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053596": [
+3.0,
+"SOCCER",
+"Giorgi Mamardashvili",
+"Goalie Saves",
+"Georgia",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061935": [
+71.5,
+"SOCCER",
+"Renato Veiga",
+"Passes Attempted",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17062222": [
+60.5,
+"SOCCER",
+"Ben Davies",
+"Passes Attempted",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061859": [
+49.5,
+"SOCCER",
+"Bruno Fernandes",
+"Passes Attempted",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061864": [
+22.5,
+"SOCCER",
+"Diogo Costa",
+"Passes Attempted",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17062172": [
+16.5,
+"SOCCER",
+"Brennan Johnson",
+"Passes Attempted",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061860": [
+12.5,
+"SOCCER",
+"Bruno Fernandes",
+"Outfield Fantasy Score",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061863": [
+10.0,
+"SOCCER",
+"Vitinha",
+"Outfield Fantasy Score",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17062223": [
+10.0,
+"SOCCER",
+"Ben Davies",
+"Outfield Fantasy Score",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053604": [
+9.5,
+"SOCCER",
+"Diogo Costa",
+"Goalie Fantasy Score",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053603": [
+9.0,
+"SOCCER",
+"Karl Darlow",
+"Goalie Fantasy Score",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061896": [
+9.0,
+"SOCCER",
+"Renato Veiga",
+"Outfield Fantasy Score",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061857": [
+5.5,
+"SOCCER",
+"Bruno Fernandes",
+"Crosses",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17062221": [
+5.5,
+"SOCCER",
+"Ben Davies",
+"Clearances",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061895": [
+5.0,
+"SOCCER",
+"Renato Veiga",
+"Clearances",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053593": [
+4.0,
+"SOCCER",
+"Karl Darlow",
+"Goalie Saves",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055344": [
+3.5,
+"SOCCER",
+"João Félix",
+"Shots",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055345": [
+3.5,
+"SOCCER",
+"Gonçalo Ramos",
+"Shots",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061858": [
+3.5,
+"SOCCER",
+"Bruno Fernandes",
+"Shots Assisted",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055346": [
+2.5,
+"SOCCER",
+"Bruno Fernandes",
+"Shots",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053594": [
+2.0,
+"SOCCER",
+"Diogo Costa",
+"Goalie Saves",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055347": [
+0.5,
+"SOCCER",
+"João Palhinha",
+"Shots",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055359": [
+0.5,
+"SOCCER",
+"Brennan Johnson",
+"Shots On Target",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055360": [
+0.5,
+"SOCCER",
+"Pedro Neto",
+"Shots On Target",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061862": [
+0.5,
+"SOCCER",
+"Vitinha",
+"Attempted Dribbles",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053607": [
+9.5,
+"SOCCER",
+"Caoimhín Kelleher",
+"Goalie Fantasy Score",
+"Rep. Ireland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053608": [
+9.0,
+"SOCCER",
+"Arijanet Muric",
+"Goalie Fantasy Score",
+"Kosovo",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053598": [
+3.0,
+"SOCCER",
+"Arijanet Muric",
+"Goalie Saves",
+"Kosovo",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053597": [
+2.0,
+"SOCCER",
+"Caoimhín Kelleher",
+"Goalie Saves",
+"Rep. Ireland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061205": [
+83.5,
+"SOCCER",
+"Sander Berge",
+"Passes Attempted",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061234": [
+69.5,
+"SOCCER",
+"Pierre-Emile Højbjerg",
+"Passes Attempted",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061215": [
+56.5,
+"SOCCER",
+"Kristoffer Ajer",
+"Passes Attempted",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061230": [
+17.5,
+"SOCCER",
+"Rasmus Højlund",
+"Passes Attempted",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061172": [
+16.5,
+"SOCCER",
+"Erling Haaland",
+"Outfield Fantasy Score",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061171": [
+13.5,
+"SOCCER",
+"Erling Haaland",
+"Passes Attempted",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061276": [
+11.0,
+"SOCCER",
+"Oliver Provstgaard",
+"Outfield Fantasy Score",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061216": [
+9.0,
+"SOCCER",
+"Kristoffer Ajer",
+"Outfield Fantasy Score",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053601": [
+8.5,
+"SOCCER",
+"Mads Hermansen",
+"Goalie Fantasy Score",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053602": [
+8.5,
+"SOCCER",
+"Egil Selvik",
+"Goalie Fantasy Score",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061206": [
+8.0,
+"SOCCER",
+"Sander Berge",
+"Outfield Fantasy Score",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061275": [
+6.0,
+"SOCCER",
+"Oliver Provstgaard",
+"Clearances",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061214": [
+5.0,
+"SOCCER",
+"Kristoffer Ajer",
+"Clearances",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055309": [
+4.0,
+"SOCCER",
+"Erling Haaland",
+"Shots",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053591": [
+3.0,
+"SOCCER",
+"Mads Hermansen",
+"Goalie Saves",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053592": [
+3.0,
+"SOCCER",
+"Egil Selvik",
+"Goalie Saves",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055311": [
+3.0,
+"SOCCER",
+"Rasmus Højlund",
+"Shots",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055310": [
+2.5,
+"SOCCER",
+"Gustav Isaksen",
+"Shots",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055312": [
+1.5,
+"SOCCER",
+"Martin Ødegaard",
+"Shots",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055313": [
+1.5,
+"SOCCER",
+"Oscar Bobb",
+"Shots",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055335": [
+1.5,
+"SOCCER",
+"Erling Haaland",
+"Shots On Target",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055336": [
+0.5,
+"SOCCER",
+"Mohamed Daramy",
+"Shots On Target",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061204": [
+0.5,
+"SOCCER",
+"Sander Berge",
+"Shots Assisted",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053609": [
+9.0,
+"SOCCER",
+"Bartlomiej Dragowski",
+"Goalie Fantasy Score",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053610": [
+8.5,
+"SOCCER",
+"Viktor Johansson",
+"Goalie Fantasy Score",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055371": [
+3.5,
+"SOCCER",
+"Robert Lewandowski",
+"Shots",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053599": [
+3.0,
+"SOCCER",
+"Bartlomiej Dragowski",
+"Goalie Saves",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053600": [
+3.0,
+"SOCCER",
+"Viktor Johansson",
+"Goalie Saves",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055376": [
+3.0,
+"SOCCER",
+"Viktor Gyökeres",
+"Shots",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055372": [
+2.5,
+"SOCCER",
+"Mateusz Zukowski",
+"Shots",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055373": [
+1.5,
+"SOCCER",
+"Piotr Zielinski",
+"Shots",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055374": [
+1.5,
+"SOCCER",
+"Benjamin Nygren",
+"Shots",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055375": [
+0.5,
+"SOCCER",
+"Tymoteusz Puchacz",
+"Shots",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055440": [
+0.5,
+"SOCCER",
+"Alieu Njie",
+"Shots On Target",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055441": [
+0.5,
+"SOCCER",
+"Karol Swiderski",
+"Shots On Target",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055442": [
+0.5,
+"SOCCER",
+"Anthony Elanga",
+"Shots On Target",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
 "17036746": [
 36.5,
 "NBA",
@@ -4191,14 +4743,6 @@
 "BOS",
 "2026-11-16T19:00:00.000-05:00"
 ],
-"17033221": [
-21.5,
-"NBA",
-"Payton Pritchard",
-"Pts+Rebs+Asts",
-"BOS",
-"2026-11-16T19:00:00.000-05:00"
-],
 "17032891": [
 20.5,
 "NBA",
@@ -4211,6 +4755,14 @@
 20.5,
 "NBA",
 "Derrick White",
+"Pts+Rebs+Asts",
+"BOS",
+"2026-11-16T19:00:00.000-05:00"
+],
+"17033221": [
+20.5,
+"NBA",
+"Payton Pritchard",
 "Pts+Rebs+Asts",
 "BOS",
 "2026-11-16T19:00:00.000-05:00"
@@ -4484,14 +5036,6 @@
 "NBA",
 "Sam Hauser",
 "Pts+Rebs+Asts",
-"BOS",
-"2026-11-16T19:00:00.000-05:00"
-],
-"17064720": [
-9.5,
-"NBA",
-"Neemias Queta",
-"Pts+Asts",
 "BOS",
 "2026-11-16T19:00:00.000-05:00"
 ],
@@ -4972,14 +5516,6 @@
 "NBA",
 "Tristan da Silva",
 "Steals",
-"ORL",
-"2026-11-16T19:00:00.000-05:00"
-],
-"17059995": [
-0.5,
-"NBA",
-"Wendell Carter Jr.",
-"3-PT Made",
 "ORL",
 "2026-11-16T19:00:00.000-05:00"
 ],
@@ -5783,6 +6319,14 @@
 "CHI",
 "2026-11-16T19:00:00.000-05:00"
 ],
+"17034286": [
+1.5,
+"NBA",
+"Matas Buzelis",
+"Blks+Stls",
+"CHI",
+"2026-11-16T19:00:00.000-05:00"
+],
 "17037907": [
 1.5,
 "NBA",
@@ -6183,19 +6727,19 @@
 "BOS",
 "2026-11-16T19:10:00.000-05:00"
 ],
-"17035768": [
-7.0,
-"NBA",
-"Neemias Queta",
-"Rebounds",
-"BOS",
-"2026-11-16T19:10:00.000-05:00"
-],
 "17050595": [
 7.0,
 "NBA",
 "Paul George",
 "Two Pointers Attempted",
+"BOS",
+"2026-11-16T19:10:00.000-05:00"
+],
+"17035768": [
+6.5,
+"NBA",
+"Neemias Queta",
+"Rebounds",
 "BOS",
 "2026-11-16T19:10:00.000-05:00"
 ],
@@ -7087,6 +7631,14 @@
 "BKN",
 "2026-11-16T19:30:00.000-05:00"
 ],
+"17037150": [
+6.5,
+"NBA",
+"Dean Wade",
+"Rebs+Asts",
+"PHI",
+"2026-11-16T19:30:00.000-05:00"
+],
 "17051024": [
 6.5,
 "NBA",
@@ -7791,19 +8343,19 @@
 "HOU",
 "2026-11-16T19:30:00.000-05:00"
 ],
+"17036334": [
+15.5,
+"NBA",
+"Reed Sheppard",
+"Pts+Rebs+Asts",
+"HOU",
+"2026-11-16T19:30:00.000-05:00"
+],
 "17036088": [
 15.0,
 "NBA",
 "Jabari Smith Jr.",
 "Points",
-"HOU",
-"2026-11-16T19:30:00.000-05:00"
-],
-"17036334": [
-14.5,
-"NBA",
-"Reed Sheppard",
-"Pts+Rebs+Asts",
 "HOU",
 "2026-11-16T19:30:00.000-05:00"
 ],
@@ -8816,7 +9368,7 @@
 "2026-11-16T19:40:00.000-05:00"
 ],
 "17047883": [
-20.5,
+21.5,
 "NBA",
 "Reed Sheppard",
 "Fantasy Score",
@@ -9503,14 +10055,6 @@
 "POR",
 "2026-11-16T20:00:00.000-05:00"
 ],
-"17030090": [
-9.5,
-"NBA",
-"Rudy Gobert",
-"Points",
-"MIN",
-"2026-11-16T20:00:00.000-05:00"
-],
 "17029782": [
 9.0,
 "NBA",
@@ -9556,6 +10100,14 @@
 "NBA",
 "Jaden McDaniels",
 "Rebs+Asts",
+"MIN",
+"2026-11-16T20:00:00.000-05:00"
+],
+"17064931": [
+8.5,
+"NBA",
+"Rudy Gobert",
+"Points",
 "MIN",
 "2026-11-16T20:00:00.000-05:00"
 ],
@@ -9908,14 +10460,6 @@
 "NBA",
 "LaMelo Ball",
 "3-PT Made",
-"MIN",
-"2026-11-16T20:00:00.000-05:00"
-],
-"17040821": [
-3.5,
-"NBA",
-"Rudy Gobert",
-"Two Pointers Made",
 "MIN",
 "2026-11-16T20:00:00.000-05:00"
 ],
@@ -10389,14 +10933,6 @@
 "Herbert Jones",
 "Pts+Rebs+Asts",
 "NOP",
-"2026-11-16T20:00:00.000-05:00"
-],
-"17030994": [
-12.5,
-"NBA",
-"Draymond Green",
-"Pts+Asts",
-"GSW",
 "2026-11-16T20:00:00.000-05:00"
 ],
 "17032043": [
@@ -11888,7 +12424,7 @@
 "2026-11-16T21:00:00.000-05:00"
 ],
 "17034726": [
-12.5,
+13.0,
 "NBA",
 "Cameron Johnson",
 "Points",
@@ -12015,14 +12551,6 @@
 "DEN",
 "2026-11-16T21:00:00.000-05:00"
 ],
-"17037233": [
-9.0,
-"NBA",
-"Miles Bridges",
-"Rebs+Asts",
-"PHX",
-"2026-11-16T21:00:00.000-05:00"
-],
 "17037291": [
 9.0,
 "NBA",
@@ -12068,6 +12596,14 @@
 "NBA",
 "Jordan Goodwin",
 "Points",
+"PHX",
+"2026-11-16T21:00:00.000-05:00"
+],
+"17037233": [
+8.5,
+"NBA",
+"Miles Bridges",
+"Rebs+Asts",
 "PHX",
 "2026-11-16T21:00:00.000-05:00"
 ],
@@ -12229,14 +12765,6 @@
 "Dillon Brooks",
 "FG Made",
 "PHX",
-"2026-11-16T21:00:00.000-05:00"
-],
-"17047401": [
-5.5,
-"NBA",
-"Cameron Johnson",
-"Rebs+Asts",
-"DEN",
 "2026-11-16T21:00:00.000-05:00"
 ],
 "17035460": [
@@ -12824,7 +13352,7 @@
 "2026-11-16T20:15:00.000-05:00"
 ],
 "16844154": [
-210.5,
+211.5,
 "NFL",
 "Jacoby Brissett",
 "Pass Yards",
@@ -13191,6 +13719,14 @@
 "BAL",
 "2026-11-16T20:15:00.000-05:00"
 ],
+"16899991": [
+11.5,
+"NFL",
+"Keaton Mitchell",
+"Receiving Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
 "16900021": [
 11.5,
 "NFL",
@@ -13215,14 +13751,6 @@
 "BAL",
 "2026-11-16T20:15:00.000-05:00"
 ],
-"16899991": [
-10.5,
-"NFL",
-"Keaton Mitchell",
-"Receiving Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
 "16902362": [
 10.5,
 "NFL",
@@ -13236,14 +13764,6 @@
 "NFL",
 "Omarion Hampton",
 "Longest Rush",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16995434": [
-10.5,
-"NFL",
-"Charlie Kolar",
-"Longest Reception",
 "LAC",
 "2026-11-16T20:15:00.000-05:00"
 ],
@@ -13261,6 +13781,14 @@
 "Zay Flowers",
 "Yards on First Reception",
 "BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16995434": [
+9.5,
+"NFL",
+"Charlie Kolar",
+"Longest Reception",
+"LAC",
 "2026-11-16T20:15:00.000-05:00"
 ],
 "17061237": [
@@ -13316,14 +13844,6 @@
 "NFL",
 "Zay Flowers",
 "Rec Targets",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844254": [
-7.5,
-"NFL",
-"Matt Hibner",
-"Longest Reception",
 "BAL",
 "2026-11-16T20:15:00.000-05:00"
 ],
@@ -13460,6 +13980,14 @@
 "NFL",
 "Derrick Henry",
 "Receiving Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844254": [
+5.5,
+"NFL",
+"Matt Hibner",
+"Longest Reception",
 "BAL",
 "2026-11-16T20:15:00.000-05:00"
 ],
@@ -13816,7 +14344,7 @@
 "2026-11-19T20:15:00.000-05:00"
 ],
 "17032697": [
-257.5,
+258.5,
 "NFL",
 "C.J. Stroud",
 "Pass Yards",
@@ -13832,7 +14360,7 @@
 "2026-11-19T20:15:00.000-05:00"
 ],
 "17032696": [
-180.5,
+183.5,
 "NFL",
 "Daniel Jones",
 "Pass Yards",
@@ -13852,6 +14380,14 @@
 "NFL",
 "Nico Collins",
 "Receiving Yards",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17064922": [
+56.5,
+"NFL",
+"David Montgomery",
+"Rush Yards",
 "HOU",
 "2026-11-19T20:15:00.000-05:00"
 ],
@@ -13959,6 +14495,14 @@
 "IND",
 "2026-11-19T20:15:00.000-05:00"
 ],
+"17033696": [
+16.5,
+"NFL",
+"Deion Burks",
+"Receiving Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
 "17034270": [
 16.5,
 "NFL",
@@ -13967,10 +14511,10 @@
 "IND",
 "2026-11-19T20:15:00.000-05:00"
 ],
-"17033696": [
-15.5,
+"17055820": [
+16.5,
 "NFL",
-"Deion Burks",
+"Ashton Dulin",
 "Receiving Yards",
 "IND",
 "2026-11-19T20:15:00.000-05:00"
@@ -13980,14 +14524,6 @@
 "NFL",
 "Tyler Warren",
 "Longest Reception",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17055820": [
-15.5,
-"NFL",
-"Ashton Dulin",
-"Receiving Yards",
 "IND",
 "2026-11-19T20:15:00.000-05:00"
 ],
@@ -16280,7 +16816,7 @@
 "2026-11-21T13:00:00.000-05:00"
 ],
 "17063716": [
-66.5,
+70.5,
 "CFB",
 "Makhi Hughes",
 "Rush Yards",
@@ -16288,7 +16824,7 @@
 "2026-11-21T13:00:00.000-05:00"
 ],
 "17063743": [
-63.5,
+59.5,
 "CFB",
 "Patrick Overmyer",
 "Receiving Yards",
@@ -16304,18 +16840,10 @@
 "2026-11-21T13:00:00.000-05:00"
 ],
 "17063691": [
-45.5,
+50.5,
 "CFB",
 "Trent Walker",
 "Receiving Yards",
-"HOU",
-"2026-11-21T13:00:00.000-05:00"
-],
-"17063688": [
-44.5,
-"CFB",
-"Conner Weigman",
-"Rush Yards",
 "HOU",
 "2026-11-21T13:00:00.000-05:00"
 ],
@@ -16325,6 +16853,14 @@
 "DJ Epps",
 "Receiving Yards",
 "WVU",
+"2026-11-21T13:00:00.000-05:00"
+],
+"17063688": [
+40.5,
+"CFB",
+"Conner Weigman",
+"Rush Yards",
+"HOU",
 "2026-11-21T13:00:00.000-05:00"
 ],
 "17063697": [
@@ -16344,7 +16880,7 @@
 "2026-11-21T13:00:00.000-05:00"
 ],
 "17063720": [
-24.5,
+20.5,
 "CFB",
 "John Neider",
 "Receiving Yards",
@@ -16816,7 +17352,7 @@
 "2026-11-21T19:30:00.000-05:00"
 ],
 "17061415": [
-30.5,
+27.5,
 "CFB",
 "Isiah Canion",
 "Receiving Yards",
@@ -17174,557 +17710,5 @@
 "Receptions",
 "UTAH",
 "2026-11-21T21:00:00.000-05:00"
-],
-"17056316": [
-0.5,
-"SOCCER",
-"Erling Haaland",
-"Goals",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053605": [
-9.0,
-"SOCCER",
-"Anatoliy Trubin",
-"Goalie Fantasy Score",
-"Ukraine",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053606": [
-9.0,
-"SOCCER",
-"Giorgi Mamardashvili",
-"Goalie Fantasy Score",
-"Georgia",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053595": [
-3.0,
-"SOCCER",
-"Anatoliy Trubin",
-"Goalie Saves",
-"Ukraine",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053596": [
-3.0,
-"SOCCER",
-"Giorgi Mamardashvili",
-"Goalie Saves",
-"Georgia",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061935": [
-71.5,
-"SOCCER",
-"Renato Veiga",
-"Passes Attempted",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17062222": [
-60.5,
-"SOCCER",
-"Ben Davies",
-"Passes Attempted",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061859": [
-49.5,
-"SOCCER",
-"Bruno Fernandes",
-"Passes Attempted",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061864": [
-22.5,
-"SOCCER",
-"Diogo Costa",
-"Passes Attempted",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17062172": [
-16.5,
-"SOCCER",
-"Brennan Johnson",
-"Passes Attempted",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061860": [
-12.5,
-"SOCCER",
-"Bruno Fernandes",
-"Outfield Fantasy Score",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061863": [
-10.0,
-"SOCCER",
-"Vitinha",
-"Outfield Fantasy Score",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17062223": [
-10.0,
-"SOCCER",
-"Ben Davies",
-"Outfield Fantasy Score",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053604": [
-9.5,
-"SOCCER",
-"Diogo Costa",
-"Goalie Fantasy Score",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053603": [
-9.0,
-"SOCCER",
-"Karl Darlow",
-"Goalie Fantasy Score",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061896": [
-9.0,
-"SOCCER",
-"Renato Veiga",
-"Outfield Fantasy Score",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061857": [
-5.5,
-"SOCCER",
-"Bruno Fernandes",
-"Crosses",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17062221": [
-5.5,
-"SOCCER",
-"Ben Davies",
-"Clearances",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061895": [
-5.0,
-"SOCCER",
-"Renato Veiga",
-"Clearances",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053593": [
-4.0,
-"SOCCER",
-"Karl Darlow",
-"Goalie Saves",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055344": [
-3.5,
-"SOCCER",
-"João Félix",
-"Shots",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055345": [
-3.5,
-"SOCCER",
-"Gonçalo Ramos",
-"Shots",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061858": [
-3.5,
-"SOCCER",
-"Bruno Fernandes",
-"Shots Assisted",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055346": [
-2.5,
-"SOCCER",
-"Bruno Fernandes",
-"Shots",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053594": [
-2.0,
-"SOCCER",
-"Diogo Costa",
-"Goalie Saves",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055347": [
-0.5,
-"SOCCER",
-"João Palhinha",
-"Shots",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055359": [
-0.5,
-"SOCCER",
-"Brennan Johnson",
-"Shots On Target",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055360": [
-0.5,
-"SOCCER",
-"Pedro Neto",
-"Shots On Target",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061862": [
-0.5,
-"SOCCER",
-"Vitinha",
-"Attempted Dribbles",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053607": [
-9.5,
-"SOCCER",
-"Caoimhín Kelleher",
-"Goalie Fantasy Score",
-"Rep. Ireland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053608": [
-9.0,
-"SOCCER",
-"Arijanet Muric",
-"Goalie Fantasy Score",
-"Kosovo",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053598": [
-3.0,
-"SOCCER",
-"Arijanet Muric",
-"Goalie Saves",
-"Kosovo",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053597": [
-2.0,
-"SOCCER",
-"Caoimhín Kelleher",
-"Goalie Saves",
-"Rep. Ireland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061205": [
-83.5,
-"SOCCER",
-"Sander Berge",
-"Passes Attempted",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061234": [
-69.5,
-"SOCCER",
-"Pierre-Emile Højbjerg",
-"Passes Attempted",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061215": [
-56.5,
-"SOCCER",
-"Kristoffer Ajer",
-"Passes Attempted",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061230": [
-17.5,
-"SOCCER",
-"Rasmus Højlund",
-"Passes Attempted",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061172": [
-16.5,
-"SOCCER",
-"Erling Haaland",
-"Outfield Fantasy Score",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061171": [
-13.5,
-"SOCCER",
-"Erling Haaland",
-"Passes Attempted",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061276": [
-11.0,
-"SOCCER",
-"Oliver Provstgaard",
-"Outfield Fantasy Score",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061216": [
-9.0,
-"SOCCER",
-"Kristoffer Ajer",
-"Outfield Fantasy Score",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053601": [
-8.5,
-"SOCCER",
-"Mads Hermansen",
-"Goalie Fantasy Score",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053602": [
-8.5,
-"SOCCER",
-"Egil Selvik",
-"Goalie Fantasy Score",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061206": [
-8.0,
-"SOCCER",
-"Sander Berge",
-"Outfield Fantasy Score",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061275": [
-6.0,
-"SOCCER",
-"Oliver Provstgaard",
-"Clearances",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061214": [
-5.0,
-"SOCCER",
-"Kristoffer Ajer",
-"Clearances",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055309": [
-4.0,
-"SOCCER",
-"Erling Haaland",
-"Shots",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053591": [
-3.0,
-"SOCCER",
-"Mads Hermansen",
-"Goalie Saves",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053592": [
-3.0,
-"SOCCER",
-"Egil Selvik",
-"Goalie Saves",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055311": [
-3.0,
-"SOCCER",
-"Rasmus Højlund",
-"Shots",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055310": [
-2.5,
-"SOCCER",
-"Gustav Isaksen",
-"Shots",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055312": [
-1.5,
-"SOCCER",
-"Martin Ødegaard",
-"Shots",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055313": [
-1.5,
-"SOCCER",
-"Oscar Bobb",
-"Shots",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055335": [
-1.5,
-"SOCCER",
-"Erling Haaland",
-"Shots On Target",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055336": [
-0.5,
-"SOCCER",
-"Mohamed Daramy",
-"Shots On Target",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061204": [
-0.5,
-"SOCCER",
-"Sander Berge",
-"Shots Assisted",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053609": [
-9.0,
-"SOCCER",
-"Bartlomiej Dragowski",
-"Goalie Fantasy Score",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053610": [
-8.5,
-"SOCCER",
-"Viktor Johansson",
-"Goalie Fantasy Score",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055371": [
-3.5,
-"SOCCER",
-"Robert Lewandowski",
-"Shots",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053599": [
-3.0,
-"SOCCER",
-"Bartlomiej Dragowski",
-"Goalie Saves",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053600": [
-3.0,
-"SOCCER",
-"Viktor Johansson",
-"Goalie Saves",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055376": [
-3.0,
-"SOCCER",
-"Viktor Gyökeres",
-"Shots",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055372": [
-2.5,
-"SOCCER",
-"Mateusz Zukowski",
-"Shots",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055373": [
-1.5,
-"SOCCER",
-"Piotr Zielinski",
-"Shots",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055374": [
-1.5,
-"SOCCER",
-"Benjamin Nygren",
-"Shots",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055375": [
-0.5,
-"SOCCER",
-"Tymoteusz Puchacz",
-"Shots",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055440": [
-0.5,
-"SOCCER",
-"Alieu Njie",
-"Shots On Target",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055441": [
-0.5,
-"SOCCER",
-"Karol Swiderski",
-"Shots On Target",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055442": [
-0.5,
-"SOCCER",
-"Anthony Elanga",
-"Shots On Target",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
 ]
 }
