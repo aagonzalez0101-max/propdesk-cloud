@@ -2856,7 +2856,7 @@
 "2026-11-16T21:30:00.000-05:00"
 ],
 "17063402": [
-7.5,
+6.5,
 "NHL",
 "Kevin Stenlund",
 "Faceoffs Won",
@@ -3087,60 +3087,12 @@
 "UTA",
 "2026-11-16T21:30:00.000-05:00"
 ],
-"17049514": [
-0.5,
-"NHL",
-"Filip Hronek",
-"Points",
-"VAN",
-"2026-11-16T21:30:00.000-05:00"
-],
-"17063108": [
-3.5,
-"NHL",
-"Zach Werenski",
-"Shots On Goal",
-"CBJ",
-"2026-11-17T19:00:00.000-05:00"
-],
 "17062874": [
 1.5,
 "NHL",
 "Brayden Schenn",
 "Shots On Goal",
 "NYI",
-"2026-11-17T19:00:00.000-05:00"
-],
-"17067859": [
-0.5,
-"NHL",
-"Seth Jones",
-"Points",
-"FLA",
-"2026-11-17T19:00:00.000-05:00"
-],
-"17067866": [
-0.5,
-"NHL",
-"Sam Reinhart",
-"Points",
-"FLA",
-"2026-11-17T19:00:00.000-05:00"
-],
-"17067872": [
-0.5,
-"NHL",
-"Brady Tkachuk",
-"Points",
-"FLA",
-"2026-11-17T19:00:00.000-05:00"
-],
-"17067875": [
-0.5,
-"NHL",
-"Carter Verhaeghe",
-"Points",
-"FLA",
 "2026-11-17T19:00:00.000-05:00"
 ],
 "17062698": [
@@ -3223,54 +3175,6 @@
 "STL",
 "2026-11-17T20:00:00.000-05:00"
 ],
-"17067900": [
-0.5,
-"NHL",
-"Tomas Hertl",
-"Points",
-"VGK",
-"2026-11-17T22:00:00.000-05:00"
-],
-"17067906": [
-0.5,
-"NHL",
-"Thomas Harley",
-"Points",
-"DAL",
-"2026-11-17T22:00:00.000-05:00"
-],
-"17067912": [
-0.5,
-"NHL",
-"Mikko Rantanen",
-"Points",
-"DAL",
-"2026-11-17T22:00:00.000-05:00"
-],
-"17067917": [
-0.5,
-"NHL",
-"Jason Robertson",
-"Points",
-"DAL",
-"2026-11-17T22:00:00.000-05:00"
-],
-"17067918": [
-0.5,
-"NHL",
-"Wyatt Johnston",
-"Points",
-"DAL",
-"2026-11-17T22:00:00.000-05:00"
-],
-"17067923": [
-0.5,
-"NHL",
-"Victor Olofsson",
-"Points",
-"VGK",
-"2026-11-17T22:00:00.000-05:00"
-],
 "17068579": [
 2.5,
 "NHL",
@@ -3278,3846 +3182,6 @@
 "Shots On Goal",
 "SJ",
 "2026-11-17T22:00:00.000-05:00"
-],
-"16986480": [
-1.0,
-"NFL",
-"Justin Herbert",
-"Pass TDs",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844205": [
-224.5,
-"NFL",
-"Jacoby Brissett",
-"Pass+Rush Yds",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16902363": [
-224.5,
-"NFL",
-"Justin Herbert",
-"Pass+Rush Yds",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844154": [
-210.5,
-"NFL",
-"Jacoby Brissett",
-"Pass Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16834519": [
-200.5,
-"NFL",
-"Justin Herbert",
-"Pass Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16899970": [
-92.5,
-"NFL",
-"Derrick Henry",
-"Rush+Rec Yds",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16953095": [
-86.5,
-"NFL",
-"Jacoby Brissett",
-"Passer Rating",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16834650": [
-81.5,
-"NFL",
-"Derrick Henry",
-"Rush Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16953096": [
-79.5,
-"NFL",
-"Justin Herbert",
-"Passer Rating",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16899975": [
-77.5,
-"NFL",
-"Zay Flowers",
-"Rush+Rec Yds",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16834829": [
-72.5,
-"NFL",
-"Zay Flowers",
-"Receiving Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16908146": [
-66.1,
-"NFL",
-"Jacoby Brissett",
-"Completion Percentage",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16908152": [
-63.3,
-"NFL",
-"Justin Herbert",
-"Completion Percentage",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17025823": [
-43.5,
-"NFL",
-"Tre' Harris",
-"Receiving Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16899985": [
-42.5,
-"NFL",
-"Omarion Hampton",
-"Rush+Rec Yds",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844265": [
-35.5,
-"NFL",
-"Jacoby Brissett",
-"Longest Completion",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16834651": [
-34.5,
-"NFL",
-"Omarion Hampton",
-"Rush Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16902355": [
-34.5,
-"NFL",
-"Justin Herbert",
-"Longest Completion",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16899971": [
-33.5,
-"NFL",
-"Kimani Vidal",
-"Rush+Rec Yds",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17025821": [
-33.5,
-"NFL",
-"Quentin Johnston",
-"Receiving Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844250": [
-30.5,
-"NFL",
-"Jacoby Brissett",
-"Pass Attempts",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16902360": [
-29.5,
-"NFL",
-"Justin Herbert",
-"Pass Attempts",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16899982": [
-27.5,
-"NFL",
-"Justice Hill",
-"Rush+Rec Yds",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16899987": [
-25.5,
-"NFL",
-"Keaton Mitchell",
-"Rush+Rec Yds",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844263": [
-24.5,
-"NFL",
-"Zay Flowers",
-"Longest Reception",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844213": [
-23.5,
-"NFL",
-"Rashod Bateman",
-"Receiving Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16834828": [
-22.5,
-"NFL",
-"Mark Andrews",
-"Receiving Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900031": [
-21.5,
-"NFL",
-"Kimani Vidal",
-"Rush Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16834506": [
-20.5,
-"NFL",
-"Justin Herbert",
-"Rush Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844270": [
-20.5,
-"NFL",
-"Ja'Kobi Lane",
-"Receiving Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16909077": [
-20.5,
-"NFL",
-"Derrick Henry",
-"Rush Yards in First 5 Attempts",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17025813": [
-20.5,
-"NFL",
-"Quentin Johnston",
-"Longest Reception",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844209": [
-19.5,
-"NFL",
-"Jacoby Brissett",
-"Pass Completions",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844220": [
-19.5,
-"NFL",
-"Derrick Henry",
-"Rush Attempts",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16907354": [
-19.5,
-"NFL",
-"Justin Herbert",
-"Pass Completions",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17025798": [
-19.5,
-"NFL",
-"Tre' Harris",
-"Longest Reception",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844125": [
-17.5,
-"NFL",
-"Derrick Henry",
-"Longest Rush",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17026947": [
-17.5,
-"NFL",
-"KeAndre Lambert-Smith",
-"Receiving Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844279": [
-15.5,
-"NFL",
-"Rashod Bateman",
-"Longest Reception",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900043": [
-15.5,
-"NFL",
-"Zay Flowers",
-"Fantasy Score",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16909083": [
-15.5,
-"NFL",
-"Omarion Hampton",
-"Rush Yards in First 5 Attempts",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16995437": [
-15.5,
-"NFL",
-"Charlie Kolar",
-"Receiving Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16908185": [
-14.5,
-"NFL",
-"Justin Herbert",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900071": [
-14.0,
-"NFL",
-"Derrick Henry",
-"Fantasy Score",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16908183": [
-14.0,
-"NFL",
-"Jacoby Brissett",
-"Fantasy Score",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844132": [
-13.5,
-"NFL",
-"Justice Hill",
-"Rush Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844255": [
-13.5,
-"NFL",
-"Ja'Kobi Lane",
-"Longest Reception",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17026948": [
-12.5,
-"NFL",
-"KeAndre Lambert-Smith",
-"Longest Reception",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17062597": [
-12.5,
-"NFL",
-"Mark Andrews",
-"Longest Reception",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844198": [
-11.5,
-"NFL",
-"Justice Hill",
-"Receiving Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900021": [
-11.5,
-"NFL",
-"Keaton Mitchell",
-"Rush Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17055822": [
-11.5,
-"NFL",
-"David Njoku",
-"Receiving Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16899991": [
-10.5,
-"NFL",
-"Keaton Mitchell",
-"Receiving Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16902362": [
-10.5,
-"NFL",
-"Justin Herbert",
-"Longest Rush",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16902411": [
-10.5,
-"NFL",
-"Omarion Hampton",
-"Longest Rush",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16995434": [
-10.5,
-"NFL",
-"Charlie Kolar",
-"Longest Reception",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16995439": [
-10.5,
-"NFL",
-"Oronde Gadsden II",
-"Receiving Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16974837": [
-9.5,
-"NFL",
-"Zay Flowers",
-"Yards on First Reception",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17061237": [
-9.5,
-"NFL",
-"David Njoku",
-"Longest Reception",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17027974": [
-9.0,
-"NFL",
-"Tre' Harris",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900009": [
-8.5,
-"NFL",
-"Kimani Vidal",
-"Receiving Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16907356": [
-8.5,
-"NFL",
-"Kimani Vidal",
-"Longest Rush",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16974383": [
-8.5,
-"NFL",
-"Riley Patterson",
-"Fantasy Score",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16995433": [
-8.5,
-"NFL",
-"Oronde Gadsden II",
-"Longest Reception",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16941190": [
-8.0,
-"NFL",
-"Zay Flowers",
-"Rec Targets",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844268": [
-7.5,
-"NFL",
-"Justice Hill",
-"Longest Reception",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16899989": [
-7.5,
-"NFL",
-"Josh Cuevas",
-"Receiving Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16902464": [
-7.5,
-"NFL",
-"Kimani Vidal",
-"Longest Reception",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16903249": [
-7.5,
-"NFL",
-"Josh Cuevas",
-"Longest Reception",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16932359": [
-7.5,
-"NFL",
-"Riley Patterson",
-"Kicking Points",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17025961": [
-7.5,
-"NFL",
-"Keaton Mitchell",
-"Longest Reception",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16974384": [
-7.0,
-"NFL",
-"Cameron Dicker",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17027972": [
-7.0,
-"NFL",
-"Quentin Johnston",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844131": [
-6.5,
-"NFL",
-"Jacoby Brissett",
-"Rush Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900050": [
-6.5,
-"NFL",
-"Mark Andrews",
-"Fantasy Score",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900066": [
-6.5,
-"NFL",
-"Omarion Hampton",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16902434": [
-6.5,
-"NFL",
-"Keaton Mitchell",
-"Longest Rush",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16903253": [
-6.5,
-"NFL",
-"Kimani Vidal",
-"Rush Attempts",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17029066": [
-6.5,
-"NFL",
-"Daiyan Henley",
-"Tackles+Ast",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17038677": [
-6.5,
-"NFL",
-"Justice Hill",
-"Longest Rush",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900089": [
-6.0,
-"NFL",
-"Justice Hill",
-"Fantasy Score",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16969636": [
-6.0,
-"NFL",
-"Cameron Dicker",
-"Kicking Points",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844254": [
-5.5,
-"NFL",
-"Matt Hibner",
-"Longest Reception",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16887330": [
-5.5,
-"NFL",
-"Jacoby Brissett",
-"Longest Rush",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16899973": [
-5.5,
-"NFL",
-"Omarion Hampton",
-"Receiving Yards",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900041": [
-5.5,
-"NFL",
-"Ja'Kobi Lane",
-"Fantasy Score",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900062": [
-5.5,
-"NFL",
-"Rashod Bateman",
-"Fantasy Score",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900075": [
-5.5,
-"NFL",
-"Kimani Vidal",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900082": [
-5.5,
-"NFL",
-"Keaton Mitchell",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16969635": [
-5.5,
-"NFL",
-"Derrick Henry",
-"Longest Reception",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17033308": [
-5.5,
-"NFL",
-"Tre' Harris",
-"Rec Targets",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17034363": [
-5.5,
-"NFL",
-"Trenton Simpson",
-"Tackles+Ast",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17048104": [
-5.5,
-"NFL",
-"Justin Herbert",
-"Consecutive Pass Completions",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17048105": [
-5.5,
-"NFL",
-"Jacoby Brissett",
-"Consecutive Pass Completions",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16990965": [
-5.0,
-"NFL",
-"JK Scott",
-"Punts",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16834830": [
-4.5,
-"NFL",
-"Derrick Henry",
-"Receiving Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16902460": [
-4.5,
-"NFL",
-"Omarion Hampton",
-"Longest Reception",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16941186": [
-4.5,
-"NFL",
-"Mark Andrews",
-"Rec Targets",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16990964": [
-4.5,
-"NFL",
-"Ryan Eckley",
-"Punts",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17033307": [
-4.5,
-"NFL",
-"Quentin Johnston",
-"Rec Targets",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17035624": [
-4.5,
-"NFL",
-"Tony Jefferson",
-"Tackles+Ast",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16909079": [
-4.1,
-"NFL",
-"Derrick Henry",
-"Rush Yards Per Carry",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17048390": [
-4.0,
-"NFL",
-"KeAndre Lambert-Smith",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16941187": [
-3.5,
-"NFL",
-"Rashod Bateman",
-"Rec Targets",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16941188": [
-3.5,
-"NFL",
-"Ja'Kobi Lane",
-"Rec Targets",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16953120": [
-3.5,
-"NFL",
-"Justin Herbert",
-"Sacks Taken",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17006637": [
-3.5,
-"NFL",
-"Marlon Humphrey",
-"Tackles+Ast",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17025881": [
-3.5,
-"NFL",
-"Tre' Harris",
-"Receptions",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17038614": [
-3.5,
-"NFL",
-"Justice Hill",
-"Rush Attempts",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17052155": [
-3.5,
-"NFL",
-"Tarheeb Still",
-"Tackles+Ast",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17055824": [
-3.5,
-"NFL",
-"Charlie Kolar",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16909076": [
-3.2,
-"NFL",
-"Omarion Hampton",
-"Rush Yards Per Carry",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16941185": [
-3.0,
-"NFL",
-"Justice Hill",
-"Rec Targets",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16942012": [
-3.0,
-"NFL",
-"Keaton Mitchell",
-"Rec Targets",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17049108": [
-3.0,
-"NFL",
-"Oronde Gadsden II",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17058147": [
-3.0,
-"NFL",
-"David Njoku",
-"Fantasy Score",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16844201": [
-2.5,
-"NFL",
-"Matt Hibner",
-"Receiving Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17036390": [
-2.5,
-"NFL",
-"Quentin Johnston",
-"Receptions",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17052215": [
-2.5,
-"NFL",
-"Mike Green",
-"Tackles+Ast",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17069227": [
-2.5,
-"NFL",
-"Charlie Kolar",
-"Rec Targets",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17069228": [
-2.5,
-"NFL",
-"Oronde Gadsden II",
-"Rec Targets",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16900292": [
-2.0,
-"NFL",
-"Josh Cuevas",
-"Fantasy Score",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16942013": [
-2.0,
-"NFL",
-"Kimani Vidal",
-"Rec Targets",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16953119": [
-2.0,
-"NFL",
-"Jacoby Brissett",
-"Sacks Taken",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16986445": [
-2.0,
-"NFL",
-"Ja'Kobi Lane",
-"Receptions",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16986446": [
-2.0,
-"NFL",
-"Rashod Bateman",
-"Receptions",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16986447": [
-2.0,
-"NFL",
-"Keaton Mitchell",
-"Receptions",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16928855": [
-1.5,
-"NFL",
-"Cameron Dicker",
-"FG Made",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16941184": [
-1.5,
-"NFL",
-"Derrick Henry",
-"Rec Targets",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16941189": [
-1.5,
-"NFL",
-"Josh Cuevas",
-"Rec Targets",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17052863": [
-1.5,
-"NFL",
-"KeAndre Lambert-Smith",
-"Receptions",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17059591": [
-1.5,
-"NFL",
-"Oronde Gadsden II",
-"Receptions",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17069229": [
-1.5,
-"NFL",
-"Omarion Hampton",
-"Rec Targets",
-"LAC",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16899988": [
-0.5,
-"NFL",
-"Zay Flowers",
-"Rush Yards",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16902461": [
-0.5,
-"NFL",
-"Jacoby Brissett",
-"INT",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"16936381": [
-0.5,
-"NFL",
-"Derrick Henry",
-"Rush TDs",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17069669": [
-0.25,
-"NFL",
-"Trey Hendrickson",
-"Sacks",
-"BAL",
-"2026-11-16T20:15:00.000-05:00"
-],
-"17068577": [
-2.0,
-"NFL",
-"C.J. Stroud",
-"Pass TDs",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033471": [
-272.5,
-"NFL",
-"C.J. Stroud",
-"Pass+Rush Yds",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17032697": [
-260.5,
-"NFL",
-"C.J. Stroud",
-"Pass Yards",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033565": [
-200.5,
-"NFL",
-"Daniel Jones",
-"Pass+Rush Yds",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17032696": [
-183.5,
-"NFL",
-"Daniel Jones",
-"Pass Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033630": [
-76.5,
-"NFL",
-"Jonathan Taylor",
-"Rush+Rec Yds",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033441": [
-66.2,
-"NFL",
-"C.J. Stroud",
-"Completion Percentage",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034237": [
-65.5,
-"NFL",
-"Nico Collins",
-"Receiving Yards",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033532": [
-60.0,
-"NFL",
-"Daniel Jones",
-"Completion Percentage",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17064922": [
-56.5,
-"NFL",
-"David Montgomery",
-"Rush Yards",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033584": [
-50.5,
-"NFL",
-"Jonathan Taylor",
-"Rush Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033703": [
-40.5,
-"NFL",
-"Tyler Warren",
-"Receiving Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17050037": [
-38.5,
-"NFL",
-"C.J. Stroud",
-"Longest Completion",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033439": [
-32.5,
-"NFL",
-"C.J. Stroud",
-"Pass Attempts",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17044297": [
-32.5,
-"NFL",
-"Daniel Jones",
-"Pass Attempts",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17048259": [
-30.5,
-"NFL",
-"Daniel Jones",
-"Longest Completion",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033698": [
-29.5,
-"NFL",
-"Laquon Treadwell",
-"Receiving Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034234": [
-29.5,
-"NFL",
-"Dalton Schultz",
-"Receiving Yards",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033576": [
-27.5,
-"NFL",
-"Seth McGowan",
-"Rush Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034250": [
-25.5,
-"NFL",
-"Nico Collins",
-"Longest Reception",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033684": [
-22.5,
-"NFL",
-"Anthony Gould",
-"Receiving Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033998": [
-20.5,
-"NFL",
-"Jonathan Taylor",
-"Rush Yards in First 5 Attempts",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033467": [
-20.0,
-"NFL",
-"C.J. Stroud",
-"Fantasy Score",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033529": [
-19.5,
-"NFL",
-"Daniel Jones",
-"Pass Completions",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033615": [
-19.5,
-"NFL",
-"Jonathan Taylor",
-"Receiving Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033696": [
-16.5,
-"NFL",
-"Deion Burks",
-"Receiving Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034270": [
-16.5,
-"NFL",
-"Laquon Treadwell",
-"Longest Reception",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17055820": [
-16.5,
-"NFL",
-"Ashton Dulin",
-"Receiving Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034266": [
-15.5,
-"NFL",
-"Tyler Warren",
-"Longest Reception",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034252": [
-14.5,
-"NFL",
-"Dalton Schultz",
-"Longest Reception",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034230": [
-14.0,
-"NFL",
-"Nico Collins",
-"Fantasy Score",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033616": [
-13.5,
-"NFL",
-"Jonathan Taylor",
-"Fantasy Score",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033589": [
-12.5,
-"NFL",
-"Jonathan Taylor",
-"Rush Attempts",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034267": [
-12.5,
-"NFL",
-"Anthony Gould",
-"Longest Reception",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034273": [
-12.5,
-"NFL",
-"Deion Burks",
-"Longest Reception",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17048332": [
-12.5,
-"NFL",
-"Jonathan Taylor",
-"Longest Rush",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033463": [
-11.5,
-"NFL",
-"C.J. Stroud",
-"Rush Yards",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17048343": [
-11.5,
-"NFL",
-"Seth McGowan",
-"Longest Rush",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033552": [
-10.5,
-"NFL",
-"Daniel Jones",
-"Fantasy Score",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033605": [
-10.5,
-"NFL",
-"Jonathan Taylor",
-"Longest Reception",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033692": [
-10.5,
-"NFL",
-"Tyler Warren",
-"Fantasy Score",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034223": [
-8.5,
-"NFL",
-"Dalton Schultz",
-"Fantasy Score",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033547": [
-7.5,
-"NFL",
-"Daniel Jones",
-"Rush Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034000": [
-7.5,
-"NFL",
-"Seth McGowan",
-"Rush Attempts",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17050039": [
-7.5,
-"NFL",
-"C.J. Stroud",
-"Longest Rush",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033687": [
-6.5,
-"NFL",
-"Laquon Treadwell",
-"Fantasy Score",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033667": [
-5.5,
-"NFL",
-"Anthony Gould",
-"Fantasy Score",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17048263": [
-5.5,
-"NFL",
-"Daniel Jones",
-"Longest Rush",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17034219": [
-4.5,
-"NFL",
-"Nico Collins",
-"Receptions",
-"HOU",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033679": [
-4.0,
-"NFL",
-"Deion Burks",
-"Fantasy Score",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17033999": [
-4.0,
-"NFL",
-"Jonathan Taylor",
-"Rush Yards Per Carry",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17058124": [
-3.5,
-"NFL",
-"Ashton Dulin",
-"Fantasy Score",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17046100": [
-2.5,
-"NFL",
-"Laquon Treadwell",
-"Receptions",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17048344": [
-0.5,
-"NFL",
-"Seth McGowan",
-"Longest Reception",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17048346": [
-0.5,
-"NFL",
-"Seth McGowan",
-"Receiving Yards",
-"IND",
-"2026-11-19T20:15:00.000-05:00"
-],
-"17061840": [
-217.5,
-"NFL",
-"Aaron Rodgers",
-"Pass Yards",
-"PIT",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061841": [
-175.5,
-"NFL",
-"Joe Milton III",
-"Pass Yards",
-"PHI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061955": [
-66.5,
-"NFL",
-"Jaylen Warren",
-"Rush Yards",
-"PIT",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061956": [
-56.5,
-"NFL",
-"Saquon Barkley",
-"Rush Yards",
-"PHI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062816": [
-48.5,
-"NFL",
-"DK Metcalf",
-"Receiving Yards",
-"PIT",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061825": [
-30.5,
-"NFL",
-"Joe Milton III",
-"Rush Yards",
-"PHI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062817": [
-26.5,
-"NFL",
-"Pat Freiermuth",
-"Receiving Yards",
-"PIT",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062818": [
-22.5,
-"NFL",
-"Jaylen Warren",
-"Receiving Yards",
-"PIT",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062819": [
-11.5,
-"NFL",
-"Saquon Barkley",
-"Receiving Yards",
-"PHI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061824": [
-0.5,
-"NFL",
-"Aaron Rodgers",
-"Rush Yards",
-"PIT",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061843": [
-242.5,
-"NFL",
-"Patrick Mahomes",
-"Pass Yards",
-"KC",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061842": [
-173.5,
-"NFL",
-"Carson Beck",
-"Pass Yards",
-"ARI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062820": [
-55.5,
-"NFL",
-"Trey McBride",
-"Receiving Yards",
-"ARI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062821": [
-47.5,
-"NFL",
-"Travis Kelce",
-"Receiving Yards",
-"KC",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061826": [
-9.5,
-"NFL",
-"Patrick Mahomes",
-"Rush Yards",
-"KC",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061845": [
-261.5,
-"NFL",
-"Caleb Williams",
-"Pass Yards",
-"CHI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061844": [
-248.5,
-"NFL",
-"Tyler Shough",
-"Pass Yards",
-"NO",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062822": [
-72.5,
-"NFL",
-"Chris Olave",
-"Receiving Yards",
-"NO",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062824": [
-66.5,
-"NFL",
-"Luther Burden III",
-"Receiving Yards",
-"CHI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062823": [
-56.5,
-"NFL",
-"Jordyn Tyson",
-"Receiving Yards",
-"NO",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062826": [
-55.5,
-"NFL",
-"Colston Loveland",
-"Receiving Yards",
-"CHI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062825": [
-49.5,
-"NFL",
-"Rome Odunze",
-"Receiving Yards",
-"CHI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061827": [
-16.5,
-"NFL",
-"Tyler Shough",
-"Rush Yards",
-"NO",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061828": [
-16.5,
-"NFL",
-"Caleb Williams",
-"Rush Yards",
-"CHI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061847": [
-274.5,
-"NFL",
-"Dak Prescott",
-"Pass Yards",
-"DAL",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061846": [
-211.5,
-"NFL",
-"Cam Ward",
-"Pass Yards",
-"TEN",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062827": [
-88.5,
-"NFL",
-"CeeDee Lamb",
-"Receiving Yards",
-"DAL",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061958": [
-75.5,
-"NFL",
-"Javonte Williams",
-"Rush Yards",
-"DAL",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062828": [
-67.5,
-"NFL",
-"George Pickens",
-"Receiving Yards",
-"DAL",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061957": [
-60.5,
-"NFL",
-"Tony Pollard",
-"Rush Yards",
-"TEN",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061829": [
-8.5,
-"NFL",
-"Cam Ward",
-"Rush Yards",
-"TEN",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061830": [
-7.5,
-"NFL",
-"Dak Prescott",
-"Rush Yards",
-"DAL",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052779": [
-259.5,
-"NFL",
-"Josh Allen",
-"Pass+Rush Yds",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052752": [
-227.5,
-"NFL",
-"Josh Allen",
-"Pass Yards",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052789": [
-188.5,
-"NFL",
-"Kyle McCord",
-"Pass+Rush Yds",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052665": [
-178.5,
-"NFL",
-"Kyle McCord",
-"Pass Yards",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052797": [
-93.5,
-"NFL",
-"James Cook III",
-"Rush Yards",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052791": [
-58.5,
-"NFL",
-"Ollie Gordon II",
-"Rush Yards",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052700": [
-48.5,
-"NFL",
-"DJ Moore",
-"Receiving Yards",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052620": [
-46.5,
-"NFL",
-"Caleb Douglas",
-"Receiving Yards",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052748": [
-38.5,
-"NFL",
-"Josh Allen",
-"Longest Completion",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052668": [
-35.5,
-"NFL",
-"Keon Coleman",
-"Receiving Yards",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052783": [
-35.5,
-"NFL",
-"Malik Washington",
-"Receiving Yards",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17069926": [
-31.5,
-"NFL",
-"Kyle McCord",
-"Pass Attempts",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052728": [
-29.5,
-"NFL",
-"Kyle McCord",
-"Longest Completion",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052754": [
-27.5,
-"NFL",
-"Josh Allen",
-"Rush Yards",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052612": [
-26.5,
-"NFL",
-"Josh Allen",
-"Pass Attempts",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052611": [
-23.5,
-"NFL",
-"Greg Dulcich",
-"Receiving Yards",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052643": [
-23.5,
-"NFL",
-"DJ Moore",
-"Longest Reception",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052671": [
-19.5,
-"NFL",
-"James Cook III",
-"Rush Attempts",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052694": [
-19.5,
-"NFL",
-"Caleb Douglas",
-"Longest Reception",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052801": [
-19.5,
-"NFL",
-"Keon Coleman",
-"Longest Reception",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052640": [
-17.5,
-"NFL",
-"James Cook III",
-"Longest Rush",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052654": [
-16.5,
-"NFL",
-"Malik Washington",
-"Longest Reception",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052647": [
-14.5,
-"NFL",
-"Ollie Gordon II",
-"Longest Rush",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052762": [
-14.5,
-"NFL",
-"Ollie Gordon II",
-"Rush Attempts",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052601": [
-12.5,
-"NFL",
-"Josh Allen",
-"Longest Rush",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052602": [
-12.5,
-"NFL",
-"Ollie Gordon II",
-"Receiving Yards",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052669": [
-12.5,
-"NFL",
-"Greg Dulcich",
-"Longest Reception",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052727": [
-12.5,
-"NFL",
-"Dawson Knox",
-"Receiving Yards",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052743": [
-12.5,
-"NFL",
-"Ty Johnson",
-"Receiving Yards",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052662": [
-11.5,
-"NFL",
-"James Cook III",
-"Receiving Yards",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052699": [
-9.5,
-"NFL",
-"Ty Johnson",
-"Longest Reception",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052742": [
-9.5,
-"NFL",
-"Dawson Knox",
-"Longest Reception",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052739": [
-8.5,
-"NFL",
-"Ollie Gordon II",
-"Longest Reception",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052745": [
-8.5,
-"NFL",
-"Jaylen Wright",
-"Rush Yards",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052767": [
-8.5,
-"NFL",
-"James Cook III",
-"Longest Reception",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052648": [
-6.5,
-"NFL",
-"Kyle McCord",
-"Rush Yards",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052681": [
-6.5,
-"NFL",
-"Josh Allen",
-"Rush Attempts",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052775": [
-6.5,
-"NFL",
-"Ty Johnson",
-"Rush Yards",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052609": [
-5.5,
-"NFL",
-"Jaylen Wright",
-"Longest Rush",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052638": [
-3.5,
-"NFL",
-"Malik Washington",
-"Receptions",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052701": [
-3.5,
-"NFL",
-"DJ Moore",
-"Receptions",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17052644": [
-2.5,
-"NFL",
-"Keon Coleman",
-"Receptions",
-"BUF",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17068800": [
-2.5,
-"NFL",
-"Ollie Gordon II",
-"Receptions",
-"MIA",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061849": [
-272.5,
-"NFL",
-"Jared Goff",
-"Pass Yards",
-"DET",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061848": [
-220.5,
-"NFL",
-"Baker Mayfield",
-"Pass Yards",
-"TB",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061960": [
-98.5,
-"NFL",
-"Jahmyr Gibbs",
-"Rush Yards",
-"DET",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062830": [
-78.5,
-"NFL",
-"Amon-Ra St. Brown",
-"Receiving Yards",
-"DET",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061959": [
-64.5,
-"NFL",
-"Bucky Irving",
-"Rush Yards",
-"TB",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062831": [
-55.5,
-"NFL",
-"Jameson Williams",
-"Receiving Yards",
-"DET",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062829": [
-48.5,
-"NFL",
-"Emeka Egbuka",
-"Receiving Yards",
-"TB",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062832": [
-41.5,
-"NFL",
-"Sam LaPorta",
-"Receiving Yards",
-"DET",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062833": [
-33.5,
-"NFL",
-"Jahmyr Gibbs",
-"Receiving Yards",
-"DET",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061831": [
-15.5,
-"NFL",
-"Baker Mayfield",
-"Rush Yards",
-"TB",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061832": [
-0.5,
-"NFL",
-"Jared Goff",
-"Rush Yards",
-"DET",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061850": [
-242.5,
-"NFL",
-"Bryce Young",
-"Pass Yards",
-"CAR",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061961": [
-77.5,
-"NFL",
-"Chuba Hubbard",
-"Rush Yards",
-"CAR",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17062834": [
-64.5,
-"NFL",
-"Tetairoa McMillan",
-"Receiving Yards",
-"CAR",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061833": [
-7.5,
-"NFL",
-"Bryce Young",
-"Rush Yards",
-"CAR",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17061852": [
-208.5,
-"NFL",
-"Bo Nix",
-"Pass Yards",
-"DEN",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17061851": [
-181.5,
-"NFL",
-"Fernando Mendoza",
-"Pass Yards",
-"LV",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17061963": [
-61.5,
-"NFL",
-"Jonah Coleman",
-"Rush Yards",
-"DEN",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17061962": [
-35.5,
-"NFL",
-"Ashton Jeanty",
-"Rush Yards",
-"LV",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17062835": [
-28.5,
-"NFL",
-"Ashton Jeanty",
-"Receiving Yards",
-"LV",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17061834": [
-16.5,
-"NFL",
-"Fernando Mendoza",
-"Rush Yards",
-"LV",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17061835": [
-8.5,
-"NFL",
-"Bo Nix",
-"Rush Yards",
-"DEN",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051361": [
-272.5,
-"NFL",
-"Trevor Lawrence",
-"Pass+Rush Yds",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051219": [
-254.5,
-"NFL",
-"Trevor Lawrence",
-"Pass Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051360": [
-250.5,
-"NFL",
-"J.J. McCarthy",
-"Pass+Rush Yds",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051323": [
-212.5,
-"NFL",
-"J.J. McCarthy",
-"Pass Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051354": [
-70.5,
-"NFL",
-"Parker Washington",
-"Receiving Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051355": [
-68.5,
-"NFL",
-"Bhayshul Tuten",
-"Rush Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051291": [
-61.5,
-"NFL",
-"Malik Nabers",
-"Receiving Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051259": [
-58.5,
-"NFL",
-"Isaiah Likely",
-"Receiving Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051310": [
-56.5,
-"NFL",
-"Cam Skattebo",
-"Rush Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051152": [
-42.5,
-"NFL",
-"Jakobi Meyers",
-"Receiving Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051309": [
-38.5,
-"NFL",
-"Trevor Lawrence",
-"Longest Completion",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051383": [
-34.5,
-"NFL",
-"J.J. McCarthy",
-"Longest Completion",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051036": [
-33.5,
-"NFL",
-"J.J. McCarthy",
-"Pass Attempts",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051047": [
-32.5,
-"NFL",
-"Trevor Lawrence",
-"Pass Attempts",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051196": [
-32.5,
-"NFL",
-"Brenton Strange",
-"Receiving Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051233": [
-28.5,
-"NFL",
-"Malachi Fields",
-"Receiving Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051260": [
-26.5,
-"NFL",
-"Parker Washington",
-"Longest Reception",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051367": [
-24.5,
-"NFL",
-"Chris Rodriguez Jr.",
-"Rush Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051250": [
-22.5,
-"NFL",
-"Malik Nabers",
-"Longest Reception",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051128": [
-21.5,
-"NFL",
-"Trevor Lawrence",
-"Pass Completions",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051140": [
-19.5,
-"NFL",
-"Isaiah Likely",
-"Longest Reception",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051308": [
-19.5,
-"NFL",
-"J.J. McCarthy",
-"Rush Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051330": [
-18.5,
-"NFL",
-"Jakobi Meyers",
-"Longest Reception",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051227": [
-17.5,
-"NFL",
-"Darnell Mooney",
-"Receiving Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051371": [
-16.5,
-"NFL",
-"Brenton Strange",
-"Longest Reception",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051163": [
-15.5,
-"NFL",
-"Bhayshul Tuten",
-"Rush Attempts",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051223": [
-15.5,
-"NFL",
-"Malachi Fields",
-"Longest Reception",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051071": [
-14.5,
-"NFL",
-"Bhayshul Tuten",
-"Longest Rush",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051113": [
-14.5,
-"NFL",
-"Cam Skattebo",
-"Rush Attempts",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051212": [
-14.5,
-"NFL",
-"Bhayshul Tuten",
-"Receiving Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051097": [
-13.5,
-"NFL",
-"Brian Thomas Jr.",
-"Receiving Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051317": [
-13.5,
-"NFL",
-"Cam Skattebo",
-"Receiving Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051346": [
-13.5,
-"NFL",
-"Devin Singletary",
-"Rush Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051048": [
-11.5,
-"NFL",
-"J.J. McCarthy",
-"Longest Rush",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051190": [
-11.5,
-"NFL",
-"Darnell Mooney",
-"Longest Reception",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051318": [
-11.5,
-"NFL",
-"Trevor Lawrence",
-"Rush Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051377": [
-11.5,
-"NFL",
-"Brian Thomas Jr.",
-"Longest Reception",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051217": [
-10.5,
-"NFL",
-"Josh Cameron",
-"Receiving Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051086": [
-9.5,
-"NFL",
-"Chris Rodriguez Jr.",
-"Longest Rush",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051168": [
-9.5,
-"NFL",
-"Bhayshul Tuten",
-"Longest Reception",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051211": [
-9.5,
-"NFL",
-"Nate Boerkircher",
-"Receiving Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051303": [
-9.5,
-"NFL",
-"Josh Cameron",
-"Longest Reception",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051074": [
-8.5,
-"NFL",
-"Trevor Lawrence",
-"Longest Rush",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051261": [
-8.5,
-"NFL",
-"Nate Boerkircher",
-"Longest Reception",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051324": [
-8.5,
-"NFL",
-"Cam Little",
-"Kicking Points",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051340": [
-8.5,
-"NFL",
-"Cam Skattebo",
-"Longest Reception",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051606": [
-6.5,
-"NFL",
-"Devin Singletary",
-"Longest Rush",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051158": [
-5.5,
-"NFL",
-"Isaiah Likely",
-"Receptions",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051284": [
-5.5,
-"NFL",
-"Travis Hunter",
-"Longest Reception",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051306": [
-5.5,
-"NFL",
-"Travis Hunter",
-"Receiving Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051130": [
-4.5,
-"NFL",
-"Theo Johnson",
-"Receiving Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051156": [
-4.5,
-"NFL",
-"Theo Johnson",
-"Longest Reception",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051171": [
-4.5,
-"NFL",
-"Devin Singletary",
-"Receiving Yards",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051325": [
-4.5,
-"NFL",
-"Devin Singletary",
-"Longest Reception",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051132": [
-3.5,
-"NFL",
-"Jakobi Meyers",
-"Receptions",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051049": [
-0.5,
-"NFL",
-"Trevor Lawrence",
-"INT",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051054": [
-0.5,
-"NFL",
-"Chris Rodriguez Jr.",
-"Receptions",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051066": [
-0.5,
-"NFL",
-"J.J. McCarthy",
-"INT",
-"NYG",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051253": [
-0.5,
-"NFL",
-"Chris Rodriguez Jr.",
-"Receiving Yards",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17051305": [
-0.5,
-"NFL",
-"Chris Rodriguez Jr.",
-"Longest Reception",
-"JAC",
-"2026-11-22T16:25:00.000-05:00"
-],
-"17068381": [
-265.5,
-"NFL",
-"Brock Purdy",
-"Pass+Rush Yds",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068402": [
-237.5,
-"NFL",
-"Kirk Cousins",
-"Pass+Rush Yds",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17061853": [
-232.5,
-"NFL",
-"Kirk Cousins",
-"Pass Yards",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17061854": [
-232.5,
-"NFL",
-"Brock Purdy",
-"Pass Yards",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17062836": [
-85.5,
-"NFL",
-"Justin Jefferson",
-"Receiving Yards",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17061965": [
-60.5,
-"NFL",
-"Christian McCaffrey",
-"Rush Yards",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068548": [
-56.5,
-"NFL",
-"George Kittle",
-"Receiving Yards",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17061964": [
-47.5,
-"NFL",
-"Jordan Mason",
-"Rush Yards",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068549": [
-40.5,
-"NFL",
-"Keenan Allen",
-"Receiving Yards",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17062837": [
-36.5,
-"NFL",
-"Christian McCaffrey",
-"Receiving Yards",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068501": [
-36.5,
-"NFL",
-"Brock Purdy",
-"Longest Completion",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068537": [
-36.5,
-"NFL",
-"Aaron Jones Sr.",
-"Rush Yards",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068451": [
-35.5,
-"NFL",
-"Kirk Cousins",
-"Longest Completion",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068476": [
-34.5,
-"NFL",
-"Kirk Cousins",
-"Pass Attempts",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068540": [
-33.5,
-"NFL",
-"Deebo Samuel Sr.",
-"Receiving Yards",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068416": [
-31.5,
-"NFL",
-"Brock Purdy",
-"Pass Attempts",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068467": [
-24.5,
-"NFL",
-"Kaelon Black",
-"Rush Yards",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068471": [
-23.5,
-"NFL",
-"Justin Jefferson",
-"Longest Reception",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068528": [
-21.5,
-"NFL",
-"George Kittle",
-"Longest Reception",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17061837": [
-20.5,
-"NFL",
-"Brock Purdy",
-"Rush Yards",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068407": [
-20.5,
-"NFL",
-"Brock Purdy",
-"Pass Completions",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068415": [
-20.5,
-"NFL",
-"Kirk Cousins",
-"Pass Completions",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068546": [
-18.5,
-"NFL",
-"Deebo Samuel Sr.",
-"Longest Reception",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068479": [
-17.5,
-"NFL",
-"Keenan Allen",
-"Longest Reception",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068491": [
-14.5,
-"NFL",
-"Christian McCaffrey",
-"Longest Reception",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068387": [
-13.5,
-"NFL",
-"Jordan Mason",
-"Longest Rush",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068360": [
-12.5,
-"NFL",
-"Jordan Mason",
-"Rush Attempts",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068447": [
-12.5,
-"NFL",
-"Christian McCaffrey",
-"Longest Rush",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068352": [
-10.5,
-"NFL",
-"Aaron Jones Sr.",
-"Longest Rush",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068458": [
-10.5,
-"NFL",
-"Deebo Samuel Sr.",
-"Rush Yards",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068340": [
-9.5,
-"NFL",
-"Brock Purdy",
-"Longest Rush",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068362": [
-9.5,
-"NFL",
-"Kaelon Black",
-"Longest Rush",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068413": [
-9.5,
-"NFL",
-"Aaron Jones Sr.",
-"Receiving Yards",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068385": [
-7.5,
-"NFL",
-"Aaron Jones Sr.",
-"Longest Reception",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068302": [
-6.5,
-"NFL",
-"Kaelon Black",
-"Rush Attempts",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17069946": [
-6.5,
-"NFL",
-"Eddy Pineiro",
-"Kicking Points",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068345": [
-3.5,
-"NFL",
-"Kirk Cousins",
-"Longest Rush",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068457": [
-3.5,
-"NFL",
-"Keenan Allen",
-"Receptions",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068356": [
-1.5,
-"NFL",
-"Eddy Pineiro",
-"FG Made",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068384": [
-1.5,
-"NFL",
-"Jordan Mason",
-"Longest Reception",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17061836": [
-0.5,
-"NFL",
-"Kirk Cousins",
-"Rush Yards",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068430": [
-0.5,
-"NFL",
-"Kaelon Black",
-"Receiving Yards",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068435": [
-0.5,
-"NFL",
-"Kaelon Black",
-"Longest Reception",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068483": [
-0.5,
-"NFL",
-"Kaelon Black",
-"Receptions",
-"SF",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17068524": [
-0.5,
-"NFL",
-"Jordan Mason",
-"Receiving Yards",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
-"17061855": [
-296.5,
-"NFL",
-"Joe Burrow",
-"Pass Yards",
-"CIN",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17061856": [
-216.5,
-"NFL",
-"Jayden Daniels",
-"Pass Yards",
-"WAS",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17062838": [
-92.5,
-"NFL",
-"Ja'Marr Chase",
-"Receiving Yards",
-"CIN",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17062839": [
-76.5,
-"NFL",
-"Tee Higgins",
-"Receiving Yards",
-"CIN",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17061966": [
-46.5,
-"NFL",
-"Chase Brown",
-"Rush Yards",
-"CIN",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17063135": [
-45.5,
-"NFL",
-"Stefon Diggs",
-"Receiving Yards",
-"WAS",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17062842": [
-44.5,
-"NFL",
-"Antonio Williams",
-"Receiving Yards",
-"WAS",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17062841": [
-36.5,
-"NFL",
-"Chig Okonkwo",
-"Receiving Yards",
-"WAS",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17061839": [
-30.5,
-"NFL",
-"Jayden Daniels",
-"Rush Yards",
-"WAS",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17062840": [
-24.5,
-"NFL",
-"Chase Brown",
-"Receiving Yards",
-"CIN",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17061838": [
-7.5,
-"NFL",
-"Joe Burrow",
-"Rush Yards",
-"CIN",
-"2026-11-23T20:15:00.000-05:00"
-],
-"17056316": [
-0.5,
-"SOCCER",
-"Erling Haaland",
-"Goals",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053605": [
-9.0,
-"SOCCER",
-"Anatoliy Trubin",
-"Goalie Fantasy Score",
-"Ukraine",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053606": [
-9.0,
-"SOCCER",
-"Giorgi Mamardashvili",
-"Goalie Fantasy Score",
-"Georgia",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053595": [
-3.0,
-"SOCCER",
-"Anatoliy Trubin",
-"Goalie Saves",
-"Ukraine",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053596": [
-3.0,
-"SOCCER",
-"Giorgi Mamardashvili",
-"Goalie Saves",
-"Georgia",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061935": [
-71.5,
-"SOCCER",
-"Renato Veiga",
-"Passes Attempted",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17062222": [
-60.5,
-"SOCCER",
-"Ben Davies",
-"Passes Attempted",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061859": [
-49.5,
-"SOCCER",
-"Bruno Fernandes",
-"Passes Attempted",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061864": [
-22.5,
-"SOCCER",
-"Diogo Costa",
-"Passes Attempted",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17062172": [
-16.5,
-"SOCCER",
-"Brennan Johnson",
-"Passes Attempted",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061860": [
-12.5,
-"SOCCER",
-"Bruno Fernandes",
-"Outfield Fantasy Score",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061863": [
-10.0,
-"SOCCER",
-"Vitinha",
-"Outfield Fantasy Score",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17062223": [
-10.0,
-"SOCCER",
-"Ben Davies",
-"Outfield Fantasy Score",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053604": [
-9.5,
-"SOCCER",
-"Diogo Costa",
-"Goalie Fantasy Score",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053603": [
-9.0,
-"SOCCER",
-"Karl Darlow",
-"Goalie Fantasy Score",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061896": [
-9.0,
-"SOCCER",
-"Renato Veiga",
-"Outfield Fantasy Score",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061857": [
-5.5,
-"SOCCER",
-"Bruno Fernandes",
-"Crosses",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17062221": [
-5.5,
-"SOCCER",
-"Ben Davies",
-"Clearances",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061895": [
-5.0,
-"SOCCER",
-"Renato Veiga",
-"Clearances",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053593": [
-4.0,
-"SOCCER",
-"Karl Darlow",
-"Goalie Saves",
-"Wales",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055345": [
-3.5,
-"SOCCER",
-"Gonçalo Ramos",
-"Shots",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061858": [
-3.5,
-"SOCCER",
-"Bruno Fernandes",
-"Shots Assisted",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055344": [
-3.0,
-"SOCCER",
-"João Félix",
-"Shots",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055346": [
-2.5,
-"SOCCER",
-"Bruno Fernandes",
-"Shots",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053594": [
-2.0,
-"SOCCER",
-"Diogo Costa",
-"Goalie Saves",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055347": [
-0.5,
-"SOCCER",
-"João Palhinha",
-"Shots",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055360": [
-0.5,
-"SOCCER",
-"Pedro Neto",
-"Shots On Target",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061862": [
-0.5,
-"SOCCER",
-"Vitinha",
-"Attempted Dribbles",
-"Portugal",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053607": [
-9.5,
-"SOCCER",
-"Caoimhín Kelleher",
-"Goalie Fantasy Score",
-"Rep. Ireland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053608": [
-9.0,
-"SOCCER",
-"Arijanet Muric",
-"Goalie Fantasy Score",
-"Kosovo",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053598": [
-3.0,
-"SOCCER",
-"Arijanet Muric",
-"Goalie Saves",
-"Kosovo",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053597": [
-2.0,
-"SOCCER",
-"Caoimhín Kelleher",
-"Goalie Saves",
-"Rep. Ireland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061205": [
-77.5,
-"SOCCER",
-"Sander Berge",
-"Passes Attempted",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061234": [
-69.5,
-"SOCCER",
-"Pierre-Emile Højbjerg",
-"Passes Attempted",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061215": [
-56.5,
-"SOCCER",
-"Kristoffer Ajer",
-"Passes Attempted",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061230": [
-17.5,
-"SOCCER",
-"Rasmus Højlund",
-"Passes Attempted",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061172": [
-16.5,
-"SOCCER",
-"Erling Haaland",
-"Outfield Fantasy Score",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061171": [
-13.5,
-"SOCCER",
-"Erling Haaland",
-"Passes Attempted",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061276": [
-11.0,
-"SOCCER",
-"Oliver Provstgaard",
-"Outfield Fantasy Score",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061216": [
-9.0,
-"SOCCER",
-"Kristoffer Ajer",
-"Outfield Fantasy Score",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053601": [
-8.5,
-"SOCCER",
-"Mads Hermansen",
-"Goalie Fantasy Score",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053602": [
-8.5,
-"SOCCER",
-"Egil Selvik",
-"Goalie Fantasy Score",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061206": [
-8.0,
-"SOCCER",
-"Sander Berge",
-"Outfield Fantasy Score",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061275": [
-6.0,
-"SOCCER",
-"Oliver Provstgaard",
-"Clearances",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061214": [
-5.0,
-"SOCCER",
-"Kristoffer Ajer",
-"Clearances",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055309": [
-4.0,
-"SOCCER",
-"Erling Haaland",
-"Shots",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053591": [
-3.0,
-"SOCCER",
-"Mads Hermansen",
-"Goalie Saves",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053592": [
-3.0,
-"SOCCER",
-"Egil Selvik",
-"Goalie Saves",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055310": [
-2.5,
-"SOCCER",
-"Gustav Isaksen",
-"Shots",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055311": [
-2.5,
-"SOCCER",
-"Rasmus Højlund",
-"Shots",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055312": [
-1.5,
-"SOCCER",
-"Martin Ødegaard",
-"Shots",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055313": [
-1.5,
-"SOCCER",
-"Oscar Bobb",
-"Shots",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055335": [
-1.5,
-"SOCCER",
-"Erling Haaland",
-"Shots On Target",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055336": [
-0.5,
-"SOCCER",
-"Mohamed Daramy",
-"Shots On Target",
-"Denmark",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17061204": [
-0.5,
-"SOCCER",
-"Sander Berge",
-"Shots Assisted",
-"Norway",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17063500": [
-41.5,
-"SOCCER",
-"Nicola Zalewski",
-"Passes Attempted",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17063436": [
-17.5,
-"SOCCER",
-"Robert Lewandowski",
-"Passes Attempted",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17065560": [
-17.5,
-"SOCCER",
-"Viktor Gyökeres",
-"Passes Attempted",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053609": [
-9.0,
-"SOCCER",
-"Bartlomiej Dragowski",
-"Goalie Fantasy Score",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053610": [
-7.5,
-"SOCCER",
-"Viktor Johansson",
-"Goalie Fantasy Score",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17065954": [
-5.0,
-"SOCCER",
-"Victor Lindelöf",
-"Clearances",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17063498": [
-4.0,
-"SOCCER",
-"Nicola Zalewski",
-"Crosses",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055371": [
-3.5,
-"SOCCER",
-"Robert Lewandowski",
-"Shots",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053599": [
-3.0,
-"SOCCER",
-"Bartlomiej Dragowski",
-"Goalie Saves",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17053600": [
-3.0,
-"SOCCER",
-"Viktor Johansson",
-"Goalie Saves",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055376": [
-3.0,
-"SOCCER",
-"Viktor Gyökeres",
-"Shots",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055372": [
-2.5,
-"SOCCER",
-"Mateusz Zukowski",
-"Shots",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17063499": [
-2.5,
-"SOCCER",
-"Nicola Zalewski",
-"Shots Assisted",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055373": [
-1.5,
-"SOCCER",
-"Piotr Zielinski",
-"Shots",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055374": [
-1.5,
-"SOCCER",
-"Benjamin Nygren",
-"Shots",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17065561": [
-1.5,
-"SOCCER",
-"Viktor Gyökeres",
-"Attempted Dribbles",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055375": [
-0.5,
-"SOCCER",
-"Tymoteusz Puchacz",
-"Shots",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055440": [
-0.5,
-"SOCCER",
-"Alieu Njie",
-"Shots On Target",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055441": [
-0.5,
-"SOCCER",
-"Karol Swiderski",
-"Shots On Target",
-"Poland",
-"2026-11-17T14:45:00.000-05:00"
-],
-"17055442": [
-0.5,
-"SOCCER",
-"Anthony Elanga",
-"Shots On Target",
-"Sweden",
-"2026-11-17T14:45:00.000-05:00"
 ],
 "17036746": [
 36.5,
@@ -8199,20 +4263,20 @@
 "BOS",
 "2026-11-16T19:00:00.000-05:00"
 ],
+"17033221": [
+21.5,
+"NBA",
+"Payton Pritchard",
+"Pts+Rebs+Asts",
+"BOS",
+"2026-11-16T19:00:00.000-05:00"
+],
 "17032891": [
 20.5,
 "NBA",
 "Desmond Bane",
 "Pts+Asts",
 "ORL",
-"2026-11-16T19:00:00.000-05:00"
-],
-"17033221": [
-20.5,
-"NBA",
-"Payton Pritchard",
-"Pts+Rebs+Asts",
-"BOS",
 "2026-11-16T19:00:00.000-05:00"
 ],
 "17039699": [
@@ -8415,6 +4479,14 @@
 "ORL",
 "2026-11-16T19:00:00.000-05:00"
 ],
+"17059999": [
+12.5,
+"NBA",
+"Wendell Carter Jr.",
+"Pts+Asts",
+"ORL",
+"2026-11-16T19:00:00.000-05:00"
+],
 "17039761": [
 12.0,
 "NBA",
@@ -8428,14 +4500,6 @@
 "NBA",
 "Jalen Suggs",
 "Pts+Rebs",
-"ORL",
-"2026-11-16T19:00:00.000-05:00"
-],
-"17059999": [
-11.5,
-"NBA",
-"Wendell Carter Jr.",
-"Pts+Asts",
 "ORL",
 "2026-11-16T19:00:00.000-05:00"
 ],
@@ -8519,14 +4583,6 @@
 "BOS",
 "2026-11-16T19:00:00.000-05:00"
 ],
-"17070176": [
-9.5,
-"NBA",
-"Luka Garza",
-"Points",
-"BOS",
-"2026-11-16T19:00:00.000-05:00"
-],
 "17032905": [
 9.0,
 "NBA",
@@ -8564,6 +4620,14 @@
 "NBA",
 "Jordan Walsh",
 "Pts+Rebs",
+"BOS",
+"2026-11-16T19:00:00.000-05:00"
+],
+"17069693": [
+8.5,
+"NBA",
+"Luka Garza",
+"Points",
 "BOS",
 "2026-11-16T19:00:00.000-05:00"
 ],
@@ -8871,14 +4935,6 @@
 "BOS",
 "2026-11-16T19:00:00.000-05:00"
 ],
-"17039686": [
-2.5,
-"NBA",
-"Franz Wagner",
-"Personal Fouls",
-"ORL",
-"2026-11-16T19:00:00.000-05:00"
-],
 "17052144": [
 2.5,
 "NBA",
@@ -8967,14 +5023,6 @@
 "BOS",
 "2026-11-16T19:00:00.000-05:00"
 ],
-"17040029": [
-0.5,
-"NBA",
-"Jordan Walsh",
-"Steals",
-"BOS",
-"2026-11-16T19:00:00.000-05:00"
-],
 "17043294": [
 0.5,
 "NBA",
@@ -8999,14 +5047,6 @@
 "BOS",
 "2026-11-16T19:00:00.000-05:00"
 ],
-"17069632": [
-0.5,
-"NBA",
-"Payton Pritchard",
-"Steals",
-"BOS",
-"2026-11-16T19:00:00.000-05:00"
-],
 "17029308": [
 36.5,
 "NBA",
@@ -9016,7 +5056,7 @@
 "2026-11-16T19:00:00.000-05:00"
 ],
 "17029242": [
-31.5,
+32.5,
 "NBA",
 "Donovan Mitchell",
 "Pts+Asts",
@@ -9024,7 +5064,7 @@
 "2026-11-16T19:00:00.000-05:00"
 ],
 "17029385": [
-30.5,
+31.5,
 "NBA",
 "Donovan Mitchell",
 "Pts+Rebs",
@@ -9055,19 +5095,19 @@
 "CHI",
 "2026-11-16T19:00:00.000-05:00"
 ],
+"17029252": [
+26.5,
+"NBA",
+"Donovan Mitchell",
+"Points",
+"CLE",
+"2026-11-16T19:00:00.000-05:00"
+],
 "17029339": [
 26.5,
 "NBA",
 "Jarrett Allen",
 "Pts+Rebs+Asts",
-"CLE",
-"2026-11-16T19:00:00.000-05:00"
-],
-"17029252": [
-25.5,
-"NBA",
-"Donovan Mitchell",
-"Points",
 "CLE",
 "2026-11-16T19:00:00.000-05:00"
 ],
@@ -9463,6 +5503,14 @@
 "CHI",
 "2026-11-16T19:00:00.000-05:00"
 ],
+"17071092": [
+8.5,
+"NBA",
+"Patrick Williams",
+"Points",
+"CHI",
+"2026-11-16T19:00:00.000-05:00"
+],
 "17029357": [
 8.0,
 "NBA",
@@ -9765,6 +5813,14 @@
 "Tyrese Proctor",
 "Assists",
 "CLE",
+"2026-11-16T19:00:00.000-05:00"
+],
+"17071080": [
+3.5,
+"NBA",
+"Patrick Williams",
+"Rebounds",
+"CHI",
 "2026-11-16T19:00:00.000-05:00"
 ],
 "17045024": [
@@ -10791,14 +6847,6 @@
 "BKN",
 "2026-11-16T19:30:00.000-05:00"
 ],
-"17035838": [
-15.5,
-"NBA",
-"Danny Wolf",
-"Pts+Rebs",
-"BKN",
-"2026-11-16T19:30:00.000-05:00"
-],
 "17050797": [
 15.5,
 "NBA",
@@ -10828,6 +6876,14 @@
 "NBA",
 "Mikel Brown Jr.",
 "Pts+Asts",
+"BKN",
+"2026-11-16T19:30:00.000-05:00"
+],
+"17052039": [
+14.5,
+"NBA",
+"Danny Wolf",
+"Pts+Rebs",
 "BKN",
 "2026-11-16T19:30:00.000-05:00"
 ],
@@ -11351,14 +7407,6 @@
 "BKN",
 "2026-11-16T19:30:00.000-05:00"
 ],
-"17036143": [
-4.0,
-"NBA",
-"Noah Clowney",
-"Rebounds",
-"BKN",
-"2026-11-16T19:30:00.000-05:00"
-],
 "17045019": [
 4.0,
 "NBA",
@@ -11404,6 +7452,14 @@
 "NBA",
 "Danny Wolf",
 "Two Pointers Attempted",
+"BKN",
+"2026-11-16T19:30:00.000-05:00"
+],
+"17036143": [
+3.5,
+"NBA",
+"Noah Clowney",
+"Rebounds",
 "BKN",
 "2026-11-16T19:30:00.000-05:00"
 ],
@@ -12007,14 +8063,6 @@
 "HOU",
 "2026-11-16T19:30:00.000-05:00"
 ],
-"17037777": [
-11.0,
-"NBA",
-"Giannis Antetokounmpo",
-"Rebounds",
-"MIA",
-"2026-11-16T19:30:00.000-05:00"
-],
 "17038748": [
 11.0,
 "NBA",
@@ -12036,6 +8084,14 @@
 "NBA",
 "Andrew Wiggins",
 "Pts+Asts",
+"MIA",
+"2026-11-16T19:30:00.000-05:00"
+],
+"17037777": [
+10.5,
+"NBA",
+"Giannis Antetokounmpo",
+"Rebounds",
 "MIA",
 "2026-11-16T19:30:00.000-05:00"
 ],
@@ -12872,7 +8928,7 @@
 "2026-11-16T19:40:00.000-05:00"
 ],
 "17047886": [
-27.5,
+28.0,
 "NBA",
 "Tari Eason",
 "Fantasy Score",
@@ -13613,6 +9669,14 @@
 "Damian Lillard",
 "3-PT Attempted",
 "POR",
+"2026-11-16T20:00:00.000-05:00"
+],
+"17030051": [
+8.5,
+"NBA",
+"Jaden McDaniels",
+"Rebs+Asts",
+"MIN",
 "2026-11-16T20:00:00.000-05:00"
 ],
 "17064931": [
@@ -16095,6 +12159,14 @@
 "DEN",
 "2026-11-16T21:00:00.000-05:00"
 ],
+"17043331": [
+9.5,
+"NBA",
+"Trevon Brazile",
+"Pts+Rebs+Asts",
+"DEN",
+"2026-11-16T21:00:00.000-05:00"
+],
 "17059598": [
 9.5,
 "NBA",
@@ -16495,6 +12567,14 @@
 "PHX",
 "2026-11-16T21:00:00.000-05:00"
 ],
+"17071235": [
+2.5,
+"NBA",
+"Jordan Goodwin",
+"Assists",
+"PHX",
+"2026-11-16T21:00:00.000-05:00"
+],
 "17035666": [
 1.5,
 "NBA",
@@ -16581,14 +12661,6 @@
 "Trevon Brazile",
 "3-PT Made",
 "DEN",
-"2026-11-16T21:00:00.000-05:00"
-],
-"17063775": [
-0.5,
-"NBA",
-"Oso Ighodaro",
-"Steals",
-"PHX",
 "2026-11-16T21:00:00.000-05:00"
 ],
 "17047980": [
@@ -16839,6 +12911,3478 @@
 "DEN",
 "2026-11-16T21:10:00.000-05:00"
 ],
+"16986480": [
+1.0,
+"NFL",
+"Justin Herbert",
+"Pass TDs",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844205": [
+224.5,
+"NFL",
+"Jacoby Brissett",
+"Pass+Rush Yds",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16902363": [
+224.5,
+"NFL",
+"Justin Herbert",
+"Pass+Rush Yds",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844154": [
+210.5,
+"NFL",
+"Jacoby Brissett",
+"Pass Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16834519": [
+200.5,
+"NFL",
+"Justin Herbert",
+"Pass Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16899970": [
+91.5,
+"NFL",
+"Derrick Henry",
+"Rush+Rec Yds",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16953095": [
+86.5,
+"NFL",
+"Jacoby Brissett",
+"Passer Rating",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16834650": [
+81.5,
+"NFL",
+"Derrick Henry",
+"Rush Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16953096": [
+79.5,
+"NFL",
+"Justin Herbert",
+"Passer Rating",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16899975": [
+77.5,
+"NFL",
+"Zay Flowers",
+"Rush+Rec Yds",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16834829": [
+72.5,
+"NFL",
+"Zay Flowers",
+"Receiving Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16908146": [
+66.1,
+"NFL",
+"Jacoby Brissett",
+"Completion Percentage",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16908152": [
+63.3,
+"NFL",
+"Justin Herbert",
+"Completion Percentage",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16899985": [
+42.5,
+"NFL",
+"Omarion Hampton",
+"Rush+Rec Yds",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17025823": [
+42.5,
+"NFL",
+"Tre' Harris",
+"Receiving Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844265": [
+35.5,
+"NFL",
+"Jacoby Brissett",
+"Longest Completion",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16834651": [
+34.5,
+"NFL",
+"Omarion Hampton",
+"Rush Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16902355": [
+34.5,
+"NFL",
+"Justin Herbert",
+"Longest Completion",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16899971": [
+33.5,
+"NFL",
+"Kimani Vidal",
+"Rush+Rec Yds",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17025821": [
+33.5,
+"NFL",
+"Quentin Johnston",
+"Receiving Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844250": [
+30.5,
+"NFL",
+"Jacoby Brissett",
+"Pass Attempts",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16902360": [
+29.5,
+"NFL",
+"Justin Herbert",
+"Pass Attempts",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16899982": [
+27.5,
+"NFL",
+"Justice Hill",
+"Rush+Rec Yds",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16899987": [
+25.5,
+"NFL",
+"Keaton Mitchell",
+"Rush+Rec Yds",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844263": [
+24.5,
+"NFL",
+"Zay Flowers",
+"Longest Reception",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844213": [
+23.5,
+"NFL",
+"Rashod Bateman",
+"Receiving Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16834828": [
+22.5,
+"NFL",
+"Mark Andrews",
+"Receiving Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900031": [
+21.5,
+"NFL",
+"Kimani Vidal",
+"Rush Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16834506": [
+20.5,
+"NFL",
+"Justin Herbert",
+"Rush Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844270": [
+20.5,
+"NFL",
+"Ja'Kobi Lane",
+"Receiving Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16909077": [
+20.5,
+"NFL",
+"Derrick Henry",
+"Rush Yards in First 5 Attempts",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17025813": [
+20.5,
+"NFL",
+"Quentin Johnston",
+"Longest Reception",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844209": [
+19.5,
+"NFL",
+"Jacoby Brissett",
+"Pass Completions",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844220": [
+19.5,
+"NFL",
+"Derrick Henry",
+"Rush Attempts",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16907354": [
+19.5,
+"NFL",
+"Justin Herbert",
+"Pass Completions",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17025798": [
+19.5,
+"NFL",
+"Tre' Harris",
+"Longest Reception",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844125": [
+17.5,
+"NFL",
+"Derrick Henry",
+"Longest Rush",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17026947": [
+17.5,
+"NFL",
+"KeAndre Lambert-Smith",
+"Receiving Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844279": [
+15.5,
+"NFL",
+"Rashod Bateman",
+"Longest Reception",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900043": [
+15.5,
+"NFL",
+"Zay Flowers",
+"Fantasy Score",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16909083": [
+15.5,
+"NFL",
+"Omarion Hampton",
+"Rush Yards in First 5 Attempts",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16995437": [
+15.5,
+"NFL",
+"Charlie Kolar",
+"Receiving Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16908185": [
+14.5,
+"NFL",
+"Justin Herbert",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900071": [
+14.0,
+"NFL",
+"Derrick Henry",
+"Fantasy Score",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16908183": [
+14.0,
+"NFL",
+"Jacoby Brissett",
+"Fantasy Score",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844132": [
+13.5,
+"NFL",
+"Justice Hill",
+"Rush Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844255": [
+13.5,
+"NFL",
+"Ja'Kobi Lane",
+"Longest Reception",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17026948": [
+12.5,
+"NFL",
+"KeAndre Lambert-Smith",
+"Longest Reception",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17062597": [
+12.5,
+"NFL",
+"Mark Andrews",
+"Longest Reception",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844198": [
+11.5,
+"NFL",
+"Justice Hill",
+"Receiving Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900021": [
+11.5,
+"NFL",
+"Keaton Mitchell",
+"Rush Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17055822": [
+11.5,
+"NFL",
+"David Njoku",
+"Receiving Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16899991": [
+10.5,
+"NFL",
+"Keaton Mitchell",
+"Receiving Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16902362": [
+10.5,
+"NFL",
+"Justin Herbert",
+"Longest Rush",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16902411": [
+10.5,
+"NFL",
+"Omarion Hampton",
+"Longest Rush",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16995434": [
+10.5,
+"NFL",
+"Charlie Kolar",
+"Longest Reception",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16995439": [
+10.5,
+"NFL",
+"Oronde Gadsden II",
+"Receiving Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16974837": [
+9.5,
+"NFL",
+"Zay Flowers",
+"Yards on First Reception",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17061237": [
+9.5,
+"NFL",
+"David Njoku",
+"Longest Reception",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17027974": [
+9.0,
+"NFL",
+"Tre' Harris",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900009": [
+8.5,
+"NFL",
+"Kimani Vidal",
+"Receiving Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16907356": [
+8.5,
+"NFL",
+"Kimani Vidal",
+"Longest Rush",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16974383": [
+8.5,
+"NFL",
+"Riley Patterson",
+"Fantasy Score",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16995433": [
+8.5,
+"NFL",
+"Oronde Gadsden II",
+"Longest Reception",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16941190": [
+8.0,
+"NFL",
+"Zay Flowers",
+"Rec Targets",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844268": [
+7.5,
+"NFL",
+"Justice Hill",
+"Longest Reception",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16899989": [
+7.5,
+"NFL",
+"Josh Cuevas",
+"Receiving Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16902464": [
+7.5,
+"NFL",
+"Kimani Vidal",
+"Longest Reception",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16903249": [
+7.5,
+"NFL",
+"Josh Cuevas",
+"Longest Reception",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16932359": [
+7.5,
+"NFL",
+"Riley Patterson",
+"Kicking Points",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17025961": [
+7.5,
+"NFL",
+"Keaton Mitchell",
+"Longest Reception",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16974384": [
+7.0,
+"NFL",
+"Cameron Dicker",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17027972": [
+7.0,
+"NFL",
+"Quentin Johnston",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844131": [
+6.5,
+"NFL",
+"Jacoby Brissett",
+"Rush Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900050": [
+6.5,
+"NFL",
+"Mark Andrews",
+"Fantasy Score",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900066": [
+6.5,
+"NFL",
+"Omarion Hampton",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16902434": [
+6.5,
+"NFL",
+"Keaton Mitchell",
+"Longest Rush",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16903253": [
+6.5,
+"NFL",
+"Kimani Vidal",
+"Rush Attempts",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17029066": [
+6.5,
+"NFL",
+"Daiyan Henley",
+"Tackles+Ast",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17038677": [
+6.5,
+"NFL",
+"Justice Hill",
+"Longest Rush",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900089": [
+6.0,
+"NFL",
+"Justice Hill",
+"Fantasy Score",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16969636": [
+6.0,
+"NFL",
+"Cameron Dicker",
+"Kicking Points",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844254": [
+5.5,
+"NFL",
+"Matt Hibner",
+"Longest Reception",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16887330": [
+5.5,
+"NFL",
+"Jacoby Brissett",
+"Longest Rush",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16899973": [
+5.5,
+"NFL",
+"Omarion Hampton",
+"Receiving Yards",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900041": [
+5.5,
+"NFL",
+"Ja'Kobi Lane",
+"Fantasy Score",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900062": [
+5.5,
+"NFL",
+"Rashod Bateman",
+"Fantasy Score",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900075": [
+5.5,
+"NFL",
+"Kimani Vidal",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900082": [
+5.5,
+"NFL",
+"Keaton Mitchell",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16902460": [
+5.5,
+"NFL",
+"Omarion Hampton",
+"Longest Reception",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16969635": [
+5.5,
+"NFL",
+"Derrick Henry",
+"Longest Reception",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17033308": [
+5.5,
+"NFL",
+"Tre' Harris",
+"Rec Targets",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17034363": [
+5.5,
+"NFL",
+"Trenton Simpson",
+"Tackles+Ast",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17048104": [
+5.5,
+"NFL",
+"Justin Herbert",
+"Consecutive Pass Completions",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17048105": [
+5.5,
+"NFL",
+"Jacoby Brissett",
+"Consecutive Pass Completions",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16990965": [
+5.0,
+"NFL",
+"JK Scott",
+"Punts",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16834830": [
+4.5,
+"NFL",
+"Derrick Henry",
+"Receiving Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16941186": [
+4.5,
+"NFL",
+"Mark Andrews",
+"Rec Targets",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16990964": [
+4.5,
+"NFL",
+"Ryan Eckley",
+"Punts",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17033307": [
+4.5,
+"NFL",
+"Quentin Johnston",
+"Rec Targets",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17035624": [
+4.5,
+"NFL",
+"Tony Jefferson",
+"Tackles+Ast",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16909079": [
+4.1,
+"NFL",
+"Derrick Henry",
+"Rush Yards Per Carry",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17048390": [
+4.0,
+"NFL",
+"KeAndre Lambert-Smith",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16941187": [
+3.5,
+"NFL",
+"Rashod Bateman",
+"Rec Targets",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16941188": [
+3.5,
+"NFL",
+"Ja'Kobi Lane",
+"Rec Targets",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16953120": [
+3.5,
+"NFL",
+"Justin Herbert",
+"Sacks Taken",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17006637": [
+3.5,
+"NFL",
+"Marlon Humphrey",
+"Tackles+Ast",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17025881": [
+3.5,
+"NFL",
+"Tre' Harris",
+"Receptions",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17038614": [
+3.5,
+"NFL",
+"Justice Hill",
+"Rush Attempts",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17052155": [
+3.5,
+"NFL",
+"Tarheeb Still",
+"Tackles+Ast",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17055824": [
+3.5,
+"NFL",
+"Charlie Kolar",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16909076": [
+3.2,
+"NFL",
+"Omarion Hampton",
+"Rush Yards Per Carry",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16941185": [
+3.0,
+"NFL",
+"Justice Hill",
+"Rec Targets",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16942012": [
+3.0,
+"NFL",
+"Keaton Mitchell",
+"Rec Targets",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17049108": [
+3.0,
+"NFL",
+"Oronde Gadsden II",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17058147": [
+3.0,
+"NFL",
+"David Njoku",
+"Fantasy Score",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16844201": [
+2.5,
+"NFL",
+"Matt Hibner",
+"Receiving Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17052215": [
+2.5,
+"NFL",
+"Mike Green",
+"Tackles+Ast",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17069227": [
+2.5,
+"NFL",
+"Charlie Kolar",
+"Rec Targets",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17069228": [
+2.5,
+"NFL",
+"Oronde Gadsden II",
+"Rec Targets",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16900292": [
+2.0,
+"NFL",
+"Josh Cuevas",
+"Fantasy Score",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16942013": [
+2.0,
+"NFL",
+"Kimani Vidal",
+"Rec Targets",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16953119": [
+2.0,
+"NFL",
+"Jacoby Brissett",
+"Sacks Taken",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16986445": [
+2.0,
+"NFL",
+"Ja'Kobi Lane",
+"Receptions",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16986446": [
+2.0,
+"NFL",
+"Rashod Bateman",
+"Receptions",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16986447": [
+2.0,
+"NFL",
+"Keaton Mitchell",
+"Receptions",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16899988": [
+1.5,
+"NFL",
+"Zay Flowers",
+"Rush Yards",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16928855": [
+1.5,
+"NFL",
+"Cameron Dicker",
+"FG Made",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16941184": [
+1.5,
+"NFL",
+"Derrick Henry",
+"Rec Targets",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16941189": [
+1.5,
+"NFL",
+"Josh Cuevas",
+"Rec Targets",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17052863": [
+1.5,
+"NFL",
+"KeAndre Lambert-Smith",
+"Receptions",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17059591": [
+1.5,
+"NFL",
+"Oronde Gadsden II",
+"Receptions",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17069229": [
+1.5,
+"NFL",
+"Omarion Hampton",
+"Rec Targets",
+"LAC",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16902461": [
+0.5,
+"NFL",
+"Jacoby Brissett",
+"INT",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"16936381": [
+0.5,
+"NFL",
+"Derrick Henry",
+"Rush TDs",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17069669": [
+0.25,
+"NFL",
+"Trey Hendrickson",
+"Sacks",
+"BAL",
+"2026-11-16T20:15:00.000-05:00"
+],
+"17068577": [
+2.0,
+"NFL",
+"C.J. Stroud",
+"Pass TDs",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033471": [
+272.5,
+"NFL",
+"C.J. Stroud",
+"Pass+Rush Yds",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17032697": [
+260.5,
+"NFL",
+"C.J. Stroud",
+"Pass Yards",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033565": [
+200.5,
+"NFL",
+"Daniel Jones",
+"Pass+Rush Yds",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17032696": [
+183.5,
+"NFL",
+"Daniel Jones",
+"Pass Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033630": [
+76.5,
+"NFL",
+"Jonathan Taylor",
+"Rush+Rec Yds",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033441": [
+66.2,
+"NFL",
+"C.J. Stroud",
+"Completion Percentage",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034237": [
+65.5,
+"NFL",
+"Nico Collins",
+"Receiving Yards",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033532": [
+60.0,
+"NFL",
+"Daniel Jones",
+"Completion Percentage",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17064922": [
+56.5,
+"NFL",
+"David Montgomery",
+"Rush Yards",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033584": [
+50.5,
+"NFL",
+"Jonathan Taylor",
+"Rush Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033703": [
+40.5,
+"NFL",
+"Tyler Warren",
+"Receiving Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17050037": [
+38.5,
+"NFL",
+"C.J. Stroud",
+"Longest Completion",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033439": [
+32.5,
+"NFL",
+"C.J. Stroud",
+"Pass Attempts",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17044297": [
+32.5,
+"NFL",
+"Daniel Jones",
+"Pass Attempts",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17048259": [
+30.5,
+"NFL",
+"Daniel Jones",
+"Longest Completion",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033698": [
+29.5,
+"NFL",
+"Laquon Treadwell",
+"Receiving Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034234": [
+29.5,
+"NFL",
+"Dalton Schultz",
+"Receiving Yards",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033576": [
+27.5,
+"NFL",
+"Seth McGowan",
+"Rush Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034250": [
+25.5,
+"NFL",
+"Nico Collins",
+"Longest Reception",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033684": [
+22.5,
+"NFL",
+"Anthony Gould",
+"Receiving Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033998": [
+20.5,
+"NFL",
+"Jonathan Taylor",
+"Rush Yards in First 5 Attempts",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033467": [
+20.0,
+"NFL",
+"C.J. Stroud",
+"Fantasy Score",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033529": [
+19.5,
+"NFL",
+"Daniel Jones",
+"Pass Completions",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033615": [
+19.5,
+"NFL",
+"Jonathan Taylor",
+"Receiving Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033696": [
+16.5,
+"NFL",
+"Deion Burks",
+"Receiving Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034270": [
+16.5,
+"NFL",
+"Laquon Treadwell",
+"Longest Reception",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17055820": [
+16.5,
+"NFL",
+"Ashton Dulin",
+"Receiving Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034266": [
+15.5,
+"NFL",
+"Tyler Warren",
+"Longest Reception",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034252": [
+14.5,
+"NFL",
+"Dalton Schultz",
+"Longest Reception",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034230": [
+14.0,
+"NFL",
+"Nico Collins",
+"Fantasy Score",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033616": [
+13.5,
+"NFL",
+"Jonathan Taylor",
+"Fantasy Score",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033589": [
+12.5,
+"NFL",
+"Jonathan Taylor",
+"Rush Attempts",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034267": [
+12.5,
+"NFL",
+"Anthony Gould",
+"Longest Reception",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034273": [
+12.5,
+"NFL",
+"Deion Burks",
+"Longest Reception",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17048332": [
+12.5,
+"NFL",
+"Jonathan Taylor",
+"Longest Rush",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033463": [
+11.5,
+"NFL",
+"C.J. Stroud",
+"Rush Yards",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17048343": [
+11.5,
+"NFL",
+"Seth McGowan",
+"Longest Rush",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033552": [
+10.5,
+"NFL",
+"Daniel Jones",
+"Fantasy Score",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033605": [
+10.5,
+"NFL",
+"Jonathan Taylor",
+"Longest Reception",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033692": [
+10.5,
+"NFL",
+"Tyler Warren",
+"Fantasy Score",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034223": [
+8.5,
+"NFL",
+"Dalton Schultz",
+"Fantasy Score",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033547": [
+7.5,
+"NFL",
+"Daniel Jones",
+"Rush Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034000": [
+7.5,
+"NFL",
+"Seth McGowan",
+"Rush Attempts",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17050039": [
+7.5,
+"NFL",
+"C.J. Stroud",
+"Longest Rush",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033687": [
+6.5,
+"NFL",
+"Laquon Treadwell",
+"Fantasy Score",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033667": [
+5.5,
+"NFL",
+"Anthony Gould",
+"Fantasy Score",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17048263": [
+5.5,
+"NFL",
+"Daniel Jones",
+"Longest Rush",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17034219": [
+4.5,
+"NFL",
+"Nico Collins",
+"Receptions",
+"HOU",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033679": [
+4.0,
+"NFL",
+"Deion Burks",
+"Fantasy Score",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17033999": [
+4.0,
+"NFL",
+"Jonathan Taylor",
+"Rush Yards Per Carry",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17058124": [
+3.5,
+"NFL",
+"Ashton Dulin",
+"Fantasy Score",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17046100": [
+2.5,
+"NFL",
+"Laquon Treadwell",
+"Receptions",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17048344": [
+0.5,
+"NFL",
+"Seth McGowan",
+"Longest Reception",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17048346": [
+0.5,
+"NFL",
+"Seth McGowan",
+"Receiving Yards",
+"IND",
+"2026-11-19T20:15:00.000-05:00"
+],
+"17061840": [
+217.5,
+"NFL",
+"Aaron Rodgers",
+"Pass Yards",
+"PIT",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061841": [
+175.5,
+"NFL",
+"Joe Milton III",
+"Pass Yards",
+"PHI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061955": [
+66.5,
+"NFL",
+"Jaylen Warren",
+"Rush Yards",
+"PIT",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061956": [
+56.5,
+"NFL",
+"Saquon Barkley",
+"Rush Yards",
+"PHI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062816": [
+48.5,
+"NFL",
+"DK Metcalf",
+"Receiving Yards",
+"PIT",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061825": [
+30.5,
+"NFL",
+"Joe Milton III",
+"Rush Yards",
+"PHI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062817": [
+26.5,
+"NFL",
+"Pat Freiermuth",
+"Receiving Yards",
+"PIT",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062818": [
+22.5,
+"NFL",
+"Jaylen Warren",
+"Receiving Yards",
+"PIT",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062819": [
+11.5,
+"NFL",
+"Saquon Barkley",
+"Receiving Yards",
+"PHI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061824": [
+0.5,
+"NFL",
+"Aaron Rodgers",
+"Rush Yards",
+"PIT",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061843": [
+242.5,
+"NFL",
+"Patrick Mahomes",
+"Pass Yards",
+"KC",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061842": [
+173.5,
+"NFL",
+"Carson Beck",
+"Pass Yards",
+"ARI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062820": [
+55.5,
+"NFL",
+"Trey McBride",
+"Receiving Yards",
+"ARI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062821": [
+47.5,
+"NFL",
+"Travis Kelce",
+"Receiving Yards",
+"KC",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061826": [
+9.5,
+"NFL",
+"Patrick Mahomes",
+"Rush Yards",
+"KC",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061845": [
+261.5,
+"NFL",
+"Caleb Williams",
+"Pass Yards",
+"CHI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061844": [
+248.5,
+"NFL",
+"Tyler Shough",
+"Pass Yards",
+"NO",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062822": [
+72.5,
+"NFL",
+"Chris Olave",
+"Receiving Yards",
+"NO",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062824": [
+66.5,
+"NFL",
+"Luther Burden III",
+"Receiving Yards",
+"CHI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062823": [
+56.5,
+"NFL",
+"Jordyn Tyson",
+"Receiving Yards",
+"NO",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062826": [
+55.5,
+"NFL",
+"Colston Loveland",
+"Receiving Yards",
+"CHI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062825": [
+49.5,
+"NFL",
+"Rome Odunze",
+"Receiving Yards",
+"CHI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061827": [
+16.5,
+"NFL",
+"Tyler Shough",
+"Rush Yards",
+"NO",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061828": [
+16.5,
+"NFL",
+"Caleb Williams",
+"Rush Yards",
+"CHI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061847": [
+274.5,
+"NFL",
+"Dak Prescott",
+"Pass Yards",
+"DAL",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061846": [
+211.5,
+"NFL",
+"Cam Ward",
+"Pass Yards",
+"TEN",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062827": [
+88.5,
+"NFL",
+"CeeDee Lamb",
+"Receiving Yards",
+"DAL",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061958": [
+75.5,
+"NFL",
+"Javonte Williams",
+"Rush Yards",
+"DAL",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062828": [
+67.5,
+"NFL",
+"George Pickens",
+"Receiving Yards",
+"DAL",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061957": [
+60.5,
+"NFL",
+"Tony Pollard",
+"Rush Yards",
+"TEN",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061829": [
+8.5,
+"NFL",
+"Cam Ward",
+"Rush Yards",
+"TEN",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061830": [
+7.5,
+"NFL",
+"Dak Prescott",
+"Rush Yards",
+"DAL",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052779": [
+259.5,
+"NFL",
+"Josh Allen",
+"Pass+Rush Yds",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052752": [
+227.5,
+"NFL",
+"Josh Allen",
+"Pass Yards",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052789": [
+188.5,
+"NFL",
+"Kyle McCord",
+"Pass+Rush Yds",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052665": [
+178.5,
+"NFL",
+"Kyle McCord",
+"Pass Yards",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052797": [
+93.5,
+"NFL",
+"James Cook III",
+"Rush Yards",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052791": [
+58.5,
+"NFL",
+"Ollie Gordon II",
+"Rush Yards",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052700": [
+48.5,
+"NFL",
+"DJ Moore",
+"Receiving Yards",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052620": [
+46.5,
+"NFL",
+"Caleb Douglas",
+"Receiving Yards",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052748": [
+38.5,
+"NFL",
+"Josh Allen",
+"Longest Completion",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052668": [
+35.5,
+"NFL",
+"Keon Coleman",
+"Receiving Yards",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052783": [
+35.5,
+"NFL",
+"Malik Washington",
+"Receiving Yards",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17069926": [
+31.5,
+"NFL",
+"Kyle McCord",
+"Pass Attempts",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052728": [
+29.5,
+"NFL",
+"Kyle McCord",
+"Longest Completion",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052754": [
+27.5,
+"NFL",
+"Josh Allen",
+"Rush Yards",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052612": [
+26.5,
+"NFL",
+"Josh Allen",
+"Pass Attempts",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052611": [
+23.5,
+"NFL",
+"Greg Dulcich",
+"Receiving Yards",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052643": [
+23.5,
+"NFL",
+"DJ Moore",
+"Longest Reception",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052671": [
+19.5,
+"NFL",
+"James Cook III",
+"Rush Attempts",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052694": [
+19.5,
+"NFL",
+"Caleb Douglas",
+"Longest Reception",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052801": [
+19.5,
+"NFL",
+"Keon Coleman",
+"Longest Reception",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052640": [
+17.5,
+"NFL",
+"James Cook III",
+"Longest Rush",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052654": [
+16.5,
+"NFL",
+"Malik Washington",
+"Longest Reception",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052647": [
+14.5,
+"NFL",
+"Ollie Gordon II",
+"Longest Rush",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052762": [
+14.5,
+"NFL",
+"Ollie Gordon II",
+"Rush Attempts",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052601": [
+12.5,
+"NFL",
+"Josh Allen",
+"Longest Rush",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052602": [
+12.5,
+"NFL",
+"Ollie Gordon II",
+"Receiving Yards",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052669": [
+12.5,
+"NFL",
+"Greg Dulcich",
+"Longest Reception",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052727": [
+12.5,
+"NFL",
+"Dawson Knox",
+"Receiving Yards",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052743": [
+12.5,
+"NFL",
+"Ty Johnson",
+"Receiving Yards",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052662": [
+11.5,
+"NFL",
+"James Cook III",
+"Receiving Yards",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052699": [
+9.5,
+"NFL",
+"Ty Johnson",
+"Longest Reception",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052742": [
+9.5,
+"NFL",
+"Dawson Knox",
+"Longest Reception",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052739": [
+8.5,
+"NFL",
+"Ollie Gordon II",
+"Longest Reception",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052745": [
+8.5,
+"NFL",
+"Jaylen Wright",
+"Rush Yards",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052767": [
+8.5,
+"NFL",
+"James Cook III",
+"Longest Reception",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052648": [
+6.5,
+"NFL",
+"Kyle McCord",
+"Rush Yards",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052681": [
+6.5,
+"NFL",
+"Josh Allen",
+"Rush Attempts",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052775": [
+6.5,
+"NFL",
+"Ty Johnson",
+"Rush Yards",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052609": [
+5.5,
+"NFL",
+"Jaylen Wright",
+"Longest Rush",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052638": [
+3.5,
+"NFL",
+"Malik Washington",
+"Receptions",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052701": [
+3.5,
+"NFL",
+"DJ Moore",
+"Receptions",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17052644": [
+2.5,
+"NFL",
+"Keon Coleman",
+"Receptions",
+"BUF",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17068800": [
+2.5,
+"NFL",
+"Ollie Gordon II",
+"Receptions",
+"MIA",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061849": [
+272.5,
+"NFL",
+"Jared Goff",
+"Pass Yards",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070817": [
+253.5,
+"NFL",
+"Jared Goff",
+"Pass+Rush Yds",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061848": [
+220.5,
+"NFL",
+"Baker Mayfield",
+"Pass Yards",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061960": [
+98.5,
+"NFL",
+"Jahmyr Gibbs",
+"Rush Yards",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062830": [
+78.5,
+"NFL",
+"Amon-Ra St. Brown",
+"Receiving Yards",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061959": [
+64.5,
+"NFL",
+"Bucky Irving",
+"Rush Yards",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062831": [
+55.5,
+"NFL",
+"Jameson Williams",
+"Receiving Yards",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062829": [
+48.5,
+"NFL",
+"Emeka Egbuka",
+"Receiving Yards",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062832": [
+41.5,
+"NFL",
+"Sam LaPorta",
+"Receiving Yards",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070749": [
+36.5,
+"NFL",
+"Jared Goff",
+"Longest Completion",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062833": [
+33.5,
+"NFL",
+"Jahmyr Gibbs",
+"Receiving Yards",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070752": [
+31.5,
+"NFL",
+"Jared Goff",
+"Pass Attempts",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070788": [
+24.5,
+"NFL",
+"Amon-Ra St. Brown",
+"Longest Reception",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070775": [
+23.5,
+"NFL",
+"Jameson Williams",
+"Longest Reception",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070744": [
+20.5,
+"NFL",
+"Jahmyr Gibbs",
+"Rush Attempts",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070807": [
+20.5,
+"NFL",
+"Jared Goff",
+"Pass Completions",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070742": [
+18.5,
+"NFL",
+"Jahmyr Gibbs",
+"Longest Rush",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070816": [
+18.5,
+"NFL",
+"Kenny Gainwell",
+"Rush Yards",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070713": [
+16.5,
+"NFL",
+"Bucky Irving",
+"Rush Attempts",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070765": [
+16.5,
+"NFL",
+"Sione Vaki",
+"Rush Yards",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061831": [
+15.5,
+"NFL",
+"Baker Mayfield",
+"Rush Yards",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070784": [
+15.5,
+"NFL",
+"Sam LaPorta",
+"Longest Reception",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070747": [
+14.5,
+"NFL",
+"Bucky Irving",
+"Longest Rush",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070802": [
+14.5,
+"NFL",
+"Bucky Irving",
+"Receiving Yards",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070821": [
+14.5,
+"NFL",
+"Isaac TeSlaa",
+"Receiving Yards",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070763": [
+13.5,
+"NFL",
+"Jahmyr Gibbs",
+"Longest Reception",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070792": [
+13.5,
+"NFL",
+"Kenny Gainwell",
+"Receiving Yards",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070831": [
+11.5,
+"NFL",
+"Isaac TeSlaa",
+"Longest Reception",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070781": [
+9.5,
+"NFL",
+"Bucky Irving",
+"Longest Reception",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070760": [
+8.5,
+"NFL",
+"Kenny Gainwell",
+"Longest Reception",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070856": [
+8.5,
+"NFL",
+"Kenny Gainwell",
+"Longest Rush",
+"TB",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070741": [
+7.5,
+"NFL",
+"Sione Vaki",
+"Longest Rush",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070778": [
+6.5,
+"NFL",
+"Amon-Ra St. Brown",
+"Receptions",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070837": [
+3.5,
+"NFL",
+"Sam LaPorta",
+"Receptions",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070858": [
+3.5,
+"NFL",
+"Jahmyr Gibbs",
+"Receptions",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070683": [
+1.5,
+"NFL",
+"Jared Goff",
+"Rush Attempts",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070779": [
+1.5,
+"NFL",
+"Sione Vaki",
+"Receiving Yards",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070803": [
+1.5,
+"NFL",
+"Sione Vaki",
+"Longest Reception",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061832": [
+0.5,
+"NFL",
+"Jared Goff",
+"Rush Yards",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17070738": [
+0.5,
+"NFL",
+"Jared Goff",
+"Longest Rush",
+"DET",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061850": [
+242.5,
+"NFL",
+"Bryce Young",
+"Pass Yards",
+"CAR",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061961": [
+77.5,
+"NFL",
+"Chuba Hubbard",
+"Rush Yards",
+"CAR",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17062834": [
+64.5,
+"NFL",
+"Tetairoa McMillan",
+"Receiving Yards",
+"CAR",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061833": [
+7.5,
+"NFL",
+"Bryce Young",
+"Rush Yards",
+"CAR",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17061852": [
+208.5,
+"NFL",
+"Bo Nix",
+"Pass Yards",
+"DEN",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17061851": [
+181.5,
+"NFL",
+"Fernando Mendoza",
+"Pass Yards",
+"LV",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17061963": [
+61.5,
+"NFL",
+"Jonah Coleman",
+"Rush Yards",
+"DEN",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17061962": [
+35.5,
+"NFL",
+"Ashton Jeanty",
+"Rush Yards",
+"LV",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17062835": [
+28.5,
+"NFL",
+"Ashton Jeanty",
+"Receiving Yards",
+"LV",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17061834": [
+16.5,
+"NFL",
+"Fernando Mendoza",
+"Rush Yards",
+"LV",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17061835": [
+8.5,
+"NFL",
+"Bo Nix",
+"Rush Yards",
+"DEN",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051361": [
+268.5,
+"NFL",
+"Trevor Lawrence",
+"Pass+Rush Yds",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051360": [
+253.5,
+"NFL",
+"J.J. McCarthy",
+"Pass+Rush Yds",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051219": [
+252.5,
+"NFL",
+"Trevor Lawrence",
+"Pass Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051323": [
+212.5,
+"NFL",
+"J.J. McCarthy",
+"Pass Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051354": [
+70.5,
+"NFL",
+"Parker Washington",
+"Receiving Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051355": [
+68.5,
+"NFL",
+"Bhayshul Tuten",
+"Rush Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051291": [
+62.5,
+"NFL",
+"Malik Nabers",
+"Receiving Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051259": [
+59.5,
+"NFL",
+"Isaiah Likely",
+"Receiving Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051310": [
+55.5,
+"NFL",
+"Cam Skattebo",
+"Rush Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051152": [
+41.5,
+"NFL",
+"Jakobi Meyers",
+"Receiving Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051309": [
+38.5,
+"NFL",
+"Trevor Lawrence",
+"Longest Completion",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051383": [
+34.5,
+"NFL",
+"J.J. McCarthy",
+"Longest Completion",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051036": [
+33.5,
+"NFL",
+"J.J. McCarthy",
+"Pass Attempts",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051047": [
+32.5,
+"NFL",
+"Trevor Lawrence",
+"Pass Attempts",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051196": [
+32.5,
+"NFL",
+"Brenton Strange",
+"Receiving Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051233": [
+28.5,
+"NFL",
+"Malachi Fields",
+"Receiving Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051260": [
+26.5,
+"NFL",
+"Parker Washington",
+"Longest Reception",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051367": [
+24.5,
+"NFL",
+"Chris Rodriguez Jr.",
+"Rush Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051250": [
+23.5,
+"NFL",
+"Malik Nabers",
+"Longest Reception",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051308": [
+20.5,
+"NFL",
+"J.J. McCarthy",
+"Rush Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051140": [
+19.5,
+"NFL",
+"Isaiah Likely",
+"Longest Reception",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051330": [
+18.5,
+"NFL",
+"Jakobi Meyers",
+"Longest Reception",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051227": [
+16.5,
+"NFL",
+"Darnell Mooney",
+"Receiving Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051371": [
+16.5,
+"NFL",
+"Brenton Strange",
+"Longest Reception",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051071": [
+15.5,
+"NFL",
+"Bhayshul Tuten",
+"Longest Rush",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051163": [
+15.5,
+"NFL",
+"Bhayshul Tuten",
+"Rush Attempts",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051223": [
+15.5,
+"NFL",
+"Malachi Fields",
+"Longest Reception",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051113": [
+14.5,
+"NFL",
+"Cam Skattebo",
+"Rush Attempts",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051212": [
+14.5,
+"NFL",
+"Bhayshul Tuten",
+"Receiving Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051346": [
+14.5,
+"NFL",
+"Devin Singletary",
+"Rush Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051317": [
+13.5,
+"NFL",
+"Cam Skattebo",
+"Receiving Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051097": [
+12.5,
+"NFL",
+"Brian Thomas Jr.",
+"Receiving Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051048": [
+11.5,
+"NFL",
+"J.J. McCarthy",
+"Longest Rush",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051190": [
+11.5,
+"NFL",
+"Darnell Mooney",
+"Longest Reception",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051318": [
+11.5,
+"NFL",
+"Trevor Lawrence",
+"Rush Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051217": [
+10.5,
+"NFL",
+"Josh Cameron",
+"Receiving Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051377": [
+10.5,
+"NFL",
+"Brian Thomas Jr.",
+"Longest Reception",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051086": [
+9.5,
+"NFL",
+"Chris Rodriguez Jr.",
+"Longest Rush",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051168": [
+9.5,
+"NFL",
+"Bhayshul Tuten",
+"Longest Reception",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051211": [
+9.5,
+"NFL",
+"Nate Boerkircher",
+"Receiving Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051303": [
+9.5,
+"NFL",
+"Josh Cameron",
+"Longest Reception",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051340": [
+9.5,
+"NFL",
+"Cam Skattebo",
+"Longest Reception",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051074": [
+8.5,
+"NFL",
+"Trevor Lawrence",
+"Longest Rush",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051324": [
+8.5,
+"NFL",
+"Cam Little",
+"Kicking Points",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051261": [
+7.5,
+"NFL",
+"Nate Boerkircher",
+"Longest Reception",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051158": [
+5.5,
+"NFL",
+"Isaiah Likely",
+"Receptions",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051284": [
+5.5,
+"NFL",
+"Travis Hunter",
+"Longest Reception",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051306": [
+5.5,
+"NFL",
+"Travis Hunter",
+"Receiving Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17070106": [
+5.5,
+"NFL",
+"Dominic Zvada",
+"Kicking Points",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051130": [
+4.5,
+"NFL",
+"Theo Johnson",
+"Receiving Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051156": [
+4.5,
+"NFL",
+"Theo Johnson",
+"Longest Reception",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051171": [
+4.5,
+"NFL",
+"Devin Singletary",
+"Receiving Yards",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051325": [
+4.5,
+"NFL",
+"Devin Singletary",
+"Longest Reception",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051132": [
+3.5,
+"NFL",
+"Jakobi Meyers",
+"Receptions",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051049": [
+0.5,
+"NFL",
+"Trevor Lawrence",
+"INT",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051054": [
+0.5,
+"NFL",
+"Chris Rodriguez Jr.",
+"Receptions",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051066": [
+0.5,
+"NFL",
+"J.J. McCarthy",
+"INT",
+"NYG",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051253": [
+0.5,
+"NFL",
+"Chris Rodriguez Jr.",
+"Receiving Yards",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17051305": [
+0.5,
+"NFL",
+"Chris Rodriguez Jr.",
+"Longest Reception",
+"JAC",
+"2026-11-22T16:25:00.000-05:00"
+],
+"17068381": [
+261.5,
+"NFL",
+"Brock Purdy",
+"Pass+Rush Yds",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068402": [
+234.5,
+"NFL",
+"Kirk Cousins",
+"Pass+Rush Yds",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17061853": [
+232.5,
+"NFL",
+"Kirk Cousins",
+"Pass Yards",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17061854": [
+232.5,
+"NFL",
+"Brock Purdy",
+"Pass Yards",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17062836": [
+85.5,
+"NFL",
+"Justin Jefferson",
+"Receiving Yards",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17061965": [
+60.5,
+"NFL",
+"Christian McCaffrey",
+"Rush Yards",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068548": [
+54.5,
+"NFL",
+"George Kittle",
+"Receiving Yards",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17061964": [
+47.5,
+"NFL",
+"Jordan Mason",
+"Rush Yards",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068549": [
+40.5,
+"NFL",
+"Keenan Allen",
+"Receiving Yards",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17062837": [
+36.5,
+"NFL",
+"Christian McCaffrey",
+"Receiving Yards",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068501": [
+35.5,
+"NFL",
+"Brock Purdy",
+"Longest Completion",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068537": [
+35.5,
+"NFL",
+"Aaron Jones Sr.",
+"Rush Yards",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068451": [
+34.5,
+"NFL",
+"Kirk Cousins",
+"Longest Completion",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068476": [
+34.5,
+"NFL",
+"Kirk Cousins",
+"Pass Attempts",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068540": [
+32.5,
+"NFL",
+"Deebo Samuel Sr.",
+"Receiving Yards",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068416": [
+31.5,
+"NFL",
+"Brock Purdy",
+"Pass Attempts",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068467": [
+24.5,
+"NFL",
+"Kaelon Black",
+"Rush Yards",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068471": [
+23.5,
+"NFL",
+"Justin Jefferson",
+"Longest Reception",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17061837": [
+20.5,
+"NFL",
+"Brock Purdy",
+"Rush Yards",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068415": [
+20.5,
+"NFL",
+"Kirk Cousins",
+"Pass Completions",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068528": [
+20.5,
+"NFL",
+"George Kittle",
+"Longest Reception",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068546": [
+18.5,
+"NFL",
+"Deebo Samuel Sr.",
+"Longest Reception",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068479": [
+17.5,
+"NFL",
+"Keenan Allen",
+"Longest Reception",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068491": [
+14.5,
+"NFL",
+"Christian McCaffrey",
+"Longest Reception",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068387": [
+13.5,
+"NFL",
+"Jordan Mason",
+"Longest Rush",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068360": [
+12.5,
+"NFL",
+"Jordan Mason",
+"Rush Attempts",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068447": [
+12.5,
+"NFL",
+"Christian McCaffrey",
+"Longest Rush",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17071228": [
+12.5,
+"NFL",
+"Christian McCaffrey",
+"Rush Attempts",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068352": [
+10.5,
+"NFL",
+"Aaron Jones Sr.",
+"Longest Rush",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068458": [
+10.5,
+"NFL",
+"Deebo Samuel Sr.",
+"Rush Yards",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068340": [
+9.5,
+"NFL",
+"Brock Purdy",
+"Longest Rush",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068362": [
+9.5,
+"NFL",
+"Kaelon Black",
+"Longest Rush",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068413": [
+9.5,
+"NFL",
+"Aaron Jones Sr.",
+"Receiving Yards",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068385": [
+7.5,
+"NFL",
+"Aaron Jones Sr.",
+"Longest Reception",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17069946": [
+7.5,
+"NFL",
+"Eddy Pineiro",
+"Kicking Points",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068302": [
+6.5,
+"NFL",
+"Kaelon Black",
+"Rush Attempts",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17071239": [
+4.5,
+"NFL",
+"George Kittle",
+"Receptions",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068345": [
+3.5,
+"NFL",
+"Kirk Cousins",
+"Longest Rush",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068457": [
+3.5,
+"NFL",
+"Keenan Allen",
+"Receptions",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17071226": [
+2.5,
+"NFL",
+"Deebo Samuel Sr.",
+"Receptions",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068384": [
+1.5,
+"NFL",
+"Jordan Mason",
+"Longest Reception",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068477": [
+1.5,
+"NFL",
+"Brock Purdy",
+"Pass TDs",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17061836": [
+0.5,
+"NFL",
+"Kirk Cousins",
+"Rush Yards",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068430": [
+0.5,
+"NFL",
+"Kaelon Black",
+"Receiving Yards",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068435": [
+0.5,
+"NFL",
+"Kaelon Black",
+"Longest Reception",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068483": [
+0.5,
+"NFL",
+"Kaelon Black",
+"Receptions",
+"SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068524": [
+0.5,
+"NFL",
+"Jordan Mason",
+"Receiving Yards",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17061855": [
+296.5,
+"NFL",
+"Joe Burrow",
+"Pass Yards",
+"CIN",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17061856": [
+216.5,
+"NFL",
+"Jayden Daniels",
+"Pass Yards",
+"WAS",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17062838": [
+92.5,
+"NFL",
+"Ja'Marr Chase",
+"Receiving Yards",
+"CIN",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17062839": [
+76.5,
+"NFL",
+"Tee Higgins",
+"Receiving Yards",
+"CIN",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17061966": [
+46.5,
+"NFL",
+"Chase Brown",
+"Rush Yards",
+"CIN",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17063135": [
+45.5,
+"NFL",
+"Stefon Diggs",
+"Receiving Yards",
+"WAS",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17062842": [
+44.5,
+"NFL",
+"Antonio Williams",
+"Receiving Yards",
+"WAS",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17062841": [
+36.5,
+"NFL",
+"Chig Okonkwo",
+"Receiving Yards",
+"WAS",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17061839": [
+30.5,
+"NFL",
+"Jayden Daniels",
+"Rush Yards",
+"WAS",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17062840": [
+24.5,
+"NFL",
+"Chase Brown",
+"Receiving Yards",
+"CIN",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17061838": [
+7.5,
+"NFL",
+"Joe Burrow",
+"Rush Yards",
+"CIN",
+"2026-11-23T20:15:00.000-05:00"
+],
 "17028068": [
 93.5,
 "CFB",
@@ -16896,7 +16440,7 @@
 "2026-11-17T18:00:00.000-05:00"
 ],
 "17064058": [
-230.5,
+232.5,
 "CFB",
 "Dru DeShields",
 "Pass+Rush Yds",
@@ -16943,14 +16487,6 @@
 "M-OH",
 "2026-11-17T19:00:00.000-05:00"
 ],
-"17064014": [
-46.5,
-"CFB",
-"Rodney Nelson",
-"Rush+Rec Yds",
-"M-OH",
-"2026-11-17T19:00:00.000-05:00"
-],
 "17025951": [
 45.5,
 "CFB",
@@ -16959,26 +16495,34 @@
 "M-OH",
 "2026-11-17T19:00:00.000-05:00"
 ],
+"17064014": [
+45.5,
+"CFB",
+"Rodney Nelson",
+"Rush+Rec Yds",
+"M-OH",
+"2026-11-17T19:00:00.000-05:00"
+],
 "17064046": [
-39.5,
+40.5,
 "CFB",
 "Dru DeShields",
 "Longest Completion",
 "KENT",
 "2026-11-17T19:00:00.000-05:00"
 ],
-"17064028": [
-30.5,
-"CFB",
-"Braylon Isom",
-"Receiving Yards",
-"M-OH",
-"2026-11-17T19:00:00.000-05:00"
-],
 "17064041": [
 30.5,
 "CFB",
 "Lynel Billups-Williams",
+"Receiving Yards",
+"M-OH",
+"2026-11-17T19:00:00.000-05:00"
+],
+"17064028": [
+29.5,
+"CFB",
+"Braylon Isom",
 "Receiving Yards",
 "M-OH",
 "2026-11-17T19:00:00.000-05:00"
@@ -17064,18 +16608,10 @@
 "2026-11-17T19:00:00.000-05:00"
 ],
 "17064055": [
-12.5,
+11.5,
 "CFB",
 "Dru DeShields",
 "Longest Rush",
-"KENT",
-"2026-11-17T19:00:00.000-05:00"
-],
-"17068118": [
-4.5,
-"CFB",
-"Wayne Harris",
-"Receptions",
 "KENT",
 "2026-11-17T19:00:00.000-05:00"
 ],
@@ -17488,7 +17024,7 @@
 "2026-11-20T19:30:00.000-05:00"
 ],
 "17027945": [
-36.5,
+35.5,
 "CFB",
 "Walker Eget",
 "Longest Completion",
@@ -17528,27 +17064,27 @@
 "2026-11-20T19:30:00.000-05:00"
 ],
 "17027965": [
-11.5,
+10.5,
 "CFB",
 "Brody Keefe",
 "Longest Reception",
 "DUKE",
 "2026-11-20T19:30:00.000-05:00"
 ],
-"17065777": [
-230.5,
-"CFB",
-"Luke Fahey",
-"Pass+Rush Yds",
-"OSU",
-"2026-11-21T12:00:00.000-05:00"
-],
 "17065806": [
-227.5,
+230.5,
 "CFB",
 "Anthony Colandrea",
 "Pass+Rush Yds",
 "NEB",
+"2026-11-21T12:00:00.000-05:00"
+],
+"17065777": [
+229.5,
+"CFB",
+"Luke Fahey",
+"Pass+Rush Yds",
+"OSU",
 "2026-11-21T12:00:00.000-05:00"
 ],
 "17045855": [
@@ -17615,19 +17151,27 @@
 "NEB",
 "2026-11-21T12:00:00.000-05:00"
 ],
+"17045904": [
+38.5,
+"CFB",
+"Kwazi Gilmer",
+"Receiving Yards",
+"NEB",
+"2026-11-21T12:00:00.000-05:00"
+],
 "17065779": [
-39.5,
+38.5,
 "CFB",
 "Luke Fahey",
 "Longest Completion",
 "OSU",
 "2026-11-21T12:00:00.000-05:00"
 ],
-"17045904": [
-38.5,
+"17065788": [
+35.5,
 "CFB",
-"Kwazi Gilmer",
-"Receiving Yards",
+"Anthony Colandrea",
+"Longest Completion",
 "NEB",
 "2026-11-21T12:00:00.000-05:00"
 ],
@@ -17640,19 +17184,11 @@
 "2026-11-21T12:00:00.000-05:00"
 ],
 "17065773": [
-34.5,
+33.5,
 "CFB",
 "Isaiah West",
 "Rush+Rec Yds",
 "OSU",
-"2026-11-21T12:00:00.000-05:00"
-],
-"17065788": [
-34.5,
-"CFB",
-"Anthony Colandrea",
-"Longest Completion",
-"NEB",
 "2026-11-21T12:00:00.000-05:00"
 ],
 "17045898": [
@@ -17663,14 +17199,6 @@
 "NEB",
 "2026-11-21T12:00:00.000-05:00"
 ],
-"17065800": [
-31.5,
-"CFB",
-"Jeremiah Smith",
-"Longest Reception",
-"OSU",
-"2026-11-21T12:00:00.000-05:00"
-],
 "17045894": [
 30.5,
 "CFB",
@@ -17679,8 +17207,16 @@
 "NEB",
 "2026-11-21T12:00:00.000-05:00"
 ],
+"17065800": [
+30.5,
+"CFB",
+"Jeremiah Smith",
+"Longest Reception",
+"OSU",
+"2026-11-21T12:00:00.000-05:00"
+],
 "17065824": [
-26.5,
+25.5,
 "CFB",
 "Isaiah West",
 "Rush Yards",
@@ -17688,7 +17224,7 @@
 "2026-11-21T12:00:00.000-05:00"
 ],
 "17065823": [
-20.5,
+21.5,
 "CFB",
 "Nyziah Hunter",
 "Receiving Yards",
@@ -17719,19 +17255,19 @@
 "NEB",
 "2026-11-21T12:00:00.000-05:00"
 ],
-"17065817": [
-17.5,
-"CFB",
-"Devin McCuin",
-"Longest Reception",
-"OSU",
-"2026-11-21T12:00:00.000-05:00"
-],
 "17065775": [
 16.5,
 "CFB",
 "Bo Jackson",
 "Longest Rush",
+"OSU",
+"2026-11-21T12:00:00.000-05:00"
+],
+"17065817": [
+16.5,
+"CFB",
+"Devin McCuin",
+"Longest Reception",
 "OSU",
 "2026-11-21T12:00:00.000-05:00"
 ],
@@ -17760,7 +17296,7 @@
 "2026-11-21T12:00:00.000-05:00"
 ],
 "17065793": [
-11.5,
+12.5,
 "CFB",
 "Nyziah Hunter",
 "Longest Reception",
@@ -17816,7 +17352,7 @@
 "2026-11-21T12:00:00.000-05:00"
 ],
 "17065803": [
-6.5,
+5.5,
 "CFB",
 "Jamal Rule",
 "Receiving Yards",
@@ -17860,14 +17396,6 @@
 "CFB",
 "Connor Hawkins",
 "PAT Made",
-"OSU",
-"2026-11-21T12:00:00.000-05:00"
-],
-"17068119": [
-1.5,
-"CFB",
-"Mason Williams",
-"Receptions",
 "OSU",
 "2026-11-21T12:00:00.000-05:00"
 ],
@@ -18192,7 +17720,7 @@
 "2026-11-21T15:30:00.000-05:00"
 ],
 "17055582": [
-50.5,
+49.5,
 "CFB",
 "Savion Hiter",
 "Rush+Rec Yds",
@@ -18327,6 +17855,14 @@
 "UCLA",
 "2026-11-21T15:30:00.000-05:00"
 ],
+"17055590": [
+9.5,
+"CFB",
+"Ty Dieffenbach",
+"Rush Yards",
+"UCLA",
+"2026-11-21T15:30:00.000-05:00"
+],
 "17055599": [
 9.5,
 "CFB",
@@ -18340,14 +17876,6 @@
 "CFB",
 "Ty Dieffenbach",
 "Longest Rush",
-"UCLA",
-"2026-11-21T15:30:00.000-05:00"
-],
-"17055590": [
-8.5,
-"CFB",
-"Ty Dieffenbach",
-"Rush Yards",
 "UCLA",
 "2026-11-21T15:30:00.000-05:00"
 ],
@@ -18375,19 +17903,19 @@
 "UCLA",
 "2026-11-21T15:30:00.000-05:00"
 ],
-"17055662": [
-6.5,
-"CFB",
-"Brayden Loftin",
-"Longest Reception",
-"UCLA",
-"2026-11-21T15:30:00.000-05:00"
-],
 "17055712": [
 6.5,
 "CFB",
 "Mateen Bhaghani",
 "Kicking Points",
+"UCLA",
+"2026-11-21T15:30:00.000-05:00"
+],
+"17055662": [
+5.5,
+"CFB",
+"Brayden Loftin",
+"Longest Reception",
 "UCLA",
 "2026-11-21T15:30:00.000-05:00"
 ],
@@ -18408,11 +17936,27 @@
 "2026-11-21T15:30:00.000-05:00"
 ],
 "17055618": [
-1.5,
+0.5,
 "CFB",
 "Anthony Woods",
 "Receiving Yards",
 "UCLA",
+"2026-11-21T15:30:00.000-05:00"
+],
+"17055756": [
+0.5,
+"CFB",
+"Ty Dieffenbach",
+"INT",
+"UCLA",
+"2026-11-21T15:30:00.000-05:00"
+],
+"17071144": [
+0.5,
+"CFB",
+"Savion Hiter",
+"Receptions",
+"MICH",
 "2026-11-21T15:30:00.000-05:00"
 ],
 "17066148": [
@@ -18560,7 +18104,7 @@
 "2026-11-21T19:30:00.000-05:00"
 ],
 "17061767": [
-256.5,
+254.5,
 "CFB",
 "CJ Carr",
 "Pass+Rush Yds",
@@ -18584,7 +18128,7 @@
 "2026-11-21T19:30:00.000-05:00"
 ],
 "17061751": [
-111.5,
+110.5,
 "CFB",
 "Nolan James Jr.",
 "Rush+Rec Yds",
@@ -18744,10 +18288,18 @@
 "2026-11-21T19:30:00.000-05:00"
 ],
 "17061803": [
-17.5,
+18.5,
 "CFB",
 "Theo Melin Ohrstrom",
 "Receiving Yards",
+"SMU",
+"2026-11-21T19:30:00.000-05:00"
+],
+"17061794": [
+13.5,
+"CFB",
+"Randy Pittman Jr.",
+"Longest Reception",
 "SMU",
 "2026-11-21T19:30:00.000-05:00"
 ],
@@ -18756,14 +18308,6 @@
 "CFB",
 "Kendrick Raphael",
 "Receiving Yards",
-"SMU",
-"2026-11-21T19:30:00.000-05:00"
-],
-"17061794": [
-12.5,
-"CFB",
-"Randy Pittman Jr.",
-"Longest Reception",
 "SMU",
 "2026-11-21T19:30:00.000-05:00"
 ],
@@ -18910,5 +18454,605 @@
 "Receptions",
 "UTAH",
 "2026-11-21T21:00:00.000-05:00"
+],
+"17056316": [
+0.5,
+"SOCCER",
+"Erling Haaland",
+"Goals",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053605": [
+9.0,
+"SOCCER",
+"Anatoliy Trubin",
+"Goalie Fantasy Score",
+"Ukraine",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053606": [
+9.0,
+"SOCCER",
+"Giorgi Mamardashvili",
+"Goalie Fantasy Score",
+"Georgia",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053595": [
+3.0,
+"SOCCER",
+"Anatoliy Trubin",
+"Goalie Saves",
+"Ukraine",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053596": [
+3.0,
+"SOCCER",
+"Giorgi Mamardashvili",
+"Goalie Saves",
+"Georgia",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061935": [
+71.5,
+"SOCCER",
+"Renato Veiga",
+"Passes Attempted",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17062222": [
+60.5,
+"SOCCER",
+"Ben Davies",
+"Passes Attempted",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061859": [
+49.5,
+"SOCCER",
+"Bruno Fernandes",
+"Passes Attempted",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061864": [
+22.5,
+"SOCCER",
+"Diogo Costa",
+"Passes Attempted",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17062172": [
+16.5,
+"SOCCER",
+"Brennan Johnson",
+"Passes Attempted",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061860": [
+12.5,
+"SOCCER",
+"Bruno Fernandes",
+"Outfield Fantasy Score",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061863": [
+10.0,
+"SOCCER",
+"Vitinha",
+"Outfield Fantasy Score",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17062223": [
+10.0,
+"SOCCER",
+"Ben Davies",
+"Outfield Fantasy Score",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053604": [
+9.5,
+"SOCCER",
+"Diogo Costa",
+"Goalie Fantasy Score",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053603": [
+9.0,
+"SOCCER",
+"Karl Darlow",
+"Goalie Fantasy Score",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061896": [
+9.0,
+"SOCCER",
+"Renato Veiga",
+"Outfield Fantasy Score",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061857": [
+5.5,
+"SOCCER",
+"Bruno Fernandes",
+"Crosses",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17062221": [
+5.5,
+"SOCCER",
+"Ben Davies",
+"Clearances",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061895": [
+5.0,
+"SOCCER",
+"Renato Veiga",
+"Clearances",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053593": [
+4.0,
+"SOCCER",
+"Karl Darlow",
+"Goalie Saves",
+"Wales",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055345": [
+3.5,
+"SOCCER",
+"Gonçalo Ramos",
+"Shots",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061858": [
+3.5,
+"SOCCER",
+"Bruno Fernandes",
+"Shots Assisted",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055344": [
+3.0,
+"SOCCER",
+"João Félix",
+"Shots",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055346": [
+2.5,
+"SOCCER",
+"Bruno Fernandes",
+"Shots",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053594": [
+2.0,
+"SOCCER",
+"Diogo Costa",
+"Goalie Saves",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055347": [
+0.5,
+"SOCCER",
+"João Palhinha",
+"Shots",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055360": [
+0.5,
+"SOCCER",
+"Pedro Neto",
+"Shots On Target",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061862": [
+0.5,
+"SOCCER",
+"Vitinha",
+"Attempted Dribbles",
+"Portugal",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053607": [
+9.5,
+"SOCCER",
+"Caoimhín Kelleher",
+"Goalie Fantasy Score",
+"Rep. Ireland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053608": [
+9.0,
+"SOCCER",
+"Arijanet Muric",
+"Goalie Fantasy Score",
+"Kosovo",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053598": [
+3.0,
+"SOCCER",
+"Arijanet Muric",
+"Goalie Saves",
+"Kosovo",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053597": [
+2.0,
+"SOCCER",
+"Caoimhín Kelleher",
+"Goalie Saves",
+"Rep. Ireland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061205": [
+77.5,
+"SOCCER",
+"Sander Berge",
+"Passes Attempted",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061234": [
+69.5,
+"SOCCER",
+"Pierre-Emile Højbjerg",
+"Passes Attempted",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061215": [
+56.5,
+"SOCCER",
+"Kristoffer Ajer",
+"Passes Attempted",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061230": [
+17.5,
+"SOCCER",
+"Rasmus Højlund",
+"Passes Attempted",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061172": [
+16.5,
+"SOCCER",
+"Erling Haaland",
+"Outfield Fantasy Score",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061171": [
+13.5,
+"SOCCER",
+"Erling Haaland",
+"Passes Attempted",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061276": [
+11.0,
+"SOCCER",
+"Oliver Provstgaard",
+"Outfield Fantasy Score",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061216": [
+9.0,
+"SOCCER",
+"Kristoffer Ajer",
+"Outfield Fantasy Score",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053601": [
+8.5,
+"SOCCER",
+"Mads Hermansen",
+"Goalie Fantasy Score",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053602": [
+8.5,
+"SOCCER",
+"Egil Selvik",
+"Goalie Fantasy Score",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061206": [
+8.0,
+"SOCCER",
+"Sander Berge",
+"Outfield Fantasy Score",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061275": [
+6.0,
+"SOCCER",
+"Oliver Provstgaard",
+"Clearances",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061214": [
+5.0,
+"SOCCER",
+"Kristoffer Ajer",
+"Clearances",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055309": [
+4.0,
+"SOCCER",
+"Erling Haaland",
+"Shots",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053591": [
+3.0,
+"SOCCER",
+"Mads Hermansen",
+"Goalie Saves",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053592": [
+3.0,
+"SOCCER",
+"Egil Selvik",
+"Goalie Saves",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055310": [
+2.5,
+"SOCCER",
+"Gustav Isaksen",
+"Shots",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055311": [
+2.5,
+"SOCCER",
+"Rasmus Højlund",
+"Shots",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055312": [
+1.5,
+"SOCCER",
+"Martin Ødegaard",
+"Shots",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055313": [
+1.5,
+"SOCCER",
+"Oscar Bobb",
+"Shots",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055335": [
+1.5,
+"SOCCER",
+"Erling Haaland",
+"Shots On Target",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055336": [
+0.5,
+"SOCCER",
+"Mohamed Daramy",
+"Shots On Target",
+"Denmark",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17061204": [
+0.5,
+"SOCCER",
+"Sander Berge",
+"Shots Assisted",
+"Norway",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17063500": [
+41.5,
+"SOCCER",
+"Nicola Zalewski",
+"Passes Attempted",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17063436": [
+17.5,
+"SOCCER",
+"Robert Lewandowski",
+"Passes Attempted",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17065560": [
+17.5,
+"SOCCER",
+"Viktor Gyökeres",
+"Passes Attempted",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053609": [
+9.0,
+"SOCCER",
+"Bartlomiej Dragowski",
+"Goalie Fantasy Score",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053610": [
+7.5,
+"SOCCER",
+"Viktor Johansson",
+"Goalie Fantasy Score",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17065954": [
+5.0,
+"SOCCER",
+"Victor Lindelöf",
+"Clearances",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17063498": [
+4.0,
+"SOCCER",
+"Nicola Zalewski",
+"Crosses",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055371": [
+3.5,
+"SOCCER",
+"Robert Lewandowski",
+"Shots",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053599": [
+3.0,
+"SOCCER",
+"Bartlomiej Dragowski",
+"Goalie Saves",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17053600": [
+3.0,
+"SOCCER",
+"Viktor Johansson",
+"Goalie Saves",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055376": [
+3.0,
+"SOCCER",
+"Viktor Gyökeres",
+"Shots",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055372": [
+2.5,
+"SOCCER",
+"Mateusz Zukowski",
+"Shots",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17063499": [
+2.5,
+"SOCCER",
+"Nicola Zalewski",
+"Shots Assisted",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055373": [
+1.5,
+"SOCCER",
+"Piotr Zielinski",
+"Shots",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055374": [
+1.5,
+"SOCCER",
+"Benjamin Nygren",
+"Shots",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17065561": [
+1.5,
+"SOCCER",
+"Viktor Gyökeres",
+"Attempted Dribbles",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055375": [
+0.5,
+"SOCCER",
+"Tymoteusz Puchacz",
+"Shots",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055440": [
+0.5,
+"SOCCER",
+"Alieu Njie",
+"Shots On Target",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055441": [
+0.5,
+"SOCCER",
+"Karol Swiderski",
+"Shots On Target",
+"Poland",
+"2026-11-17T14:45:00.000-05:00"
+],
+"17055442": [
+0.5,
+"SOCCER",
+"Anthony Elanga",
+"Shots On Target",
+"Sweden",
+"2026-11-17T14:45:00.000-05:00"
 ]
 }
