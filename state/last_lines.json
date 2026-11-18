@@ -1695,2038 +1695,6 @@
 "TSpirit",
 "2026-11-18T15:00:00.000-05:00"
 ],
-"17114271": [
-56.5,
-"SOCCER",
-"Luan Peres",
-"Passes Attempted",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096169": [
-50.5,
-"SOCCER",
-"Josué",
-"Passes Attempted",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096166": [
-46.5,
-"SOCCER",
-"Neymar",
-"Passes Attempted",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096163": [
-32.5,
-"SOCCER",
-"Bruno Melo",
-"Passes Attempted",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128402": [
-29.5,
-"SOCCER",
-"Pedro Rangel",
-"Passes Attempted",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096786": [
-23.5,
-"SOCCER",
-"Sebastián Gómez",
-"Passes Attempted",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17129867": [
-22.5,
-"SOCCER",
-"Gabriel Barbosa",
-"Passes Attempted",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128405": [
-21.5,
-"SOCCER",
-"Diógenes",
-"Passes Attempted",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17129862": [
-17.5,
-"SOCCER",
-"Gabriel Barbosa",
-"Outfield Fantasy Score",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096151": [
-16.5,
-"SOCCER",
-"Neymar",
-"Outfield Fantasy Score",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096162": [
-12.5,
-"SOCCER",
-"Josué",
-"Outfield Fantasy Score",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17114274": [
-9.5,
-"SOCCER",
-"Luan Peres",
-"Outfield Fantasy Score",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128404": [
-9.5,
-"SOCCER",
-"Pedro Rangel",
-"Goalie Fantasy Score",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128406": [
-9.5,
-"SOCCER",
-"Diógenes",
-"Goalie Fantasy Score",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17100420": [
-7.0,
-"SOCCER",
-"Bruno Melo",
-"Outfield Fantasy Score",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096172": [
-5.0,
-"SOCCER",
-"Neymar",
-"Crosses",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096791": [
-5.0,
-"SOCCER",
-"Sebastián Gómez",
-"Outfield Fantasy Score",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096143": [
-4.5,
-"SOCCER",
-"Neymar",
-"Attempted Dribbles",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17114272": [
-4.5,
-"SOCCER",
-"Luan Peres",
-"Clearances",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128400": [
-3.0,
-"SOCCER",
-"Pedro Rangel",
-"Goalie Saves",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128401": [
-3.0,
-"SOCCER",
-"Diógenes",
-"Goalie Saves",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096145": [
-2.5,
-"SOCCER",
-"Neymar",
-"Shots Assisted",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128469": [
-2.5,
-"SOCCER",
-"Paulo Roberto",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17005232": [
-1.5,
-"SOCCER",
-"Josué",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17046299": [
-1.5,
-"SOCCER",
-"Fabinho",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128446": [
-1.5,
-"SOCCER",
-"Joaquín Lavega",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128454": [
-1.5,
-"SOCCER",
-"Everton",
-"Shots",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128456": [
-1.5,
-"SOCCER",
-"Renato Marques",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17005151": [
-0.5,
-"SOCCER",
-"Breno Lopes",
-"Shots On Target",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128444": [
-0.5,
-"SOCCER",
-"Nicolás Fonseca",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128472": [
-0.5,
-"SOCCER",
-"Moisés",
-"Shots On Target",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128474": [
-0.5,
-"SOCCER",
-"Gustavo Caballero",
-"Shots On Target",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17132834": [
-53.5,
-"SOCCER",
-"Duplexe Tchamba",
-"Passes Attempted",
-"Remo",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132835": [
-48.5,
-"SOCCER",
-"Camilo",
-"Passes Attempted",
-"Chapecoense",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132831": [
-46.5,
-"SOCCER",
-"Zé Welison",
-"Passes Attempted",
-"Remo",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132828": [
-25.5,
-"SOCCER",
-"Marcelo Rangel",
-"Passes Attempted",
-"Remo",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132862": [
-9.0,
-"SOCCER",
-"Marcelo Rangel",
-"Goalie Fantasy Score",
-"Remo",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132863": [
-9.0,
-"SOCCER",
-"Gabriel Werner",
-"Goalie Fantasy Score",
-"Chapecoense",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132815": [
-3.5,
-"SOCCER",
-"Gabriel Werner",
-"Goalie Saves",
-"Chapecoense",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132814": [
-3.0,
-"SOCCER",
-"Marcelo Rangel",
-"Goalie Saves",
-"Remo",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132820": [
-0.5,
-"SOCCER",
-"Camilo",
-"Shots",
-"Chapecoense",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132846": [
-58.5,
-"SOCCER",
-"Lucas Romero",
-"Passes Attempted",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132849": [
-57.5,
-"SOCCER",
-"Marlon Freitas",
-"Passes Attempted",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132851": [
-49.5,
-"SOCCER",
-"Bruno Fuchs",
-"Passes Attempted",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132845": [
-46.5,
-"SOCCER",
-"Matheus Pereira",
-"Passes Attempted",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132847": [
-40.5,
-"SOCCER",
-"Andreas Pereira",
-"Passes Attempted",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132836": [
-23.5,
-"SOCCER",
-"Otávio",
-"Passes Attempted",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132839": [
-23.5,
-"SOCCER",
-"Carlos Miguel",
-"Passes Attempted",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132841": [
-18.5,
-"SOCCER",
-"Kaio Jorge",
-"Passes Attempted",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132871": [
-16.5,
-"SOCCER",
-"Matheus Pereira",
-"Outfield Fantasy Score",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132873": [
-11.5,
-"SOCCER",
-"Marlon Freitas",
-"Outfield Fantasy Score",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132865": [
-10.5,
-"SOCCER",
-"Carlos Miguel",
-"Goalie Fantasy Score",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132869": [
-10.5,
-"SOCCER",
-"Kaio Jorge",
-"Outfield Fantasy Score",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132864": [
-10.0,
-"SOCCER",
-"Otávio",
-"Goalie Fantasy Score",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132816": [
-3.0,
-"SOCCER",
-"Otávio",
-"Goalie Saves",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132817": [
-3.0,
-"SOCCER",
-"Carlos Miguel",
-"Goalie Saves",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132821": [
-3.0,
-"SOCCER",
-"Kaio Jorge",
-"Shots",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132822": [
-0.5,
-"SOCCER",
-"Lucas Romero",
-"Shots",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095909": [
-77.5,
-"SOCCER",
-"Jorginho",
-"Passes Attempted",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17119549": [
-68.5,
-"SOCCER",
-"Léo Ortiz",
-"Passes Attempted",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17096814": [
-38.5,
-"SOCCER",
-"Samuel Lino",
-"Passes Attempted",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095882": [
-37.5,
-"SOCCER",
-"Juan Aguirre",
-"Passes Attempted",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095910": [
-31.5,
-"SOCCER",
-"Steven Mendoza",
-"Passes Attempted",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17114831": [
-25.5,
-"SOCCER",
-"Agustín Rossi",
-"Passes Attempted",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128490": [
-17.5,
-"SOCCER",
-"Pedro",
-"Passes Attempted",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17096817": [
-16.0,
-"SOCCER",
-"Samuel Lino",
-"Outfield Fantasy Score",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128493": [
-13.5,
-"SOCCER",
-"Pedro",
-"Outfield Fantasy Score",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095883": [
-10.0,
-"SOCCER",
-"Juan Aguirre",
-"Outfield Fantasy Score",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17119553": [
-10.0,
-"SOCCER",
-"Léo Ortiz",
-"Outfield Fantasy Score",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17130346": [
-9.5,
-"SOCCER",
-"Agustín Rossi",
-"Goalie Fantasy Score",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17130527": [
-8.5,
-"SOCCER",
-"Jorginho",
-"Outfield Fantasy Score",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095899": [
-8.0,
-"SOCCER",
-"Steven Mendoza",
-"Outfield Fantasy Score",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095889": [
-6.0,
-"SOCCER",
-"Juan Aguirre",
-"Clearances",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17119552": [
-4.0,
-"SOCCER",
-"Léo Ortiz",
-"Clearances",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128632": [
-2.5,
-"SOCCER",
-"Bruno Henrique",
-"Shots",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128518": [
-2.0,
-"SOCCER",
-"Agustín Rossi",
-"Goalie Saves",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128524": [
-2.0,
-"SOCCER",
-"Andrew",
-"Goalie Saves",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128626": [
-2.0,
-"SOCCER",
-"Nicolás de la Cruz",
-"Shots",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095894": [
-0.5,
-"SOCCER",
-"Steven Mendoza",
-"Shots Assisted",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128592": [
-0.5,
-"SOCCER",
-"Luiz Araújo",
-"Shots On Target",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128624": [
-0.5,
-"SOCCER",
-"Erick Pulgar",
-"Shots",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132860": [
-62.5,
-"SOCCER",
-"Nicolás Acevedo",
-"Passes Attempted",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132861": [
-56.5,
-"SOCCER",
-"David Duarte",
-"Passes Attempted",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132858": [
-40.5,
-"SOCCER",
-"Marlon",
-"Passes Attempted",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132856": [
-30.5,
-"SOCCER",
-"Ronaldo",
-"Passes Attempted",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132853": [
-29.5,
-"SOCCER",
-"Weverton",
-"Passes Attempted",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132859": [
-16.5,
-"SOCCER",
-"Alejo Veliz",
-"Passes Attempted",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132867": [
-10.5,
-"SOCCER",
-"Ronaldo",
-"Goalie Fantasy Score",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132866": [
-9.5,
-"SOCCER",
-"Weverton",
-"Goalie Fantasy Score",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132875": [
-9.5,
-"SOCCER",
-"Alejo Veliz",
-"Outfield Fantasy Score",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132857": [
-8.5,
-"SOCCER",
-"Carlos Vinícius",
-"Passes Attempted",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132819": [
-4.0,
-"SOCCER",
-"Ronaldo",
-"Goalie Saves",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132818": [
-3.0,
-"SOCCER",
-"Weverton",
-"Goalie Saves",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132823": [
-2.0,
-"SOCCER",
-"Carlos Vinícius",
-"Shots",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132824": [
-0.5,
-"SOCCER",
-"Nicolás Acevedo",
-"Shots",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132825": [
-0.5,
-"SOCCER",
-"Alejo Veliz",
-"Shots On Target",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095809": [
-58.5,
-"SOCCER",
-"Gustavo Henrique",
-"Passes Attempted",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132878": [
-41.5,
-"SOCCER",
-"André Carrillo",
-"Passes Attempted",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095837": [
-28.5,
-"SOCCER",
-"Cristian Medina",
-"Passes Attempted",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17097217": [
-28.5,
-"SOCCER",
-"Álvaro Montoro",
-"Passes Attempted",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128675": [
-26.5,
-"SOCCER",
-"Gabriel Batista",
-"Passes Attempted",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095825": [
-22.5,
-"SOCCER",
-"Memphis Depay",
-"Passes Attempted",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132520": [
-12.5,
-"SOCCER",
-"Marçal",
-"Outfield Fantasy Score",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095834": [
-10.5,
-"SOCCER",
-"Gustavo Henrique",
-"Outfield Fantasy Score",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128674": [
-9.5,
-"SOCCER",
-"Gabriel Batista",
-"Goalie Fantasy Score",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17097216": [
-9.0,
-"SOCCER",
-"Álvaro Montoro",
-"Outfield Fantasy Score",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132876": [
-7.5,
-"SOCCER",
-"André Carrillo",
-"Outfield Fantasy Score",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095824": [
-6.5,
-"SOCCER",
-"Memphis Depay",
-"Outfield Fantasy Score",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095840": [
-6.5,
-"SOCCER",
-"Cristian Medina",
-"Outfield Fantasy Score",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132591": [
-6.5,
-"SOCCER",
-"Marçal",
-"Clearances",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095812": [
-5.0,
-"SOCCER",
-"Gustavo Henrique",
-"Clearances",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17097215": [
-3.5,
-"SOCCER",
-"Álvaro Montoro",
-"Attempted Dribbles",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128668": [
-3.5,
-"SOCCER",
-"Gabriel Batista",
-"Goalie Saves",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128669": [
-3.5,
-"SOCCER",
-"Warleson",
-"Goalie Saves",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17041888": [
-2.5,
-"SOCCER",
-"Pedro Raul",
-"Shots",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128670": [
-2.5,
-"SOCCER",
-"Hugo Souza",
-"Goalie Saves",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128671": [
-2.5,
-"SOCCER",
-"Felipe Longo",
-"Goalie Saves",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128672": [
-2.5,
-"SOCCER",
-"Kauê Camargo",
-"Goalie Saves",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17041880": [
-1.5,
-"SOCCER",
-"Júnior Santos",
-"Shots",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17097213": [
-1.5,
-"SOCCER",
-"Álvaro Montoro",
-"Shots Assisted",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128717": [
-0.5,
-"SOCCER",
-"Tiquinho Soares",
-"Shots On Target",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128718": [
-0.5,
-"SOCCER",
-"Kaio César",
-"Shots On Target",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128720": [
-0.5,
-"SOCCER",
-"Vitinho",
-"Shots On Target",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128732": [
-0.5,
-"SOCCER",
-"André Carrillo",
-"Shots",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17051494": [
-3.5,
-"SOCCER",
-"Matheus Cunha",
-"Goalie Saves",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17051495": [
-3.5,
-"SOCCER",
-"Sergio Rochet",
-"Goalie Saves",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17005762": [
-2.5,
-"SOCCER",
-"Brenner",
-"Shots",
-"Vasco",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17005790": [
-1.5,
-"SOCCER",
-"Braian Aguirre",
-"Shots",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17051482": [
-1.5,
-"SOCCER",
-"Thiago Mendes",
-"Shots",
-"Vasco",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17005675": [
-0.5,
-"SOCCER",
-"Alerrandro",
-"Shots On Target",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17005744": [
-0.5,
-"SOCCER",
-"Johan Carbonero",
-"Shots On Target",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17129248": [
-0.5,
-"SOCCER",
-"Santiago Sosa",
-"Shots",
-"Vasco",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17129249": [
-0.5,
-"SOCCER",
-"Bruno Henrique",
-"Shots",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17129138": [
-2.5,
-"SOCCER",
-"Rafael",
-"Goalie Saves",
-"São Paulo",
-"2026-11-19T19:30:00.000-05:00"
-],
-"17129139": [
-2.5,
-"SOCCER",
-"Carlos Coronel",
-"Goalie Saves",
-"São Paulo",
-"2026-11-19T19:30:00.000-05:00"
-],
-"17129285": [
-0.5,
-"SOCCER",
-"Pablo Maia",
-"Shots",
-"São Paulo",
-"2026-11-19T19:30:00.000-05:00"
-],
-"17129318": [
-0.5,
-"SOCCER",
-"Iago Borduchi",
-"Shots",
-"São Paulo",
-"2026-11-19T19:30:00.000-05:00"
-],
-"17175108": [
-59.25,
-"NHL",
-"Jacob Fowler",
-"Time On Ice",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17172402": [
-26.5,
-"NHL",
-"Jacob Fowler",
-"Goalie Saves",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17140571": [
-25.75,
-"NHL",
-"Lane Hutson",
-"Time On Ice",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17140573": [
-24.25,
-"NHL",
-"Luke Hughes",
-"Time On Ice",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17172690": [
-22.0,
-"NHL",
-"Connor Hellebuyck",
-"Goalie Saves",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17140574": [
-20.5,
-"NHL",
-"Jack Hughes",
-"Time On Ice",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17140572": [
-18.5,
-"NHL",
-"Cole Caufield",
-"Time On Ice",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17141343": [
-11.0,
-"NHL",
-"Nico Hischier",
-"Faceoffs Won",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17141341": [
-10.0,
-"NHL",
-"Nick Suzuki",
-"Faceoffs Won",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17174290": [
-9.0,
-"NHL",
-"Jack Hughes",
-"Skater Fantasy Score",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17174547": [
-9.0,
-"NHL",
-"Connor Hellebuyck",
-"Goalie Fantasy Score",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17174546": [
-8.0,
-"NHL",
-"Jacob Fowler",
-"Goalie Fantasy Score",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17174291": [
-7.5,
-"NHL",
-"Cole Caufield",
-"Skater Fantasy Score",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17141342": [
-7.0,
-"NHL",
-"Phillip Danault",
-"Faceoffs Won",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164566": [
-3.5,
-"NHL",
-"Jack Hughes",
-"Shots On Goal",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164568": [
-3.0,
-"NHL",
-"Timo Meier",
-"Shots On Goal",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17143963": [
-2.5,
-"NHL",
-"Brenden Dillon",
-"Hits",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17170160": [
-2.5,
-"NHL",
-"Connor Hellebuyck",
-"Goals Allowed",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164561": [
-2.0,
-"NHL",
-"Juraj Slafkovský",
-"Shots On Goal",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164562": [
-2.0,
-"NHL",
-"Arseny Gritsyuk",
-"Shots On Goal",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164563": [
-2.0,
-"NHL",
-"Dougie Hamilton",
-"Shots On Goal",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164564": [
-2.0,
-"NHL",
-"Jesper Bratt",
-"Shots On Goal",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164565": [
-2.0,
-"NHL",
-"Luke Evangelista",
-"Shots On Goal",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164567": [
-2.0,
-"NHL",
-"Nico Hischier",
-"Shots On Goal",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132212": [
-1.5,
-"NHL",
-"Lane Hutson",
-"Shots On Goal",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17143965": [
-1.5,
-"NHL",
-"Jesper Boqvist",
-"Hits",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17156604": [
-1.5,
-"NHL",
-"Noah Dobson",
-"Shots On Goal",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17170354": [
-1.5,
-"NHL",
-"Brett Pesce",
-"Blocked Shots",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17172559": [
-1.5,
-"NHL",
-"Evan Rodrigues",
-"Shots On Goal",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17133010": [
-0.5,
-"NHL",
-"Lane Hutson",
-"Assists",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17143969": [
-0.5,
-"NHL",
-"Luke Evangelista",
-"Hits",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17143970": [
-0.5,
-"NHL",
-"Luke Hughes",
-"Hits",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17149144": [
-0.5,
-"NHL",
-"Nick Suzuki",
-"Assists",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17149306": [
-0.5,
-"NHL",
-"Jack Hughes",
-"Assists",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17149308": [
-0.5,
-"NHL",
-"Luke Hughes",
-"Points",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17149680": [
-0.5,
-"NHL",
-"Juraj Slafkovský",
-"Points",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17149716": [
-0.5,
-"NHL",
-"Arseny Gritsyuk",
-"Points",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164502": [
-0.5,
-"NHL",
-"Nick Suzuki",
-"Blocked Shots",
-"MTL",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164503": [
-0.5,
-"NHL",
-"Nico Hischier",
-"Blocked Shots",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164504": [
-0.5,
-"NHL",
-"Timo Meier",
-"Blocked Shots",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17171370": [
-0.5,
-"NHL",
-"Jack Hughes",
-"Plus/Minus",
-"NJ",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17140577": [
-26.0,
-"NHL",
-"Moritz Seider",
-"Time On Ice",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17170227": [
-25.5,
-"NHL",
-"Jeremy Swayman",
-"Goalie Saves",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17140575": [
-24.5,
-"NHL",
-"Charlie McAvoy",
-"Time On Ice",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17170162": [
-22.5,
-"NHL",
-"Daniil Tarasov",
-"Goalie Saves",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17140576": [
-21.0,
-"NHL",
-"David Pastrnak",
-"Time On Ice",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17140578": [
-19.5,
-"NHL",
-"Alex DeBrincat",
-"Time On Ice",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17141338": [
-12.5,
-"NHL",
-"Elias Lindholm",
-"Faceoffs Won",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17174548": [
-10.5,
-"NHL",
-"Jeremy Swayman",
-"Goalie Fantasy Score",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17174549": [
-9.5,
-"NHL",
-"Daniil Tarasov",
-"Goalie Fantasy Score",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17174293": [
-9.0,
-"NHL",
-"David Pastrnak",
-"Skater Fantasy Score",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17141340": [
-8.5,
-"NHL",
-"Andrew Copp",
-"Faceoffs Won",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17174292": [
-8.5,
-"NHL",
-"Alex DeBrincat",
-"Skater Fantasy Score",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17141339": [
-8.0,
-"NHL",
-"Pavel Zacha",
-"Faceoffs Won",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17143993": [
-5.0,
-"NHL",
-"Michael Brandsegg-Nygård",
-"Hits",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17143985": [
-3.0,
-"NHL",
-"Tanner Jeannot",
-"Hits",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132083": [
-2.5,
-"NHL",
-"Lucas Raymond",
-"Shots On Goal",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17143986": [
-2.5,
-"NHL",
-"Connor Clifton",
-"Hits",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17148079": [
-2.5,
-"NHL",
-"Viktor Arvidsson",
-"Shots On Goal",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17170161": [
-2.5,
-"NHL",
-"Daniil Tarasov",
-"Goals Allowed",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17170226": [
-2.5,
-"NHL",
-"Jeremy Swayman",
-"Goals Allowed",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17143987": [
-2.0,
-"NHL",
-"Mark Kastelic",
-"Hits",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164569": [
-2.0,
-"NHL",
-"Emmitt Finnie",
-"Shots On Goal",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17149656": [
-1.5,
-"NHL",
-"Ben Chiarot",
-"Blocked Shots",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17149657": [
-1.5,
-"NHL",
-"Justin Faulk",
-"Shots On Goal",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17154151": [
-1.5,
-"NHL",
-"Charlie McAvoy",
-"Shots On Goal",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17155293": [
-1.5,
-"NHL",
-"Michael Brandsegg-Nygård",
-"Shots On Goal",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17155479": [
-1.5,
-"NHL",
-"Elias Lindholm",
-"Shots On Goal",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17155579": [
-1.5,
-"NHL",
-"Pavel Zacha",
-"Shots On Goal",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17170276": [
-1.5,
-"NHL",
-"Charlie McAvoy",
-"Blocked Shots",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17133376": [
-0.5,
-"NHL",
-"Morgan Geekie",
-"Points",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17133377": [
-0.5,
-"NHL",
-"JJ Peterka",
-"Points",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17133378": [
-0.5,
-"NHL",
-"Emmitt Finnie",
-"Points",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17133379": [
-0.5,
-"NHL",
-"Moritz Seider",
-"Points",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17143979": [
-0.5,
-"NHL",
-"JJ Peterka",
-"Hits",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17143981": [
-0.5,
-"NHL",
-"Elias Lindholm",
-"Hits",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17148011": [
-0.5,
-"NHL",
-"David Pastrnak",
-"Assists",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17148683": [
-0.5,
-"NHL",
-"Elias Lindholm",
-"Points",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17149703": [
-0.5,
-"NHL",
-"Charlie McAvoy",
-"Points",
-"BOS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17164500": [
-0.5,
-"NHL",
-"Alex DeBrincat",
-"Blocked Shots",
-"DET",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17140579": [
-26.0,
-"NHL",
-"Mikhail Sergachev",
-"Time On Ice",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17174593": [
-25.5,
-"NHL",
-"Sebastian Cossa",
-"Goalie Saves",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17175296": [
-25.5,
-"NHL",
-"Mackenzie Blackwood",
-"Goalie Saves",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17141335": [
-11.0,
-"NHL",
-"Vincent Trocheck",
-"Faceoffs Won",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17141336": [
-9.0,
-"NHL",
-"Kevin Stenlund",
-"Faceoffs Won",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17176850": [
-8.5,
-"NHL",
-"Mackenzie Blackwood",
-"Goalie Fantasy Score",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17176851": [
-8.5,
-"NHL",
-"Sebastian Cossa",
-"Goalie Fantasy Score",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17174294": [
-8.0,
-"NHL",
-"Clayton Keller",
-"Skater Fantasy Score",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17141337": [
-7.5,
-"NHL",
-"Brock Nelson",
-"Faceoffs Won",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17174295": [
-7.5,
-"NHL",
-"Nazem Kadri",
-"Skater Fantasy Score",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17144013": [
-4.0,
-"NHL",
-"Jack McBain",
-"Hits",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17144014": [
-4.0,
-"NHL",
-"Liam O'Brien",
-"Hits",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17144017": [
-3.0,
-"NHL",
-"MacKenzie Weegar",
-"Hits",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17144009": [
-2.5,
-"NHL",
-"Noah Juulsen",
-"Hits",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17144015": [
-2.5,
-"NHL",
-"Lawson Crouse",
-"Hits",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17144016": [
-2.5,
-"NHL",
-"Vincent Trocheck",
-"Hits",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17164570": [
-2.0,
-"NHL",
-"Artturi Lehkonen",
-"Shots On Goal",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17164573": [
-2.0,
-"NHL",
-"Logan Cooley",
-"Shots On Goal",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17164574": [
-2.0,
-"NHL",
-"Vincent Trocheck",
-"Shots On Goal",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17144010": [
-1.5,
-"NHL",
-"Gabriel Landeskog",
-"Hits",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17151216": [
-1.5,
-"NHL",
-"Andrew Peeke",
-"Blocked Shots",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17151222": [
-1.5,
-"NHL",
-"Gabriel Landeskog",
-"Shots On Goal",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17169524": [
-1.5,
-"NHL",
-"Lawson Crouse",
-"Shots On Goal",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17169525": [
-1.5,
-"NHL",
-"Kailer Yamamoto",
-"Shots On Goal",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17172703": [
-1.5,
-"NHL",
-"Michael Carcone",
-"Shots On Goal",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17172847": [
-1.5,
-"NHL",
-"Sam Malinski",
-"Blocked Shots",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17128543": [
-0.5,
-"NHL",
-"Brock Nelson",
-"Points",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17133061": [
-0.5,
-"NHL",
-"Martin Necas",
-"Assists",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17133072": [
-0.5,
-"NHL",
-"Mikhail Sergachev",
-"Assists",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17144006": [
-0.5,
-"NHL",
-"Brock Nelson",
-"Hits",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17144007": [
-0.5,
-"NHL",
-"Nazem Kadri",
-"Hits",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17145429": [
-0.5,
-"NHL",
-"Devon Toews",
-"Points",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17164501": [
-0.5,
-"NHL",
-"Brock Nelson",
-"Blocked Shots",
-"COL",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17164505": [
-0.5,
-"NHL",
-"Vincent Trocheck",
-"Blocked Shots",
-"UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17177409": [
-2.5,
-"NHL",
-"Rickard Rakell",
-"Shots On Goal",
-"PIT",
-"2026-11-19T19:00:00.000-05:00"
-],
-"17175747": [
-2.5,
-"NHL",
-"William Nylander",
-"Shots On Goal",
-"TOR",
-"2026-11-19T19:00:00.000-05:00"
-],
-"17177048": [
-2.5,
-"NHL",
-"Evan Bouchard",
-"Shots On Goal",
-"EDM",
-"2026-11-19T19:30:00.000-05:00"
-],
 "17127750": [
 262.5,
 "NFL",
@@ -11247,6 +9215,966 @@
 "Envy",
 "2026-11-18T16:45:00.000-05:00"
 ],
+"17175108": [
+59.25,
+"NHL",
+"Jacob Fowler",
+"Time On Ice",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17172402": [
+27.5,
+"NHL",
+"Jacob Fowler",
+"Goalie Saves",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17140571": [
+25.75,
+"NHL",
+"Lane Hutson",
+"Time On Ice",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17140573": [
+24.25,
+"NHL",
+"Luke Hughes",
+"Time On Ice",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17172690": [
+22.0,
+"NHL",
+"Connor Hellebuyck",
+"Goalie Saves",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17140574": [
+20.5,
+"NHL",
+"Jack Hughes",
+"Time On Ice",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17140572": [
+18.5,
+"NHL",
+"Cole Caufield",
+"Time On Ice",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17141343": [
+11.0,
+"NHL",
+"Nico Hischier",
+"Faceoffs Won",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17141341": [
+10.0,
+"NHL",
+"Nick Suzuki",
+"Faceoffs Won",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17174290": [
+9.0,
+"NHL",
+"Jack Hughes",
+"Skater Fantasy Score",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17174547": [
+9.0,
+"NHL",
+"Connor Hellebuyck",
+"Goalie Fantasy Score",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17174546": [
+8.0,
+"NHL",
+"Jacob Fowler",
+"Goalie Fantasy Score",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17174291": [
+7.5,
+"NHL",
+"Cole Caufield",
+"Skater Fantasy Score",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17141342": [
+7.0,
+"NHL",
+"Phillip Danault",
+"Faceoffs Won",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164566": [
+3.5,
+"NHL",
+"Jack Hughes",
+"Shots On Goal",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164568": [
+3.0,
+"NHL",
+"Timo Meier",
+"Shots On Goal",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17143963": [
+2.5,
+"NHL",
+"Brenden Dillon",
+"Hits",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17170160": [
+2.5,
+"NHL",
+"Connor Hellebuyck",
+"Goals Allowed",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164561": [
+2.0,
+"NHL",
+"Juraj Slafkovský",
+"Shots On Goal",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164562": [
+2.0,
+"NHL",
+"Arseny Gritsyuk",
+"Shots On Goal",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164563": [
+2.0,
+"NHL",
+"Dougie Hamilton",
+"Shots On Goal",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164564": [
+2.0,
+"NHL",
+"Jesper Bratt",
+"Shots On Goal",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164565": [
+2.0,
+"NHL",
+"Luke Evangelista",
+"Shots On Goal",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164567": [
+2.0,
+"NHL",
+"Nico Hischier",
+"Shots On Goal",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132212": [
+1.5,
+"NHL",
+"Lane Hutson",
+"Shots On Goal",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17143965": [
+1.5,
+"NHL",
+"Jesper Boqvist",
+"Hits",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17156604": [
+1.5,
+"NHL",
+"Noah Dobson",
+"Shots On Goal",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17170354": [
+1.5,
+"NHL",
+"Brett Pesce",
+"Blocked Shots",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17172559": [
+1.5,
+"NHL",
+"Evan Rodrigues",
+"Shots On Goal",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17133010": [
+0.5,
+"NHL",
+"Lane Hutson",
+"Assists",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17143969": [
+0.5,
+"NHL",
+"Luke Evangelista",
+"Hits",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17143970": [
+0.5,
+"NHL",
+"Luke Hughes",
+"Hits",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17149144": [
+0.5,
+"NHL",
+"Nick Suzuki",
+"Assists",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17149306": [
+0.5,
+"NHL",
+"Jack Hughes",
+"Assists",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17149308": [
+0.5,
+"NHL",
+"Luke Hughes",
+"Points",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17149680": [
+0.5,
+"NHL",
+"Juraj Slafkovský",
+"Points",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17149716": [
+0.5,
+"NHL",
+"Arseny Gritsyuk",
+"Points",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164502": [
+0.5,
+"NHL",
+"Nick Suzuki",
+"Blocked Shots",
+"MTL",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164503": [
+0.5,
+"NHL",
+"Nico Hischier",
+"Blocked Shots",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164504": [
+0.5,
+"NHL",
+"Timo Meier",
+"Blocked Shots",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17171370": [
+0.5,
+"NHL",
+"Jack Hughes",
+"Plus/Minus",
+"NJ",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17140577": [
+26.0,
+"NHL",
+"Moritz Seider",
+"Time On Ice",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17170227": [
+25.5,
+"NHL",
+"Jeremy Swayman",
+"Goalie Saves",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17140575": [
+24.5,
+"NHL",
+"Charlie McAvoy",
+"Time On Ice",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17170162": [
+22.5,
+"NHL",
+"Daniil Tarasov",
+"Goalie Saves",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17140576": [
+21.0,
+"NHL",
+"David Pastrnak",
+"Time On Ice",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17140578": [
+19.5,
+"NHL",
+"Alex DeBrincat",
+"Time On Ice",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17141338": [
+12.5,
+"NHL",
+"Elias Lindholm",
+"Faceoffs Won",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17174548": [
+10.5,
+"NHL",
+"Jeremy Swayman",
+"Goalie Fantasy Score",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17174549": [
+9.5,
+"NHL",
+"Daniil Tarasov",
+"Goalie Fantasy Score",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17174293": [
+9.0,
+"NHL",
+"David Pastrnak",
+"Skater Fantasy Score",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17141340": [
+8.5,
+"NHL",
+"Andrew Copp",
+"Faceoffs Won",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17174292": [
+8.5,
+"NHL",
+"Alex DeBrincat",
+"Skater Fantasy Score",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17141339": [
+8.0,
+"NHL",
+"Pavel Zacha",
+"Faceoffs Won",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17143993": [
+5.0,
+"NHL",
+"Michael Brandsegg-Nygård",
+"Hits",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17143985": [
+3.0,
+"NHL",
+"Tanner Jeannot",
+"Hits",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132083": [
+2.5,
+"NHL",
+"Lucas Raymond",
+"Shots On Goal",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17143986": [
+2.5,
+"NHL",
+"Connor Clifton",
+"Hits",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17148079": [
+2.5,
+"NHL",
+"Viktor Arvidsson",
+"Shots On Goal",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17170161": [
+2.5,
+"NHL",
+"Daniil Tarasov",
+"Goals Allowed",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17170226": [
+2.5,
+"NHL",
+"Jeremy Swayman",
+"Goals Allowed",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17143987": [
+2.0,
+"NHL",
+"Mark Kastelic",
+"Hits",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164569": [
+2.0,
+"NHL",
+"Emmitt Finnie",
+"Shots On Goal",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17149656": [
+1.5,
+"NHL",
+"Ben Chiarot",
+"Blocked Shots",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17149657": [
+1.5,
+"NHL",
+"Justin Faulk",
+"Shots On Goal",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17154151": [
+1.5,
+"NHL",
+"Charlie McAvoy",
+"Shots On Goal",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17155293": [
+1.5,
+"NHL",
+"Michael Brandsegg-Nygård",
+"Shots On Goal",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17155479": [
+1.5,
+"NHL",
+"Elias Lindholm",
+"Shots On Goal",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17155579": [
+1.5,
+"NHL",
+"Pavel Zacha",
+"Shots On Goal",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17170276": [
+1.5,
+"NHL",
+"Charlie McAvoy",
+"Blocked Shots",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17133376": [
+0.5,
+"NHL",
+"Morgan Geekie",
+"Points",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17133377": [
+0.5,
+"NHL",
+"JJ Peterka",
+"Points",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17133378": [
+0.5,
+"NHL",
+"Emmitt Finnie",
+"Points",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17133379": [
+0.5,
+"NHL",
+"Moritz Seider",
+"Points",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17143979": [
+0.5,
+"NHL",
+"JJ Peterka",
+"Hits",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17143981": [
+0.5,
+"NHL",
+"Elias Lindholm",
+"Hits",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17148011": [
+0.5,
+"NHL",
+"David Pastrnak",
+"Assists",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17148683": [
+0.5,
+"NHL",
+"Elias Lindholm",
+"Points",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17149703": [
+0.5,
+"NHL",
+"Charlie McAvoy",
+"Points",
+"BOS",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17164500": [
+0.5,
+"NHL",
+"Alex DeBrincat",
+"Blocked Shots",
+"DET",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17140579": [
+26.0,
+"NHL",
+"Mikhail Sergachev",
+"Time On Ice",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17174593": [
+25.5,
+"NHL",
+"Sebastian Cossa",
+"Goalie Saves",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17175296": [
+25.5,
+"NHL",
+"Mackenzie Blackwood",
+"Goalie Saves",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17141335": [
+11.0,
+"NHL",
+"Vincent Trocheck",
+"Faceoffs Won",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17141336": [
+9.0,
+"NHL",
+"Kevin Stenlund",
+"Faceoffs Won",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17176850": [
+8.5,
+"NHL",
+"Mackenzie Blackwood",
+"Goalie Fantasy Score",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17176851": [
+8.5,
+"NHL",
+"Sebastian Cossa",
+"Goalie Fantasy Score",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17174294": [
+8.0,
+"NHL",
+"Clayton Keller",
+"Skater Fantasy Score",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17141337": [
+7.5,
+"NHL",
+"Brock Nelson",
+"Faceoffs Won",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17174295": [
+7.5,
+"NHL",
+"Nazem Kadri",
+"Skater Fantasy Score",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17144013": [
+4.0,
+"NHL",
+"Jack McBain",
+"Hits",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17144014": [
+4.0,
+"NHL",
+"Liam O'Brien",
+"Hits",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17144017": [
+3.0,
+"NHL",
+"MacKenzie Weegar",
+"Hits",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17144009": [
+2.5,
+"NHL",
+"Noah Juulsen",
+"Hits",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17144015": [
+2.5,
+"NHL",
+"Lawson Crouse",
+"Hits",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17144016": [
+2.5,
+"NHL",
+"Vincent Trocheck",
+"Hits",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17164570": [
+2.0,
+"NHL",
+"Artturi Lehkonen",
+"Shots On Goal",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17164573": [
+2.0,
+"NHL",
+"Logan Cooley",
+"Shots On Goal",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17164574": [
+2.0,
+"NHL",
+"Vincent Trocheck",
+"Shots On Goal",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17144010": [
+1.5,
+"NHL",
+"Gabriel Landeskog",
+"Hits",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17151216": [
+1.5,
+"NHL",
+"Andrew Peeke",
+"Blocked Shots",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17151222": [
+1.5,
+"NHL",
+"Gabriel Landeskog",
+"Shots On Goal",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17151247": [
+1.5,
+"NHL",
+"Brent Burns",
+"Shots On Goal",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17169524": [
+1.5,
+"NHL",
+"Lawson Crouse",
+"Shots On Goal",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17169525": [
+1.5,
+"NHL",
+"Kailer Yamamoto",
+"Shots On Goal",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17172703": [
+1.5,
+"NHL",
+"Michael Carcone",
+"Shots On Goal",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17172847": [
+1.5,
+"NHL",
+"Sam Malinski",
+"Blocked Shots",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17128543": [
+0.5,
+"NHL",
+"Brock Nelson",
+"Points",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17133061": [
+0.5,
+"NHL",
+"Martin Necas",
+"Assists",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17133072": [
+0.5,
+"NHL",
+"Mikhail Sergachev",
+"Assists",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17144006": [
+0.5,
+"NHL",
+"Brock Nelson",
+"Hits",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17144007": [
+0.5,
+"NHL",
+"Nazem Kadri",
+"Hits",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17145429": [
+0.5,
+"NHL",
+"Devon Toews",
+"Points",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17164501": [
+0.5,
+"NHL",
+"Brock Nelson",
+"Blocked Shots",
+"COL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17164505": [
+0.5,
+"NHL",
+"Vincent Trocheck",
+"Blocked Shots",
+"UTA",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17179808": [
+2.5,
+"NHL",
+"Rasmus Dahlin",
+"Shots On Goal",
+"BUF",
+"2026-11-19T19:00:00.000-05:00"
+],
+"17179492": [
+3.5,
+"NHL",
+"Kyle Connor",
+"Shots On Goal",
+"WPG",
+"2026-11-19T19:00:00.000-05:00"
+],
+"17177409": [
+2.5,
+"NHL",
+"Rickard Rakell",
+"Shots On Goal",
+"PIT",
+"2026-11-19T19:00:00.000-05:00"
+],
+"17175747": [
+2.5,
+"NHL",
+"William Nylander",
+"Shots On Goal",
+"TOR",
+"2026-11-19T19:00:00.000-05:00"
+],
+"17177048": [
+2.5,
+"NHL",
+"Evan Bouchard",
+"Shots On Goal",
+"EDM",
+"2026-11-19T19:30:00.000-05:00"
+],
 "17134596": [
 37.5,
 "NBA",
@@ -12239,14 +11167,6 @@
 "MIA",
 "2026-11-18T19:00:00.000-05:00"
 ],
-"17138635": [
-16.5,
-"NBA",
-"Klay Thompson",
-"Pts+Rebs",
-"MIA",
-"2026-11-18T19:00:00.000-05:00"
-],
 "17138654": [
 16.5,
 "NBA",
@@ -12261,6 +11181,14 @@
 "Kyle Kuzma",
 "Pts+Rebs",
 "MIL",
+"2026-11-18T19:00:00.000-05:00"
+],
+"17138635": [
+16.0,
+"NBA",
+"Klay Thompson",
+"Pts+Rebs",
+"MIA",
 "2026-11-18T19:00:00.000-05:00"
 ],
 "17158358": [
@@ -12340,6 +11268,14 @@
 "NBA",
 "Jaime Jaquez Jr.",
 "Points",
+"MIL",
+"2026-11-18T19:00:00.000-05:00"
+],
+"17180357": [
+14.5,
+"NBA",
+"Kel'el Ware",
+"Pts+Rebs",
 "MIL",
 "2026-11-18T19:00:00.000-05:00"
 ],
@@ -12543,14 +11479,6 @@
 "MIA",
 "2026-11-18T19:00:00.000-05:00"
 ],
-"17177403": [
-8.5,
-"NBA",
-"Bobby Portis Jr.",
-"Points",
-"MIA",
-"2026-11-18T19:00:00.000-05:00"
-],
 "17141190": [
 8.0,
 "NBA",
@@ -12597,6 +11525,14 @@
 "Kyle Kuzma",
 "Rebs+Asts",
 "MIL",
+"2026-11-18T19:00:00.000-05:00"
+],
+"17141171": [
+7.5,
+"NBA",
+"Bobby Portis Jr.",
+"Points",
+"MIA",
 "2026-11-18T19:00:00.000-05:00"
 ],
 "17141189": [
@@ -13863,6 +12799,14 @@
 "ORL",
 "2026-11-18T19:00:00.000-05:00"
 ],
+"17157792": [
+1.5,
+"NBA",
+"Anfernee Simons",
+"Two Pointers Made",
+"PHI",
+"2026-11-18T19:00:00.000-05:00"
+],
 "17173880": [
 1.5,
 "NBA",
@@ -14072,7 +13016,7 @@
 "2026-11-18T19:00:00.000-05:00"
 ],
 "17151597": [
-20.5,
+21.0,
 "NBA",
 "Cam Spencer",
 "Pts+Asts",
@@ -14080,7 +13024,7 @@
 "2026-11-18T19:00:00.000-05:00"
 ],
 "17151600": [
-20.5,
+19.5,
 "NBA",
 "Cedric Coward",
 "Pts+Asts",
@@ -14167,20 +13111,20 @@
 "CLE",
 "2026-11-18T19:00:00.000-05:00"
 ],
-"17176654": [
-17.5,
-"NBA",
-"Mario Hezonja",
-"Pts+Rebs+Asts",
-"CLE",
-"2026-11-18T19:00:00.000-05:00"
-],
 "17154282": [
 16.5,
 "NBA",
 "Cam Spencer",
 "Pts+Rebs",
 "MEM",
+"2026-11-18T19:00:00.000-05:00"
+],
+"17176654": [
+16.5,
+"NBA",
+"Mario Hezonja",
+"Pts+Rebs+Asts",
+"CLE",
 "2026-11-18T19:00:00.000-05:00"
 ],
 "17151742": [
@@ -14596,14 +13540,6 @@
 "NBA",
 "James Harden",
 "Free Throws Made",
-"CLE",
-"2026-11-18T19:00:00.000-05:00"
-],
-"17175789": [
-3.5,
-"NBA",
-"Tyrese Proctor",
-"Assists",
 "CLE",
 "2026-11-18T19:00:00.000-05:00"
 ],
@@ -15759,20 +14695,20 @@
 "MEM",
 "2026-11-18T19:10:00.000-05:00"
 ],
+"17168674": [
+2.5,
+"NBA",
+"Jarrett Allen",
+"Dunks",
+"CLE",
+"2026-11-18T19:10:00.000-05:00"
+],
 "17170992": [
 2.5,
 "NBA",
 "Zach Edey",
 "Offensive Rebounds",
 "MEM",
-"2026-11-18T19:10:00.000-05:00"
-],
-"17168674": [
-2.0,
-"NBA",
-"Jarrett Allen",
-"Dunks",
-"CLE",
 "2026-11-18T19:10:00.000-05:00"
 ],
 "17170991": [
@@ -16047,20 +14983,20 @@
 "WAS",
 "2026-11-18T19:30:00.000-05:00"
 ],
+"17157210": [
+18.5,
+"NBA",
+"Jakob Poeltl",
+"Pts+Rebs",
+"TOR",
+"2026-11-18T19:30:00.000-05:00"
+],
 "17152954": [
 17.5,
 "NBA",
 "Trae Young",
 "Points",
 "WAS",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17157210": [
-17.5,
-"NBA",
-"Jakob Poeltl",
-"Pts+Rebs",
-"TOR",
 "2026-11-18T19:30:00.000-05:00"
 ],
 "17173390": [
@@ -18599,6 +17535,14 @@
 "NOP",
 "2026-11-18T20:00:00.000-05:00"
 ],
+"17155846": [
+8.5,
+"NBA",
+"Kevin Huerter",
+"Rebs+Asts",
+"DET",
+"2026-11-18T20:00:00.000-05:00"
+],
 "17154534": [
 8.0,
 "NBA",
@@ -18735,14 +17679,6 @@
 "DET",
 "2026-11-18T20:00:00.000-05:00"
 ],
-"17162887": [
-5.0,
-"NBA",
-"Jeremiah Fears",
-"3-PT Attempted",
-"NOP",
-"2026-11-18T20:00:00.000-05:00"
-],
 "17162889": [
 5.0,
 "NBA",
@@ -18763,6 +17699,14 @@
 4.5,
 "NBA",
 "Jordan Poole",
+"3-PT Attempted",
+"NOP",
+"2026-11-18T20:00:00.000-05:00"
+],
+"17162887": [
+4.5,
+"NBA",
+"Jeremiah Fears",
 "3-PT Attempted",
 "NOP",
 "2026-11-18T20:00:00.000-05:00"
@@ -20351,14 +19295,6 @@
 "DAL",
 "2026-11-18T20:00:00.000-05:00"
 ],
-"17158812": [
-8.5,
-"NBA",
-"Caleb Martin",
-"Pts+Asts",
-"DAL",
-"2026-11-18T20:00:00.000-05:00"
-],
 "17158940": [
 8.5,
 "NBA",
@@ -20639,14 +19575,6 @@
 "DAL",
 "2026-11-18T20:00:00.000-05:00"
 ],
-"17143535": [
-4.5,
-"NBA",
-"Cooper Flagg",
-"Free Throws Made",
-"DAL",
-"2026-11-18T20:00:00.000-05:00"
-],
 "17143629": [
 4.5,
 "NBA",
@@ -20668,6 +19596,14 @@
 "NBA",
 "Morez Johnson Jr.",
 "Rebounds",
+"DAL",
+"2026-11-18T20:00:00.000-05:00"
+],
+"17162113": [
+4.5,
+"NBA",
+"Kyrie Irving",
+"Two Pointers Made",
 "DAL",
 "2026-11-18T20:00:00.000-05:00"
 ],
@@ -20693,14 +19629,6 @@
 "Kyrie Irving",
 "Free Throws Attempted",
 "DAL",
-"2026-11-18T20:00:00.000-05:00"
-],
-"17143537": [
-3.5,
-"NBA",
-"Yaxel Lendeborg",
-"Turnovers",
-"GSW",
 "2026-11-18T20:00:00.000-05:00"
 ],
 "17143675": [
@@ -21775,14 +20703,6 @@
 "DEN",
 "2026-11-18T21:30:00.000-05:00"
 ],
-"17136738": [
-18.5,
-"NBA",
-"Payton Pritchard",
-"Pts+Asts",
-"BOS",
-"2026-11-18T21:30:00.000-05:00"
-],
 "17139629": [
 18.5,
 "NBA",
@@ -21797,6 +20717,14 @@
 "Aaron Gordon",
 "Pts+Rebs+Asts",
 "DEN",
+"2026-11-18T21:30:00.000-05:00"
+],
+"17136738": [
+17.5,
+"NBA",
+"Payton Pritchard",
+"Pts+Asts",
+"BOS",
 "2026-11-18T21:30:00.000-05:00"
 ],
 "17136781": [
@@ -22079,6 +21007,14 @@
 "DEN",
 "2026-11-18T21:30:00.000-05:00"
 ],
+"17177900": [
+9.5,
+"NBA",
+"Trevon Brazile",
+"Pts+Rebs+Asts",
+"DEN",
+"2026-11-18T21:30:00.000-05:00"
+],
 "17136856": [
 8.5,
 "NBA",
@@ -22205,14 +21141,6 @@
 "Neemias Queta",
 "Two Pointers Attempted",
 "BOS",
-"2026-11-18T21:30:00.000-05:00"
-],
-"17165038": [
-5.5,
-"NBA",
-"Trevon Brazile",
-"Points",
-"DEN",
 "2026-11-18T21:30:00.000-05:00"
 ],
 "17139767": [
@@ -22912,7 +21840,7 @@
 "2026-11-18T22:00:00.000-05:00"
 ],
 "17140987": [
-31.5,
+30.5,
 "NBA",
 "Darius Acuff Jr.",
 "Pts+Asts",
@@ -23567,14 +22495,6 @@
 "SAC",
 "2026-11-18T22:00:00.000-05:00"
 ],
-"17140672": [
-3.5,
-"NBA",
-"Dillon Brooks",
-"Two Pointers Made",
-"PHX",
-"2026-11-18T22:00:00.000-05:00"
-],
 "17140783": [
 3.5,
 "NBA",
@@ -23767,6 +22687,14 @@
 "UTA",
 "2026-11-18T22:00:00.000-05:00"
 ],
+"17157624": [
+27.5,
+"NBA",
+"Walker Kessler",
+"Pts+Rebs+Asts",
+"LAL",
+"2026-11-18T22:00:00.000-05:00"
+],
 "17157687": [
 27.5,
 "NBA",
@@ -23783,14 +22711,6 @@
 "UTA",
 "2026-11-18T22:00:00.000-05:00"
 ],
-"17157624": [
-26.5,
-"NBA",
-"Walker Kessler",
-"Pts+Rebs+Asts",
-"LAL",
-"2026-11-18T22:00:00.000-05:00"
-],
 "17157357": [
 25.5,
 "NBA",
@@ -23800,7 +22720,7 @@
 "2026-11-18T22:00:00.000-05:00"
 ],
 "17157633": [
-24.5,
+25.5,
 "NBA",
 "Walker Kessler",
 "Pts+Rebs",
@@ -23839,18 +22759,18 @@
 "LAL",
 "2026-11-18T22:00:00.000-05:00"
 ],
-"17157613": [
-19.5,
+"17169324": [
+20.5,
 "NBA",
-"Ace Bailey",
+"Brice Sensabaugh",
 "Pts+Rebs+Asts",
 "UTA",
 "2026-11-18T22:00:00.000-05:00"
 ],
-"17169324": [
+"17157613": [
 19.5,
 "NBA",
-"Brice Sensabaugh",
+"Ace Bailey",
 "Pts+Rebs+Asts",
 "UTA",
 "2026-11-18T22:00:00.000-05:00"
@@ -23887,11 +22807,27 @@
 "LAL",
 "2026-11-18T22:00:00.000-05:00"
 ],
+"17180156": [
+18.5,
+"NBA",
+"Collin Sexton",
+"Pts+Rebs+Asts",
+"LAL",
+"2026-11-18T22:00:00.000-05:00"
+],
 "17157668": [
 16.5,
 "NBA",
 "Sandro Mamukelashvili",
 "Pts+Rebs+Asts",
+"LAL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17179825": [
+16.0,
+"NBA",
+"Luka Dončić",
+"Rebs+Asts",
 "LAL",
 "2026-11-18T22:00:00.000-05:00"
 ],
@@ -23911,11 +22847,35 @@
 "LAL",
 "2026-11-18T22:00:00.000-05:00"
 ],
-"17157665": [
-13.5,
+"17180192": [
+15.5,
 "NBA",
-"Jake LaRavia",
-"Pts+Rebs+Asts",
+"Sandro Mamukelashvili",
+"Pts+Rebs",
+"LAL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17180195": [
+15.5,
+"NBA",
+"Collin Sexton",
+"Pts+Rebs",
+"LAL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17180202": [
+15.5,
+"NBA",
+"Collin Sexton",
+"Pts+Asts",
+"LAL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17157676": [
+14.5,
+"NBA",
+"Walker Kessler",
+"Points",
 "LAL",
 "2026-11-18T22:00:00.000-05:00"
 ],
@@ -23925,14 +22885,6 @@
 "Brice Sensabaugh",
 "Points",
 "UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17179740": [
-13.5,
-"NBA",
-"Walker Kessler",
-"Points",
-"LAL",
 "2026-11-18T22:00:00.000-05:00"
 ],
 "17157616": [
@@ -23956,6 +22908,14 @@
 "NBA",
 "Walker Kessler",
 "Rebs+Asts",
+"LAL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17180151": [
+12.5,
+"NBA",
+"Collin Sexton",
+"Points",
 "LAL",
 "2026-11-18T22:00:00.000-05:00"
 ],
@@ -23999,6 +22959,14 @@
 "LAL",
 "2026-11-18T22:00:00.000-05:00"
 ],
+"17157671": [
+10.5,
+"NBA",
+"Sandro Mamukelashvili",
+"Points",
+"LAL",
+"2026-11-18T22:00:00.000-05:00"
+],
 "17157675": [
 10.5,
 "NBA",
@@ -24029,14 +22997,6 @@
 "Darryn Peterson",
 "Two Pointers Attempted",
 "UTA",
-"2026-11-18T22:00:00.000-05:00"
-],
-"17157671": [
-9.5,
-"NBA",
-"Sandro Mamukelashvili",
-"Points",
-"LAL",
 "2026-11-18T22:00:00.000-05:00"
 ],
 "17169336": [
@@ -24239,14 +23199,6 @@
 "UTA",
 "2026-11-18T22:00:00.000-05:00"
 ],
-"17157596": [
-4.5,
-"NBA",
-"Sandro Mamukelashvili",
-"Rebounds",
-"LAL",
-"2026-11-18T22:00:00.000-05:00"
-],
 "17157655": [
 4.5,
 "NBA",
@@ -24380,6 +23332,14 @@
 "NBA",
 "Matisse Thybulle",
 "Rebounds",
+"LAL",
+"2026-11-18T22:00:00.000-05:00"
+],
+"17180223": [
+2.5,
+"NBA",
+"Collin Sexton",
+"Assists",
 "LAL",
 "2026-11-18T22:00:00.000-05:00"
 ],
@@ -25000,7 +23960,7 @@
 "2026-11-18T19:00:00.000-05:00"
 ],
 "17052432": [
-189.5,
+187.5,
 "CFB",
 "Cibastian Broughton",
 "Pass Yards",
@@ -25056,7 +24016,7 @@
 "2026-11-18T19:00:00.000-05:00"
 ],
 "17052431": [
-37.5,
+35.5,
 "CFB",
 "Kyan Mason",
 "Receiving Yards",
@@ -25095,6 +24055,14 @@
 "AKR",
 "2026-11-18T19:00:00.000-05:00"
 ],
+"17069907": [
+23.5,
+"CFB",
+"Cibastian Broughton",
+"Rush Yards",
+"AKR",
+"2026-11-18T19:00:00.000-05:00"
+],
 "17172426": [
 21.5,
 "CFB",
@@ -25116,14 +24084,6 @@
 "CFB",
 "Marcel Williams",
 "Longest Reception",
-"AKR",
-"2026-11-18T19:00:00.000-05:00"
-],
-"17069907": [
-20.5,
-"CFB",
-"Cibastian Broughton",
-"Rush Yards",
 "AKR",
 "2026-11-18T19:00:00.000-05:00"
 ],
@@ -25175,19 +24135,19 @@
 "AKR",
 "2026-11-18T19:00:00.000-05:00"
 ],
+"17151205": [
+15.0,
+"CFB",
+"Cibastian Broughton",
+"Fantasy Score",
+"AKR",
+"2026-11-18T19:00:00.000-05:00"
+],
 "17069896": [
 13.5,
 "CFB",
 "Cibastian Broughton",
 "Longest Rush",
-"AKR",
-"2026-11-18T19:00:00.000-05:00"
-],
-"17151205": [
-13.5,
-"CFB",
-"Cibastian Broughton",
-"Fantasy Score",
 "AKR",
 "2026-11-18T19:00:00.000-05:00"
 ],
@@ -25328,7 +24288,7 @@
 "2026-11-18T19:30:00.000-05:00"
 ],
 "17048411": [
-102.5,
+104.5,
 "CFB",
 "Messiah Burch",
 "Rush Yards",
@@ -25551,6 +24511,14 @@
 "CMU",
 "2026-11-18T19:30:00.000-05:00"
 ],
+"17151206": [
+13.5,
+"CFB",
+"Jason Wright",
+"Fantasy Score",
+"BUFF",
+"2026-11-18T19:30:00.000-05:00"
+],
 "17151326": [
 13.5,
 "CFB",
@@ -25564,14 +24532,6 @@
 "CFB",
 "Mason Cumbie",
 "Rush Yards",
-"BUFF",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17151206": [
-13.0,
-"CFB",
-"Jason Wright",
-"Fantasy Score",
 "BUFF",
 "2026-11-18T19:30:00.000-05:00"
 ],
@@ -32910,5 +31870,1229 @@
 "Receiving Yards",
 "ORST",
 "2026-11-21T22:30:00.000-05:00"
+],
+"17114271": [
+56.5,
+"SOCCER",
+"Luan Peres",
+"Passes Attempted",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096169": [
+50.5,
+"SOCCER",
+"Josué",
+"Passes Attempted",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096166": [
+46.5,
+"SOCCER",
+"Neymar",
+"Passes Attempted",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096163": [
+32.5,
+"SOCCER",
+"Bruno Melo",
+"Passes Attempted",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128402": [
+29.5,
+"SOCCER",
+"Pedro Rangel",
+"Passes Attempted",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096786": [
+23.5,
+"SOCCER",
+"Sebastián Gómez",
+"Passes Attempted",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17129867": [
+22.5,
+"SOCCER",
+"Gabriel Barbosa",
+"Passes Attempted",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128405": [
+21.5,
+"SOCCER",
+"Diógenes",
+"Passes Attempted",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17129862": [
+17.5,
+"SOCCER",
+"Gabriel Barbosa",
+"Outfield Fantasy Score",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096151": [
+16.5,
+"SOCCER",
+"Neymar",
+"Outfield Fantasy Score",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096162": [
+12.5,
+"SOCCER",
+"Josué",
+"Outfield Fantasy Score",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17114274": [
+9.5,
+"SOCCER",
+"Luan Peres",
+"Outfield Fantasy Score",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128404": [
+9.5,
+"SOCCER",
+"Pedro Rangel",
+"Goalie Fantasy Score",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128406": [
+9.5,
+"SOCCER",
+"Diógenes",
+"Goalie Fantasy Score",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17100420": [
+7.0,
+"SOCCER",
+"Bruno Melo",
+"Outfield Fantasy Score",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096172": [
+5.0,
+"SOCCER",
+"Neymar",
+"Crosses",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096791": [
+5.0,
+"SOCCER",
+"Sebastián Gómez",
+"Outfield Fantasy Score",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096143": [
+4.5,
+"SOCCER",
+"Neymar",
+"Attempted Dribbles",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17114272": [
+4.5,
+"SOCCER",
+"Luan Peres",
+"Clearances",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128400": [
+3.0,
+"SOCCER",
+"Pedro Rangel",
+"Goalie Saves",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128401": [
+3.0,
+"SOCCER",
+"Diógenes",
+"Goalie Saves",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096145": [
+2.5,
+"SOCCER",
+"Neymar",
+"Shots Assisted",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128469": [
+2.5,
+"SOCCER",
+"Paulo Roberto",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17005232": [
+1.5,
+"SOCCER",
+"Josué",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17046299": [
+1.5,
+"SOCCER",
+"Fabinho",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128446": [
+1.5,
+"SOCCER",
+"Joaquín Lavega",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128454": [
+1.5,
+"SOCCER",
+"Everton",
+"Shots",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128456": [
+1.5,
+"SOCCER",
+"Renato Marques",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17005151": [
+0.5,
+"SOCCER",
+"Breno Lopes",
+"Shots On Target",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128444": [
+0.5,
+"SOCCER",
+"Nicolás Fonseca",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128472": [
+0.5,
+"SOCCER",
+"Moisés",
+"Shots On Target",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128474": [
+0.5,
+"SOCCER",
+"Gustavo Caballero",
+"Shots On Target",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17132834": [
+53.5,
+"SOCCER",
+"Duplexe Tchamba",
+"Passes Attempted",
+"Remo",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132835": [
+48.5,
+"SOCCER",
+"Camilo",
+"Passes Attempted",
+"Chapecoense",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132831": [
+46.5,
+"SOCCER",
+"Zé Welison",
+"Passes Attempted",
+"Remo",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132828": [
+25.5,
+"SOCCER",
+"Marcelo Rangel",
+"Passes Attempted",
+"Remo",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132862": [
+9.0,
+"SOCCER",
+"Marcelo Rangel",
+"Goalie Fantasy Score",
+"Remo",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132863": [
+9.0,
+"SOCCER",
+"Gabriel Werner",
+"Goalie Fantasy Score",
+"Chapecoense",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132815": [
+3.5,
+"SOCCER",
+"Gabriel Werner",
+"Goalie Saves",
+"Chapecoense",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132814": [
+3.0,
+"SOCCER",
+"Marcelo Rangel",
+"Goalie Saves",
+"Remo",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132820": [
+0.5,
+"SOCCER",
+"Camilo",
+"Shots",
+"Chapecoense",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132846": [
+58.5,
+"SOCCER",
+"Lucas Romero",
+"Passes Attempted",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132849": [
+57.5,
+"SOCCER",
+"Marlon Freitas",
+"Passes Attempted",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132851": [
+49.5,
+"SOCCER",
+"Bruno Fuchs",
+"Passes Attempted",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132845": [
+46.5,
+"SOCCER",
+"Matheus Pereira",
+"Passes Attempted",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132847": [
+40.5,
+"SOCCER",
+"Andreas Pereira",
+"Passes Attempted",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132836": [
+23.5,
+"SOCCER",
+"Otávio",
+"Passes Attempted",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132839": [
+23.5,
+"SOCCER",
+"Carlos Miguel",
+"Passes Attempted",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132841": [
+18.5,
+"SOCCER",
+"Kaio Jorge",
+"Passes Attempted",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132871": [
+16.5,
+"SOCCER",
+"Matheus Pereira",
+"Outfield Fantasy Score",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132873": [
+11.5,
+"SOCCER",
+"Marlon Freitas",
+"Outfield Fantasy Score",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132865": [
+10.5,
+"SOCCER",
+"Carlos Miguel",
+"Goalie Fantasy Score",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132869": [
+10.5,
+"SOCCER",
+"Kaio Jorge",
+"Outfield Fantasy Score",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132864": [
+10.0,
+"SOCCER",
+"Otávio",
+"Goalie Fantasy Score",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132816": [
+3.0,
+"SOCCER",
+"Otávio",
+"Goalie Saves",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132817": [
+3.0,
+"SOCCER",
+"Carlos Miguel",
+"Goalie Saves",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132821": [
+3.0,
+"SOCCER",
+"Kaio Jorge",
+"Shots",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132822": [
+0.5,
+"SOCCER",
+"Lucas Romero",
+"Shots",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095909": [
+77.5,
+"SOCCER",
+"Jorginho",
+"Passes Attempted",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17119549": [
+68.5,
+"SOCCER",
+"Léo Ortiz",
+"Passes Attempted",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17096814": [
+38.5,
+"SOCCER",
+"Samuel Lino",
+"Passes Attempted",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095882": [
+37.5,
+"SOCCER",
+"Juan Aguirre",
+"Passes Attempted",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095910": [
+31.5,
+"SOCCER",
+"Steven Mendoza",
+"Passes Attempted",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17114831": [
+25.5,
+"SOCCER",
+"Agustín Rossi",
+"Passes Attempted",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128490": [
+17.5,
+"SOCCER",
+"Pedro",
+"Passes Attempted",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17096817": [
+16.0,
+"SOCCER",
+"Samuel Lino",
+"Outfield Fantasy Score",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128493": [
+13.5,
+"SOCCER",
+"Pedro",
+"Outfield Fantasy Score",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095883": [
+10.0,
+"SOCCER",
+"Juan Aguirre",
+"Outfield Fantasy Score",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17119553": [
+10.0,
+"SOCCER",
+"Léo Ortiz",
+"Outfield Fantasy Score",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17130346": [
+9.5,
+"SOCCER",
+"Agustín Rossi",
+"Goalie Fantasy Score",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17130527": [
+8.5,
+"SOCCER",
+"Jorginho",
+"Outfield Fantasy Score",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095899": [
+8.0,
+"SOCCER",
+"Steven Mendoza",
+"Outfield Fantasy Score",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095889": [
+6.0,
+"SOCCER",
+"Juan Aguirre",
+"Clearances",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17119552": [
+4.0,
+"SOCCER",
+"Léo Ortiz",
+"Clearances",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128632": [
+2.5,
+"SOCCER",
+"Bruno Henrique",
+"Shots",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128518": [
+2.0,
+"SOCCER",
+"Agustín Rossi",
+"Goalie Saves",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128524": [
+2.0,
+"SOCCER",
+"Andrew",
+"Goalie Saves",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128626": [
+2.0,
+"SOCCER",
+"Nicolás de la Cruz",
+"Shots",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095894": [
+0.5,
+"SOCCER",
+"Steven Mendoza",
+"Shots Assisted",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128592": [
+0.5,
+"SOCCER",
+"Luiz Araújo",
+"Shots On Target",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128624": [
+0.5,
+"SOCCER",
+"Erick Pulgar",
+"Shots",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132860": [
+62.5,
+"SOCCER",
+"Nicolás Acevedo",
+"Passes Attempted",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132861": [
+56.5,
+"SOCCER",
+"David Duarte",
+"Passes Attempted",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132858": [
+40.5,
+"SOCCER",
+"Marlon",
+"Passes Attempted",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132856": [
+30.5,
+"SOCCER",
+"Ronaldo",
+"Passes Attempted",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132853": [
+29.5,
+"SOCCER",
+"Weverton",
+"Passes Attempted",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132859": [
+16.5,
+"SOCCER",
+"Alejo Veliz",
+"Passes Attempted",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132867": [
+10.5,
+"SOCCER",
+"Ronaldo",
+"Goalie Fantasy Score",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132866": [
+9.5,
+"SOCCER",
+"Weverton",
+"Goalie Fantasy Score",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132875": [
+9.5,
+"SOCCER",
+"Alejo Veliz",
+"Outfield Fantasy Score",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132857": [
+8.5,
+"SOCCER",
+"Carlos Vinícius",
+"Passes Attempted",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132819": [
+4.0,
+"SOCCER",
+"Ronaldo",
+"Goalie Saves",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132818": [
+3.0,
+"SOCCER",
+"Weverton",
+"Goalie Saves",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132823": [
+2.0,
+"SOCCER",
+"Carlos Vinícius",
+"Shots",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132824": [
+0.5,
+"SOCCER",
+"Nicolás Acevedo",
+"Shots",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132825": [
+0.5,
+"SOCCER",
+"Alejo Veliz",
+"Shots On Target",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095809": [
+58.5,
+"SOCCER",
+"Gustavo Henrique",
+"Passes Attempted",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132878": [
+41.5,
+"SOCCER",
+"André Carrillo",
+"Passes Attempted",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095837": [
+28.5,
+"SOCCER",
+"Cristian Medina",
+"Passes Attempted",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17097217": [
+28.5,
+"SOCCER",
+"Álvaro Montoro",
+"Passes Attempted",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128675": [
+26.5,
+"SOCCER",
+"Gabriel Batista",
+"Passes Attempted",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095825": [
+22.5,
+"SOCCER",
+"Memphis Depay",
+"Passes Attempted",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132520": [
+12.5,
+"SOCCER",
+"Marçal",
+"Outfield Fantasy Score",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095834": [
+10.5,
+"SOCCER",
+"Gustavo Henrique",
+"Outfield Fantasy Score",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128674": [
+9.5,
+"SOCCER",
+"Gabriel Batista",
+"Goalie Fantasy Score",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17097216": [
+9.0,
+"SOCCER",
+"Álvaro Montoro",
+"Outfield Fantasy Score",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132876": [
+7.5,
+"SOCCER",
+"André Carrillo",
+"Outfield Fantasy Score",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095824": [
+6.5,
+"SOCCER",
+"Memphis Depay",
+"Outfield Fantasy Score",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095840": [
+6.5,
+"SOCCER",
+"Cristian Medina",
+"Outfield Fantasy Score",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132591": [
+6.5,
+"SOCCER",
+"Marçal",
+"Clearances",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095812": [
+5.0,
+"SOCCER",
+"Gustavo Henrique",
+"Clearances",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17097215": [
+3.5,
+"SOCCER",
+"Álvaro Montoro",
+"Attempted Dribbles",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128668": [
+3.5,
+"SOCCER",
+"Gabriel Batista",
+"Goalie Saves",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128669": [
+3.5,
+"SOCCER",
+"Warleson",
+"Goalie Saves",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17041888": [
+2.5,
+"SOCCER",
+"Pedro Raul",
+"Shots",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128670": [
+2.5,
+"SOCCER",
+"Hugo Souza",
+"Goalie Saves",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128671": [
+2.5,
+"SOCCER",
+"Felipe Longo",
+"Goalie Saves",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128672": [
+2.5,
+"SOCCER",
+"Kauê Camargo",
+"Goalie Saves",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17041880": [
+1.5,
+"SOCCER",
+"Júnior Santos",
+"Shots",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17097213": [
+1.5,
+"SOCCER",
+"Álvaro Montoro",
+"Shots Assisted",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128717": [
+0.5,
+"SOCCER",
+"Tiquinho Soares",
+"Shots On Target",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128718": [
+0.5,
+"SOCCER",
+"Kaio César",
+"Shots On Target",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128720": [
+0.5,
+"SOCCER",
+"Vitinho",
+"Shots On Target",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128732": [
+0.5,
+"SOCCER",
+"André Carrillo",
+"Shots",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17051494": [
+3.5,
+"SOCCER",
+"Matheus Cunha",
+"Goalie Saves",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17051495": [
+3.5,
+"SOCCER",
+"Sergio Rochet",
+"Goalie Saves",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17005762": [
+2.5,
+"SOCCER",
+"Brenner",
+"Shots",
+"Vasco",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17005790": [
+1.5,
+"SOCCER",
+"Braian Aguirre",
+"Shots",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17051482": [
+1.5,
+"SOCCER",
+"Thiago Mendes",
+"Shots",
+"Vasco",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17005675": [
+0.5,
+"SOCCER",
+"Alerrandro",
+"Shots On Target",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17005744": [
+0.5,
+"SOCCER",
+"Johan Carbonero",
+"Shots On Target",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17129248": [
+0.5,
+"SOCCER",
+"Santiago Sosa",
+"Shots",
+"Vasco",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17129249": [
+0.5,
+"SOCCER",
+"Bruno Henrique",
+"Shots",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178287": [
+48.5,
+"SOCCER",
+"Gustavo Marques",
+"Passes Attempted",
+"Bragantino",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178288": [
+44.5,
+"SOCCER",
+"Juninho Capixaba",
+"Passes Attempted",
+"Bragantino",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178285": [
+41.5,
+"SOCCER",
+"Emmanuel Martínez",
+"Passes Attempted",
+"Vitória",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178282": [
+32.5,
+"SOCCER",
+"Tiago Volpi",
+"Passes Attempted",
+"Bragantino",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178283": [
+30.5,
+"SOCCER",
+"Gabriel Baralhas",
+"Passes Attempted",
+"Vitória",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178281": [
+28.5,
+"SOCCER",
+"Lucas Arcanjo",
+"Passes Attempted",
+"Vitória",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178294": [
+11.5,
+"SOCCER",
+"Juninho Capixaba",
+"Outfield Fantasy Score",
+"Bragantino",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178289": [
+10.0,
+"SOCCER",
+"Lucas Arcanjo",
+"Goalie Fantasy Score",
+"Vitória",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178292": [
+10.0,
+"SOCCER",
+"Gustavo Marques",
+"Outfield Fantasy Score",
+"Bragantino",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178290": [
+9.5,
+"SOCCER",
+"Tiago Volpi",
+"Goalie Fantasy Score",
+"Bragantino",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178291": [
+7.5,
+"SOCCER",
+"Gabriel Baralhas",
+"Outfield Fantasy Score",
+"Vitória",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178276": [
+3.5,
+"SOCCER",
+"Lucas Arcanjo",
+"Goalie Saves",
+"Vitória",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178277": [
+3.0,
+"SOCCER",
+"Tiago Volpi",
+"Goalie Saves",
+"Bragantino",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178278": [
+0.5,
+"SOCCER",
+"Emmanuel Martínez",
+"Shots",
+"Vitória",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178279": [
+0.5,
+"SOCCER",
+"Cacá",
+"Shots",
+"Vitória",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17178280": [
+0.5,
+"SOCCER",
+"Gustavo Marques",
+"Shots",
+"Bragantino",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17129138": [
+2.5,
+"SOCCER",
+"Rafael",
+"Goalie Saves",
+"São Paulo",
+"2026-11-19T19:30:00.000-05:00"
+],
+"17129139": [
+2.5,
+"SOCCER",
+"Carlos Coronel",
+"Goalie Saves",
+"São Paulo",
+"2026-11-19T19:30:00.000-05:00"
+],
+"17129285": [
+0.5,
+"SOCCER",
+"Pablo Maia",
+"Shots",
+"São Paulo",
+"2026-11-19T19:30:00.000-05:00"
+],
+"17129318": [
+0.5,
+"SOCCER",
+"Iago Borduchi",
+"Shots",
+"São Paulo",
+"2026-11-19T19:30:00.000-05:00"
 ]
 }
