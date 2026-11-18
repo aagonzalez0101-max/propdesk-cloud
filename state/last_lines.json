@@ -1495,1446 +1495,6 @@
 "Victor Perez",
 "2026-11-15T03:00:00.000-05:00"
 ],
-"17128743": [
-29.5,
-"CS2",
-"Ag1l",
-"MAPS 1-2 Kills",
-"Iberian Soul",
-"2026-11-18T05:00:00.000-05:00"
-],
-"17128744": [
-30.5,
-"CS2",
-"dav1g",
-"MAPS 1-2 Kills",
-"Iberian Soul",
-"2026-11-18T05:00:00.000-05:00"
-],
-"17128745": [
-28.5,
-"CS2",
-"alex",
-"MAPS 1-2 Kills",
-"Iberian Soul",
-"2026-11-18T05:00:00.000-05:00"
-],
-"17128746": [
-29.5,
-"CS2",
-"mopoz",
-"MAPS 1-2 Kills",
-"Iberian Soul",
-"2026-11-18T05:00:00.000-05:00"
-],
-"17128747": [
-28.5,
-"CS2",
-"sausol",
-"MAPS 1-2 Kills",
-"Iberian Soul",
-"2026-11-18T05:00:00.000-05:00"
-],
-"17128748": [
-16.5,
-"CS2",
-"Ag1l",
-"MAPS 1-2 Headshots",
-"Iberian Soul",
-"2026-11-18T05:00:00.000-05:00"
-],
-"17128749": [
-10.5,
-"CS2",
-"dav1g",
-"MAPS 1-2 Headshots",
-"Iberian Soul",
-"2026-11-18T05:00:00.000-05:00"
-],
-"17128750": [
-14.0,
-"CS2",
-"alex",
-"MAPS 1-2 Headshots",
-"Iberian Soul",
-"2026-11-18T05:00:00.000-05:00"
-],
-"17128751": [
-16.5,
-"CS2",
-"mopoz",
-"MAPS 1-2 Headshots",
-"Iberian Soul",
-"2026-11-18T05:00:00.000-05:00"
-],
-"17128752": [
-15.5,
-"CS2",
-"sausol",
-"MAPS 1-2 Headshots",
-"Iberian Soul",
-"2026-11-18T05:00:00.000-05:00"
-],
-"17126728": [
-26.0,
-"CS2",
-"Demho",
-"MAPS 1-2 Kills",
-"Betclic",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126729": [
-26.5,
-"CS2",
-"Prism",
-"MAPS 1-2 Kills",
-"Betclic",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126730": [
-28.0,
-"CS2",
-"ex1st",
-"MAPS 1-2 Kills",
-"Betclic",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126731": [
-25.5,
-"CS2",
-"Qlocuu",
-"MAPS 1-2 Kills",
-"Betclic",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126732": [
-30.5,
-"CS2",
-"ultimate",
-"MAPS 1-2 Kills",
-"Betclic",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126733": [
-26.5,
-"CS2",
-"tabseN",
-"MAPS 1-2 Kills",
-"BIG",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126734": [
-28.5,
-"CS2",
-"faveN",
-"MAPS 1-2 Kills",
-"BIG",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126735": [
-32.5,
-"CS2",
-"blameF",
-"MAPS 1-2 Kills",
-"BIG",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126736": [
-29.5,
-"CS2",
-"gr1ks",
-"MAPS 1-2 Kills",
-"BIG",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126737": [
-29.5,
-"CS2",
-"JDC",
-"MAPS 1-2 Kills",
-"BIG",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126738": [
-11.5,
-"CS2",
-"Demho",
-"MAPS 1-2 Headshots",
-"Betclic",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126739": [
-14.0,
-"CS2",
-"Prism",
-"MAPS 1-2 Headshots",
-"Betclic",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126740": [
-15.5,
-"CS2",
-"ex1st",
-"MAPS 1-2 Headshots",
-"Betclic",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126741": [
-13.5,
-"CS2",
-"Qlocuu",
-"MAPS 1-2 Headshots",
-"Betclic",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126742": [
-11.5,
-"CS2",
-"ultimate",
-"MAPS 1-2 Headshots",
-"Betclic",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126743": [
-12.5,
-"CS2",
-"tabseN",
-"MAPS 1-2 Headshots",
-"BIG",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126744": [
-15.5,
-"CS2",
-"faveN",
-"MAPS 1-2 Headshots",
-"BIG",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126745": [
-14.5,
-"CS2",
-"blameF",
-"MAPS 1-2 Headshots",
-"BIG",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17126747": [
-15.5,
-"CS2",
-"JDC",
-"MAPS 1-2 Headshots",
-"BIG",
-"2026-11-18T06:00:00.000-05:00"
-],
-"17145657": [
-31.5,
-"CS2",
-"YumsaN",
-"MAPS 1-2 Kills",
-"FORZE Reload",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145658": [
-31.5,
-"CS2",
-"HeCkBNk",
-"MAPS 1-2 Kills",
-"FORZE Reload",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145659": [
-28.5,
-"CS2",
-"KusMe",
-"MAPS 1-2 Kills",
-"FORZE Reload",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145660": [
-27.5,
-"CS2",
-"Lack1",
-"MAPS 1-2 Kills",
-"FORZE Reload",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145661": [
-28.5,
-"CS2",
-"bl1x1",
-"MAPS 1-2 Kills",
-"FORZE Reload",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145662": [
-27.5,
-"CS2",
-"TMKj",
-"MAPS 1-2 Kills",
-"G2 Ares",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145663": [
-22.5,
-"CS2",
-"SHiNE",
-"MAPS 1-2 Kills",
-"G2 Ares",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145664": [
-26.5,
-"CS2",
-"hitori",
-"MAPS 1-2 Kills",
-"G2 Ares",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145665": [
-28.5,
-"CS2",
-"Junyme",
-"MAPS 1-2 Kills",
-"G2 Ares",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145666": [
-24.5,
-"CS2",
-"yksjupe",
-"MAPS 1-2 Kills",
-"G2 Ares",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145668": [
-19.5,
-"CS2",
-"HeCkBNk",
-"MAPS 1-2 Headshots",
-"FORZE Reload",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145669": [
-15.5,
-"CS2",
-"KusMe",
-"MAPS 1-2 Headshots",
-"FORZE Reload",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145670": [
-14.5,
-"CS2",
-"Lack1",
-"MAPS 1-2 Headshots",
-"FORZE Reload",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145671": [
-17.5,
-"CS2",
-"bl1x1",
-"MAPS 1-2 Headshots",
-"FORZE Reload",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145672": [
-17.5,
-"CS2",
-"TMKj",
-"MAPS 1-2 Headshots",
-"G2 Ares",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145673": [
-11.5,
-"CS2",
-"SHiNE",
-"MAPS 1-2 Headshots",
-"G2 Ares",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145674": [
-14.5,
-"CS2",
-"hitori",
-"MAPS 1-2 Headshots",
-"G2 Ares",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145675": [
-11.5,
-"CS2",
-"Junyme",
-"MAPS 1-2 Headshots",
-"G2 Ares",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17145676": [
-12.5,
-"CS2",
-"yksjupe",
-"MAPS 1-2 Headshots",
-"G2 Ares",
-"2026-11-18T06:30:00.000-05:00"
-],
-"17144474": [
-31.5,
-"CS2",
-"shg",
-"MAPS 1-2 Kills",
-"33",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144475": [
-29.5,
-"CS2",
-"Raijin",
-"MAPS 1-2 Kills",
-"33",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144476": [
-26.5,
-"CS2",
-"bluewh1te",
-"MAPS 1-2 Kills",
-"33",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144477": [
-30.5,
-"CS2",
-"executor",
-"MAPS 1-2 Kills",
-"33",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144478": [
-29.5,
-"CS2",
-"z1Nny",
-"MAPS 1-2 Kills",
-"33",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144479": [
-24.5,
-"CS2",
-"ViLBy",
-"MAPS 1-2 Kills",
-"Spirit Academy",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144480": [
-31.5,
-"CS2",
-"Kiryasoo",
-"MAPS 1-2 Kills",
-"Spirit Academy",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144481": [
-26.5,
-"CS2",
-"Netrix",
-"MAPS 1-2 Kills",
-"Spirit Academy",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144482": [
-31.5,
-"CS2",
-"s1nside",
-"MAPS 1-2 Kills",
-"Spirit Academy",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144483": [
-26.5,
-"CS2",
-"Tresh",
-"MAPS 1-2 Kills",
-"Spirit Academy",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144484": [
-17.5,
-"CS2",
-"shg",
-"MAPS 1-2 Headshots",
-"33",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144485": [
-17.5,
-"CS2",
-"Raijin",
-"MAPS 1-2 Headshots",
-"33",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144486": [
-15.5,
-"CS2",
-"bluewh1te",
-"MAPS 1-2 Headshots",
-"33",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144487": [
-9.5,
-"CS2",
-"executor",
-"MAPS 1-2 Headshots",
-"33",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144488": [
-18.5,
-"CS2",
-"z1Nny",
-"MAPS 1-2 Headshots",
-"33",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144489": [
-13.5,
-"CS2",
-"ViLBy",
-"MAPS 1-2 Headshots",
-"Spirit Academy",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144490": [
-11.0,
-"CS2",
-"Kiryasoo",
-"MAPS 1-2 Headshots",
-"Spirit Academy",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17144491": [
-15.5,
-"CS2",
-"Netrix",
-"MAPS 1-2 Headshots",
-"Spirit Academy",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17142623": [
-25.5,
-"CS2",
-"TMB",
-"MAPS 1-2 Kills",
-"Phantom",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142624": [
-33.5,
-"CS2",
-"nicoodoz",
-"MAPS 1-2 Kills",
-"Phantom",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142625": [
-29.5,
-"CS2",
-"KEi",
-"MAPS 1-2 Kills",
-"Phantom",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142626": [
-28.5,
-"CS2",
-"Kylar",
-"MAPS 1-2 Kills",
-"Phantom",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142627": [
-30.5,
-"CS2",
-"Kunai",
-"MAPS 1-2 Kills",
-"Phantom",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142628": [
-31.5,
-"CS2",
-"forsyy",
-"MAPS 1-2 Kills",
-"Metizport",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142629": [
-29.5,
-"CS2",
-"F1KU",
-"MAPS 1-2 Kills",
-"Metizport",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142630": [
-23.5,
-"CS2",
-"stanislaw",
-"MAPS 1-2 Kills",
-"Metizport",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142631": [
-30.5,
-"CS2",
-"Plopski",
-"MAPS 1-2 Kills",
-"Metizport",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142632": [
-28.5,
-"CS2",
-"Mail09",
-"MAPS 1-2 Kills",
-"Metizport",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142633": [
-14.5,
-"CS2",
-"TMB",
-"MAPS 1-2 Headshots",
-"Phantom",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142635": [
-15.0,
-"CS2",
-"KEi",
-"MAPS 1-2 Headshots",
-"Phantom",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142636": [
-18.0,
-"CS2",
-"Kylar",
-"MAPS 1-2 Headshots",
-"Phantom",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142637": [
-19.5,
-"CS2",
-"Kunai",
-"MAPS 1-2 Headshots",
-"Phantom",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142638": [
-11.5,
-"CS2",
-"forsyy",
-"MAPS 1-2 Headshots",
-"Metizport",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142639": [
-16.5,
-"CS2",
-"F1KU",
-"MAPS 1-2 Headshots",
-"Metizport",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142640": [
-11.5,
-"CS2",
-"stanislaw",
-"MAPS 1-2 Headshots",
-"Metizport",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142641": [
-15.0,
-"CS2",
-"Plopski",
-"MAPS 1-2 Headshots",
-"Metizport",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17142642": [
-19.0,
-"CS2",
-"Mail09",
-"MAPS 1-2 Headshots",
-"Metizport",
-"2026-11-18T08:00:00.000-05:00"
-],
-"17133264": [
-28.0,
-"CS2",
-"KWERTZZ",
-"MAPS 1-2 Kills",
-"UNiTY",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133265": [
-24.5,
-"CS2",
-"2high",
-"MAPS 1-2 Kills",
-"UNiTY",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133266": [
-27.5,
-"CS2",
-"M1key",
-"MAPS 1-2 Kills",
-"UNiTY",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133268": [
-25.5,
-"CS2",
-"Dytor",
-"MAPS 1-2 Kills",
-"UNiTY",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133269": [
-29.5,
-"CS2",
-"shalfey",
-"MAPS 1-2 Kills",
-"GamerLegion",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133270": [
-28.5,
-"CS2",
-"Tauson",
-"MAPS 1-2 Kills",
-"GamerLegion",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133271": [
-29.5,
-"CS2",
-"REZ",
-"MAPS 1-2 Kills",
-"GamerLegion",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133272": [
-27.5,
-"CS2",
-"hypex",
-"MAPS 1-2 Kills",
-"GamerLegion",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133273": [
-32.5,
-"CS2",
-"FL4MUS",
-"MAPS 1-2 Kills",
-"GamerLegion",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133274": [
-18.5,
-"CS2",
-"KWERTZZ",
-"MAPS 1-2 Headshots",
-"UNiTY",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133275": [
-12.0,
-"CS2",
-"2high",
-"MAPS 1-2 Headshots",
-"UNiTY",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133276": [
-14.5,
-"CS2",
-"M1key",
-"MAPS 1-2 Headshots",
-"UNiTY",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133278": [
-13.5,
-"CS2",
-"Dytor",
-"MAPS 1-2 Headshots",
-"UNiTY",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133279": [
-16.5,
-"CS2",
-"shalfey",
-"MAPS 1-2 Headshots",
-"GamerLegion",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133280": [
-14.5,
-"CS2",
-"Tauson",
-"MAPS 1-2 Headshots",
-"GamerLegion",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133281": [
-16.5,
-"CS2",
-"REZ",
-"MAPS 1-2 Headshots",
-"GamerLegion",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133282": [
-11.0,
-"CS2",
-"hypex",
-"MAPS 1-2 Headshots",
-"GamerLegion",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17133283": [
-20.5,
-"CS2",
-"FL4MUS",
-"MAPS 1-2 Headshots",
-"GamerLegion",
-"2026-11-18T08:30:00.000-05:00"
-],
-"17128753": [
-28.5,
-"CS2",
-"SHOCK",
-"MAPS 1-2 Kills",
-"SINNERS",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128754": [
-29.5,
-"CS2",
-"MoDo",
-"MAPS 1-2 Kills",
-"SINNERS",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128755": [
-29.5,
-"CS2",
-"kisserek",
-"MAPS 1-2 Kills",
-"SINNERS",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128756": [
-27.5,
-"CS2",
-"beastik",
-"MAPS 1-2 Kills",
-"SINNERS",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128757": [
-32.5,
-"CS2",
-"stressarN",
-"MAPS 1-2 Kills",
-"SINNERS",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128758": [
-23.5,
-"CS2",
-"upE",
-"MAPS 1-2 Kills",
-"Alliance",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128759": [
-29.5,
-"CS2",
-"bobeksde",
-"MAPS 1-2 Kills",
-"Alliance",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128760": [
-27.5,
-"CS2",
-"avid",
-"MAPS 1-2 Kills",
-"Alliance",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128761": [
-31.5,
-"CS2",
-"eraa",
-"MAPS 1-2 Kills",
-"Alliance",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128762": [
-25.5,
-"CS2",
-"twist",
-"MAPS 1-2 Kills",
-"Alliance",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128763": [
-17.0,
-"CS2",
-"SHOCK",
-"MAPS 1-2 Headshots",
-"SINNERS",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128764": [
-9.5,
-"CS2",
-"MoDo",
-"MAPS 1-2 Headshots",
-"SINNERS",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128765": [
-15.5,
-"CS2",
-"kisserek",
-"MAPS 1-2 Headshots",
-"SINNERS",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128766": [
-15.5,
-"CS2",
-"beastik",
-"MAPS 1-2 Headshots",
-"SINNERS",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128767": [
-17.5,
-"CS2",
-"stressarN",
-"MAPS 1-2 Headshots",
-"SINNERS",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128768": [
-14.0,
-"CS2",
-"upE",
-"MAPS 1-2 Headshots",
-"Alliance",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128769": [
-19.5,
-"CS2",
-"bobeksde",
-"MAPS 1-2 Headshots",
-"Alliance",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128770": [
-15.5,
-"CS2",
-"avid",
-"MAPS 1-2 Headshots",
-"Alliance",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128771": [
-10.5,
-"CS2",
-"eraa",
-"MAPS 1-2 Headshots",
-"Alliance",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17128772": [
-13.5,
-"CS2",
-"twist",
-"MAPS 1-2 Headshots",
-"Alliance",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17126748": [
-25.5,
-"CS2",
-"onic",
-"MAPS 1-2 Kills",
-"Inner Circle",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17126749": [
-32.5,
-"CS2",
-"Dawy",
-"MAPS 1-2 Kills",
-"Inner Circle",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17126750": [
-28.5,
-"CS2",
-"zeRRoFIX",
-"MAPS 1-2 Kills",
-"Inner Circle",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17126751": [
-30.5,
-"CS2",
-"headtr1ck",
-"MAPS 1-2 Kills",
-"Inner Circle",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17126752": [
-29.5,
-"CS2",
-"cptkurtka023",
-"MAPS 1-2 Kills",
-"Inner Circle",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17126753": [
-12.5,
-"CS2",
-"onic",
-"MAPS 1-2 Headshots",
-"Inner Circle",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17126754": [
-19.5,
-"CS2",
-"Dawy",
-"MAPS 1-2 Headshots",
-"Inner Circle",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17126755": [
-17.0,
-"CS2",
-"zeRRoFIX",
-"MAPS 1-2 Headshots",
-"Inner Circle",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17126756": [
-9.5,
-"CS2",
-"headtr1ck",
-"MAPS 1-2 Headshots",
-"Inner Circle",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17126757": [
-18.5,
-"CS2",
-"cptkurtka023",
-"MAPS 1-2 Headshots",
-"Inner Circle",
-"2026-11-18T11:00:00.000-05:00"
-],
-"17133284": [
-28.5,
-"CS2",
-"sjuush",
-"MAPS 1-2 Kills",
-"Ninjas in Pyjamas",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133285": [
-31.5,
-"CS2",
-"stavn",
-"MAPS 1-2 Kills",
-"Ninjas in Pyjamas",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133286": [
-30.5,
-"CS2",
-"xKacpersky",
-"MAPS 1-2 Kills",
-"Ninjas in Pyjamas",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133287": [
-30.5,
-"CS2",
-"adamb",
-"MAPS 1-2 Kills",
-"Ninjas in Pyjamas",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133288": [
-27.5,
-"CS2",
-"Krimbo",
-"MAPS 1-2 Kills",
-"Ninjas in Pyjamas",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133289": [
-25.5,
-"CS2",
-"lux",
-"MAPS 1-2 Kills",
-"Luminosity",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133290": [
-26.5,
-"CS2",
-"AZUWU",
-"MAPS 1-2 Kills",
-"Luminosity",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133291": [
-27.5,
-"CS2",
-"Rainwaker",
-"MAPS 1-2 Kills",
-"Luminosity",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133292": [
-28.5,
-"CS2",
-"afro",
-"MAPS 1-2 Kills",
-"Luminosity",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133293": [
-29.5,
-"CS2",
-"yxngstxr",
-"MAPS 1-2 Kills",
-"Luminosity",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133294": [
-15.5,
-"CS2",
-"sjuush",
-"MAPS 1-2 Headshots",
-"Ninjas in Pyjamas",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133296": [
-17.5,
-"CS2",
-"xKacpersky",
-"MAPS 1-2 Headshots",
-"Ninjas in Pyjamas",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133297": [
-16.5,
-"CS2",
-"adamb",
-"MAPS 1-2 Headshots",
-"Ninjas in Pyjamas",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133298": [
-14.5,
-"CS2",
-"Krimbo",
-"MAPS 1-2 Headshots",
-"Ninjas in Pyjamas",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133299": [
-13.5,
-"CS2",
-"lux",
-"MAPS 1-2 Headshots",
-"Luminosity",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133300": [
-15.5,
-"CS2",
-"AZUWU",
-"MAPS 1-2 Headshots",
-"Luminosity",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133301": [
-12.5,
-"CS2",
-"Rainwaker",
-"MAPS 1-2 Headshots",
-"Luminosity",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133302": [
-9.5,
-"CS2",
-"afro",
-"MAPS 1-2 Headshots",
-"Luminosity",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17133303": [
-16.0,
-"CS2",
-"yxngstxr",
-"MAPS 1-2 Headshots",
-"Luminosity",
-"2026-11-18T13:30:00.000-05:00"
-],
-"17142643": [
-32.5,
-"CS2",
-"leakz",
-"MAPS 1-2 Kills",
-"BBL",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142644": [
-27.5,
-"CS2",
-"salazar",
-"MAPS 1-2 Kills",
-"BBL",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142645": [
-30.5,
-"CS2",
-"NickyB",
-"MAPS 1-2 Kills",
-"BBL",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142647": [
-27.5,
-"CS2",
-"MIstR",
-"MAPS 1-2 Kills",
-"BBL",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142648": [
-27.5,
-"CS2",
-"Graviti",
-"MAPS 1-2 Kills",
-"Envy",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142649": [
-30.5,
-"CS2",
-"Kursy",
-"MAPS 1-2 Kills",
-"Envy",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142650": [
-31.5,
-"CS2",
-"Maka",
-"MAPS 1-2 Kills",
-"Envy",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142651": [
-28.5,
-"CS2",
-"misutaaa",
-"MAPS 1-2 Kills",
-"Envy",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142652": [
-28.5,
-"CS2",
-"Lucky",
-"MAPS 1-2 Kills",
-"Envy",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142653": [
-17.5,
-"CS2",
-"leakz",
-"MAPS 1-2 Headshots",
-"BBL",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142654": [
-10.5,
-"CS2",
-"salazar",
-"MAPS 1-2 Headshots",
-"BBL",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142655": [
-15.0,
-"CS2",
-"NickyB",
-"MAPS 1-2 Headshots",
-"BBL",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142657": [
-14.0,
-"CS2",
-"MIstR",
-"MAPS 1-2 Headshots",
-"BBL",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142658": [
-16.5,
-"CS2",
-"Graviti",
-"MAPS 1-2 Headshots",
-"Envy",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142659": [
-18.5,
-"CS2",
-"Kursy",
-"MAPS 1-2 Headshots",
-"Envy",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142660": [
-12.5,
-"CS2",
-"Maka",
-"MAPS 1-2 Headshots",
-"Envy",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142661": [
-18.0,
-"CS2",
-"misutaaa",
-"MAPS 1-2 Headshots",
-"Envy",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17142662": [
-13.5,
-"CS2",
-"Lucky",
-"MAPS 1-2 Headshots",
-"Envy",
-"2026-11-18T14:00:00.000-05:00"
-],
-"17139457": [
-20.5,
-"Dota2",
-"Satanic",
-"MAPS 1-2 Kills",
-"Vision",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17139458": [
-14.0,
-"Dota2",
-"No[o]ne-",
-"MAPS 1-2 Kills",
-"Vision",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17139459": [
-10.5,
-"Dota2",
-"Noticed",
-"MAPS 1-2 Kills",
-"Vision",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17139460": [
-8.5,
-"Dota2",
-"9Class",
-"MAPS 1-2 Kills",
-"Vision",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17139461": [
-6.0,
-"Dota2",
-"Dukalis",
-"MAPS 1-2 Kills",
-"Vision",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17139462": [
-12.5,
-"Dota2",
-"skiter",
-"MAPS 1-2 Kills",
-"Aurora",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17139463": [
-11.5,
-"Dota2",
-"Mikoto",
-"MAPS 1-2 Kills",
-"Aurora",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17139464": [
-10.5,
-"Dota2",
-"Ws",
-"MAPS 1-2 Kills",
-"Aurora",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17139465": [
-6.5,
-"Dota2",
-"Mira",
-"MAPS 1-2 Kills",
-"Aurora",
-"2026-11-18T07:00:00.000-05:00"
-],
-"17139466": [
-5.5,
-"Dota2",
-"kaori",
-"MAPS 1-2 Kills",
-"Aurora",
-"2026-11-18T07:00:00.000-05:00"
-],
 "17118900": [
 15.0,
 "VAL",
@@ -2974,6 +1534,1102 @@
 "MAP 3 Kills",
 "Unsettled Resentment",
 "2026-11-18T07:11:00.000-05:00"
+],
+"17114271": [
+56.5,
+"SOCCER",
+"Luan Peres",
+"Passes Attempted",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096169": [
+50.5,
+"SOCCER",
+"Josué",
+"Passes Attempted",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096166": [
+46.5,
+"SOCCER",
+"Neymar",
+"Passes Attempted",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096163": [
+32.5,
+"SOCCER",
+"Bruno Melo",
+"Passes Attempted",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128402": [
+29.5,
+"SOCCER",
+"Pedro Rangel",
+"Passes Attempted",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096786": [
+23.5,
+"SOCCER",
+"Sebastián Gómez",
+"Passes Attempted",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17129867": [
+22.5,
+"SOCCER",
+"Gabriel Barbosa",
+"Passes Attempted",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128405": [
+21.5,
+"SOCCER",
+"Diógenes",
+"Passes Attempted",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17129862": [
+16.5,
+"SOCCER",
+"Gabriel Barbosa",
+"Outfield Fantasy Score",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096151": [
+16.0,
+"SOCCER",
+"Neymar",
+"Outfield Fantasy Score",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096162": [
+12.5,
+"SOCCER",
+"Josué",
+"Outfield Fantasy Score",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17114274": [
+9.5,
+"SOCCER",
+"Luan Peres",
+"Outfield Fantasy Score",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128404": [
+9.5,
+"SOCCER",
+"Pedro Rangel",
+"Goalie Fantasy Score",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128406": [
+9.5,
+"SOCCER",
+"Diógenes",
+"Goalie Fantasy Score",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17100420": [
+7.0,
+"SOCCER",
+"Bruno Melo",
+"Outfield Fantasy Score",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096172": [
+5.0,
+"SOCCER",
+"Neymar",
+"Crosses",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096791": [
+5.0,
+"SOCCER",
+"Sebastián Gómez",
+"Outfield Fantasy Score",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096143": [
+4.5,
+"SOCCER",
+"Neymar",
+"Attempted Dribbles",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17114272": [
+4.5,
+"SOCCER",
+"Luan Peres",
+"Clearances",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128400": [
+3.0,
+"SOCCER",
+"Pedro Rangel",
+"Goalie Saves",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128401": [
+3.0,
+"SOCCER",
+"Diógenes",
+"Goalie Saves",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17096145": [
+2.5,
+"SOCCER",
+"Neymar",
+"Shots Assisted",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128469": [
+2.5,
+"SOCCER",
+"Paulo Roberto",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17005232": [
+1.5,
+"SOCCER",
+"Josué",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17046299": [
+1.5,
+"SOCCER",
+"Fabinho",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128446": [
+1.5,
+"SOCCER",
+"Joaquín Lavega",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128454": [
+1.5,
+"SOCCER",
+"Everton",
+"Shots",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128456": [
+1.5,
+"SOCCER",
+"Renato Marques",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17005151": [
+0.5,
+"SOCCER",
+"Breno Lopes",
+"Shots On Target",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128444": [
+0.5,
+"SOCCER",
+"Nicolás Fonseca",
+"Shots",
+"Coritiba",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128472": [
+0.5,
+"SOCCER",
+"Moisés",
+"Shots On Target",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17128474": [
+0.5,
+"SOCCER",
+"Gustavo Caballero",
+"Shots On Target",
+"Santos",
+"2026-11-18T17:30:00.000-05:00"
+],
+"17132834": [
+53.5,
+"SOCCER",
+"Duplexe Tchamba",
+"Passes Attempted",
+"Remo",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132835": [
+43.5,
+"SOCCER",
+"Camilo",
+"Passes Attempted",
+"Chapecoense",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132831": [
+41.5,
+"SOCCER",
+"Zé Welison",
+"Passes Attempted",
+"Remo",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132828": [
+21.5,
+"SOCCER",
+"Marcelo Rangel",
+"Passes Attempted",
+"Remo",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132862": [
+9.0,
+"SOCCER",
+"Marcelo Rangel",
+"Goalie Fantasy Score",
+"Remo",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132863": [
+9.0,
+"SOCCER",
+"Gabriel Werner",
+"Goalie Fantasy Score",
+"Chapecoense",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132815": [
+3.5,
+"SOCCER",
+"Gabriel Werner",
+"Goalie Saves",
+"Chapecoense",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132814": [
+3.0,
+"SOCCER",
+"Marcelo Rangel",
+"Goalie Saves",
+"Remo",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132820": [
+0.5,
+"SOCCER",
+"Camilo",
+"Shots",
+"Chapecoense",
+"2026-11-18T18:00:00.000-05:00"
+],
+"17132846": [
+58.5,
+"SOCCER",
+"Lucas Romero",
+"Passes Attempted",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132849": [
+57.5,
+"SOCCER",
+"Marlon Freitas",
+"Passes Attempted",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132851": [
+49.5,
+"SOCCER",
+"Bruno Fuchs",
+"Passes Attempted",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132845": [
+46.5,
+"SOCCER",
+"Matheus Pereira",
+"Passes Attempted",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132847": [
+40.5,
+"SOCCER",
+"Andreas Pereira",
+"Passes Attempted",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132836": [
+23.5,
+"SOCCER",
+"Otávio",
+"Passes Attempted",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132839": [
+20.5,
+"SOCCER",
+"Carlos Miguel",
+"Passes Attempted",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132841": [
+18.5,
+"SOCCER",
+"Kaio Jorge",
+"Passes Attempted",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132871": [
+15.5,
+"SOCCER",
+"Matheus Pereira",
+"Outfield Fantasy Score",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132873": [
+12.5,
+"SOCCER",
+"Marlon Freitas",
+"Outfield Fantasy Score",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132865": [
+10.5,
+"SOCCER",
+"Carlos Miguel",
+"Goalie Fantasy Score",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132869": [
+10.5,
+"SOCCER",
+"Kaio Jorge",
+"Outfield Fantasy Score",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132864": [
+10.0,
+"SOCCER",
+"Otávio",
+"Goalie Fantasy Score",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132816": [
+3.0,
+"SOCCER",
+"Otávio",
+"Goalie Saves",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132817": [
+3.0,
+"SOCCER",
+"Carlos Miguel",
+"Goalie Saves",
+"Palmeiras",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132821": [
+3.0,
+"SOCCER",
+"Kaio Jorge",
+"Shots",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132822": [
+0.5,
+"SOCCER",
+"Lucas Romero",
+"Shots",
+"Cruzeiro",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095909": [
+77.5,
+"SOCCER",
+"Jorginho",
+"Passes Attempted",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17119549": [
+68.5,
+"SOCCER",
+"Léo Ortiz",
+"Passes Attempted",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17096814": [
+38.5,
+"SOCCER",
+"Samuel Lino",
+"Passes Attempted",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095882": [
+33.5,
+"SOCCER",
+"Juan Aguirre",
+"Passes Attempted",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095910": [
+31.5,
+"SOCCER",
+"Steven Mendoza",
+"Passes Attempted",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17114831": [
+25.5,
+"SOCCER",
+"Agustín Rossi",
+"Passes Attempted",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128490": [
+17.5,
+"SOCCER",
+"Pedro",
+"Passes Attempted",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17096817": [
+16.0,
+"SOCCER",
+"Samuel Lino",
+"Outfield Fantasy Score",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128493": [
+13.5,
+"SOCCER",
+"Pedro",
+"Outfield Fantasy Score",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095883": [
+10.0,
+"SOCCER",
+"Juan Aguirre",
+"Outfield Fantasy Score",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17119553": [
+10.0,
+"SOCCER",
+"Léo Ortiz",
+"Outfield Fantasy Score",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17130346": [
+9.5,
+"SOCCER",
+"Agustín Rossi",
+"Goalie Fantasy Score",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17130527": [
+8.5,
+"SOCCER",
+"Jorginho",
+"Outfield Fantasy Score",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095899": [
+8.0,
+"SOCCER",
+"Steven Mendoza",
+"Outfield Fantasy Score",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095889": [
+6.0,
+"SOCCER",
+"Juan Aguirre",
+"Clearances",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17119552": [
+4.0,
+"SOCCER",
+"Léo Ortiz",
+"Clearances",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128632": [
+2.5,
+"SOCCER",
+"Bruno Henrique",
+"Shots",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128518": [
+2.0,
+"SOCCER",
+"Agustín Rossi",
+"Goalie Saves",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128524": [
+2.0,
+"SOCCER",
+"Andrew",
+"Goalie Saves",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128626": [
+1.5,
+"SOCCER",
+"Nicolás de la Cruz",
+"Shots",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17095894": [
+0.5,
+"SOCCER",
+"Steven Mendoza",
+"Shots Assisted",
+"Athletico PR",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128592": [
+0.5,
+"SOCCER",
+"Luiz Araújo",
+"Shots On Target",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17128624": [
+0.5,
+"SOCCER",
+"Erick Pulgar",
+"Shots",
+"Flamengo",
+"2026-11-18T18:30:00.000-05:00"
+],
+"17132860": [
+62.5,
+"SOCCER",
+"Nicolás Acevedo",
+"Passes Attempted",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132861": [
+56.5,
+"SOCCER",
+"David Duarte",
+"Passes Attempted",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132858": [
+40.5,
+"SOCCER",
+"Marlon",
+"Passes Attempted",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132856": [
+30.5,
+"SOCCER",
+"Ronaldo",
+"Passes Attempted",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132853": [
+29.5,
+"SOCCER",
+"Weverton",
+"Passes Attempted",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132859": [
+13.5,
+"SOCCER",
+"Alejo Veliz",
+"Passes Attempted",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132867": [
+10.5,
+"SOCCER",
+"Ronaldo",
+"Goalie Fantasy Score",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132866": [
+9.5,
+"SOCCER",
+"Weverton",
+"Goalie Fantasy Score",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132875": [
+9.5,
+"SOCCER",
+"Alejo Veliz",
+"Outfield Fantasy Score",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132857": [
+8.5,
+"SOCCER",
+"Carlos Vinícius",
+"Passes Attempted",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132819": [
+4.0,
+"SOCCER",
+"Ronaldo",
+"Goalie Saves",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132818": [
+3.0,
+"SOCCER",
+"Weverton",
+"Goalie Saves",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132823": [
+2.0,
+"SOCCER",
+"Carlos Vinícius",
+"Shots",
+"Grêmio",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132824": [
+0.5,
+"SOCCER",
+"Nicolás Acevedo",
+"Shots",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132825": [
+0.5,
+"SOCCER",
+"Alejo Veliz",
+"Shots On Target",
+"Bahia",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095809": [
+53.5,
+"SOCCER",
+"Gustavo Henrique",
+"Passes Attempted",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132878": [
+41.5,
+"SOCCER",
+"André Carrillo",
+"Passes Attempted",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095837": [
+28.5,
+"SOCCER",
+"Cristian Medina",
+"Passes Attempted",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17097217": [
+28.5,
+"SOCCER",
+"Álvaro Montoro",
+"Passes Attempted",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128675": [
+26.5,
+"SOCCER",
+"Gabriel Batista",
+"Passes Attempted",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095825": [
+22.5,
+"SOCCER",
+"Memphis Depay",
+"Passes Attempted",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132520": [
+12.5,
+"SOCCER",
+"Marçal",
+"Outfield Fantasy Score",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095834": [
+11.5,
+"SOCCER",
+"Gustavo Henrique",
+"Outfield Fantasy Score",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128674": [
+9.5,
+"SOCCER",
+"Gabriel Batista",
+"Goalie Fantasy Score",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17097216": [
+9.0,
+"SOCCER",
+"Álvaro Montoro",
+"Outfield Fantasy Score",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132876": [
+7.5,
+"SOCCER",
+"André Carrillo",
+"Outfield Fantasy Score",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095824": [
+6.5,
+"SOCCER",
+"Memphis Depay",
+"Outfield Fantasy Score",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095840": [
+6.5,
+"SOCCER",
+"Cristian Medina",
+"Outfield Fantasy Score",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17132591": [
+6.5,
+"SOCCER",
+"Marçal",
+"Clearances",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17095812": [
+5.0,
+"SOCCER",
+"Gustavo Henrique",
+"Clearances",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17097215": [
+3.5,
+"SOCCER",
+"Álvaro Montoro",
+"Attempted Dribbles",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128668": [
+3.5,
+"SOCCER",
+"Gabriel Batista",
+"Goalie Saves",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128669": [
+3.5,
+"SOCCER",
+"Warleson",
+"Goalie Saves",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17041888": [
+2.5,
+"SOCCER",
+"Pedro Raul",
+"Shots",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128670": [
+2.5,
+"SOCCER",
+"Hugo Souza",
+"Goalie Saves",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128671": [
+2.5,
+"SOCCER",
+"Felipe Longo",
+"Goalie Saves",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128672": [
+2.5,
+"SOCCER",
+"Kauê Camargo",
+"Goalie Saves",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17041880": [
+1.5,
+"SOCCER",
+"Júnior Santos",
+"Shots",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17097213": [
+1.5,
+"SOCCER",
+"Álvaro Montoro",
+"Shots Assisted",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128717": [
+0.5,
+"SOCCER",
+"Tiquinho Soares",
+"Shots On Target",
+"Botafogo",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128718": [
+0.5,
+"SOCCER",
+"Kaio César",
+"Shots On Target",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128720": [
+0.5,
+"SOCCER",
+"Vitinho",
+"Shots On Target",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17128732": [
+0.5,
+"SOCCER",
+"André Carrillo",
+"Shots",
+"Corinthians",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17051494": [
+3.5,
+"SOCCER",
+"Matheus Cunha",
+"Goalie Saves",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17051495": [
+3.5,
+"SOCCER",
+"Sergio Rochet",
+"Goalie Saves",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17005762": [
+2.5,
+"SOCCER",
+"Brenner",
+"Shots",
+"Vasco",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17005790": [
+1.5,
+"SOCCER",
+"Braian Aguirre",
+"Shots",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17051482": [
+1.5,
+"SOCCER",
+"Thiago Mendes",
+"Shots",
+"Vasco",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17005675": [
+0.5,
+"SOCCER",
+"Alerrandro",
+"Shots On Target",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17005744": [
+0.5,
+"SOCCER",
+"Johan Carbonero",
+"Shots On Target",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17129248": [
+0.5,
+"SOCCER",
+"Santiago Sosa",
+"Shots",
+"Vasco",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17129249": [
+0.5,
+"SOCCER",
+"Bruno Henrique",
+"Shots",
+"Internacional",
+"2026-11-19T17:30:00.000-05:00"
+],
+"17129138": [
+2.5,
+"SOCCER",
+"Rafael",
+"Goalie Saves",
+"São Paulo",
+"2026-11-19T19:30:00.000-05:00"
+],
+"17129139": [
+2.5,
+"SOCCER",
+"Carlos Coronel",
+"Goalie Saves",
+"São Paulo",
+"2026-11-19T19:30:00.000-05:00"
+],
+"17129285": [
+0.5,
+"SOCCER",
+"Pablo Maia",
+"Shots",
+"São Paulo",
+"2026-11-19T19:30:00.000-05:00"
+],
+"17129318": [
+0.5,
+"SOCCER",
+"Iago Borduchi",
+"Shots",
+"São Paulo",
+"2026-11-19T19:30:00.000-05:00"
 ],
 "17140571": [
 25.75,
@@ -4335,6 +3991,14 @@
 "MIA",
 "2026-11-18T19:00:00.000-05:00"
 ],
+"17155681": [
+13.5,
+"NBA",
+"Pelle Larsson",
+"Pts+Asts",
+"MIA",
+"2026-11-18T19:00:00.000-05:00"
+],
 "17162934": [
 13.5,
 "NBA",
@@ -4903,6 +4567,14 @@
 "MIA",
 "2026-11-18T19:00:00.000-05:00"
 ],
+"17163782": [
+2.5,
+"NBA",
+"Myles Turner",
+"Blks+Stls",
+"MIL",
+"2026-11-18T19:00:00.000-05:00"
+],
 "17139237": [
 1.5,
 "NBA",
@@ -5088,7 +4760,7 @@
 "2026-11-18T19:00:00.000-05:00"
 ],
 "17135096": [
-34.5,
+33.5,
 "NBA",
 "Joel Embiid",
 "Pts+Rebs+Asts",
@@ -5175,14 +4847,6 @@
 "PHI",
 "2026-11-18T19:00:00.000-05:00"
 ],
-"17135014": [
-24.5,
-"NBA",
-"LeBron James",
-"Pts+Rebs",
-"PHI",
-"2026-11-18T19:00:00.000-05:00"
-],
 "17135187": [
 24.5,
 "NBA",
@@ -5205,6 +4869,14 @@
 "Desmond Bane",
 "Pts+Rebs",
 "ORL",
+"2026-11-18T19:00:00.000-05:00"
+],
+"17135014": [
+23.5,
+"NBA",
+"LeBron James",
+"Pts+Rebs",
+"PHI",
 "2026-11-18T19:00:00.000-05:00"
 ],
 "17135239": [
@@ -5695,6 +5367,14 @@
 "PHI",
 "2026-11-18T19:00:00.000-05:00"
 ],
+"17142427": [
+7.5,
+"NBA",
+"Joel Embiid",
+"FG Made",
+"PHI",
+"2026-11-18T19:00:00.000-05:00"
+],
 "17142440": [
 7.5,
 "NBA",
@@ -5973,14 +5653,6 @@
 "Kentavious Caldwell-Pope",
 "FG Attempted",
 "PHI",
-"2026-11-18T19:00:00.000-05:00"
-],
-"17157807": [
-4.5,
-"NBA",
-"Wendell Carter Jr.",
-"FG Made",
-"ORL",
 "2026-11-18T19:00:00.000-05:00"
 ],
 "17142397": [
@@ -7375,20 +7047,20 @@
 "TOR",
 "2026-11-18T19:30:00.000-05:00"
 ],
-"17152858": [
-33.5,
-"NBA",
-"Anthony Davis",
-"Pts+Rebs",
-"WAS",
-"2026-11-18T19:30:00.000-05:00"
-],
 "17153042": [
 33.5,
 "NBA",
 "Scottie Barnes",
 "Pts+Rebs+Asts",
 "TOR",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17152858": [
+32.5,
+"NBA",
+"Anthony Davis",
+"Pts+Rebs",
+"WAS",
 "2026-11-18T19:30:00.000-05:00"
 ],
 "17152944": [
@@ -7495,14 +7167,6 @@
 "TOR",
 "2026-11-18T19:30:00.000-05:00"
 ],
-"17152947": [
-22.5,
-"NBA",
-"AJ Dybantsa",
-"Pts+Rebs",
-"WAS",
-"2026-11-18T19:30:00.000-05:00"
-],
 "17153009": [
 22.5,
 "NBA",
@@ -7511,11 +7175,11 @@
 "WAS",
 "2026-11-18T19:30:00.000-05:00"
 ],
-"17152905": [
+"17152947": [
 21.5,
 "NBA",
-"Alex Sarr",
-"Pts+Rebs+Asts",
+"AJ Dybantsa",
+"Pts+Rebs",
 "WAS",
 "2026-11-18T19:30:00.000-05:00"
 ],
@@ -7525,6 +7189,14 @@
 "Collin Murray-Boyles",
 "Pts+Rebs+Asts",
 "TOR",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17152905": [
+20.5,
+"NBA",
+"Alex Sarr",
+"Pts+Rebs+Asts",
+"WAS",
 "2026-11-18T19:30:00.000-05:00"
 ],
 "17152963": [
@@ -7895,6 +7567,14 @@
 "TOR",
 "2026-11-18T19:30:00.000-05:00"
 ],
+"17152975": [
+8.5,
+"NBA",
+"Kyshawn George",
+"Rebs+Asts",
+"WAS",
+"2026-11-18T19:30:00.000-05:00"
+],
 "17160921": [
 8.5,
 "NBA",
@@ -8028,14 +7708,6 @@
 "NBA",
 "Ja'Kobe Walter",
 "3-PT Attempted",
-"TOR",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17153189": [
-6.5,
-"NBA",
-"RJ Barrett",
-"Two Pointers Made",
 "TOR",
 "2026-11-18T19:30:00.000-05:00"
 ],
@@ -8535,14 +8207,6 @@
 "CHI",
 "2026-11-18T19:30:00.000-05:00"
 ],
-"17136164": [
-23.5,
-"NBA",
-"Michael Porter Jr.",
-"Points",
-"BKN",
-"2026-11-18T19:30:00.000-05:00"
-],
 "17138087": [
 23.5,
 "NBA",
@@ -8565,6 +8229,14 @@
 "Jalen Smith",
 "Pts+Rebs",
 "CHI",
+"2026-11-18T19:30:00.000-05:00"
+],
+"17136164": [
+22.5,
+"NBA",
+"Michael Porter Jr.",
+"Points",
+"BKN",
 "2026-11-18T19:30:00.000-05:00"
 ],
 "17136199": [
@@ -10935,6 +10607,14 @@
 "ATL",
 "2026-11-18T20:00:00.000-05:00"
 ],
+"17148046": [
+4.5,
+"NBA",
+"Kenrich Williams",
+"Rebounds",
+"OKC",
+"2026-11-18T20:00:00.000-05:00"
+],
 "17152682": [
 4.5,
 "NBA",
@@ -11055,6 +10735,14 @@
 "OKC",
 "2026-11-18T20:00:00.000-05:00"
 ],
+"17155429": [
+2.5,
+"NBA",
+"Aaron Wiggins",
+"Assists",
+"ATL",
+"2026-11-18T20:00:00.000-05:00"
+],
 "17161973": [
 2.5,
 "NBA",
@@ -11069,6 +10757,22 @@
 "Aday Mara",
 "Assists",
 "OKC",
+"2026-11-18T20:00:00.000-05:00"
+],
+"17137809": [
+1.5,
+"NBA",
+"Kenrich Williams",
+"3-PT Made",
+"OKC",
+"2026-11-18T20:00:00.000-05:00"
+],
+"17140646": [
+1.5,
+"NBA",
+"Luguentz Dort",
+"3-PT Made",
+"ATL",
 "2026-11-18T20:00:00.000-05:00"
 ],
 "17152681": [
@@ -12479,6 +12183,14 @@
 "DEN",
 "2026-11-18T21:30:00.000-05:00"
 ],
+"17157763": [
+14.0,
+"NBA",
+"Jayson Tatum",
+"Rebs+Asts",
+"BOS",
+"2026-11-18T21:30:00.000-05:00"
+],
 "17136860": [
 13.5,
 "NBA",
@@ -13048,7 +12760,7 @@
 "2026-11-18T22:00:00.000-05:00"
 ],
 "17140914": [
-31.5,
+32.5,
 "NBA",
 "Domantas Sabonis",
 "Pts+Rebs+Asts",
@@ -15535,6 +15247,14 @@
 "PIT",
 "2026-11-22T13:00:00.000-05:00"
 ],
+"17148294": [
+19.0,
+"NFL",
+"Aaron Rodgers",
+"Pass Completions",
+"PIT",
+"2026-11-22T13:00:00.000-05:00"
+],
 "17081158": [
 18.5,
 "NFL",
@@ -15768,7 +15488,7 @@
 "2026-11-22T13:00:00.000-05:00"
 ],
 "17147307": [
-41.5,
+39.5,
 "NFL",
 "Tyler Allgeier",
 "Rush+Rec Yds",
@@ -15863,6 +15583,14 @@
 "KC",
 "2026-11-22T13:00:00.000-05:00"
 ],
+"17071553": [
+19.0,
+"NFL",
+"Carson Beck",
+"Pass Completions",
+"ARI",
+"2026-11-22T13:00:00.000-05:00"
+],
 "17071784": [
 18.5,
 "NFL",
@@ -15919,6 +15647,14 @@
 "ARI",
 "2026-11-22T13:00:00.000-05:00"
 ],
+"17071643": [
+12.5,
+"NFL",
+"Reggie Virgil",
+"Longest Reception",
+"ARI",
+"2026-11-22T13:00:00.000-05:00"
+],
 "17071645": [
 12.5,
 "NFL",
@@ -15939,14 +15675,6 @@
 11.5,
 "NFL",
 "Elijah Higgins",
-"Longest Reception",
-"ARI",
-"2026-11-22T13:00:00.000-05:00"
-],
-"17071643": [
-11.5,
-"NFL",
-"Reggie Virgil",
 "Longest Reception",
 "ARI",
 "2026-11-22T13:00:00.000-05:00"
@@ -15991,19 +15719,19 @@
 "ARI",
 "2026-11-22T13:00:00.000-05:00"
 ],
-"17071644": [
-8.5,
-"NFL",
-"Tyler Allgeier",
-"Receiving Yards",
-"ARI",
-"2026-11-22T13:00:00.000-05:00"
-],
 "17071774": [
 8.5,
 "NFL",
 "Carson Beck",
 "Rush Yards",
+"ARI",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17071644": [
+7.5,
+"NFL",
+"Tyler Allgeier",
+"Receiving Yards",
 "ARI",
 "2026-11-22T13:00:00.000-05:00"
 ],
@@ -16829,6 +16557,14 @@
 "Gunnar Helm",
 "Receiving Yards",
 "TEN",
+"2026-11-22T13:00:00.000-05:00"
+],
+"17072000": [
+24.0,
+"NFL",
+"Dak Prescott",
+"Pass Completions",
+"DAL",
 "2026-11-22T13:00:00.000-05:00"
 ],
 "17071932": [
@@ -19808,7 +19544,7 @@
 "2026-11-22T16:25:00.000-05:00"
 ],
 "17068381": [
-261.5,
+260.5,
 "NFL",
 "Brock Purdy",
 "Pass+Rush Yds",
@@ -19824,7 +19560,7 @@
 "2026-11-22T20:20:00.000-05:00"
 ],
 "17068402": [
-234.5,
+233.5,
 "NFL",
 "Kirk Cousins",
 "Pass+Rush Yds",
@@ -19911,20 +19647,20 @@
 "SF",
 "2026-11-22T20:20:00.000-05:00"
 ],
-"17068451": [
-34.5,
-"NFL",
-"Kirk Cousins",
-"Longest Completion",
-"MIN",
-"2026-11-22T20:20:00.000-05:00"
-],
 "17062837": [
 33.5,
 "NFL",
 "Christian McCaffrey",
 "Receiving Yards",
 "SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068451": [
+33.5,
+"NFL",
+"Kirk Cousins",
+"Longest Completion",
+"MIN",
 "2026-11-22T20:20:00.000-05:00"
 ],
 "17068416": [
@@ -20079,6 +19815,14 @@
 "MIN",
 "2026-11-22T20:20:00.000-05:00"
 ],
+"17068387": [
+12.5,
+"NFL",
+"Jordan Mason",
+"Longest Rush",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
 "17068447": [
 12.5,
 "NFL",
@@ -20199,12 +19943,28 @@
 "MIN",
 "2026-11-22T20:20:00.000-05:00"
 ],
+"17068345": [
+2.5,
+"NFL",
+"Kirk Cousins",
+"Longest Rush",
+"MIN",
+"2026-11-22T20:20:00.000-05:00"
+],
 "17071226": [
 2.5,
 "NFL",
 "Deebo Samuel Sr.",
 "Receptions",
 "SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068384": [
+1.5,
+"NFL",
+"Jordan Mason",
+"Longest Reception",
+"MIN",
 "2026-11-22T20:20:00.000-05:00"
 ],
 "17068477": [
@@ -20221,6 +19981,14 @@
 "Kaelon Black",
 "Receptions",
 "SF",
+"2026-11-22T20:20:00.000-05:00"
+],
+"17068524": [
+0.5,
+"NFL",
+"Jordan Mason",
+"Receiving Yards",
+"MIN",
 "2026-11-22T20:20:00.000-05:00"
 ],
 "17073968": [
@@ -20365,6 +20133,14 @@
 "Jayden Daniels",
 "Pass Attempts",
 "WAS",
+"2026-11-23T20:15:00.000-05:00"
+],
+"17074758": [
+27.5,
+"NFL",
+"Joe Burrow",
+"Pass Completions",
+"CIN",
 "2026-11-23T20:15:00.000-05:00"
 ],
 "17086478": [
@@ -26135,1100 +25911,1212 @@
 "OKST",
 "2026-11-21T22:15:00.000-05:00"
 ],
-"17114271": [
-56.5,
-"SOCCER",
-"Luan Peres",
-"Passes Attempted",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
+"17126796": [
+13.0,
+"CS2",
+"Demho",
+"MAP 3 Kills",
+"Betclic",
+"2026-11-18T08:00:00.000-05:00"
 ],
-"17096169": [
-50.5,
-"SOCCER",
-"Josué",
-"Passes Attempted",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
+"17126797": [
+13.0,
+"CS2",
+"Prism",
+"MAP 3 Kills",
+"Betclic",
+"2026-11-18T08:00:00.000-05:00"
 ],
-"17096166": [
-46.5,
-"SOCCER",
-"Neymar",
-"Passes Attempted",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
+"17126798": [
+14.0,
+"CS2",
+"ex1st",
+"MAP 3 Kills",
+"Betclic",
+"2026-11-18T08:00:00.000-05:00"
 ],
-"17096163": [
-32.5,
-"SOCCER",
-"Bruno Melo",
-"Passes Attempted",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128402": [
-29.5,
-"SOCCER",
-"Pedro Rangel",
-"Passes Attempted",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096786": [
-23.5,
-"SOCCER",
-"Sebastián Gómez",
-"Passes Attempted",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17129867": [
-22.5,
-"SOCCER",
-"Gabriel Barbosa",
-"Passes Attempted",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128405": [
-21.5,
-"SOCCER",
-"Diógenes",
-"Passes Attempted",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17129862": [
-16.5,
-"SOCCER",
-"Gabriel Barbosa",
-"Outfield Fantasy Score",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096151": [
-16.0,
-"SOCCER",
-"Neymar",
-"Outfield Fantasy Score",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096162": [
+"17126799": [
 12.5,
-"SOCCER",
-"Josué",
-"Outfield Fantasy Score",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
+"CS2",
+"Qlocuu",
+"MAP 3 Kills",
+"Betclic",
+"2026-11-18T08:00:00.000-05:00"
 ],
-"17114274": [
-9.5,
-"SOCCER",
-"Luan Peres",
-"Outfield Fantasy Score",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
+"17126800": [
+15.0,
+"CS2",
+"ultimate",
+"MAP 3 Kills",
+"Betclic",
+"2026-11-18T08:00:00.000-05:00"
 ],
-"17128404": [
-9.5,
-"SOCCER",
-"Pedro Rangel",
-"Goalie Fantasy Score",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
+"17126801": [
+13.0,
+"CS2",
+"tabseN",
+"MAP 3 Kills",
+"BIG",
+"2026-11-18T08:00:00.000-05:00"
 ],
-"17128406": [
-9.5,
-"SOCCER",
-"Diógenes",
-"Goalie Fantasy Score",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
+"17126802": [
+14.0,
+"CS2",
+"faveN",
+"MAP 3 Kills",
+"BIG",
+"2026-11-18T08:00:00.000-05:00"
 ],
-"17100420": [
+"17126803": [
+16.0,
+"CS2",
+"blameF",
+"MAP 3 Kills",
+"BIG",
+"2026-11-18T08:00:00.000-05:00"
+],
+"17126804": [
+14.5,
+"CS2",
+"gr1ks",
+"MAP 3 Kills",
+"BIG",
+"2026-11-18T08:00:00.000-05:00"
+],
+"17126805": [
+14.5,
+"CS2",
+"JDC",
+"MAP 3 Kills",
+"BIG",
+"2026-11-18T08:00:00.000-05:00"
+],
+"17126806": [
+5.5,
+"CS2",
+"Demho",
+"MAP 3 Headshots",
+"Betclic",
+"2026-11-18T08:00:00.000-05:00"
+],
+"17126807": [
 7.0,
-"SOCCER",
-"Bruno Melo",
-"Outfield Fantasy Score",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096172": [
-5.0,
-"SOCCER",
-"Neymar",
-"Crosses",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096791": [
-5.0,
-"SOCCER",
-"Sebastián Gómez",
-"Outfield Fantasy Score",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096143": [
-4.5,
-"SOCCER",
-"Neymar",
-"Attempted Dribbles",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17114272": [
-4.5,
-"SOCCER",
-"Luan Peres",
-"Clearances",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128400": [
-3.0,
-"SOCCER",
-"Pedro Rangel",
-"Goalie Saves",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128401": [
-3.0,
-"SOCCER",
-"Diógenes",
-"Goalie Saves",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17096145": [
-2.5,
-"SOCCER",
-"Neymar",
-"Shots Assisted",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128469": [
-2.5,
-"SOCCER",
-"Paulo Roberto",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17005232": [
-1.5,
-"SOCCER",
-"Josué",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17046299": [
-1.5,
-"SOCCER",
-"Fabinho",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128446": [
-1.5,
-"SOCCER",
-"Joaquín Lavega",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128454": [
-1.5,
-"SOCCER",
-"Everton",
-"Shots",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128456": [
-1.5,
-"SOCCER",
-"Renato Marques",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17005151": [
-0.5,
-"SOCCER",
-"Breno Lopes",
-"Shots On Target",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128444": [
-0.5,
-"SOCCER",
-"Nicolás Fonseca",
-"Shots",
-"Coritiba",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128472": [
-0.5,
-"SOCCER",
-"Moisés",
-"Shots On Target",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17128474": [
-0.5,
-"SOCCER",
-"Gustavo Caballero",
-"Shots On Target",
-"Santos",
-"2026-11-18T17:30:00.000-05:00"
-],
-"17132834": [
-53.5,
-"SOCCER",
-"Duplexe Tchamba",
-"Passes Attempted",
-"Remo",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132835": [
-43.5,
-"SOCCER",
-"Camilo",
-"Passes Attempted",
-"Chapecoense",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132831": [
-41.5,
-"SOCCER",
-"Zé Welison",
-"Passes Attempted",
-"Remo",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132828": [
-21.5,
-"SOCCER",
-"Marcelo Rangel",
-"Passes Attempted",
-"Remo",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132862": [
-9.0,
-"SOCCER",
-"Marcelo Rangel",
-"Goalie Fantasy Score",
-"Remo",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132863": [
-9.0,
-"SOCCER",
-"Gabriel Werner",
-"Goalie Fantasy Score",
-"Chapecoense",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132815": [
-3.5,
-"SOCCER",
-"Gabriel Werner",
-"Goalie Saves",
-"Chapecoense",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132814": [
-3.0,
-"SOCCER",
-"Marcelo Rangel",
-"Goalie Saves",
-"Remo",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132820": [
-0.5,
-"SOCCER",
-"Camilo",
-"Shots",
-"Chapecoense",
-"2026-11-18T18:00:00.000-05:00"
-],
-"17132846": [
-58.5,
-"SOCCER",
-"Lucas Romero",
-"Passes Attempted",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132849": [
-57.5,
-"SOCCER",
-"Marlon Freitas",
-"Passes Attempted",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132851": [
-49.5,
-"SOCCER",
-"Bruno Fuchs",
-"Passes Attempted",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132845": [
-46.5,
-"SOCCER",
-"Matheus Pereira",
-"Passes Attempted",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132847": [
-40.5,
-"SOCCER",
-"Andreas Pereira",
-"Passes Attempted",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132836": [
-23.5,
-"SOCCER",
-"Otávio",
-"Passes Attempted",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132839": [
-20.5,
-"SOCCER",
-"Carlos Miguel",
-"Passes Attempted",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132841": [
-18.5,
-"SOCCER",
-"Kaio Jorge",
-"Passes Attempted",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132871": [
-15.5,
-"SOCCER",
-"Matheus Pereira",
-"Outfield Fantasy Score",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132873": [
-12.5,
-"SOCCER",
-"Marlon Freitas",
-"Outfield Fantasy Score",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132865": [
-10.5,
-"SOCCER",
-"Carlos Miguel",
-"Goalie Fantasy Score",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132869": [
-10.5,
-"SOCCER",
-"Kaio Jorge",
-"Outfield Fantasy Score",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132864": [
-10.0,
-"SOCCER",
-"Otávio",
-"Goalie Fantasy Score",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132816": [
-3.0,
-"SOCCER",
-"Otávio",
-"Goalie Saves",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132817": [
-3.0,
-"SOCCER",
-"Carlos Miguel",
-"Goalie Saves",
-"Palmeiras",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132821": [
-3.0,
-"SOCCER",
-"Kaio Jorge",
-"Shots",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132822": [
-0.5,
-"SOCCER",
-"Lucas Romero",
-"Shots",
-"Cruzeiro",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095909": [
-77.5,
-"SOCCER",
-"Jorginho",
-"Passes Attempted",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17119549": [
-68.5,
-"SOCCER",
-"Léo Ortiz",
-"Passes Attempted",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17096814": [
-38.5,
-"SOCCER",
-"Samuel Lino",
-"Passes Attempted",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095882": [
-33.5,
-"SOCCER",
-"Juan Aguirre",
-"Passes Attempted",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095910": [
-31.5,
-"SOCCER",
-"Steven Mendoza",
-"Passes Attempted",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17114831": [
-25.5,
-"SOCCER",
-"Agustín Rossi",
-"Passes Attempted",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128490": [
-17.5,
-"SOCCER",
-"Pedro",
-"Passes Attempted",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17096817": [
-16.0,
-"SOCCER",
-"Samuel Lino",
-"Outfield Fantasy Score",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128493": [
-13.5,
-"SOCCER",
-"Pedro",
-"Outfield Fantasy Score",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095883": [
-10.0,
-"SOCCER",
-"Juan Aguirre",
-"Outfield Fantasy Score",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17119553": [
-10.0,
-"SOCCER",
-"Léo Ortiz",
-"Outfield Fantasy Score",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17130346": [
-9.5,
-"SOCCER",
-"Agustín Rossi",
-"Goalie Fantasy Score",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17130527": [
-8.5,
-"SOCCER",
-"Jorginho",
-"Outfield Fantasy Score",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095899": [
-8.0,
-"SOCCER",
-"Steven Mendoza",
-"Outfield Fantasy Score",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095889": [
-6.0,
-"SOCCER",
-"Juan Aguirre",
-"Clearances",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17119552": [
-4.0,
-"SOCCER",
-"Léo Ortiz",
-"Clearances",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128632": [
-2.5,
-"SOCCER",
-"Bruno Henrique",
-"Shots",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128518": [
-2.0,
-"SOCCER",
-"Agustín Rossi",
-"Goalie Saves",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128524": [
-2.0,
-"SOCCER",
-"Andrew",
-"Goalie Saves",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128626": [
-1.5,
-"SOCCER",
-"Nicolás de la Cruz",
-"Shots",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17095894": [
-0.5,
-"SOCCER",
-"Steven Mendoza",
-"Shots Assisted",
-"Athletico PR",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128592": [
-0.5,
-"SOCCER",
-"Luiz Araújo",
-"Shots On Target",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17128624": [
-0.5,
-"SOCCER",
-"Erick Pulgar",
-"Shots",
-"Flamengo",
-"2026-11-18T18:30:00.000-05:00"
-],
-"17132860": [
-62.5,
-"SOCCER",
-"Nicolás Acevedo",
-"Passes Attempted",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132861": [
-56.5,
-"SOCCER",
-"David Duarte",
-"Passes Attempted",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132858": [
-40.5,
-"SOCCER",
-"Marlon",
-"Passes Attempted",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132856": [
-30.5,
-"SOCCER",
-"Ronaldo",
-"Passes Attempted",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132853": [
-29.5,
-"SOCCER",
-"Weverton",
-"Passes Attempted",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132859": [
-13.5,
-"SOCCER",
-"Alejo Veliz",
-"Passes Attempted",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132867": [
-10.5,
-"SOCCER",
-"Ronaldo",
-"Goalie Fantasy Score",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132866": [
-9.5,
-"SOCCER",
-"Weverton",
-"Goalie Fantasy Score",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132875": [
-9.5,
-"SOCCER",
-"Alejo Veliz",
-"Outfield Fantasy Score",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132857": [
-8.5,
-"SOCCER",
-"Carlos Vinícius",
-"Passes Attempted",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132819": [
-4.0,
-"SOCCER",
-"Ronaldo",
-"Goalie Saves",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132818": [
-3.0,
-"SOCCER",
-"Weverton",
-"Goalie Saves",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132823": [
-2.0,
-"SOCCER",
-"Carlos Vinícius",
-"Shots",
-"Grêmio",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132824": [
-0.5,
-"SOCCER",
-"Nicolás Acevedo",
-"Shots",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132825": [
-0.5,
-"SOCCER",
-"Alejo Veliz",
-"Shots On Target",
-"Bahia",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095809": [
-53.5,
-"SOCCER",
-"Gustavo Henrique",
-"Passes Attempted",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132878": [
-41.5,
-"SOCCER",
-"André Carrillo",
-"Passes Attempted",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095837": [
-28.5,
-"SOCCER",
-"Cristian Medina",
-"Passes Attempted",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17097217": [
-28.5,
-"SOCCER",
-"Álvaro Montoro",
-"Passes Attempted",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128675": [
-26.5,
-"SOCCER",
-"Gabriel Batista",
-"Passes Attempted",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095825": [
-22.5,
-"SOCCER",
-"Memphis Depay",
-"Passes Attempted",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132520": [
-12.5,
-"SOCCER",
-"Marçal",
-"Outfield Fantasy Score",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17095834": [
-11.5,
-"SOCCER",
-"Gustavo Henrique",
-"Outfield Fantasy Score",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128674": [
-9.5,
-"SOCCER",
-"Gabriel Batista",
-"Goalie Fantasy Score",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17097216": [
-9.0,
-"SOCCER",
-"Álvaro Montoro",
-"Outfield Fantasy Score",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17132876": [
+"CS2",
+"Prism",
+"MAP 3 Headshots",
+"Betclic",
+"2026-11-18T08:00:00.000-05:00"
+],
+"17126808": [
 7.5,
-"SOCCER",
-"André Carrillo",
-"Outfield Fantasy Score",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
+"CS2",
+"ex1st",
+"MAP 3 Headshots",
+"Betclic",
+"2026-11-18T08:00:00.000-05:00"
 ],
-"17095824": [
+"17126809": [
 6.5,
-"SOCCER",
-"Memphis Depay",
-"Outfield Fantasy Score",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
+"CS2",
+"Qlocuu",
+"MAP 3 Headshots",
+"Betclic",
+"2026-11-18T08:00:00.000-05:00"
 ],
-"17095840": [
+"17126810": [
+5.5,
+"CS2",
+"ultimate",
+"MAP 3 Headshots",
+"Betclic",
+"2026-11-18T08:00:00.000-05:00"
+],
+"17126811": [
+6.0,
+"CS2",
+"tabseN",
+"MAP 3 Headshots",
+"BIG",
+"2026-11-18T08:00:00.000-05:00"
+],
+"17126812": [
+7.5,
+"CS2",
+"faveN",
+"MAP 3 Headshots",
+"BIG",
+"2026-11-18T08:00:00.000-05:00"
+],
+"17126813": [
+7.0,
+"CS2",
+"blameF",
+"MAP 3 Headshots",
+"BIG",
+"2026-11-18T08:00:00.000-05:00"
+],
+"17126815": [
+7.5,
+"CS2",
+"JDC",
+"MAP 3 Headshots",
+"BIG",
+"2026-11-18T08:00:00.000-05:00"
+],
+"17133264": [
+27.5,
+"CS2",
+"KWERTZZ",
+"MAPS 1-2 Kills",
+"UNiTY",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133265": [
+24.5,
+"CS2",
+"2high",
+"MAPS 1-2 Kills",
+"UNiTY",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133266": [
+27.5,
+"CS2",
+"M1key",
+"MAPS 1-2 Kills",
+"UNiTY",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133268": [
+25.5,
+"CS2",
+"Dytor",
+"MAPS 1-2 Kills",
+"UNiTY",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133269": [
+29.5,
+"CS2",
+"shalfey",
+"MAPS 1-2 Kills",
+"GamerLegion",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133270": [
+28.5,
+"CS2",
+"Tauson",
+"MAPS 1-2 Kills",
+"GamerLegion",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133271": [
+29.5,
+"CS2",
+"REZ",
+"MAPS 1-2 Kills",
+"GamerLegion",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133272": [
+27.5,
+"CS2",
+"hypex",
+"MAPS 1-2 Kills",
+"GamerLegion",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133273": [
+32.5,
+"CS2",
+"FL4MUS",
+"MAPS 1-2 Kills",
+"GamerLegion",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133274": [
+18.5,
+"CS2",
+"KWERTZZ",
+"MAPS 1-2 Headshots",
+"UNiTY",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133275": [
+12.0,
+"CS2",
+"2high",
+"MAPS 1-2 Headshots",
+"UNiTY",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133276": [
+14.5,
+"CS2",
+"M1key",
+"MAPS 1-2 Headshots",
+"UNiTY",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133278": [
+13.5,
+"CS2",
+"Dytor",
+"MAPS 1-2 Headshots",
+"UNiTY",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133279": [
+16.5,
+"CS2",
+"shalfey",
+"MAPS 1-2 Headshots",
+"GamerLegion",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133280": [
+14.5,
+"CS2",
+"Tauson",
+"MAPS 1-2 Headshots",
+"GamerLegion",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133281": [
+17.5,
+"CS2",
+"REZ",
+"MAPS 1-2 Headshots",
+"GamerLegion",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133282": [
+11.0,
+"CS2",
+"hypex",
+"MAPS 1-2 Headshots",
+"GamerLegion",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17133283": [
+21.5,
+"CS2",
+"FL4MUS",
+"MAPS 1-2 Headshots",
+"GamerLegion",
+"2026-11-18T08:30:00.000-05:00"
+],
+"17145677": [
+15.5,
+"CS2",
+"YumsaN",
+"MAP 3 Kills",
+"FORZE Reload",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145678": [
+15.5,
+"CS2",
+"HeCkBNk",
+"MAP 3 Kills",
+"FORZE Reload",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145679": [
+14.0,
+"CS2",
+"KusMe",
+"MAP 3 Kills",
+"FORZE Reload",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145680": [
+13.5,
+"CS2",
+"Lack1",
+"MAP 3 Kills",
+"FORZE Reload",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145681": [
+14.0,
+"CS2",
+"bl1x1",
+"MAP 3 Kills",
+"FORZE Reload",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145682": [
+13.5,
+"CS2",
+"TMKj",
+"MAP 3 Kills",
+"G2 Ares",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145683": [
+11.0,
+"CS2",
+"SHiNE",
+"MAP 3 Kills",
+"G2 Ares",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145684": [
+13.0,
+"CS2",
+"hitori",
+"MAP 3 Kills",
+"G2 Ares",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145685": [
+14.0,
+"CS2",
+"Junyme",
+"MAP 3 Kills",
+"G2 Ares",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145686": [
+12.0,
+"CS2",
+"yksjupe",
+"MAP 3 Kills",
+"G2 Ares",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145688": [
+9.5,
+"CS2",
+"HeCkBNk",
+"MAP 3 Headshots",
+"FORZE Reload",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145689": [
+7.5,
+"CS2",
+"KusMe",
+"MAP 3 Headshots",
+"FORZE Reload",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145690": [
+7.0,
+"CS2",
+"Lack1",
+"MAP 3 Headshots",
+"FORZE Reload",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145691": [
+8.5,
+"CS2",
+"bl1x1",
+"MAP 3 Headshots",
+"FORZE Reload",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145692": [
+8.5,
+"CS2",
+"TMKj",
+"MAP 3 Headshots",
+"G2 Ares",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145693": [
+5.5,
+"CS2",
+"SHiNE",
+"MAP 3 Headshots",
+"G2 Ares",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145695": [
+7.0,
+"CS2",
+"hitori",
+"MAP 3 Headshots",
+"G2 Ares",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145696": [
+5.5,
+"CS2",
+"Junyme",
+"MAP 3 Headshots",
+"G2 Ares",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17145698": [
+6.0,
+"CS2",
+"yksjupe",
+"MAP 3 Headshots",
+"G2 Ares",
+"2026-11-18T08:50:00.000-05:00"
+],
+"17144494": [
+15.5,
+"CS2",
+"shg",
+"MAP 3 Kills",
+"33",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144495": [
+14.5,
+"CS2",
+"Raijin",
+"MAP 3 Kills",
+"33",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144496": [
+13.0,
+"CS2",
+"bluewh1te",
+"MAP 3 Kills",
+"33",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144497": [
+15.0,
+"CS2",
+"executor",
+"MAP 3 Kills",
+"33",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144498": [
+14.5,
+"CS2",
+"z1Nny",
+"MAP 3 Kills",
+"33",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144499": [
+12.0,
+"CS2",
+"ViLBy",
+"MAP 3 Kills",
+"Spirit Academy",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144500": [
+15.5,
+"CS2",
+"Kiryasoo",
+"MAP 3 Kills",
+"Spirit Academy",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144501": [
+13.0,
+"CS2",
+"Netrix",
+"MAP 3 Kills",
+"Spirit Academy",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144502": [
+15.5,
+"CS2",
+"s1nside",
+"MAP 3 Kills",
+"Spirit Academy",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144503": [
+13.0,
+"CS2",
+"Tresh",
+"MAP 3 Kills",
+"Spirit Academy",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144504": [
+8.5,
+"CS2",
+"shg",
+"MAP 3 Headshots",
+"33",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144505": [
+8.5,
+"CS2",
+"Raijin",
+"MAP 3 Headshots",
+"33",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144506": [
+7.5,
+"CS2",
+"bluewh1te",
+"MAP 3 Headshots",
+"33",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144507": [
+4.5,
+"CS2",
+"executor",
+"MAP 3 Headshots",
+"33",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144508": [
+9.0,
+"CS2",
+"z1Nny",
+"MAP 3 Headshots",
+"33",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17144509": [
 6.5,
-"SOCCER",
-"Cristian Medina",
-"Outfield Fantasy Score",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
+"CS2",
+"ViLBy",
+"MAP 3 Headshots",
+"Spirit Academy",
+"2026-11-18T09:00:00.000-05:00"
 ],
-"17132591": [
-6.5,
-"SOCCER",
-"Marçal",
-"Clearances",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
+"17144510": [
+5.5,
+"CS2",
+"Kiryasoo",
+"MAP 3 Headshots",
+"Spirit Academy",
+"2026-11-18T09:00:00.000-05:00"
 ],
-"17095812": [
+"17144511": [
+7.5,
+"CS2",
+"Netrix",
+"MAP 3 Headshots",
+"Spirit Academy",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17128753": [
+28.5,
+"CS2",
+"SHOCK",
+"MAPS 1-2 Kills",
+"SINNERS",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128754": [
+29.5,
+"CS2",
+"MoDo",
+"MAPS 1-2 Kills",
+"SINNERS",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128755": [
+29.5,
+"CS2",
+"kisserek",
+"MAPS 1-2 Kills",
+"SINNERS",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128756": [
+27.5,
+"CS2",
+"beastik",
+"MAPS 1-2 Kills",
+"SINNERS",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128757": [
+32.5,
+"CS2",
+"stressarN",
+"MAPS 1-2 Kills",
+"SINNERS",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128758": [
+23.5,
+"CS2",
+"upE",
+"MAPS 1-2 Kills",
+"Alliance",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128759": [
+29.5,
+"CS2",
+"bobeksde",
+"MAPS 1-2 Kills",
+"Alliance",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128760": [
+27.5,
+"CS2",
+"avid",
+"MAPS 1-2 Kills",
+"Alliance",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128761": [
+31.5,
+"CS2",
+"eraa",
+"MAPS 1-2 Kills",
+"Alliance",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128762": [
+26.0,
+"CS2",
+"twist",
+"MAPS 1-2 Kills",
+"Alliance",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128763": [
+17.0,
+"CS2",
+"SHOCK",
+"MAPS 1-2 Headshots",
+"SINNERS",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128764": [
+9.5,
+"CS2",
+"MoDo",
+"MAPS 1-2 Headshots",
+"SINNERS",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128765": [
+15.5,
+"CS2",
+"kisserek",
+"MAPS 1-2 Headshots",
+"SINNERS",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128766": [
+15.5,
+"CS2",
+"beastik",
+"MAPS 1-2 Headshots",
+"SINNERS",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128767": [
+17.5,
+"CS2",
+"stressarN",
+"MAPS 1-2 Headshots",
+"SINNERS",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128768": [
+14.0,
+"CS2",
+"upE",
+"MAPS 1-2 Headshots",
+"Alliance",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128769": [
+19.5,
+"CS2",
+"bobeksde",
+"MAPS 1-2 Headshots",
+"Alliance",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128770": [
+15.5,
+"CS2",
+"avid",
+"MAPS 1-2 Headshots",
+"Alliance",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128771": [
+10.5,
+"CS2",
+"eraa",
+"MAPS 1-2 Headshots",
+"Alliance",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17128772": [
+13.5,
+"CS2",
+"twist",
+"MAPS 1-2 Headshots",
+"Alliance",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17126748": [
+25.5,
+"CS2",
+"onic",
+"MAPS 1-2 Kills",
+"Inner Circle",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17126749": [
+32.5,
+"CS2",
+"Dawy",
+"MAPS 1-2 Kills",
+"Inner Circle",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17126750": [
+28.5,
+"CS2",
+"zeRRoFIX",
+"MAPS 1-2 Kills",
+"Inner Circle",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17126751": [
+30.5,
+"CS2",
+"headtr1ck",
+"MAPS 1-2 Kills",
+"Inner Circle",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17126752": [
+30.5,
+"CS2",
+"cptkurtka023",
+"MAPS 1-2 Kills",
+"Inner Circle",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17126753": [
+12.5,
+"CS2",
+"onic",
+"MAPS 1-2 Headshots",
+"Inner Circle",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17126754": [
+19.0,
+"CS2",
+"Dawy",
+"MAPS 1-2 Headshots",
+"Inner Circle",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17126755": [
+17.0,
+"CS2",
+"zeRRoFIX",
+"MAPS 1-2 Headshots",
+"Inner Circle",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17126756": [
+9.5,
+"CS2",
+"headtr1ck",
+"MAPS 1-2 Headshots",
+"Inner Circle",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17126757": [
+19.0,
+"CS2",
+"cptkurtka023",
+"MAPS 1-2 Headshots",
+"Inner Circle",
+"2026-11-18T11:00:00.000-05:00"
+],
+"17133284": [
+28.5,
+"CS2",
+"sjuush",
+"MAPS 1-2 Kills",
+"Ninjas in Pyjamas",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133285": [
+31.5,
+"CS2",
+"stavn",
+"MAPS 1-2 Kills",
+"Ninjas in Pyjamas",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133286": [
+31.5,
+"CS2",
+"xKacpersky",
+"MAPS 1-2 Kills",
+"Ninjas in Pyjamas",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133287": [
+30.5,
+"CS2",
+"adamb",
+"MAPS 1-2 Kills",
+"Ninjas in Pyjamas",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133288": [
+27.5,
+"CS2",
+"Krimbo",
+"MAPS 1-2 Kills",
+"Ninjas in Pyjamas",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133289": [
+25.5,
+"CS2",
+"lux",
+"MAPS 1-2 Kills",
+"Luminosity",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133290": [
+26.5,
+"CS2",
+"AZUWU",
+"MAPS 1-2 Kills",
+"Luminosity",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133291": [
+27.5,
+"CS2",
+"Rainwaker",
+"MAPS 1-2 Kills",
+"Luminosity",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133292": [
+29.0,
+"CS2",
+"afro",
+"MAPS 1-2 Kills",
+"Luminosity",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133293": [
+29.5,
+"CS2",
+"yxngstxr",
+"MAPS 1-2 Kills",
+"Luminosity",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133294": [
+15.5,
+"CS2",
+"sjuush",
+"MAPS 1-2 Headshots",
+"Ninjas in Pyjamas",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133296": [
+17.5,
+"CS2",
+"xKacpersky",
+"MAPS 1-2 Headshots",
+"Ninjas in Pyjamas",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133297": [
+16.5,
+"CS2",
+"adamb",
+"MAPS 1-2 Headshots",
+"Ninjas in Pyjamas",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133298": [
+14.5,
+"CS2",
+"Krimbo",
+"MAPS 1-2 Headshots",
+"Ninjas in Pyjamas",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133299": [
+13.5,
+"CS2",
+"lux",
+"MAPS 1-2 Headshots",
+"Luminosity",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133300": [
+15.5,
+"CS2",
+"AZUWU",
+"MAPS 1-2 Headshots",
+"Luminosity",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133301": [
+12.5,
+"CS2",
+"Rainwaker",
+"MAPS 1-2 Headshots",
+"Luminosity",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133302": [
+9.5,
+"CS2",
+"afro",
+"MAPS 1-2 Headshots",
+"Luminosity",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17133303": [
+15.5,
+"CS2",
+"yxngstxr",
+"MAPS 1-2 Headshots",
+"Luminosity",
+"2026-11-18T13:30:00.000-05:00"
+],
+"17142643": [
+32.5,
+"CS2",
+"leakz",
+"MAPS 1-2 Kills",
+"BBL",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142644": [
+27.5,
+"CS2",
+"salazar",
+"MAPS 1-2 Kills",
+"BBL",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142645": [
+30.5,
+"CS2",
+"NickyB",
+"MAPS 1-2 Kills",
+"BBL",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142647": [
+27.5,
+"CS2",
+"MIstR",
+"MAPS 1-2 Kills",
+"BBL",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142648": [
+27.5,
+"CS2",
+"Graviti",
+"MAPS 1-2 Kills",
+"Envy",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142649": [
+30.5,
+"CS2",
+"Kursy",
+"MAPS 1-2 Kills",
+"Envy",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142650": [
+31.5,
+"CS2",
+"Maka",
+"MAPS 1-2 Kills",
+"Envy",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142651": [
+28.5,
+"CS2",
+"misutaaa",
+"MAPS 1-2 Kills",
+"Envy",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142652": [
+28.5,
+"CS2",
+"Lucky",
+"MAPS 1-2 Kills",
+"Envy",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142653": [
+17.5,
+"CS2",
+"leakz",
+"MAPS 1-2 Headshots",
+"BBL",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142654": [
+10.5,
+"CS2",
+"salazar",
+"MAPS 1-2 Headshots",
+"BBL",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142655": [
+15.0,
+"CS2",
+"NickyB",
+"MAPS 1-2 Headshots",
+"BBL",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142657": [
+14.0,
+"CS2",
+"MIstR",
+"MAPS 1-2 Headshots",
+"BBL",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142658": [
+16.5,
+"CS2",
+"Graviti",
+"MAPS 1-2 Headshots",
+"Envy",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142659": [
+18.5,
+"CS2",
+"Kursy",
+"MAPS 1-2 Headshots",
+"Envy",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142660": [
+12.5,
+"CS2",
+"Maka",
+"MAPS 1-2 Headshots",
+"Envy",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142661": [
+18.0,
+"CS2",
+"misutaaa",
+"MAPS 1-2 Headshots",
+"Envy",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17142662": [
+13.5,
+"CS2",
+"Lucky",
+"MAPS 1-2 Headshots",
+"Envy",
+"2026-11-18T14:00:00.000-05:00"
+],
+"17139467": [
+9.5,
+"Dota2",
+"Satanic",
+"MAP 3 Kills",
+"Vision",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17139468": [
+7.0,
+"Dota2",
+"No[o]ne-",
+"MAP 3 Kills",
+"Vision",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17139469": [
 5.0,
-"SOCCER",
-"Gustavo Henrique",
-"Clearances",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
+"Dota2",
+"Noticed",
+"MAP 3 Kills",
+"Vision",
+"2026-11-18T09:00:00.000-05:00"
 ],
-"17097215": [
-3.5,
-"SOCCER",
-"Álvaro Montoro",
-"Attempted Dribbles",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
+"17139470": [
+4.0,
+"Dota2",
+"9Class",
+"MAP 3 Kills",
+"Vision",
+"2026-11-18T09:00:00.000-05:00"
 ],
-"17128668": [
-3.5,
-"SOCCER",
-"Gabriel Batista",
-"Goalie Saves",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
+"17139471": [
+3.0,
+"Dota2",
+"Dukalis",
+"MAP 3 Kills",
+"Vision",
+"2026-11-18T09:00:00.000-05:00"
 ],
-"17128669": [
-3.5,
-"SOCCER",
-"Warleson",
-"Goalie Saves",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
+"17139472": [
+6.0,
+"Dota2",
+"skiter",
+"MAP 3 Kills",
+"Aurora",
+"2026-11-18T09:00:00.000-05:00"
 ],
-"17041888": [
+"17139473": [
+5.5,
+"Dota2",
+"Mikoto",
+"MAP 3 Kills",
+"Aurora",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17139474": [
+5.0,
+"Dota2",
+"Ws",
+"MAP 3 Kills",
+"Aurora",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17139475": [
+3.0,
+"Dota2",
+"Mira",
+"MAP 3 Kills",
+"Aurora",
+"2026-11-18T09:00:00.000-05:00"
+],
+"17139476": [
 2.5,
-"SOCCER",
-"Pedro Raul",
-"Shots",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128670": [
-2.5,
-"SOCCER",
-"Hugo Souza",
-"Goalie Saves",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128671": [
-2.5,
-"SOCCER",
-"Felipe Longo",
-"Goalie Saves",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128672": [
-2.5,
-"SOCCER",
-"Kauê Camargo",
-"Goalie Saves",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17041880": [
-1.5,
-"SOCCER",
-"Júnior Santos",
-"Shots",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17097213": [
-1.5,
-"SOCCER",
-"Álvaro Montoro",
-"Shots Assisted",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128717": [
-0.5,
-"SOCCER",
-"Tiquinho Soares",
-"Shots On Target",
-"Botafogo",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128718": [
-0.5,
-"SOCCER",
-"Kaio César",
-"Shots On Target",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128720": [
-0.5,
-"SOCCER",
-"Vitinho",
-"Shots On Target",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17128732": [
-0.5,
-"SOCCER",
-"André Carrillo",
-"Shots",
-"Corinthians",
-"2026-11-18T19:30:00.000-05:00"
-],
-"17051494": [
-3.5,
-"SOCCER",
-"Matheus Cunha",
-"Goalie Saves",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17051495": [
-3.5,
-"SOCCER",
-"Sergio Rochet",
-"Goalie Saves",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17005762": [
-2.5,
-"SOCCER",
-"Brenner",
-"Shots",
-"Vasco",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17005790": [
-1.5,
-"SOCCER",
-"Braian Aguirre",
-"Shots",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17051482": [
-1.5,
-"SOCCER",
-"Thiago Mendes",
-"Shots",
-"Vasco",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17005675": [
-0.5,
-"SOCCER",
-"Alerrandro",
-"Shots On Target",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17005744": [
-0.5,
-"SOCCER",
-"Johan Carbonero",
-"Shots On Target",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17129248": [
-0.5,
-"SOCCER",
-"Santiago Sosa",
-"Shots",
-"Vasco",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17129249": [
-0.5,
-"SOCCER",
-"Bruno Henrique",
-"Shots",
-"Internacional",
-"2026-11-19T17:30:00.000-05:00"
-],
-"17129138": [
-2.5,
-"SOCCER",
-"Rafael",
-"Goalie Saves",
-"São Paulo",
-"2026-11-19T19:30:00.000-05:00"
-],
-"17129139": [
-2.5,
-"SOCCER",
-"Carlos Coronel",
-"Goalie Saves",
-"São Paulo",
-"2026-11-19T19:30:00.000-05:00"
-],
-"17129285": [
-0.5,
-"SOCCER",
-"Pablo Maia",
-"Shots",
-"São Paulo",
-"2026-11-19T19:30:00.000-05:00"
-],
-"17129318": [
-0.5,
-"SOCCER",
-"Iago Borduchi",
-"Shots",
-"São Paulo",
-"2026-11-19T19:30:00.000-05:00"
+"Dota2",
+"kaori",
+"MAP 3 Kills",
+"Aurora",
+"2026-11-18T09:00:00.000-05:00"
 ]
 }
