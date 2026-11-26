@@ -1,8 +1,9 @@
 {
-"utc": "2026-11-26T00:10:15.959941+00:00",
-"lines": 2276,
-"promos": 0,
+"utc": "2026-11-26T00:20:15.365446+00:00",
+"lines": 2535,
+"promos": 1,
 "alerts": [
-"🔁 MOVE -- NBA -- 1 moved, 1 pulled (06:12 PM TX)"
+"🔁 MOVE -- NFL -- 1 moved, 0 pulled (06:22 PM TX)",
+"🔁 MOVE -- NBA -- 0 moved, 1 pulled (06:22 PM TX)"
 ]
 }
